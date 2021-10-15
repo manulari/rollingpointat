@@ -64,7 +64,7 @@ a:hover {
 #menu {
 	margin: 0;
 	padding: 135px 0 0 11px;
-	width: 234px;
+	width: 245px;
 	background-image: url(logo_gradient.gif);
 	background-repeat: no-repeat;
 	text-align: left;
@@ -145,7 +145,7 @@ a:hover {
         font-size: 10px;
 	line-height: 15px;
 }
-.menu_active {
+#menu .menu_active a {
 	color: #1a8ca6;
 }
 .menu_br {

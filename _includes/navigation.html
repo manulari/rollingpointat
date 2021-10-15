@@ -22,7 +22,7 @@
           {% else %}
           {% assign subitempath = '/' | append: subitem.path %}
           {% endif %}
-          &nbsp;&nbsp;&nbsp;<span class="menusubcat{% if page.url == itempath %} menu_active{% endif %}">
+          &nbsp;&nbsp;&nbsp;<span class="menusubcat{% if page.url == subitempath %} menu_active{% endif %}">
             <a href="{{ subitempath }}">
               {{ subitem.title }}
             </a>

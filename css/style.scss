@@ -5,7 +5,7 @@
 @import 'oldmain';
 @import 'contentStyle';
 
-.mainnav .active { color: red; }
+//.mainnav .active { color: red; }
 
 .maincontent {
   @include maincontent;
