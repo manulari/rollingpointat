@@ -1,7 +1,7 @@
 local_backend: true
 backend:
   name: github
-  repo: manulari/rptest
+  repo: manulari/rollingpointat
   base_url: https://3ssli916pk.execute-api.eu-central-1.amazonaws.com
   auth_endpoint: /prod/auth
   branch: main # Branch to update (optional; defaults to master)
