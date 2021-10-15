@@ -8,8 +8,6 @@ title: HOME
 
 Fotocredit: Johannes Stolba
 
-
-
 #### rollingpoint-Video Links:
 
 **Video über rollingpoint: <https://www.youtube.com/watch?v=kp3DqzN1Ldo>**
@@ -18,9 +16,7 @@ Fotocredit: Johannes Stolba
 
 
 
-**Wintersemester 2021/22**
-
-<http://www.rollingpoint.at/?lang=deu&id=11>
+### **Wintersemester 2021/22**
 
 **1  „Opening, Folding, Release“ Zeitgenössisches Tanztraining** - open level\
 **mit maRia Probst**  \
