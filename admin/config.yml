@@ -1,0 +1,62 @@
+local_backend: true
+backend:
+  name: github
+  repo: manulari/rptest
+  base_url: https://3ssli916pk.execute-api.eu-central-1.amazonaws.com
+  auth_endpoint: /prod/auth
+  branch: main # Branch to update (optional; defaults to master)
+media_folder: 'assets/uploads'
+collections:
+  - name: 'global_config'
+    label: 'Settings'
+    files:
+      - label: "Menu"
+        name: 'nav'
+        file: '_data/nav.yml'
+        editor:
+          preview: false
+        fields:
+          - name: 'entries'
+            label: 'entries'
+            label_singular: 'entry'
+            widget: 'list'
+            fields:
+              - name: 'title'
+                label: 'text'
+                widget: 'string'
+              - name: 'path'
+                label: 'link'
+                widget: 'relation'
+                collection: 'all_pages'
+                value_field: 'permalink'
+                search_fields: ['title', 'permalink']
+                display_fields: ['permalink', 'title']
+              - name: 'subentries'
+                label: 'subentries'
+                label_singular: 'subentry'
+                widget: 'list'
+                fields:
+                  - name: 'title'
+                    label: 'Text'
+                    widget: 'string'
+                  - name: 'path'
+                    label: 'Link'
+                    widget: 'relation'
+                    collection: 'all_pages'
+                    value_field: 'permalink'
+                    search_fields: ['title', 'permalink']
+                    display_fields: ['permalink', 'title']
+  - name: 'all_pages'
+    label: 'Pages'
+    label_singular: 'page'
+    folder: '_all_pages'
+    extension: md
+    format: yaml-frontmatter
+    create: true
+    fields:
+      - { label: 'Link', name: 'permalink', widget: 'string', hint: "Part of URL after https://example.com/. Use only English letters, numbers, and -" }
+      - { label: 'Title', name: 'title', widget: 'string', hint: "The title shows up as the name of the tab in the browser." }
+      - { label: 'Body', name: 'body', widget: 'markdown' }
+    summary: '{{permalink}}: {{title}}'
+    sortable_fields: ['title', 'permalink']
+    slug: '{{permalink}}'

@@ -1,0 +1,17 @@
+entries:
+  - title: Startseite
+    path: /
+  - title: Syntax
+    path: syntax
+  - title: A
+    path: a
+    subentries:
+      - title: A-A
+        path: a-a
+      - title: A-B
+        path: a-b
+  - title: B
+    path: b
+    subentries:
+      - title: B-A
+        path: b-a
