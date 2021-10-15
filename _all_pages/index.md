@@ -14,15 +14,18 @@ Fotocredit: Johannes Stolba
 
 **Video CI und Ganzheitliches Körpertraining mit maRia Probst: <https://youtu.be/6A5otnVZAg4>**
 
-
-
 ### **Wintersemester 2021/22**
 
 **1  „Opening, Folding, Release“ Zeitgenössisches Tanztraining** - open level\
-**mit maRia Probst**  \
-\
-**Mo 20.9.2021 – 31.1.2022, 18.10 - 20.10h (ca.15x)**\
-**Ort: Turnsaal VS Gilgegasse 12, 1090 Wien**\
+**mit maRia Probst**  
+
+##### \
+
+Mo <span style="color: red;">20.9.2021 – 31.1.2022</span>, 18.10 - 20.10h (ca.15x)\
+Ort: Turnsaal VS `Gilgegasse` 12, 1090 Wien
+
+> ###### ahsjkdasd
+
 \
 **2 CI Körpertraining + „Bounce and Shake"** - open level\
 **mit maRia Probst**\
