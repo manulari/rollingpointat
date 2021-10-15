@@ -1,34 +1,36 @@
-<nav class="mainnav">
-  <ul>
+<div id="menu" valign="top">
+
+<div id="flashMenu" style="padding: 0 5px 10px 25px;">
+
     {% for item in site.data.nav.entries %}
-    <li>
       {% assign firstchar = item.path | slice: 0 %}
       {% if firstchar == '/' %}
       {% assign itempath = item.path %}
       {% else %}
       {% assign itempath = '/' | append: item.path %}
       {% endif %}
-      <a href="{{ itempath }}" {% if page.url == itempath %}class="active"{% endif %}>
+      <span class="menucat{% if page.url == itempath %} menu_active{% endif %}">
+      <a href="{{ itempath }}">
         {{ item.title }}
       </a>
+      </span><br/>
       {% if item.subentries %}
-      <ul>
         {% for subitem in item.subentries %}
-        <li>
-      {% assign firstchar = subitem.path | slice: 0 %}
-      {% if firstchar == '/' %}
-      {% assign subitempath = subitem.path %}
-      {% else %}
-      {% assign subitempath = '/' | append: subitem.path %}
-      {% endif %}
-          <a href="{{ subitempath }}" {% if page.url == subitempath %}class="active"{% endif %}>
-            {{ subitem.title }}
-          </a>
-        </li>
+          {% assign firstchar = subitem.path | slice: 0 %}
+          {% if firstchar == '/' %}
+          {% assign subitempath = subitem.path %}
+          {% else %}
+          {% assign subitempath = '/' | append: subitem.path %}
+          {% endif %}
+          &nbsp;&nbsp;&nbsp;<span class="menusubcat{% if page.url == itempath %} menu_active{% endif %}">
+            <a href="{{ subitempath }}">
+              {{ subitem.title }}
+            </a>
+          </span><br/>
         {% endfor %}
-      </ul>
       {% endif %}
-    </li>
+      <br class="menu_br" />
     {% endfor %}
-  </ul>
-</nav>
+
+</div>
+</div>
