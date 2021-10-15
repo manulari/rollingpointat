@@ -6,8 +6,6 @@ entries:
   - title: A
     path: a
     subentries:
-      - title: A-A
-        path: a-a
       - title: A-B
         path: a-b
   - title: B
