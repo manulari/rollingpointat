@@ -8,11 +8,11 @@ title: HOME
 
 Fotocredit: Johannes Stolba
 
-#### rollingpoint-Video Links:
+## Videos
 
-**Video über rollingpoint: <https://www.youtube.com/watch?v=kp3DqzN1Ldo>**
+<div class="imglink"><a target="_blank" href="https://www.youtube.com/watch?v=kp3DqzN1Ldo"><img src="/assets/uploads/video_vorschau_rollingpoint.png" /><div>rollingpoint in einem Video</div></a></div>
 
-**Video CI und Ganzheitliches Körpertraining mit maRia Probst: <https://youtu.be/6A5otnVZAg4>**
+<div class="imglink"><a target="_blank" href="https://www.youtube.com/watch?v=kp3DqzN1Ldo"><img src="/assets/uploads/video_vorschau_maria.png" /><div>CI und Ganzheitliches Körpertraining mit maRia Probst</div></a></div>
 
 ### **Wintersemester 2021/22**
 
