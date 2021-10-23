@@ -11,7 +11,7 @@ entries:
       - title: SOMATISCHES LERNEN
         path: a-b
   - title: CI-DOJO (TRAINING+JAM)
-    path: /DOJO
+    path: /dojo
   - title: KURSE UND WORKSHOPS
     path: /kurse
     subentries:
