@@ -30,6 +30,8 @@ entries:
     subentries:
       - title: CON.ACT/Twist&Talk
         path: /conact1
+      - title: Forschungsbericht
+        path: /forschungsbericht
   - title: VEREIN ROLLINGPOINT
     path: verein
     subentries:
