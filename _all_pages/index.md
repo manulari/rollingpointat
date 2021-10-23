@@ -2,7 +2,7 @@
 permalink: /home
 title: HOME
 ---
-### Contact Improvisation und artverwandte Tanz und BewegungsFormen
+### Contact Improvisation und artverwandte Tanz- und BewegungsFormen
 
 ![Christian und maRia tanzen Contact Improvisation auf einer Stiege](/assets/uploads/dsc_1901_klein.jpg "Contact Improvisation")
 
