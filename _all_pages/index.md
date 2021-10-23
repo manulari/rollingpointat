@@ -36,10 +36,10 @@ Fotocredit: Johannes Stolba
 **Mi 22.9.2021. - 2.2.2022, 18.15 – 20.30h (ca.15x)**\
 **Turnsaal VS Einsiedlergasse 7, 1050 Wien**](/kurse#mi)\
 \
-[](/dojo)[[[**4 Contact Dojo: CI-Training + Jam**\
+[](/dojo)[[](/dojo)](/dojo)[[[[**4 Contact Dojo: CI-Training + Jam**\
 **mit Christian Apschner**\
 **Do 16.9.2021 – 3.2.2022, 18.15 - 20.45h**\
-**Turnsaal VS Gilgegasse 12, 1090 Wien**](/kurse#do)](/dojo)](/dojo)
+**Turnsaal VS Gilgegasse 12, 1090 Wien**](/kurse#do)](/dojo)](/dojo)](/dojo)
 
 ### &nbsp;
 
