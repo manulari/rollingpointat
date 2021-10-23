@@ -12,15 +12,13 @@ Fotocredits: He Shao Hui
 
 **9./10.10.2021 "From Bodywork into Movement" mit Christian Apschner und maRia Probst**
 
-**13./14.11.2021 "Comics and Dance"**  \
+[**13./14.11.2021 "Comics and Dance"**  ](#comics)\
 **mit maRia Probst und Susanne Hochreiter**
 
 **22./23.1.2022: "Contact Flying Skills"**\
 **mit Christian Apschner und Lui Springer (support)**
 
-
-
-
+<div class="named-anchor" id="undefined"></div>
 
 **"From Bodywork into Movement" -** open level\
 **9./10.10.2021 / 10.00-17.00**\
@@ -37,7 +35,7 @@ einfließen zu lassen.
 
 Der Workshop lädt sowohl Nicht-Contact Improvisation TänzerInnen als auch Contact Improvisation TänzerInnen zum Mitmachen ein.
 
-
+<div class="named-anchor" id="comics"></div>
 
 **"Comics and Dance"** – open level\
 **13./14.11.2021 / 10.00-17.00 (ca 1,5h Mittagspause)**\
@@ -64,7 +62,7 @@ In diesem Sinne erwartet euch an diesem Wochenende:\
 \*\**ein Angebot an tanzimprovisatorischen Settings entlang von Comics-Strategien\
 \*\**und ein reger Austausch über die Einwirkungen und Auswirkungen dieser Begegnungen
 
-![](/assets/uploads/lsz_5755.jpg)
+![]()
 
 **"Contact Flying Skills"** - advanced\
 **Sa/So 22./23.1.2022, 10.00-17.00  (ca 1,5h Mittagspause)**\
@@ -88,6 +86,8 @@ Für Ws 1+3 weitere Ermäßigung für Paare: -10%
 **ORGANISATORISCHES:**
 
 **Ort:** Alle Workshops finden im Prana Yoga-Studio Nr.1, Mariahilferstr. 82, 1070 Wien statt.
+
+**Anmeldung:** per email ci.rollingpoint@gmail.com
 
 **Bezahlung:** Bitte die Kostenbeiträge immer vorab auf unser Konto\
 IBAN:AT54 3200 0000 1701 2717, BIC: RLNWATWW, Verein rollingpoint, einzahlen. 
