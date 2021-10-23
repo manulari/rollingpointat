@@ -1,6 +1,6 @@
 ---
-permalink: /home
-title: HOME
+permalink: /startseite
+title: STARTSEITE
 ---
 ### Contact Improvisation und artverwandte Tanz und BewegungsFormen
 
