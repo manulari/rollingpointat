@@ -12,7 +12,7 @@ Fotocredits: He Shao Hui
 
 **[9./10.10.2021 "From Bodywork into Movement" mit Christian Apschner und maRia Probst](#bodywork)**
 
-[[**13./14.11.2021 "Comics and Dance"**\
+[**13./14.11.2021 "Comics and Dance"**\
 **mit maRia Probst und Susanne Hochreiter**](#comics)](#comics)
 
 [[**22./23.1.2022: "Contact Flying Skills"**\
