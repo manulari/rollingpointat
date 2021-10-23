@@ -32,6 +32,8 @@ entries:
         path: /conact1
       - title: Forschungsbericht
         path: /forschungsbericht
+      - title: Kooperationen
+        path: /koop
   - title: VEREIN ROLLINGPOINT
     path: verein
     subentries:
