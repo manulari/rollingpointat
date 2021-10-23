@@ -8,9 +8,10 @@ title: Winter-Intensive
 
 Fotocredits: He Shao Hui
 
-### Termin Winter-Intensive 2022:\
-Woche 1 Mo-Do 14.- 17.2.2022\
-Woche 2 Mo-Do 21.- 24.2.2022
+### Termin Winter-Intensive Contact Improvisation 2022:
+
+**Woche 1 Mo-Do 14.- 17.2.2022**\
+**Woche 2 Mo-Do 21.- 24.2.2022**
 
 &nbsp;
 
