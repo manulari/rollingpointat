@@ -14,7 +14,7 @@ entries:
     path: /kurse
     subentries:
       - title: Semesterkurse
-        path: /kurse/semesterkurse
+        path: /kurse
       - title: Wochenend-Workshops
         path: /workshops
       - title: Winter-Intensive
