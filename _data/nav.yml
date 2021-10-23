@@ -34,5 +34,5 @@ entries:
         path: verein
       - title: maRia Probst
         path: maria
-  - title: Christian Apschner
-    path: christian
+      - title: Christian Apschner
+        path: christian
