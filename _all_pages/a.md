@@ -2,36 +2,29 @@
 permalink: /JAMS
 title: ROLLINGPOINT-JAMS
 ---
-Die rollingpoint-Jam ist ein Ort für fokussiertes Contact Improvisations-Tanzen an dem **CI als zeitgenössische Tanz- und Kunstform** praktiziert wird. Wir achten darauf einen gemeinsamen Raum zu halten, in dem sich alle sicher fühlen und erwarten von den TeilnehmerInnen, dass sie bereits über erste CI-Kurserfahrungen (im Sinne von Grundkenntnissen) verfügen (siehe auch Hinweise zur Sicherheit in der Jam am unteren Ende dieser Seite).
+Die rollingpoint-Jams sind ein Ort für fokussiertes Contact Improvisations-Tanzen an dem **CI als zeitgenössische Tanz- und Kunstform** praktiziert wird. Wir achten darauf einen gemeinsamen Raum zu halten, in dem sich alle sicher fühlen und erwarten von den TeilnehmerInnen, dass sie bereits über erste CI-Kurserfahrungen (im Sinne von Grundkenntnissen) verfügen.
 
-Die reguläre rollingpoint Contact Improvisations Jam findet jeden Sonntag Abend von 19.00-22.00 im Prana Yoga-Studio statt (Detailinfos siehe unten). Weiters gibt es an Schultagen jeweils  am Donnerstag Abend eine offene Jam in Verbindung mit einem vorangehenen CI-Training (CI-DOJO) im Turnsaal der VS Gilgegasse.
+Die reguläre rollingpoint Contact Improvisations Jam findet jeden Sonntag Abend von 19.00-22.00 im Prana Yoga-Studio statt (Detailinfos siehe unten). Weiters gibt es an Schultagen jeweils am Donnerstag Abend eine offene Jam in Verbindung mit einem vorangehenen CI-Training (CI-DOJO) im Turnsaal der VS Gilgegasse.\
+[Info zum **CI-DOJO (Training+Jam)**](/dojo)
 
-Alle rollingpoint-Angebote werden entsprechend den aktuellen CoVid-Regelungen abgehalten. Für die So-Jam ist keine Anmeldung erforderich. TeilnehmerInnenliste mit Erfassung der Kontaktdaten. Raumkostenbeitrag €10,- (min. €6.-)
-
- 
-
-Info zum **CI-DOJO (Training+Jam), DOJO wieder ab Sept.2021**siehe <http://www.rollingpoint.at/?lang=deu&id=111>
+***Alle rollingpoint-Angebote werden entsprechend den aktuellen CoVid-Regelungen für Wien abgehalten (geimpft, genesen, PCR-Test) TeilnehmerInnenliste mit Erfassung der Kontaktdaten.*** 
 
 
 
-**rollingpoint-Jam:**
+## **rollingpoint-Jam am Sonntag**
 
-**Jeden Sonntag 19.00 - 22.00h**
+**Jeden Sonntag 19.00 - 22.00**\
+Prana Yoga-Studio Nr. 1, 2. Innenhof, 1. Stock, Mariahilferstr. 82, 1070 Wien\
+Keine Anmeldung erforderich.
 
-Ort: Prana Yoga-Studio Nr. 1, 2. Innenhof, 1. Stock, Mariahilferstr. 82, 1070 Wien
-
-**Ankommen von 19.00 bis 19.30h**; vor 19.00 und nach 19:30h aus raumorganisatorischen Gründe kein Einlass möglich!\
+**Ankommen von 19.00 bis 19.30**; vor 19.00 und nach 19:30h aus raumorganisatorischen Gründe kein Einlass möglich!\
 Teilweise  angeleitete warm ups, ausgewählte Musik und Sound-Scapes in der 2.Hälfte der Jams.
 
-**Raumbeitrag auf Spendenbasis: (6)-10€, bitte um Kontoüberweisung**
+**Raumbeitrag auf Spendenbasis: 10€ (min 6€), bitte um Kontoüberweisung**
 
 **Bankvbdg.:** IBAN: AT54 3200 0000 1701 2717, BIC: RLNWATWW, Verein rollingpoint
 
 
-
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
- 
 
 **Hinweise zur Sicherheit in den rollingpoint-Jams:** 
 
@@ -56,19 +49,15 @@ Ein CI-Tanz ist ein gleichberechtigter körperlicher Dialog, in dem wir uns fort
 „In welche Richtung bewegt sich der Kontaktpunkt?“\
 „Wieviel Unterstützung braucht meine TanzpartnerInnen in diesem Moment?“ u.a.
 
-Contact Improvisation ist auch ein großartiges **Empathie-Lerntool** um mit anderen Menschen auf einer sinnlich-körperlichen Ebene in Kontakt zu sein und nonverbal zu kommunizieren. Da wir uns im Alltag nicht so selbstverständlich berühren ist Körperkontakt für manche CI-BeginnerInnen unmittelbar mit dem Gedanken an sexuelle Aktivitäten assoziiert. Das Kennenlernen der Bewegungssprache der Contact Improvisation in Kursen reduziert das Potential von Missverständnissen. Oft braucht es einige Zeit um sich als BeginnerIn in der Jam-Welt vertraut zu machen und einzuleben. Viele Fragen lösen sich mit der Zeit von selbst.
+*Contact Improvisation ist auch ein großartiges Empathie-Lerntool um mit anderen Menschen auf einer sinnlich-körperlichen Ebene in Kontakt zu sein und nonverbal zu kommunizieren. Da wir uns im Alltag nicht so selbstverständlich berühren ist Körperkontakt für manche CI-BeginnerInnen mit dem Gedanken an sexuelle Aktivitäten assoziiert. Das Kennenlernen der Bewegungssprache der Contact Improvisation in Kursen reduziert das Potential von Missverständnissen. Oft braucht es einige Zeit um sich als BeginnerIn in der Jam-Welt vertraut zu machen und einzuleben. Viele Fragen lösen sich mit der Zeit von selbst.*
 
-Auch wenn die Aufmerksamkeit im Tanzen beim sensomotorischen Geschehen liegt so wird natürlich wie bei allen menschlichen Begegnungen auch immer eine psychologische oder sexuell motivierte Komponente in den Tänzen mitschwingen. Wir können lernen unser Tanzen durch diese emotionalen Komponenten zu bereichern ohne den Fokus auf das sensomotorische Geschehen zu verlieren. Je nachdem welche Vorerfahrung wir mit Körperkontakt mitbringen, kann das CI-Tanzen zu Beginn in uns unterschiedliche Gefühle und Gedanken auslösen. CI ist keine Therapie. Für viele CI-Praktizierende ist das gemeinsame Tanzen aber auch ein heilsamer Lernprozess, der in verschiedenste Lebensbereiche integriert werden kann.
+*Auch wenn die Aufmerksamkeit im Tanzen beim sensomotorischen Geschehen liegt so wird natürlich wie bei allen menschlichen Begegnungen auch immer eine psychologische oder sexuell motivierte Komponente in den Tänzen mitschwingen. Wir können lernen unser Tanzen durch diese emotionalen Komponenten zu bereichern ohne den Fokus auf das Tanzen  zu verlieren. Je nachdem welche Vorerfahrung wir mit Körperkontakt mitbringen, kann das CI-Tanzen zu Beginn in uns unterschiedliche Gefühle und Gedanken auslösen. CI ist keine Therapie. Für viele CI-Praktizierende ist das gemeinsame Tanzen aber auch ein wichtiger Lernprozess, der in verschiedenste Lebensbereiche integriert werden kann.*
 
 Bei auftauchenden Fragenstellungen in der Jam besteht die Möglichkeit  der/die Jam-host anzusprechen.
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
- 
-
 **Jam- Specials:** 
-
-
 
 **Underscore_Jam nach Nancy Stark Smith:**
 
@@ -78,15 +67,7 @@ Der Underscore nach Nancy Stark Smith ist ein sehr hilfreicher zeitlich und räu
 
 CI-Kurserfahrungen (Grundkenntnisse) sind Voraussetzung für die Teilnahme.
 
-Raumbeitrag: € 6 - 10
-
- 
-
- 
-
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
- 
 
 **INFO zu weiteren Contact Improvisation Jams in Wien/Österreich:**
 
@@ -96,8 +77,4 @@ Raumbeitrag: € 6 - 10
 
 **Freitags-CI-Jam im WUK:** <http://www.wuk.at/event/id/15192>
 
-**Verschiedenste Jams in Wien + Österreich Übersichtsseite**: [http://vienna.contactimprovisation.at](http://vienna.contactimprovisation.at/)a
-
-a
-
-[](#hier)[dort](#hier)
+**Verschiedenste Jams in Wien + Österreich Übersichtsseite**: [http://vienna.contactimprovisation.at](http://vienna.contactimprovisation.at/)
