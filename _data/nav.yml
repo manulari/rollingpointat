@@ -27,3 +27,12 @@ entries:
     path: /JAMS
   - title: KÜNSTLERISCHE FORSCHUNG
     path: /FORSCHUNG
+  - title: VEREIN ROLLINGPOINT
+    path: verein
+    subentries:
+      - title: Verein rollingpoint
+        path: verein
+      - title: maRia Probst
+        path: maria
+  - title: Christian Apschner
+    path: christian
