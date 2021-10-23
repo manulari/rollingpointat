@@ -10,8 +10,6 @@ entries:
         path: contemporary
       - title: SOMATISCHES LERNEN
         path: somatics
-  - title: CI-DOJO (TRAINING+JAM)
-    path: /dojo
   - title: KURSE UND WORKSHOPS
     path: /kurse
     subentries:
@@ -23,3 +21,5 @@ entries:
         path: /winterintensive
       - title: Sommer-Intensive
         path: /sommerintensive
+  - title: CI-DOJO (TRAINING+JAM)
+    path: /dojo
