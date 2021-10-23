@@ -10,7 +10,7 @@ Fotocredits: He Shao Hui
 
 # **Workshoptermine Wintersemester 2021/22:**
 
-**[9./10.10.2021 "From Bodywork into Movement" mit Christian Apschner und maRia Probst](bodywork)**
+**9./10.10.2021 "From Bodywork into Movement" mit Christian Apschner und maRia Probst**
 
 **13./14.11.2021 "Comics and Dance"**\
 **mit maRia Probst und Susanne Hochreiter**
