@@ -20,7 +20,7 @@ Keine Anmeldung erforderich.
 **Ankommen von 19.00 bis 19.30**; vor 19.00 und nach 19:30h aus raumorganisatorischen Gründe kein Einlass möglich!\
 Teilweise  angeleitete warm ups, ausgewählte Musik und Sound-Scapes in der 2.Hälfte der Jams.
 
-**Raumbeitrag auf Spendenbasis: 10€ (min 6€), bitte um Kontoüberweisung**
+**Raumbeitrag auf Spendenbasis: ca.10€ (min 6€), bitte um Kontoüberweisung**
 
 **Bankvbdg.:** IBAN: AT54 3200 0000 1701 2717, BIC: RLNWATWW, Verein rollingpoint
 
