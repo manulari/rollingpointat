@@ -2,12 +2,6 @@
 permalink: /dojo
 title: CI-DOJO (TRAINING+JAM)
 ---
-![]()
-
-![](http://www.rollingpoint.at/contents/photos/lsz_5410.jpg)
-
-
-
 Fotocredits: Laurent Ziegler
 
 **DOJO=Training+Jam**, abwechselnd **advanced** und\
