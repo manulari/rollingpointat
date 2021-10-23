@@ -12,3 +12,5 @@ entries:
         path: a-b
   - title: CI-DOJO (TRAINING+JAM)
     path: /DOJO
+  - title: KURSE UND WORKSHOPS
+    path: /kurse
