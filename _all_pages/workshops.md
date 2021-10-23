@@ -32,6 +32,8 @@ Wir möchten zentrale Verbindungen unseres Bewegungssystems wie Atlas-Steiß, Sc
 Der Fokus an diesem Wochenende liegt darin, diesen Berührungsschatz im Hinblick auf Bewegungsvielfalt, Bewegungsqualität und angemessenem Einsatz von Energie und Kraft zu heben und ihn in unsere tänzerischen Beziehungen sowohl in der Contact Improvisation wie auch in der freien Improvisation einfließen zu lassen.\
 Der Workshop lädt sowohl Nicht-Contact Improvisation TänzerInnen als auch Contact Improvisation TänzerInnen zum Mitmachen ein.
 
+&nbsp;
+
 <div class="named-anchor" id="comics"></div>
 
 <div class="named-anchor" id="comics"></div>
@@ -60,6 +62,8 @@ In diesem Sinne erwartet euch an diesem Wochenende:\
 \*\**viel miteinander Comics schauen und lesen\
 \*\**ein Angebot an tanzimprovisatorischen Settings entlang von Comics-Strategien\
 \*\**und ein reger Austausch über die Einwirkungen und Auswirkungen dieser Begegnungen
+
+&nbsp;
 
 <div class="named-anchor" id="flying"></div>
 
