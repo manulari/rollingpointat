@@ -2,7 +2,7 @@
 permalink: /home
 title: HOME
 ---
-### [\#1](#1)Contact Improvisation und artverwandte Tanz- und BewegungsFormen
+### [](#1)Contact Improvisation und artverwandte Tanz- und BewegungsFormen
 
 ![Christian und maRia tanzen Contact Improvisation auf einer Stiege](/assets/uploads/dsc_1901_klein.jpg "Contact Improvisation")
 
@@ -18,10 +18,10 @@ Fotocredit: Johannes Stolba
 
 ### **Abendkurse:**
 
-**1  „Opening, Folding, Release“ Zeitgenössisches Tanztraining - open level**\
+[**1  „Opening, Folding, Release“ Zeitgenössisches Tanztraining - open level**\
 **mit maRia Probst**\
 **Mo 20.9.2021 – 31.1.2022, 18.10 - 20.10h (ca.15x)**\
-**Turnsaal VS Gilgegasse 12, 1090 Wien**\
+**Turnsaal VS Gilgegasse 12, 1090 Wien**](#1)\
 \
 **2 CI Körpertraining + „Bounce and Shake"** - **open level**\
 **mit maRia Probst**\
