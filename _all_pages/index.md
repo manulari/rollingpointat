@@ -29,7 +29,7 @@ Fotocredit: Johannes Stolba
 [**2 CI Körpertraining + „Bounce and Shake"** - **open level**\
 **mit maRia Probst**\
 **Di 21.9.2021- 1.2.2022, 18.00 – 20.00h (ca.15x)**\
-**Turnsaal der VS Einsiedlergasse 7, 1050 Wien**](/kurse#di)\
+**Turnsaal VS Einsiedlergasse 7, 1050 Wien**](/kurse#di)\
 \
 [**3 Contact Improvisation and - Technique - beginner/intermediate**\
 **mit Christian Apschner**\
