@@ -15,12 +15,11 @@ title: CI-DOJO (TRAINING+JAM)
 
 Das Format geht abwechselnd sowohl auf die speziellen Wünsche und Bedürfnisse von fortgeschrittenen CI-TänzerInnen und auch von NeubeginnerInnen ein. Die Abende bestehen jeweils aus einem angeleiteten CI-Training und einer nachfolgenden Contact-Jam. CI-Training und Jam können gemeinsam oder unabhängig voneinander besucht werden, die gemeinsame Teilnahme ist empfehlenswert. Als Contact-Dojo steht uns der knapp 200m2 große Turnsaal mit für CI optimalem Holzschwingboden in der VS Gilgegasse 9, 1090 Wien zur Verfügung. 
 
-**Termine Wintersemester 2021/22 ab 16.9.2021**
+#### **Termine Wintersemester 2021/22 ab 16.9.2021**
 
-**Open level DOJO: 16.9., 30.9., 14.10., 4.11., 18.11., 2.12., 16.12.2021,\
-20.1., 3.2.2021**
+#### **Open level DOJO: 16.9., 30.9., 14.10., 4.11., 18.11., 2.12., 16.12.2021, 20.1., 3.2.2021**
 
-**Advanced DOJO: 23.9., 7.10., 21.10., 11.11., 25.11., 9.12.2021,\
+#### **Advanced DOJO: 23.9., 7.10., 21.10., 11.11., 25.11., 9.12.2021,\
 13.1., 27.1.2022**
 
 **Training: 18.15-19.30\
