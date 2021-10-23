@@ -34,12 +34,12 @@ Fotocredit: Johannes Stolba
 [**3 Contact Improvisation and - Technique - beginner/intermediate**\
 **mit Christian Apschner**\
 **Mi 22.9.2021. - 2.2.2022, 18.15 – 20.30h (ca.15x)**\
-**Turnsaal VS Einsiedlergasse 7, 1050 Wien**](/kurse#mi)\
-\
-[](/dojo)[[](/dojo)](/dojo)[[[[**4 Contact Dojo: CI-Training + Jam**\
+**Turnsaal VS Einsiedlergasse 7, 1050 Wie**](/kurse#mi)
+
+[**4 Contact Dojo: Training + Jam**\
 **mit Christian Apschner**\
 **Do 16.9.2021 – 3.2.2022, 18.15 - 20.45h**\
-**Turnsaal VS Gilgegasse 12, 1090 Wien**](/kurse#do)](/dojo)](/dojo)](/dojo)
+**Turnsaal VS Gilgegasse 12, 1090 Wien**](/dojo)
 
 ### &nbsp;
 
