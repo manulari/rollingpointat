@@ -26,7 +26,10 @@ entries:
   - title: JAMS+PERFORMANCES
     path: /JAMS
   - title: KÜNSTLERISCHE FORSCHUNG
-    path: /FORSCHUNG
+    path: /conact1
+    subentries:
+      - title: CON.ACT/Twist&Talk
+        path: /conact1
   - title: VEREIN ROLLINGPOINT
     path: verein
     subentries:
