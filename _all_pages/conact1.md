@@ -4,6 +4,33 @@ title: CON.ACT/Twist&Talk
 ---
 **Das künstlerische Forschungsprojekt wurde im Herbst 2018 in Kooperation mit dem Tanzquartier Wien und der KünstlerInnen-Initiative Im_flieger durchgeführt.**
 
+**Projektbeschreibung:**
+
+**Twist&Talk: "In, Out, With"** 
+
+**die Weiterentwicklung unseres langjährigen Projekts "Sharing the Dance" \
+- ein open level Tanzimprovisations- und Diskursformat inmitten gesellschaftlichen Umbruchs**
+
+**mit maRia Probst und Christian Apschner**
+
+**Dieses Format richtet sich an alle, die sich über Bewegung, manchmal Berührung, über Tanz-Improvisation, Somatic Movement Zugänge und auch verbal reflektierend mit gesellschaftlich relevanten Themen auseinandersetzen wollen. Vorerfahrung in den genannten Bereichen ist förderlich aber keine Voraussetzung.** 
+
+Wie choreografieren wir Gesellschaft und wie choreografiert sie uns? Entlang welcher „Scores“ bewegen wir uns, ohne sie bewusst zu kennen? Bin ich immer noch wir, wenn ich „out“ bin? Was bedeutet mit anderen sein und wie bewegt sich das Andere, wenn ich es bin oder du? Wie schreiben sich diese und ähnliche Verhandlungen in unsere Körper, Bewegungen und Tänze ein
+
+Innerhalb dieser Serie Twist&Talks wollen wir zu diesen Fragestellungen einen Rahmen anbieten, um eine Kultur des „Embodied Discourse“ zu fördern. Wir werden ca 2/3 der Zeit tanzend, bewegend, explorierend und 1/3 der Zeit redend verbringen. Im Fokus steht ein körperlich-tänzerisch-geistiges miteinander forschen zum Thema. Wir bringen Aspekte von den vorangegangenen Zusammenkünften (bis jetzt fanden zwei Großgruppen- und zwei Kleingruppen-Termine statt) anhand von Fragestellungen und Scores in das nächste Setting mit ein. Jeder Termin ist einzeln besuchbar. Ein mehrmaliges Teilnehmen ist wünschenswert aber keine Voraussetzung* Im Anschluss an einen Twist&Talk Termin wird an alle, die sich zur Teilnhame bereit erklären, ein Fragebogen (anonymisiert und von Christian und maRia zur Weiterentwicklung des Formats erstellt) gesandt.
+
+**TWIST&TALK** ist Teil des breit angelegten partizipativ, künstlerisch-wissenschaftlichen Forschungsprojektes CON.ACT, innerhalb dessen die Tauglichkeit bestimmter zeitgenössischer Tanzimprovisation als Mittel im Umgang mit den aktuellen gesellschaftlichen Veränderungen erprobt werden soll.
+
+Aspekte des Prozess und Teilergebnisse aus **CON.ACT** / Etappe 1 werden im Rahmen der Website IDOCDE http://www.idocde.net veröffentlicht.
+
+**CON.ACT** / Etappe 1 wird durch die Kooperation von TQW, Im_flieger und rollingpoint ermöglicht.
+
+TQW: <http://tqw.at>
+
+Im_flieger: <http://www.imflieger.net/>
+
+ 
+
 **"CON.ACT”** ist eine partizipative, künstlerisch-wissenschaftliche Recherche ob und wie eine spezifische Praxis zeitgenössischer Tanzimprovisation und von Somatic Movement Practices eine Methode im Umgang mit gesellschaftlichem Wandel darstellt und das Potential zu gesellschaftspolitischem Handeln in sich birgt.
 
 Das Projekt **„CON.ACT“** ist ein partizipatives und künstlerisch-wissenschaftliches Forschungsprojekt mit einem hohen Innovationsgrad, das sich in keine gängigen Kategorien einordnen lässt. Die offenen Schnittstellen zwischen verschiedenen Wissenskategorien, aber auch zwischen Tanzkunst-Ausübenden und -BetrachterInnen ermöglichen einen fruchtbaren "open level" Austausch der in vielen anderen Formaten und generell in unserer Gesellschaft so oft zu vermissen ist.
@@ -14,19 +41,13 @@ Das Projekt **„CON.ACT“** ist ein partizipatives und künstlerisch-wissens
 
 **"CON.ACT”** ist somit eine partizipative, künstlerisch-wissenschaftliche Recherche ob und wie eine spezifische Praxis zeitgenössischer Tanzimprovisation und von Somatic Movement Practices eine Methode im Umgang mit gesellschaftlichem Wandel darstellt und das Potential zu gesellschaftspolitischem Handeln in sich birgt.
 
- 
-
 **Projektformat:**
 
 Die Durchführung des Gesamtprojektes ist in zwei Etappen geplant. Die nachfolgenden Ausführungen beziehen sich auf die Durchführungsetappe 1. Nach Abschluss und Vorliegen von Ergebnissen der Durchführungsetappe 1 soll das Projekt weiterentwickelt werden und zu Durchführungsetappe 2 führen.
 
- 
-
 **CON.ACT Durchführungs-Etappe 1/Realisierung**
 
 Die Zusammenarbeit mit TQW und Im_flieger ermöglicht konkret eine sehr komprimierte Version der Durchführungs-Etappe 1. Im Zuge dessen finden drei öffentliche “Twist&Talk” Termine und zwei weitere Peer Group Treffen zum Thema “In, Out, With” mit einer kleineren Anzahl geladener TeilnehmerInnen statt. Vorbereitung, Reflexion, Dokumentation und Evaluation basieren großteils auf Eigenleistung des Vereins rollingpoint und werden daher eine erste Entwicklungs-Phase darstellen.
-
- 
 
 **Hintergründe zu Durchführung-Etappe 1:** 
 
@@ -47,8 +68,6 @@ Die konkreten Fragestellung von "In, Out, With" sind: Erfahre ich mehr über Ein
 Diesen Fragestellungen inherent ist die Auseinandersetzung mit Theorien aus der Kognitionsforschung, im speziellen mit Embodimenttheorien.
 
 Der intensivierte Austausch mit an Embodiment-Prozessen Interessierten aus unterschiedlichen Disziplinen soll der Schärfung des Formats dienen. Idealerweise nehmen alle Forschenden auch an den open level Terminen teil.
-
- 
 
 **CON.ACT Durchführungs-Etappe 2/Ausblick:**
 
