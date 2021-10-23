@@ -2,6 +2,8 @@
 permalink: /dojo
 title: CI-DOJO (TRAINING+JAM)
 ---
+
+
 ![](/assets/uploads/lsz_5410-2.jpg)
 
 Fotocredits: Laurent Ziegler
