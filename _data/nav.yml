@@ -36,6 +36,8 @@ entries:
         path: maria
       - title: Christian Apschner
         path: christian
+      - title: Netzwerk
+        path: network
   - title: KONTAKT
     path: kontakt
     subentries:
