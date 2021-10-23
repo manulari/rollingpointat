@@ -36,3 +36,10 @@ entries:
         path: maria
       - title: Christian Apschner
         path: christian
+  - title: KONTAKT
+    path: kontakt
+    subentries:
+      - title: impressum
+        path: impressum
+      - title: datenschutz
+        path: datenschutz
