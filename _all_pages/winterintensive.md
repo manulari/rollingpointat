@@ -15,6 +15,8 @@ Fotocredits: He Shao Hui
 
 &nbsp;
 
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\__
+
 **Contact Improvisation Winter-Intensive 2020**
 
 mit Christian Apschner (Woche 1+2) und maRia Probst (Woche 2)
