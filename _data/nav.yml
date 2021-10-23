@@ -1,16 +1,6 @@
 entries:
   - title: Startseite
     path: /
-  - title: A
-    path: a
-    subentries:
-      - title: A-B
-        path: a-b
-  - title: B
-    path: b
-    subentries:
-      - title: B-A
-        path: b-a
   - title: CONTACT IMPROVISATION
     path: /
     subentries:
@@ -20,5 +10,5 @@ entries:
         path: a-a
       - title: SOMATISCHES LERNEN
         path: a-b
-  - title: CI-DOJO (TRAINING+JAM
+  - title: CI-DOJO (TRAINING+JAM)
     path: /DOJO
