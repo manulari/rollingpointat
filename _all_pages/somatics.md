@@ -2,6 +2,10 @@
 permalink: somatics
 title: Somatisches Lernen
 ---
+![]()
+
+# Somatisches Lernen
+
 ![](http://www.rollingpoint.at/contents/photos/img_1706c__-_pho.jpg)
 
 
