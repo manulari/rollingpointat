@@ -15,8 +15,8 @@ Fotocredits: He Shao Hui
 [[**13./14.11.2021 "Comics and Dance"**\
 **mit maRia Probst und Susanne Hochreiter**](#comics)](#comics)
 
-**22./23.1.2022: "Contact Flying Skills"**\
-**mit Christian Apschner und Lui Springer (support)**
+[**22./23.1.2022: "Contact Flying Skills"**\
+**mit Christian Apschner und Lui Springer (support)**](#flying)
 
 &nbsp;
 
@@ -60,6 +60,8 @@ In diesem Sinne erwartet euch an diesem Wochenende:\
 \*\**viel miteinander Comics schauen und lesen\
 \*\**ein Angebot an tanzimprovisatorischen Settings entlang von Comics-Strategien\
 \*\**und ein reger Austausch über die Einwirkungen und Auswirkungen dieser Begegnungen
+
+<div class="named-anchor" id="flying"></div>
 
 **"Contact Flying Skills"** - advanced\
 **Sa/So 22./23.1.2022, 10.00-17.00  (ca 1,5h Mittagspause)**\
