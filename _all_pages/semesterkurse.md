@@ -1,5 +1,5 @@
 ---
-permalink: semesterkurse
+permalink: /kurse/semesterkurse
 title: SEMESTERKURSE
 ---
 
