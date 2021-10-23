@@ -2,7 +2,7 @@ entries:
   - title: HOME
     path: /home
   - title: CONTACT IMPROVISATION
-    path: /
+    path: /contactimpro
     subentries:
       - title: CONTACT IMPROVISATION
         path: /
