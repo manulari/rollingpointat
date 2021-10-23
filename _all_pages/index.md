@@ -41,8 +41,6 @@ Fotocredit: Johannes Stolba
 **Do 16.9.2021 – 3.2.2022, 18.15 - 20.45h**\
 **Turnsaal VS Gilgegasse 12, 1090 Wien**](/dojo)
 
-### &nbsp;
-
 ### **Wochenend-Workshops:**
 
 [**9./10.10.2021 "From Bodywork into Movement"** **mit Christian Apschner und maRia Probst**](/workshops#bodywork)
