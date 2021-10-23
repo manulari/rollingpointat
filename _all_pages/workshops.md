@@ -8,7 +8,7 @@ title: Wochenend-Workshops
 
 Fotocredits: He Shao Hui
 
-**Neue Workshoptermine Wintersemester 2021/22:**
+### **Workshoptermine Wintersemester 2021/22:**
 
 **9./10.10.2021 "From Bodywork into Movement" mit Christian Apschner und maRia Probst**
 
@@ -17,8 +17,6 @@ Fotocredits: He Shao Hui
 
 **22./23.1.2022: "Contact Flying Skills"**\
 **mit Christian Apschner und Lui Springer (support)**
-
-<div class="named-anchor" id="undefined"></div>
 
 **"From Bodywork into Movement" -** open level\
 **9./10.10.2021 / 10.00-17.00**\
