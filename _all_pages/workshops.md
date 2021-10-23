@@ -15,8 +15,8 @@ Fotocredits: He Shao Hui
 [[**13./14.11.2021 "Comics and Dance"**\
 **mit maRia Probst und Susanne Hochreiter**](#comics)](#comics)
 
-[**22./23.1.2022: "Contact Flying Skills"**\
-**mit Christian Apschner und Lui Springer (support)**](#flying)
+[[**22./23.1.2022: "Contact Flying Skills"**\
+**mit Christian Apschner und Lui Springer (support)**](#flying)](#flying)
 
 &nbsp;
 
