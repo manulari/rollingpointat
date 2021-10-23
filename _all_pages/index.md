@@ -18,10 +18,11 @@ Fotocredit: Johannes Stolba
 
 ### **Abendkurse:**
 
-[**1  „Opening, Folding, Release“ Zeitgenössisches Tanztraining - open level**\
-**mit maRia Probst**\
-**Mo 20.9.2021 – 31.1.2022, 18.10 - 20.10h (ca.15x)**\
-**Turnsaal VS Gilgegasse 12, 1090 Wien**](#1)\
+
+
+<div class="named-anchor" id="1"></div>
+
+\
 \
 **2 CI Körpertraining + „Bounce and Shake"** - **open level**\
 **mit maRia Probst**\
