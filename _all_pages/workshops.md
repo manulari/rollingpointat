@@ -81,6 +81,8 @@ Für diesen Workshop sind CI-Grund- und Tanzerfahrung sowie gute körperliche un
 
 
 
+###### &nbsp;
+
 ## **ORGANISATORISCHES:**
 
 **Ort:** Alle Workshops finden im Prana Yoga-Studio Nr.1, Mariahilferstr. 82, 1070 Wien statt.
