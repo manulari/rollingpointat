@@ -8,7 +8,7 @@ title: Wochenend-Workshops
 
 Fotocredits: He Shao Hui
 
-### **Workshoptermine Wintersemester 2021/22:**
+# **Workshoptermine Wintersemester 2021/22:**
 
 **9./10.10.2021 "From Bodywork into Movement" mit Christian Apschner und maRia Probst**
 
