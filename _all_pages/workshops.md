@@ -73,24 +73,25 @@ In diesem Sinne erwartet euch an diesem Wochenende:\
 
 Der rollingpoint Workshop-Klassiker für alle CI-TänzerInnen mit sportlichen Ambitionen!
 
-Dieser technikorientierte Workshop lädt bewegungsfreudige CI-TänzerInnen ein, ihr Bewegungsspektrum zu erweitern und sich aufs Fliegen, Fallen und auf akrobatische Elemente einzulassen. Ein Schwerpunkt des Wochenendes wird sein, verschiedene Lifts und Jumps in allen Raumebenen zu üben und\
-kopfüber auf den Händen zu tanzen.
+Dieser technikorientierte Workshop lädt bewegungsfreudige CI-TänzerInnen ein, ihr Bewegungsspektrum zu erweitern und sich aufs Fliegen, Fallen und auf akrobatische Elemente einzulassen. Ein Schwerpunkt des Wochenendes wird sein, verschiedene Lifts und Jumps in allen Raumebenen zu üben und kopfüber auf den Händen zu tanzen.
 
-Wir stellen eine Verbindung von Athletischem und Meditativem her und lernen durch eine anatomisch gute Körperausrichtung sowie durch Modulation der Körperspannung und Nutzung der Schwungenergie Gewicht körperschonend aufzunehmen und abzugeben. Im Laufe des Lernprozesses eröffnet sich die\
-Fähigkeit sich dem gemeinsamen Bewegungsfluss hinzugeben und gleichzeitig den gemeinsamen Tanz so präsent wahrzunehmen, dass dieser Fluss spielerisch gelenkt werden kann.
+Wir stellen eine Verbindung von Athletischem und Meditativem her und lernen durch eine anatomisch gute Körperausrichtung sowie durch Modulation der Körperspannung und Nutzung der Schwungenergie Gewicht körperschonend aufzunehmen und abzugeben. Im Laufe des Lernprozesses eröffnet sich die Fähigkeit sich dem gemeinsamen Bewegungsfluss hinzugeben und gleichzeitig den gemeinsamen Tanz so präsent wahrzunehmen, dass dieser Fluss spielerisch gelenkt werden kann.
 
 Für diesen Workshop sind CI-Grund- und Tanzerfahrung sowie gute körperliche und mentale Fitness empfehlenswert.
 
-**Teilnahmekosten:**\
-€ 190/150/110,- (Supporter/Normalpreis/ermäßigt) bei Einzahlung bis 14 Tage vor Workshopbeginn\
-€ 210/170/130,- (Supporter/Normalpreis/ermäßigt) bei Einzahlung ab 13 Tagen vor Workshopbeginn\
-Für Ws 1+3 weitere Ermäßigung für Paare: -10%
 
-**ORGANISATORISCHES:**
+
+# **ORGANISATORISCHES:**
 
 **Ort:** Alle Workshops finden im Prana Yoga-Studio Nr.1, Mariahilferstr. 82, 1070 Wien statt.
 
-**Anmeldung:** per email ci.rollingpoint@gmail.com
+**Anmeldung:** per email ci.rollingpoint@gmail.com\
+Tel. Christian 0650 8931081, maRia 0650 9510814
+
+**Kosten:**\
+€ 190/150/110,- (Supporter/Normalpreis/ermäßigt) bei Einzahlung bis 14 Tage vor Workshopbeginn\
+€ 210/170/130,- (Supporter/Normalpreis/ermäßigt) bei Einzahlung ab 13 Tagen vor Workshopbeginn\
+Für Ws 1+3 weitere Ermäßigung für Paare: -10%
 
 **Bezahlung:** Bitte die Kostenbeiträge immer vorab auf unser Konto\
 IBAN:AT54 3200 0000 1701 2717, BIC: RLNWATWW, Verein rollingpoint, einzahlen. 
@@ -99,23 +100,19 @@ IBAN:AT54 3200 0000 1701 2717, BIC: RLNWATWW, Verein rollingpoint, einzahlen.�
 
 Unter sechs TeilnehmerInnen kann der Workshop, auch wenn gegenteilig angeführt, von einer Person angeleitet werden.
 
-**Anmeldung:** ci.rollingpoint@gmail.com\
-Tel. Christian 0650 8931081, maRia 0650 9510814
 
-***Sämtliche rp Angebote werden entsprechend der aktuellen Covid19 Präventionsverordnungen abgehalten.*** 
 
-**RÜCKBLICK:**
+***Sämtliche rp Angebote werden entsprechend der aktuellen Covid19 Präventionsverordnungen abgehalten.***
 
- **22./23.8.2020  "Gravity Based Dialogs"**\
+
+
+# **ARCHIV (Auswahl):**
+
+**22./23.8.2020  "Gravity Based Dialogs"**\
 Contact Improvisation/ Somatics/ Zeitgenössischer Tanz\
 Workshop mit maRia und Christian - open level, beginner
 
-Die Schwerkraft verbindet uns mit der Erde und wirkt in jedem Moment auf uns. Unser Körper ist bestens dafür ausgestattet, der Schwerkraft nachzugeben, ihr zu widerstehen und sich mit ihr zu koordinieren. In unserem Workshop lenken wir die Wahrnehmung gezielt auf Nuancen von Gewichtsübertragung an PartnerInnen und Boden. Wir lernen die Schwerkraft als Kommunikationsmedium und Bewegungsantrieb zu nutzen und um mit unseren TanzpartnerInnen zu kooperieren. Techniken einander Gewicht abzugeben und aufzunehmen, aneinander zu lehnen, uns abheben, fallen und auffangen zu lassen sind zentrale Aspekte des Workshops. Unsere Körper bewegen sich entlang eines gemeinsamen Kontaktpunkts fort. Das Augenmerk auf das fasziale wie auch das knöcherne Skelett wird uns dynamisch ankern und in den Raum tragen. Im zeitgenössischen Tanz und in der Improvisation stellen wir räumliche Bezüge her und gestalten einen gemeinsamen Bewegungsraum des wechselseitigen Miteinanders im Feld der Schwerkraft. Die körperlich-, seelisch- mentalen Erfahrungen des Ausnahmezustandes der letzten Monate dürfen dabei mit in Bewegung kommen. \
-**\
-14./15.11.2020  "Physical Encounters"**Contact Improvisation and -TechniqueWorkshop mit maRia und Christian
-
-**22.- 24.1.2021 "Contact Flying Skills"**\
-Workshop mit Christian Apschner
+Die Schwerkraft verbindet uns mit der Erde und wirkt in jedem Moment auf uns. Unser Körper ist bestens dafür ausgestattet, der Schwerkraft nachzugeben, ihr zu widerstehen und sich mit ihr zu koordinieren. In unserem Workshop lenken wir die Wahrnehmung gezielt auf Nuancen von Gewichtsübertragung an PartnerInnen und Boden. Wir lernen die Schwerkraft als Kommunikationsmedium und Bewegungsantrieb zu nutzen und um mit unseren TanzpartnerInnen zu kooperieren. Techniken einander Gewicht abzugeben und aufzunehmen, aneinander zu lehnen, uns abheben, fallen und auffangen zu lassen sind zentrale Aspekte des Workshops. Unsere Körper bewegen sich entlang eines gemeinsamen Kontaktpunkts fort. Das Augenmerk auf das fasziale wie auch das knöcherne Skelett wird uns dynamisch ankern und in den Raum tragen. Im zeitgenössischen Tanz und in der Improvisation stellen wir räumliche Bezüge her und gestalten einen gemeinsamen Bewegungsraum des wechselseitigen Miteinanders im Feld der Schwerkraft. Die körperlich-, seelisch- mentalen Erfahrungen des Ausnahmezustandes der letzten Monate dürfen dabei mit in Bewegung kommen. 
 
 **Contact for Health, Growth and Fun** - beginner\
 **mit *maRia Probst und Christian Apschner***
