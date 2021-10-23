@@ -1,5 +1,5 @@
 ---
-permalink: /DOJO
+permalink: /dojo
 title: CI-DOJO (TRAINING+JAM)
 ---
 Fotocredits: Laurent Ziegler
