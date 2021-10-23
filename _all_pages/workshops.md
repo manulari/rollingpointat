@@ -26,15 +26,10 @@ Fotocredits: He Shao Hui
 **9./10.10.2021 / 10.00-17.00**\
 **mit Christian Apschner und maRia Probst**
 
-Berührung ist eine reichhaltige Quelle unsere Bewegungsqualitäten zu verfeinern und zu erweitern. Oft reicht es dabei in einer wohlwollenden Haltung unserer Intuition freien Lauf zu lassen.
-
-In diesem Workshop wollen wir dem uns Menschen meist grundlegenden Bedürfnis nach Berührung Raum geben und dieses mit gezieltem Bodywork-Know How aus unseren Berührungs-Fachgebieten Tuina, Trager Psychophysische Integration, Somatische Faszientherapie und Ortho-Bionomy verbinden.
-
-Wir möchten zentrale Verbindungen unseres Bewegungssystems wie Atlas-Steiß, Schultern-Hüftgelenke oder die Hand- und Fußgelenke ansprechen, Aspekte unseres sympathischen, parasympathischen, somatischen oder enterischen Nervensystems adressieren und auf unsere Körperflüssigkeiten eingehen. Dabei werden weitere Körperstrukturen wie Haut, Fett und Organe mitbewegt und beeinflusst.
-
-Der Fokus an diesem Wochenende liegt darin, diesen Berührungsschatz im Hinblick auf Bewegungsvielfalt, Bewegungsqualität und angemessenem Einsatz von Energie und Kraft zu heben und ihn in unsere tänzerischen Beziehungen sowohl in der Contact Improvisation wie auch in der freien Improvisation\
-einfließen zu lassen.
-
+Berührung ist eine reichhaltige Quelle unsere Bewegungsqualitäten zu verfeinern und zu erweitern. Oft reicht es dabei in einer wohlwollenden Haltung unserer Intuition freien Lauf zu lassen.\
+In diesem Workshop wollen wir dem uns Menschen meist grundlegenden Bedürfnis nach Berührung Raum geben und dieses mit gezieltem Bodywork-Know How aus unseren Berührungs-Fachgebieten Tuina, Trager Psychophysische Integration, Somatische Faszientherapie und Ortho-Bionomy verbinden.\
+Wir möchten zentrale Verbindungen unseres Bewegungssystems wie Atlas-Steiß, Schultern-Hüftgelenke oder die Hand- und Fußgelenke ansprechen, Aspekte unseres sympathischen, parasympathischen, somatischen oder enterischen Nervensystems adressieren und auf unsere Körperflüssigkeiten eingehen. Dabei werden weitere Körperstrukturen wie Haut, Fett und Organe mitbewegt und beeinflusst.\
+Der Fokus an diesem Wochenende liegt darin, diesen Berührungsschatz im Hinblick auf Bewegungsvielfalt, Bewegungsqualität und angemessenem Einsatz von Energie und Kraft zu heben und ihn in unsere tänzerischen Beziehungen sowohl in der Contact Improvisation wie auch in der freien Improvisation einfließen zu lassen.\
 Der Workshop lädt sowohl Nicht-Contact Improvisation TänzerInnen als auch Contact Improvisation TänzerInnen zum Mitmachen ein.
 
 <div class="named-anchor" id="comics"></div>
