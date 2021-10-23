@@ -16,31 +16,25 @@ Fotocredit: Johannes Stolba
 
 ### **Wintersemester 2021/22**
 
+**Abendkurse**
+
 **1  „Opening, Folding, Release“ Zeitgenössisches Tanztraining** - open level\
-**mit maRia Probst**  
-
-##### \
-
-Mo <span style="color: red;">20.9.2021 – 31.1.2022</span>, 18.10 - 20.10h (ca.15x)\
-Ort: Turnsaal VS `Gilgegasse` 12, 1090 Wien
-
-> ###### ahsjkdasd
+mit maRia Probst\
+**Mo 20.9.2021 – 31.1.2022, 18.10 - 20.10h (ca.15x)**\
+**Turnsaal VS Gilgegasse 12, 1090 Wien**
 
 \
 **2 CI Körpertraining + „Bounce and Shake"** - open level\
-**mit maRia Probst**\
-\
+mit maRia Probst\
 **Di 21.9.2021- 1.2.2022, 18.00 – 20.00h (ca.15x)**\
-**Ort: Turnsaal der VS Einsiedlergasse 7, 1050 Wien**\
+**Turnsaal der VS Einsiedlergasse 7, 1050 Wien**\
 \
 **3 Contact Improvisation and - Technique -** beginner/intermediate\
-**mit Christian Apschner**\
-\
+mit Christian Apschner\
 **Mi 22.9.2021. - 2.2.2022, 18.15 – 20.30h (ca.15x)**\
-**Ort: Turnsaal VS Einsiedlergasse 7, 1050 Wien**\
+**Turnsaal VS Einsiedlergasse 7, 1050 Wien**\
 \
-**4 Contact Dojo: Training + Jam**\
-**mit Christian Apschner**\
-\
+**4 Contact Dojo: CI-Training + Jam**\
+mit Christian Apschner\
 **Do 16.9.2021 – 3.2.2022, 18.15 - 20.45h**\
-**Ort: Turnsaal VS Gilgegasse 12, 1090 Wien**
+**Turnsaal VS Gilgegasse 12, 1090 Wien**
