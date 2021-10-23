@@ -8,8 +8,6 @@ title: Wochenend-Workshops
 
 Fotocredits: He Shao Hui
 
-**[rollingpoint Video-link](https://www.youtube.com/watch?v=kp3DqzN1Ldo)**
-
 **Neue Workshoptermine Wintersemester 2021/22:**
 
 **9./10.10.2021 "From Bodywork into Movement" mit Christian Apschner und maRia Probst**
@@ -22,8 +20,10 @@ Fotocredits: He Shao Hui
 
 
 
+
+
 **"From Bodywork into Movement" -** open level\
-**9./10.10.2021 / 10-17h**\
+**9./10.10.2021 / 10.00-17.00**\
 **mit Christian Apschner und maRia Probst**
 
 Berührung ist eine reichhaltige Quelle unsere Bewegungsqualitäten zu verfeinern und zu erweitern. Oft reicht es dabei in einer wohlwollenden Haltung unserer Intuition freien Lauf zu lassen.
@@ -40,7 +40,7 @@ Der Workshop lädt sowohl Nicht-Contact Improvisation TänzerInnen als auch Cont
 
 
 **"Comics and Dance"** – open level\
-**13./14.11.2021 / 10-17h (ca 1,5h Mittagspause)**\
+**13./14.11.2021 / 10.00-17.00 (ca 1,5h Mittagspause)**\
 **mit maRia Probst und Susanne Hochreiter**
 
 hybrid event (Zoom und gemeinsam im Studio)
@@ -67,7 +67,7 @@ In diesem Sinne erwartet euch an diesem Wochenende:\
 ![](/assets/uploads/lsz_5755.jpg)
 
 **"Contact Flying Skills"** - advanced\
-**Sa/So 22./23.1.2022, 10 - 17h  (ca 1,5h Mittagspause)**\
+**Sa/So 22./23.1.2022, 10.00-17.00  (ca 1,5h Mittagspause)**\
 **mit Christian Apschner und Lui Springer (support)**
 
 Der rollingpoint Workshop-Klassiker für alle CI-TänzerInnen mit sportlichen Ambitionen!
