@@ -6,15 +6,13 @@ title: Winter-Intensive
 
 ![](http://www.rollingpoint.at/contents/photos/heshaohui.rollin.jpg)
 
-
-
 Fotocredits: He Shao Hui
 
- 
+### Termin Winter-Intensive 2022:\
+Woche 1 Mo-Do 14.- 17.2.2022\
+Woche 2 Mo-Do 21.- 24.2.2022
 
-**[rollingpoint-Video link](https://www.youtube.com/watch?v=kp3DqzN1Ldo)**
-
- 
+&nbsp;
 
 **Contact Improvisation Winter-Intensive 2020**
 
@@ -55,15 +53,9 @@ IBAN: AT54 3200 0000 1701 2717, BIC: RLNWATWW, Verein rollingpoint, einzahlen.
 
 Stornobedingungen: Bis drei Tage vor Beginn der Intensive wird der volle Betrag abzüglich einer Bearbeitungsgebühr von € 10,- rückerstattet. Danach keine Stornomöglichkeit. Es kann aber eine Ersatzperson nominiert werden.
 
- 
-
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\__
 
- 
-
 **aus dem ARCHIV:**
-
- 
 
 **Winter-Intensive 2019\
 "Lets get in touch and move - it´s time for Contact Improvisation"\
@@ -73,7 +65,7 @@ beginner/intermediate**
 
 **Woche 1 Mo - Do 11.- 14.2.2019 "Yield, Reach, Connect and Locomote"** 
 
-**Woche 2 Mo - Do 18.- 21.2.2019 "Rise, Fall, Extend and Navigate" **
+**Woche 2 Mo - Do 18.- 21.2.2019 "Rise, Fall, Extend and Navigate"** 
 
 **jeweils  18.15 - 20.30h**
 
@@ -91,10 +83,6 @@ Wir lernen uns selbst wahrzunehmen, in Kontakt zu kommen, im Kontakt aufeinander
 
 Während wir in der Woche 1 -"Yield, Reach, Connect and Locomote" vorwiegend das Nachgeben in den Kontakt ("Yielding into Contact", "Liquid Bodies") sowie das gegenseitige Gewichtabgeben und -nehmen im Aneinanderlehnen und Kooperieren in der fließenden Fortbewegung um den rollenden Kontaktpunkt üben werden, möchten wir in Woche 2 - "Rise, Fall, Extend and Navigate" beginnen unsere Tänze mit Schwung und Leichtigkeit in alle Raumrichtungen zu navigieren und unsere Risikobereitschaft herauszufordern. In den improvisierten Tänzen folgen wir unserer Spiellust und Kreativität und suchen dabei das passende Ausmaß an Herausforderung um im Rahmen eines achtsamen "Play-Fight"-Dialogs gemeinsam zu tanzen.
 
- 
-
- 
-
 **Woche 1: Mo - Do 12.- 15.2.2018 mit Christian Apschner**
 
 **"Mindfulness, Playfulness, Challenge and Flow“\
@@ -108,8 +96,6 @@ Wir üben technische Fähigkeiten und Bewegungs- und Kontaktqualitäten wie „Y
 
 Teilnahmeempfehlungen: Tanz- und Bewegungsvorerfahrung aller Art sowie Bereitschaft und Lust sich auf Körperkontakt einzulassen.
 
- 
-
 **Woche 2: Mo - Do 19.- 22.2.2018 mit maRia Probst und Christian Apschner**
 
 **"Mindfulness, Playfulness, Challenge and Flow II“\
@@ -121,15 +107,7 @@ Wie auch schon in der ersten Woche sollen die Lust am Bewegen und an der Begegnu
 \
 Teilnahmeempfehlungen: CI Vorerfahrung (Woche 1 o.a.)
 
- 
-
-
-
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\__
-
- 
-
-
 
 **Winter-Intensive Contact Improvisation 2017**\
 Kompaktkurs 13.- 23.02.2017\
@@ -169,11 +147,7 @@ Alle unsere Sinne sind für den Augenblick offen und die Sinnenseindrücke laufe
 
 In der Intensive fokussieren wir die Aufmerksamkeit auf den Fluss und Schwung der Körpergewichte durch den Raum („swimming in the sea of gravity“, „going with the momentum“) und lernen unsere Körper in der Bewegung um den gemeinsamen Kontaktpunkt zu koordinieren. **Trager-Körperarbeit** wird uns unterstützen mehr Leichtigkeit in der Bewegung zu finden und den kinästhetischen Sinn zu verfeinern. Mittels **"locomotion"** erforschen wir dreidimensionale Fortbewegungsmuster durch den Raum um die Bewegungkoordinationen zu optimieren und zu erweitern.
 
- 
-
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
- 
 
 Contact Improvisation Winter-Intensive 2013: 11.- 21.02.2013\
 **mit Christian Apschner, support: Monika Schuberth**
@@ -192,8 +166,6 @@ Für diese Intensive übernehmen wir einige Ansätze von „martial arts“ wie 
 **Monika Schuberth:** Abgeschlossene zeitgenössische Tanzausbildung am Studio an der Wien, Yogalehrerin und Performerin
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\__
-
- 
 
 **Winter-Intensive Contact Improvisation (open level)**
 
