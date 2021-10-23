@@ -14,3 +14,12 @@ entries:
     path: /DOJO
   - title: KURSE UND WORKSHOPS
     path: /kurse
+    subentries:
+      - title: Semesterkurse
+        path: /kurse
+      - title: Wochenend-Workshops
+        path: /workshops
+      - title: Winter-Intensive
+        path: /winterintensive
+      - title: Sommer-Intensive
+        path: /sommerintensive
