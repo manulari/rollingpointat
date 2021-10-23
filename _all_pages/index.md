@@ -18,7 +18,7 @@ Fotocredit: Johannes Stolba
 
 ### **Abendkurse:**
 
-<div class="named-anchor" id="1"></div>
+### <div class="named-anchor" id="1"></div>
 
 \
 [](/kurse#mo)[[[**1  „Opening, Folding, Release“ Zeitgenössisches Tanztraining** **\- open level**\
