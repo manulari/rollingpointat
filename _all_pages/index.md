@@ -14,9 +14,9 @@ Fotocredit: Johannes Stolba
 
 <div class="imglink"><a target="_blank" href="https://www.youtube.com/watch?v=kp3DqzN1Ldo"><img src="/assets/uploads/video_vorschau_maria.png" /><div>CI und Ganzheitliches Körpertraining mit maRia Probst</div></a></div>
 
-### **Wintersemester 2021/22**
+### **Übersicht Wintersemester 2021/22**
 
-#### **Abendkurse:**
+### **Abendkurse:**
 
 **1  „Opening, Folding, Release“ Zeitgenössisches Tanztraining** - open level\
 mit maRia Probst\
@@ -38,14 +38,14 @@ mit Christian Apschner\
 **Do 16.9.2021 – 3.2.2022, 18.15 - 20.45h**\
 **Turnsaal VS Gilgegasse 12, 1090 Wien**
 
-#### **Wochenend-Workshops:**
+
+
+### **Wochenend-Workshops:**
 
 **9./10.10.2021 "From Bodywork into Movement"** mit Christian Apschner und maRia Probst
 
 **13./14.11.2021 "Comics and Dance"** mit maRia Probst und Susanne Hochreiter
 
 **22./23.1.2022: "Contact Flying Skills"** mit Christian Apschner
-
-
 
 *Sämtliche Angebote werden entsprechend den aktuellen Covid-Regelungen abgehalten.*
