@@ -1,10 +1,10 @@
 ---
 permalink: /forschungsbericht
-title: Forschungsbericht
+title: Forschungsbericht CON.ACT
 ---
 [](http://www.rollingpoint.at/?id=10)
 
-## Forschungsbericht
+## Forschungsbericht CON.ACT
 
 ![](http://www.rollingpoint.at/contents/photos/img_1750.jpg)
 
@@ -14,8 +14,6 @@ title: Forschungsbericht
 Christian Apschner, Maria Probst\
 Verein für Contact Improvisation und artverwandte Tanz- und Bewegungsformen\
 Vorgartenstraße 112/30, 1020 Wien, ci.rollingpoint@gmail.com
-
- 
 
 **KURZFASSUNG**
 
@@ -41,11 +39,7 @@ Darüberhinaus wäre es sehr spannend in einem weiteren Projekt den künstlerisc
 
 Wir danken dem Tanzquartier Wien sowie der KünstlerInneninitiative Im_flieger für die mögliche Realisierung und vor allem auch allen TeilnehmerInnen von “Twist&Talk” für das gemeinsame Forschen. Wir werden unsere Ideen zu CON.ACT 2 konsequent weiterverfolgen und sind in diesem Zusammenhang sind für jede Finanzierungsidee dankbar.
 
- 
-
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\__
-
- 
 
 **1. EINLEITUNG und VORGESCHICHTE**
 
@@ -58,8 +52,6 @@ In den Reflexionsrunden wurde von der bunten Vielfalt an TeilnehmerInnen mit unt
 Die Grundidee von CON.ACT ist, in einem ersten Schritt das gesellschaftspolitische und -bildende Lernpotential im Umgang mit den aktuellen gesellschaftlichen Veränderungen zu untersuchen (CON.ACT 1) und dieses in einem zweiten Schritt einem breiteren Personenkreis bzw. neuen Zielgruppen zugänglich zu machen (CON.ACT 2).
 
 "CON.ACT” ist somit eine partizipative, künstlerisch-wissenschaftliche Recherche ob und wie eine spezifische Praxis zeitgenössischer Tanzimprovisation und von Somatic Movement Practices eine Methode im Umgang mit gesellschaftlichem Wandel darstellt und das Potential zu gesellschaftspolitischem Handeln in sich birgt.
-
- 
 
 **2. CON.ACT 1 / “Twist&Talk” - THEMA, HERANGEHENSWEISEN, ABLAUF, ZIELE**
 
@@ -77,8 +69,6 @@ CON.ACT 1 wurde im Herbst 2018 in Kooperation mit Tanzquartier Wien und der Kü
 
 **X** Zusammenfassung der Schlüsse für die Weiterentwicklung des Formates zu\
 CON.ACT 2
-
- 
 
 **Ausschreibungstext für “Twist&Talk:**\
 “Twist&Talk” / "In, Out, With" Nov / Dez 2018\
@@ -117,16 +107,12 @@ Generell waren die Nachmittage immer von verschiedenen Feedback-Loops, Reflexion
 **Peergroups:** \
 Zwischen den öffentlichen “Twist&Talks” fanden zwei Kleingruppen-Treffen mit geladenen TeilnehmerInnen statt, in denen wir mit ExpertInnen aus verschiedenen beruflichen Feldern tiefer in einige Thematiken eintauchen konnten. So bestand beispielsweise am zweiten Termin die Gruppe hauptsächlich aus professionellen PerformerInnen. Wir erprobten einen Score, der sehr nahe am Forums-Theater bzw. an Aufstellungsarbeit lag. Den ProtagonistInnen dieser Gruppe fiel es leicht, den Auftrag innerhalb des Scores über ihre sensomotorische Expertise abzuwickeln (wohingegen ein ähnlicher Score zum darauffolgenden Großgruppen-Termin eher auf einer theatralen bzw. psychologischen Ebene durchgespielt wurde).
 
- 
-
 **Ziele** dieser ersten Etappe von CON.ACT waren u.a. auch\
 X eine gesellschaftspolitisch relevante Thematik über mehrere Termine auszuloten\
 X im Idealfall mit den gleichen Menschen über einen längeren Zeitraum zu arbeiten\
 X im Zuge dessen Vermutungen zum Format bzw. zur Methodik zu überprüfen\
 X für Überraschungen offen zu sein\
 X diese erste Etappe auch zu dokumentieren, um sie anderen als open source Know-How zur Verfügung zu stellen und nicht zuletzt einen Fragebogen über die gesamte Phase laufen zu lassen, um differenziertes individuelles Feedback zu erhalten.
-
- 
 
 **3. FRAGEBOGENAUSWERTUNG und TEILNEHMERiNNEN-FEEDBACK** 
 
@@ -137,8 +123,6 @@ In den Fragebögen mit jeweils sieben bis zehn Fragen wurden Interessen und Moti
 Ingesamt wurden 45 Fragebögen mit einem durchschnittlichem Zeitaufwand von ca 15-20 min für die Beantwortung der einzelnen Fragebögen retourniert. Das sind in etwa 70% bezogen auf die TeilnehmerInnenzahl.
 
 Im folgenden sind die aussagekräftigsten Ergebnisse der Fragebogenauswertung zusammengefasst. 
-
- 
 
 **Motivation der TeilnehmerInnen an Twist&Talk teilzunehmen:**\
 \
@@ -198,8 +182,6 @@ Folgende Antworten werden als Bespiele angeführt:\
 
 *“Ich habe gelernt, die Frage nach gesellschaftlicher und politscher Relevanz meiner Arbeit wieder neu zu stellen. Meine Teilnahme hat für einen Moment den Fokus wieder darauf gerichtet und mich wachgerüttelt, alle meine Fragen noch deutlicher auf diese Relevanz hin zu artikulieren. Und es hat mir auch wieder deutlich gemacht, wie sehr die Körperarbeit und Arbeit mit Tanz und Performance eines der höchst politischsten Felder ist überhaupt mit aber einer geringen Wahrehmung der gesamten Gesellschaft. Diese Diskrepanz - die auch an der Sprachlichkeit/Nicht Sprachlichkeit/andersartige Sprachlichkeit liegt - wurde mir erneut scharf bewusst. Gerade jetzt im Fragebogen ist es für mich unheimlich interessant und lehrreich zu sehen, wie ich antworte im Bezug auf das Erlebte, auf das, was wir zusammen gemacht haben. Zu verstehen, wie ich Entscheidungen getroffen habe, in welchen Momenten ich mich wie gefühlt habe, und warum, ist sehr wichtig für mich. Und durch das Schreiben jetzt, lässt es sich besonders gut in mir einschreiben als reflektierte Erfahrung”.*
 
-
-
 Frage, ob dem Format **gesellschaftspolitische Relevanz** zugemessen wird:\
 \
 32% der TeilnehmerInnen beanworten diese Frage mit einem klaren *“Ja, unbedingt”*\
@@ -223,11 +205,7 @@ Auch zu den Antworten dieser Frage ein paar charakteristische Beispiele:
 
 *“Ja, allein schon deswegen, weil wir eine Situation aus dem Alltag für unsere Geschichte (die wir einer anderen Person erzählt haben) wählen sollten, und damit schon eine Rückkoppelung stattgefunden hat zu dem, was wir Tag für Tag (er)leben. Ich habe auch in den folgenden Tagen ein erhöhtes Bewusstsein für "dabei oder nicht dabei sein" gehabt und ich fand es sehr gut, dass ihr aufgefordert habt, das Körperempfinden, also den somatischen Anteil an den Erlebnissen bewusst zu spüren, denn das kann ich wiederum mitnehmen in andere Situationen.”*
 
-
-
 Vereinzelt wurde von TeilnehmerInnen der Wunsch geäußert, “Twist&Talk” zu einem Performanceprojekt weiterzuentwickeln.
-
- 
 
 **4. EMBODIMENT-THEORIEN und die SICHTWEISE der KOGNITIONSWISSENSCHAFTEN** 
 
@@ -254,8 +232,6 @@ Vergleiche folgender auf youtube abrufbarer Vortrag:
 **Intersubjektivität**: Intersubjektivität drückt aus, dass ein (komplexerer) Sachverhalt für mehrere Betrachter gleichermaßen erkennbar und nachvollziehbar sei: Man ist sich beispielsweise darüber einig, wie man etwas wahrnimmt, wie man es einordnet, oder was es bedeutet (z. B. „Fahrräder sind eine nützliche Erfindung“).
 
 **Empathie:** Empathie steht in engem Zusammenhang mit Intersubjektivität und bezeichnet die Fähigkeit und Bereitschaft, Empfindungen, Emotionen, Gedanken, Motive und Persönlichkeitsmerkmale einer anderen Person zu erkennen, zu verstehen und nachzuempfinden.
-
- 
 
 **5. Relevante WISSENSCHAFTLICHE VERÖFFENTLICHUNGEN in Bezug auf** **Contact-/Tanzimprovisation**
 
@@ -290,8 +266,6 @@ Der in Wien ansäßige Autor beschreibt auf Basis detaillierter Untersuchungen, 
 **Kimmel Michael, Dayana Hristova and Kerstin Kussmaul**\
 **Sources of Embodied Creativity: Interactivity and Ideation in Contact Improvisation**\
 Als Grundlage dieser Arbeit wurden 14 langjährig erfahrene Contact Improvisations- TänzerInnen, darunter auch die beiden AutorInnen vorliegender Arbeit zu “Twist&Talk”, im Rahmen einer mikrogenetischen Analyse zu ihren Tänzen befragt, wobei sich ein Befragungsteil auf das Thema “Kreativität in der Contact Improvisation” bezog. Die Arbeit zeigt auf, dass Kreativität in der Contact Improvisation meistens ein Ergebnis interpersoneller Synergien ist, d.h. dass Kreativität von selbst auftaucht, wenn gewisse Randbedingungen erfüllt sind, aber ohne die Notwendigkeit vorhergehender Planung, Koordination oder Konzeption.
-
- 
 
 **6. CONCLUSIO und AUSBLICK**
 
