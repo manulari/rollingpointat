@@ -6,30 +6,24 @@ title: Wochenend-Workshops
 
 ![](http://www.rollingpoint.at/contents/photos/20160609.145929.jpg)
 
-
-
 Fotocredits: He Shao Hui
 
 **[rollingpoint Video-link](https://www.youtube.com/watch?v=kp3DqzN1Ldo)**
-
- 
 
 **Neue Workshoptermine Wintersemester 2021/22:**
 
 **9./10.10.2021 "From Bodywork into Movement" mit Christian Apschner und maRia Probst**
 
-**13./14.11.2021 "Comics and Dance"**  
-
+**13./14.11.2021 "Comics and Dance"**  \
 **mit maRia Probst und Susanne Hochreiter**
 
-**22./23.1.2022: "Contact Flying Skills" mit Christian Apschner**
+**22./23.1.2022: "Contact Flying Skills"**\
+**mit Christian Apschner und Lui Springer (support)**
 
 
 
-**"From Bodywork into Movement" -** open level
-
-**9./10.10.2021 / 10-17h (ca 1,5h Mittagspause)** 
-
+**"From Bodywork into Movement" -** open level\
+**9./10.10.2021 / 10-17h**\
 **mit Christian Apschner und maRia Probst**
 
 Berührung ist eine reichhaltige Quelle unsere Bewegungsqualitäten zu verfeinern und zu erweitern. Oft reicht es dabei in einer wohlwollenden Haltung unserer Intuition freien Lauf zu lassen.
@@ -45,10 +39,8 @@ Der Workshop lädt sowohl Nicht-Contact Improvisation TänzerInnen als auch Cont
 
 
 
-**"Comics and Dance"** – open level
-
-**13./14.11.2021 / 10-17h (ca 1,5h Mittagspause)**
-
+**"Comics and Dance"** – open level\
+**13./14.11.2021 / 10-17h (ca 1,5h Mittagspause)**\
 **mit maRia Probst und Susanne Hochreiter**
 
 hybrid event (Zoom und gemeinsam im Studio)
@@ -72,13 +64,11 @@ In diesem Sinne erwartet euch an diesem Wochenende:\
 \*\**ein Angebot an tanzimprovisatorischen Settings entlang von Comics-Strategien\
 \*\**und ein reger Austausch über die Einwirkungen und Auswirkungen dieser Begegnungen
 
- 
+![](/assets/uploads/lsz_5755.jpg)
 
-**"Contact Flying Skills"** - advanced
-
-**Sa/So 22./23.1.2022, 10 - 17h  (ca 1,5h Mittagspause)**
-
-**mit Christian Apschner plus support (tba)**
+**"Contact Flying Skills"** - advanced\
+**Sa/So 22./23.1.2022, 10 - 17h  (ca 1,5h Mittagspause)**\
+**mit Christian Apschner und Lui Springer (support)**
 
 Der rollingpoint Workshop-Klassiker für alle CI-TänzerInnen mit sportlichen Ambitionen!
 
@@ -89,8 +79,6 @@ Wir stellen eine Verbindung von Athletischem und Meditativem her und lernen durc
 Fähigkeit sich dem gemeinsamen Bewegungsfluss hinzugeben und gleichzeitig den gemeinsamen Tanz so präsent wahrzunehmen, dass dieser Fluss spielerisch gelenkt werden kann.
 
 Für diesen Workshop sind CI-Grund- und Tanzerfahrung sowie gute körperliche und mentale Fitness empfehlenswert.
-
- 
 
 **Teilnahmekosten:**\
 € 190/150/110,- (Supporter/Normalpreis/ermäßigt) bei Einzahlung bis 14 Tage vor Workshopbeginn\
@@ -113,8 +101,6 @@ Tel. Christian 0650 8931081, maRia 0650 9510814
 
 ***Sämtliche rp Angebote werden entsprechend der aktuellen Covid19 Präventionsverordnungen abgehalten.*** 
 
- 
-
 **RÜCKBLICK:**
 
  **22./23.8.2020  "Gravity Based Dialogs"**\
@@ -125,14 +111,8 @@ Die Schwerkraft verbindet uns mit der Erde und wirkt in jedem Moment auf uns. Un
 **\
 14./15.11.2020  "Physical Encounters"**Contact Improvisation and -TechniqueWorkshop mit maRia und Christian
 
-
-
 **22.- 24.1.2021 "Contact Flying Skills"**\
 Workshop mit Christian Apschner
-
- 
-
- 
 
 **Contact for Health, Growth and Fun** - beginner\
 **mit *maRia Probst und Christian Apschner***
@@ -140,8 +120,6 @@ Workshop mit Christian Apschner
 **Sa 14.3.2020** 14.30 - 18.00 h
 
 In dieser Reihe liegt unser Augenmerk auf dem körpergerechten Tanz. Wir lassen unser fundiertes somatisches Wissen einfließen um Contact Improvisation von Grund auf gesundheitsfördernd und als Mittel für kontinuierliches, lustvolles Lernen am und über den Körper einzuführen. Inhalte des Workshops sind u.a. zu lernen am Boden zu rollen, gegenseitig Gewicht zu nehmen und -abzugeben sowie dem Bewegungsfluss des rollenden Kontaktpunktes zu folgen. Nicht zuletzt steht die Freude an der Begegnung und Bewegung unter Berücksichtigung verschiedenster Voraussetzungen im Vordergrund.
-
- 
 
 **Organic Movement - Spring Dynamics** \
 **die Organe als Ressource für Aufrichtung, Bewegung und Ausdruck**\
@@ -163,16 +141,11 @@ Wir werden den oberen und unteren Organen des Rumpfes Richtung geben, damit Raum
 
 Die aus der Mode geratenen Fähigkeiten des Zuhörens, Wartens, Beobachtens, kultivierend, werden wir uns in vielfältigen Spielformen zu unseren Organen und unseren PartnerInnen in Bezug setzen, den Magen knurren und die Leber tanzen lassen und Begegnung mit sich selbst einladen.
 
- 
+\*\*Liquid Motion, Embodiment, Contact Improvisation\
 
-**Liquid Motion, Embodiment, Contact Improvisation\
-- open level/beginner mit Christian Apschner**
+* open level/beginner mit Christian Apschner\*\*
 
 **Sa/So 6./7.6.2020** 10.00-17.00 
-
- 
-
-
 
 **Contact Flying Skills** - intermediate/advanced\
 ***mit Christian Apschner, support: Lena Maritsch***
@@ -193,8 +166,6 @@ Wer sie schon einmal erlebt hat, möchte sie nicht mehr missen. Diese Momente de
 Wir werden unsere Aufmerksamkeit auf Mikro-Bewegungen lenken, die Wahrnehmungsfähigkeit erweitern und auf den Kopf stellen, uns so nehmen wie wir sind und uns auch physisch herausfordern. Wir werden den „small dance“ tanzen, dranbleiben, los- und geschehen lassen.
 
 Vom ersten Moment an werden wir das Unbekannte einladen, der Wahrnehmung des eigenen Körpers und der Schwerkraft vertrauen, auf unseren Instinkt und unsere Intuition setzen und dem Tanz im Hier und Jetzt Raum geben.
-
- 
 
 **Organic Movement** - die Organe als Ressource für Aufrichtung, Bewegung und Ausdruck - open level\
 ***mit maRia Probst***
@@ -217,8 +188,6 @@ In diesem Sinne steht uns ein Wochenende bevor an dem gewartet, gespielt, gegess
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
- 
-
 **SOMMER WOCHENEND-WORKSHOP 24./25.8.2019 / Wien\
 "Touching Down on Contact Motherland" \
 Building Skills in Contact Improvisation**
@@ -228,8 +197,6 @@ Building Skills in Contact Improvisation**
 **Sa/So 10.00 - 17.00, Prana Yoga Studio 1, Mariahilferstr. 82/1070 Wien**
 
 Dieses Wochenende ist für BeginnerInnen und CI-TänzerInnen mit geringen CI-Vorerfahrungen, z.B. aus Jams gedacht. Wir möchten einen Rahmen schaffen, in dem die zentralen Grundprinzipien und handfesten bewegungstechnischen Skills der Contact Improvisation vermittelt werden. "Contact Motherland" heisst für uns aktiv wahrnehmen, Gewicht abgeben, aufnehmen und dosieren können, mit dem rollenden Kontaktpunkt tanzen und damit spielen können, sich lehnen und fallen zuzutrauen, mit Angeboten im Tanz wie dem "low table" und "high table" umzugehen und vieles mehr. Im Contact motherland anzukommen erweitert unsere Bewegungsmöglichkeiten im Improvisieren, gibt Sicherheit im freien CI-Tanzen auf Jams, macht meistens viel Freude und generiert Bewegungslust.
-
- 
 
 **Contact Improvisation + Jam Fundamentals I + II** / beginner\
 **"Tasting Contact Improvisation"**\
@@ -247,8 +214,6 @@ So 24.3.: Am Boden und mit PartnerInnen rollen, Spiralbewegungen und Ebenenwechs
 
 So 7.4.: Gestaltungsmöglichkeiten von Tänzen, Contact-Tänze beginnen und beenden, Bewegung durch den Raum, Rollen, Gleiten, Körperreflexe, Fallen und sicher landen lernen
 
- 
-
 **Moving in Spirals / open level**\
 **Somatic Movement - Contact Improvisation - Contemplation/Activation - Synesthesia**\
 mit Christian Apschner \
@@ -257,8 +222,6 @@ mit Christian Apschner \
 Überall in der Natur vom kleinsten Baustein bis hin zum gesamten Universum ist das Bewegungsprinzip der Spirale verbreitet. Die Architektur des menschlichen Körpers ist ein Erbe evolutionärer Prozesse mit ozeanischem Ursprung. Spiralbewegungen können von verschiedensten Körperteilen aus initiert werden und betreffen Flüssigkeiten, Muskeln, Knochen, Bindegewebe und Organe.
 
 An dem Wochenende lernen wir verschiedenste Variationen von ganz kleinen bis sehr großen Spiralbewegungen im Liegen, im Stehen und in räumlicher Fortbewegung im Detail kennen und vertiefen diese. Wir kreieren Bewusstheit darüber wie Spiralbewegungen in sequenzieller Form durch den Körper durchlaufen und wie mühelos Fortbewegung dadurch wird, wenn wir die Zugverbindungen des Fasziensystems wirken lassen. Hands-On-Kontakt, Elemente von Contact Improvisation und anatomische Vorstellungsbilder helfen uns ein besseres Verständnis für unsere Körperarchitektur zu gewinnen. Es wird meditative Phasen geben sowie Phasen die durch spezielle ausgewählte Musik und Soundscapes unterstützt werden um Synästhesien bzw. intermodale Zusammenhänge zwischen verschiedenen Sinnsesebenen (taktil, kinästhetisch, auditativ, visuell) zu erfahren. In einem inneren Schwebezustand zwischen Kontemplation und Aktivierung können wir somit das Gelernte und heilsame Erfahrungen in unser Selbst- und Körperbild integrieren. Die erlernten Spiralbewegungen erweitern unsere Bewegungsmöglichkeiten im Contact Improvisations-Tanzen, im freien Tanzen und in Alltagsbewegungen.
-
- 
 
 **WINTERSEMESTER 2018/19:**
 
@@ -270,8 +233,6 @@ Dieser technikorientierte Workshop lädt bewegungsfreudige CI-TänzerInnen ein
 
 Für diesen Workshop sind CI-Grund- und Tanzerfahrung sowie gute körperliche und mentale Fitness empfehlenswert.
 
- 
-
 **„Gravity Based Motion Poetry - Sound and Music“** mit maRia Probst\
 **Zeitgenössischer Tanz** - open level\
 **Sa/So 13./14.10.2018,** 10.30 - 17.00h
@@ -279,8 +240,6 @@ Für diesen Workshop sind CI-Grund- und Tanzerfahrung sowie gute körperliche un
 ACHTUNG: Anmeldung bis Sa 6.10.18
 
 Zeitgenössischer Tanz ist ein wunderbares Medium sich in verschiedensten Facetten im Dialog mit sich den PartnerInnen und dem Raum zu erleben. In Gravity Based Motion Poetry bilden tänzerische Grundelemente wie Kraft aus der Mitte abgestimmt mit der Körperperipherie, Gespür für Ausrichtung, Schwung im Zusammenspiel mit unseren Gelenken und Organen, Sprungkraft unterstützt von unserem Fasziensystem und mehr, die Basis des Erlebens. Derart physisch geankert, werden wir in die Fülle der Möglichkeiten des tänzerischen Gestaltens und in einen Dialog mit einem zusätzlichen künstlerischen Medium eintauchen. In diesem Workshop lassen wir uns von Musik und Klang bereichern. Dabei werden wir sowohl entlang von Scores (Spielregeln) improvisieren wie auch mit vielerlei Anregung eigene Tanzmotive kreieren. Achtung: Im Zuge dieses Wochenendes kann es durchaus zu modifizierter Zeit-, Raum- und Selbstwahrnehmung kommen. Come and enjoy*
-
- 
 
 **„Soulfood Bodywork and Sensorimotor Rides“**mit Christian Apschner und Maria Probst\
 **Contact Improvisation und Körperarbeit -** open level \
