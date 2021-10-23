@@ -2,7 +2,7 @@
 permalink: /dojo
 title: CI-DOJO (TRAINING+JAM)
 ---
-CI-DOJO (Training+Jam)
+## CI-DOJO (Training+Jam)
 
 ![](http://www.rollingpoint.at/contents/photos/lsz_5410.jpg)Fotocredits: Laurent Ziegler
 
