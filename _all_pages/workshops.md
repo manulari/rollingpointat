@@ -1,6 +1,6 @@
 ---
 permalink: /workshops
-title: WOCHENEND-WORKSHOPS
+title: Wochenend-Workshops
 ---
 # Wochenend-Workshops
 
