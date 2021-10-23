@@ -1,5 +1,5 @@
 ---
-permalink: https://www.rollingpoint.manulari.eu/dojo
+permalink: /DOJO
 title: CI-DOJO (TRAINING+JAM)
 ---
 Fotocredits: Laurent Ziegler
