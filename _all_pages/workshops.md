@@ -20,7 +20,7 @@ Fotocredits: He Shao Hui
 
 &nbsp;
 
-<div class="named-anchor" id="bodywork"></div>
+<div class="named-anchor" id="/bodywork"></div>
 
 **"From Bodywork into Movement" -** open level\
 **9./10.10.2021 / 10.00-17.00**\
