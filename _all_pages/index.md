@@ -26,20 +26,22 @@ Fotocredit: Johannes Stolba
 **Mo 20.9.2021 – 31.1.2022, 18.10 - 20.10h (ca.15x)**\
 **Turnsaal VS Gilgegasse 12, 1090 Wien**](mo)](/kurse#mo)](/kurse#mo)[](/kurse#mo)
 
-**2 CI Körpertraining + „Bounce and Shake"** - **open level**\
+[**2 CI Körpertraining + „Bounce and Shake"** - **open level**\
 **mit maRia Probst**\
 **Di 21.9.2021- 1.2.2022, 18.00 – 20.00h (ca.15x)**\
-**Turnsaal der VS Einsiedlergasse 7, 1050 Wien**\
+**Turnsaal der VS Einsiedlergasse 7, 1050 Wien**](/kurse#di)\
 \
-**3 Contact Improvisation and - Technique - beginner/intermediate**\
+[**3 Contact Improvisation and - Technique - beginner/intermediate**\
 **mit Christian Apschner**\
 **Mi 22.9.2021. - 2.2.2022, 18.15 – 20.30h (ca.15x)**\
-**Turnsaal VS Einsiedlergasse 7, 1050 Wien**\
+**Turnsaal VS Einsiedlergasse 7, 1050 Wien**](/kurse#mi)\
 \
-**4 Contact Dojo: CI-Training + Jam**\
+[**4 Contact Dojo: CI-Training + Jam**\
 **mit Christian Apschner**\
 **Do 16.9.2021 – 3.2.2022, 18.15 - 20.45h**\
-**Turnsaal VS Gilgegasse 12, 1090 Wien**
+**Turnsaal VS Gilgegasse 12, 1090 Wien**](/kurse#do)
+
+### &nbsp;
 
 ### **Wochenend-Workshops:**
 
