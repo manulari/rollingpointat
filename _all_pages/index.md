@@ -10,9 +10,9 @@ Fotocredit: Johannes Stolba
 
 ## Videos
 
-<div class="imglink"><a target="_blank" href="https://www.youtube.com/watch?v=kp3DqzN1Ldo"><img src="/assets/uploads/video_vorschau_rollingpoint.png" /><div>rollingpoint in einem Video</div></a></div>
+<div class="imglink"><a target="_blank" href="https://www.youtube.com/watch?v=kp3DqzN1Ldo"><img src="/assets/uploads/video_vorschau_rollingpoint.png" /><div>rollingpoint-Video</div></a></div>
 
-<div class="imglink"><a target="_blank" href="https://www.youtube.com/watch?v=kp3DqzN1Ldo"><img src="/assets/uploads/video_vorschau_maria.png" /><div>CI und Ganzheitliches Körpertraining mit maRia Probst</div></a></div>
+<div class="imglink"><a target="_blank" href="https://www.youtube.com/watch?v=kp3DqzN1Ldo"><img src="/assets/uploads/video_vorschau_maria.png" /><div>Ganzheitliches Körpertraining mit maRia Probst</div></a></div>
 
 ### **Übersicht Wintersemester 2021/22**
 
