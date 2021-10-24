@@ -47,6 +47,8 @@ entries:
         path: network
       - title: links
         path: /links
+      - title: Fotos
+        path: fotos
   - title: KONTAKT
     path: kontakt
     subentries:
