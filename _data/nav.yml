@@ -45,10 +45,10 @@ entries:
         path: christian
       - title: Netzwerk
         path: network
-      - title: links
-        path: /links
       - title: Fotos
         path: fotos
+      - title: links
+        path: /links
   - title: KONTAKT
     path: kontakt
     subentries:
