@@ -12,7 +12,7 @@ title: Somatisches Lernen
 
 Rollingpoint versteht Contact Improvisation und zeitgenössischen Tanz als Form somatischen Lernens. Somatisches Lernen beruht auf dem **engen Bezug des Lernens zum Körper**. Während kognitives Lernen vorwiegend auf gedanklicher Ebene erfolgt, ist somatisches Lernen unmittelbar leiblich erfahrbar.
 
-**Bewegung und Berührung** sind die Grundlage aller menschlichen Entwicklungsprozesse. Das **Körpergedächtnis** (Leibgedächtnis) ist der Schlüssel somatischen Lernens. Alle Sinneseindrücke hinterlassen Abdrücke im Körpergedächtnis. Während sich negative Erfahrungen wie Angst meist unbewusst als blockierende Anspannung im Körpergedächtnis manifestieren, sucht somatische Körperarbeit **durch Achtsamkeit ganz gezielt nach neuen positiven Körpererfahrungen, Bewegungsfreiheit und einem ausgeglichenen Körpertonus.**\
+**Bewegung und Berührung** sind die Grundlage aller menschlichen Entwicklungsprozesse. Das **Körpergedächtnis** (Leibgedächtnis) ist der Schlüssel somatischen Lernens. Alle Sinneseindrücke hinterlassen Abdrücke im Körpergedächtnis. Während sich negative Erfahrungen wie Angst meist unbewusst als blockierende Anspannung im Körpergedächtnis manifestieren, sucht somatische Körperarbeit durch **Achtsamkeit** ganz gezielt nach **neuen positiven Körpererfahrungen, Bewegungsfreiheit** und einem **ausgeglichenen Körpertonus.**\
 \
 Somatisches Lernen ist die ureigenste Form des Lernens an sich. Die Geschichte somatischen Lernens  ist daher so alt wie die Geschichte der Menschheit selbst. Yoga, Tai Chi, Chi Gong, Aikido u.a. östliche Körperpraktiken haben einen wesentlichen Einfluss auf die Entstehung der neueren Methoden der westlichen Hemisphäre.
 
@@ -20,7 +20,7 @@ Im deutschsprachigen Raum ist die **Pionierarbeit von Elsa Gindler** und Heinri
 
 **Mabel Todd** war in den USA Vorreiterin der Erforschung somatischer Lernprozesse. Das 1937 erschienene Buch „The Thinking Body“ ist die Grundlage der später unter dem Begriff „Ideokinese“ vor allem in der Tanzwelt weiter entwickelten Methode, durch bewusstes Wahrnehmen anatomischer Gegebenheiten, die Körperhaltung und das Bewegungsverhalten zu verbessern.
 
-**Von eindrücklichen Persönlichkeiten wie** F.M. Alexander, Moshe Feldenkrais, Gerda Alexander ("Eutonie"), Milton Trager, oder Bonnie Bainbridge Cohen ("Body Mind Centering") wurden verschiedenste Methoden somatischen Lernens entwickelt und verbreitet.
+Von eindrücklichen Persönlichkeiten wie **F.M. Alexander, Moshe Feldenkrais, Gerda Alexander** ("Eutonie"), **Milton Trager** oder **Bonnie Bainbridge Cohen** ("Body Mind Centering") wurden verschiedenste Methoden somatischen Lernens entwickelt und verbreitet.
 
 **Somatische Lernmethoden** lenken in ihrem Lern-Setting die Aufmerksamkeit ganz gezielt auf bestimmte Aspekte von Bewegung und Körperhaltung um sie bewusst zu machen. Durch verbale Anleitungen, oft durch anatomische oder imaginative Vorstellungsbilder unterstützt und Berührung, können kleinste Veränderungen von Muskelanspannungen und andere kinästhetische Empfindungen wahrgenommen werden.\
 \
