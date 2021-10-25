@@ -9,13 +9,7 @@ title: CI-DOJO (TRAINING+JAM)
 **DOJO=Training+Jam**, abwechselnd **advanced** und\
 **open level (beginners welcome, bring your friends!)**
 
-**Dōjō**, die Übungshalle in den japanischen Kampfkünsten; dies ist auch teilweise die Bezeichnung für den Meditationsraum im japanischen Zen; in diesem Fall auf die Praxis der Contact Improvisation übertragen.
-
-**Noch mehr Raum zum Contact Improvisations-Tanzen:**
-
-Das Format geht abwechselnd sowohl auf die speziellen Wünsche und Bedürfnisse von fortgeschrittenen CI-TänzerInnen und auch von NeubeginnerInnen ein. Die Abende bestehen jeweils aus einem angeleiteten CI-Training und einer nachfolgenden Contact-Jam. CI-Training und Jam können gemeinsam oder unabhängig voneinander besucht werden, die gemeinsame Teilnahme ist empfehlenswert. Als Contact-Dojo steht uns der knapp 200m2 große Turnsaal mit für CI optimalem Holzschwingboden in der VS Gilgegasse 9, 1090 Wien zur Verfügung. 
-
-**Termine Wintersemester 2021/22:**
+**Termine Wintersemester 2021/22 ab 16.9.2021**
 
 **Open level DOJO: 16.9., 30.9., 14.10., 4.11., 18.11., 2.12., 16.12.2021,\
 20.1., 3.2.2021**
@@ -24,10 +18,15 @@ Das Format geht abwechselnd sowohl auf die speziellen Wünsche und Bedürfnisse 
 13.1., 27.1.2022**
 
 **Training: 18.15-19.30\
-Jam 19.30-20.45**\
-**Keine Anmeldung erforderlich**
+Jam 19.30-20.45**
 
 **Turnsaal Gilgegasse 12, 1090 Wien**
+
+**Dōjō**, die Übungshalle in den japanischen Kampfkünsten; dies ist auch teilweise die Bezeichnung für den Meditationsraum im japanischen Zen; in diesem Fall auf die Praxis der Contact Improvisation übertragen.
+
+**Noch mehr Raum zum Contact Improvisations-Tanzen:**
+
+Das Format geht abwechselnd sowohl auf die speziellen Wünsche und Bedürfnisse von fortgeschrittenen CI-TänzerInnen und auch von NeubeginnerInnen ein. Die Abende bestehen jeweils aus einem angeleiteten CI-Training und einer nachfolgenden Contact-Jam. CI-Training und Jam können gemeinsam oder unabhängig voneinander besucht werden, die gemeinsame Teilnahme ist empfehlenswert. Als Contact-Dojo steht uns der knapp 200m2 große Turnsaal mit für CI optimalem Holzschwingboden in der VS Gilgegasse 9, 1090 Wien zur Verfügung. 
 
 **Open level CI-DOJO:** Die open level Termine laden insbesondere auch alle interessierten NeueinsteigerInnen ohne jegliche Vorkenntnisse zum Ausprobieren und Mitmachen ein ("Tasting Contact Improvisation). In den 1,5 stündigen Trainings vor der Jam werden CI Fundamentals vermittelt. Für die nachfolgende Jam wird es eine gemeinsame Eröffnungsrunde zum Kennenlernen sowie ein kurzes angeleitetes warm up geben. Der Fokus der Jam liegt in einem Miteinander-Tanzen unabhängig von den jeweiligen CI-Vorerfahrungen.
 
