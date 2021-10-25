@@ -18,7 +18,8 @@ title: CI-DOJO (TRAINING+JAM)
 13.1., 27.1.2022**
 
 **Training: 18.15-19.30\
-Jam 19.30-20.45**
+Jam 19.30-20.45**\
+**Keine Anmeldung erforderlich**
 
 **Turnsaal Gilgegasse 12, 1090 Wien**
 
