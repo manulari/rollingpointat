@@ -135,12 +135,6 @@ Wir werden den oberen und unteren Organen des Rumpfes Richtung geben, damit Raum
 
 Die aus der Mode geratenen Fähigkeiten des Zuhörens, Wartens, Beobachtens, kultivierend, werden wir uns in vielfältigen Spielformen zu unseren Organen und unseren PartnerInnen in Bezug setzen, den Magen knurren und die Leber tanzen lassen und Begegnung mit sich selbst einladen.
 
-\*\*Liquid Motion, Embodiment, Contact Improvisation\
-
-* open level/beginner mit Christian Apschner\*\*
-
-**Sa/So 6./7.6.2020** 10.00-17.00 
-
 **Contact Flying Skills** - intermediate/advanced\
 ***mit Christian Apschner, support: Lena Maritsch***
 
@@ -230,8 +224,6 @@ Für diesen Workshop sind CI-Grund- und Tanzerfahrung sowie gute körperliche un
 **„Gravity Based Motion Poetry - Sound and Music“** mit maRia Probst\
 **Zeitgenössischer Tanz** - open level\
 **Sa/So 13./14.10.2018,** 10.30 - 17.00h
-
-ACHTUNG: Anmeldung bis Sa 6.10.18
 
 Zeitgenössischer Tanz ist ein wunderbares Medium sich in verschiedensten Facetten im Dialog mit sich den PartnerInnen und dem Raum zu erleben. In Gravity Based Motion Poetry bilden tänzerische Grundelemente wie Kraft aus der Mitte abgestimmt mit der Körperperipherie, Gespür für Ausrichtung, Schwung im Zusammenspiel mit unseren Gelenken und Organen, Sprungkraft unterstützt von unserem Fasziensystem und mehr, die Basis des Erlebens. Derart physisch geankert, werden wir in die Fülle der Möglichkeiten des tänzerischen Gestaltens und in einen Dialog mit einem zusätzlichen künstlerischen Medium eintauchen. In diesem Workshop lassen wir uns von Musik und Klang bereichern. Dabei werden wir sowohl entlang von Scores (Spielregeln) improvisieren wie auch mit vielerlei Anregung eigene Tanzmotive kreieren. Achtung: Im Zuge dieses Wochenendes kann es durchaus zu modifizierter Zeit-, Raum- und Selbstwahrnehmung kommen. Come and enjoy*
 
