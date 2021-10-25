@@ -9,23 +9,20 @@ Die reguläre rollingpoint Contact Improvisations Jam findet jeden Sonntag Abend
 
 ***Alle rollingpoint-Angebote werden entsprechend den aktuellen CoVid-Regelungen für Wien abgehalten (geimpft, genesen, PCR-Test) TeilnehmerInnenliste mit Erfassung der Kontaktdaten.*** 
 
-
-
 ## **rollingpoint-Jam am Sonntag**
 
 **Jeden Sonntag 19.00 - 22.00**\
 Prana Yoga-Studio Nr. 1, 2. Innenhof, 1. Stock, Mariahilferstr. 82, 1070 Wien\
 Keine Anmeldung erforderich.
 
-**Ankommen von 19.00 bis 19.30**; vor 19.00 und nach 19:30h aus raumorganisatorischen Gründe kein Einlass möglich!\
+**Ankommen von 19.00 bis 19.30**; vor 19.00 und nach 19:30h aus raumorganisatorischen Gründe kein Einlass möglich\
 Teilweise  angeleitete warm ups, ausgewählte Musik und Sound-Scapes in der 2.Hälfte der Jams.
 
 **Raumbeitrag auf Spendenbasis: ca.10€ (min 6€), bitte um Kontoüberweisung**
 
 **Bankvbdg.:** IBAN: AT54 3200 0000 1701 2717, BIC: RLNWATWW, Verein rollingpoint
 
-
-
+\
 **Hinweise zur Sicherheit in den rollingpoint-Jams:** 
 
 Wichtigster Grundkonsens einer CI-Jam ist, dass alle TeilnehmerInnen so gut wie möglich **auf die eigene Sicherheit UND die Sicherheit der TanzpartnerInnen achten**: *„Pass auf, dass du niemand verletzt! Pass auf, dass dich niemand verletzt!"*
