@@ -16,7 +16,7 @@ Rollingpoint versteht Contact Improvisation und zeitgenössischen Tanz als Form 
 \
 Somatisches Lernen ist die ureigenste Form des Lernens an sich. Die Geschichte somatischen Lernens  ist daher so alt wie die Geschichte der Menschheit selbst. Yoga, Tai Chi, Chi Gong, Aikido u.a. östliche Körperpraktiken haben einen wesentlichen Einfluss auf die Entstehung der neueren Methoden der westlichen Hemisphäre.
 
-Im deutschsprachigen Raum ist die **Pionierarbeit von Elsa Gindler** und Heinrich Jacoby während der Entstehung der Reformpädagogik in den 1920er Jahren hervorzuheben. Elsa Gindler bezeichnete ihre Arbeit schlicht  als „Arbeit mit dem Körper“. Ein Textausschnitt aus einem ihrer Vorträge aus dem Jahr 1926 beschreibt auch aus heutiger Sicht immer noch sehr gut die Randbedingungen für somatisches Lernen. 1)
+Im deutschsprachigen Raum ist die **Pionierarbeit von Elsa Gindler** und Heinrich Jacoby während der Entstehung der Reformpädagogik in den 1920er Jahren hervorzuheben. Elsa Gindler bezeichnete ihre Arbeit schlicht  als „Arbeit mit dem Körper“. Ein Textausschnitt aus einem ihrer Vorträge aus dem Jahr 1926 beschreibt auch aus heutiger Sicht immer noch sehr gut die Randbedingungen für somatisches Lernen. **1)**
 
 **Mabel Todd** war in den USA Vorreiterin der Erforschung somatischer Lernprozesse. Das 1937 erschienene Buch „The Thinking Body“ ist die Grundlage der später unter dem Begriff „Ideokinese“ vor allem in der Tanzwelt weiter entwickelten Methode, durch bewusstes Wahrnehmen anatomischer Gegebenheiten, die Körperhaltung und das Bewegungsverhalten zu verbessern.
 
