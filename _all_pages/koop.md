@@ -25,14 +25,10 @@ in touch!
 
 **Details:** <http://www.idocde.net/>
 
-
-
 **&nbsp;**
 
 **Forschungsprojekt "Improvisation und Interaktion - Körperwissen entschlüsseln" - rollingpoint forscht mit:**\
-Mit Unterstützung des Wissenschaftsfonds FWF untersucht Michael Kimmel von der Universität Wien, wie Interaktion und Improvisation funktionieren. Damit ist der Kognitionswissenschafter komplexen Mechanismen des Zusammenspiels von Körper und Kompetenz auf der Spur. Konkret untersucht Kimmel die Fähigkeiten der Interaktion von Experten ebenso wie Lernenden in den Disziplinen Tango Argentino und "Contact Improvisation", in Aikido, Shiatsu und Feldenkrais. Denn im Paartanz, Kampfsport und in der Körperarbeit treffen die Anforderungen des kontinuierlichen Kontakts und der Mikrokoordination mit Anforderungen des Improvisierens zusammen. - Wichtige Aspekte für das Zusammenspiel von Körper und kognitiver Kompetenz. Mehr Infos:
-
-[https://science.apa.at/rubrik/kultur_und_gesellschaft/Improvisation_und\_Interaktion\_-_Koerperwissen_entschluesseln/SCI_20151228_SCI39431352627430526](https://science.apa.at/rubrik/kultur_und_gesellschaft/Improvisation_und_Interaktion_-_Koerperwissen_entschluesseln/SCI_20151228_SCI39431352627430526)
+Mit Unterstützung des Wissenschaftsfonds FWF untersucht Michael Kimmel von der Universität Wien, wie Interaktion und Improvisation funktionieren. Damit ist der Kognitionswissenschafter komplexen Mechanismen des Zusammenspiels von Körper und Kompetenz auf der Spur. Konkret untersucht Kimmel die Fähigkeiten der Interaktion von Experten ebenso wie Lernenden in den Disziplinen Tango Argentino und "Contact Improvisation", in Aikido, Shiatsu und Feldenkrais. Denn im Paartanz, Kampfsport und in der Körperarbeit treffen die Anforderungen des kontinuierlichen Kontakts und der Mikrokoordination mit Anforderungen des Improvisierens zusammen. - Wichtige Aspekte für das Zusammenspiel von Körper und kognitiver Kompetenz
 
 **Veröffentlichungen aus dem Forschungsprojekt zum Nachlesen:**
 
