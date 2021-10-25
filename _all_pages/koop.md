@@ -15,7 +15,8 @@ Buildung on some mycological knowledge* we will dive into a sensorimotor experie
 *Paul Stamets: Fantastic fungi. How Mushrooms can heal, shift consciousness, and save the planet*\
 *Patricia Kaishian: The Science Underground: Mycology as a queer discipline (preprint)*
 
-**maRia Probst & Susanne Hochreiter*: About Dance, Comics and Survival***So here we are, right in the gutter. Having switched from full on\
+**maRia Probst & Susanne Hochreiter*: About Dance, Comics and Survival***\
+So here we are, right in the gutter. Having switched from full on\
 physicality towards imagination and poetry into the 2nd dimension of\
 zoom world and its shifting panels, blurry images and vaguely moving\
 bodies. I meet you: omnipotent, fragmented and vulnerable. Thrown into a\
