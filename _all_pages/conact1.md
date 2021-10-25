@@ -2,14 +2,14 @@
 permalink: /conact1
 title: CON.ACT/Twist&Talk
 ---
-**Das künstlerische Forschungsprojekt wurde im Herbst 2018 in Kooperation mit dem Tanzquartier Wien und der KünstlerInnen-Initiative Im_flieger durchgeführt.**
+**Das künstlerische Forschungsprojekt Twist&Talk: "In, Out, With" wurde im Herbst 2018 in Kooperation mit dem Tanzquartier Wien und der KünstlerInnen-Initiative Im_flieger durchgeführt.**
 
 **Projektbeschreibung:**
 
-**Twist&Talk: "In, Out, With"** 
+**Twist&Talk: "In, Out, With"**
 
-**die Weiterentwicklung unseres langjährigen Projekts "Sharing the Dance" \
-- ein open level Tanzimprovisations- und Diskursformat inmitten gesellschaftlichen Umbruchs**
+* die Weiterentwicklung unseres langjährigen Projekts "Sharing the Dance"
+* ein open level Tanzimprovisations- und Diskursformat inmitten gesellschaftlichen Umbruchs
 
 **mit maRia Probst und Christian Apschner**
 
@@ -28,8 +28,6 @@ Aspekte des Prozess und Teilergebnisse aus **CON.ACT** / Etappe 1 werden im Ra
 TQW: <http://tqw.at>
 
 Im_flieger: <http://www.imflieger.net/>
-
- 
 
 **"CON.ACT”** ist eine partizipative, künstlerisch-wissenschaftliche Recherche ob und wie eine spezifische Praxis zeitgenössischer Tanzimprovisation und von Somatic Movement Practices eine Methode im Umgang mit gesellschaftlichem Wandel darstellt und das Potential zu gesellschaftspolitischem Handeln in sich birgt.
 
