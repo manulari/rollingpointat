@@ -18,8 +18,6 @@ Fotocredit: Johannes Stolba
 
 ### **Abendkurse:**
 
-### <div class="named-anchor" id="1"></div
-
 <div class="named-anchor" id="/kurse#mo"></div>
 
  **\- open level**\
