@@ -13,7 +13,7 @@ title: CON.ACT/Twist&Talk
 
 **mit maRia Probst und Christian Apschner**
 
-**Dieses Format richtet sich an alle, die sich über Bewegung, manchmal Berührung, über Tanz-Improvisation, Somatic Movement Zugänge und auch verbal reflektierend mit gesellschaftlich relevanten Themen auseinandersetzen wollen. Vorerfahrung in den genannten Bereichen ist förderlich aber keine Voraussetzung.** 
+Dieses Format richtet sich an alle, die sich über Bewegung, manchmal Berührung, über Tanz-Improvisation, Somatic Movement Zugänge und auch verbal reflektierend mit gesellschaftlich relevanten Themen auseinandersetzen wollen. Vorerfahrung in den genannten Bereichen ist förderlich aber keine Voraussetzung. 
 
 Wie choreografieren wir Gesellschaft und wie choreografiert sie uns? Entlang welcher „Scores“ bewegen wir uns, ohne sie bewusst zu kennen? Bin ich immer noch wir, wenn ich „out“ bin? Was bedeutet mit anderen sein und wie bewegt sich das Andere, wenn ich es bin oder du? Wie schreiben sich diese und ähnliche Verhandlungen in unsere Körper, Bewegungen und Tänze ein
 
@@ -69,4 +69,4 @@ Der intensivierte Austausch mit an Embodiment-Prozessen Interessierten aus unter
 
 **CON.ACT Durchführungs-Etappe 2/Ausblick:**
 
-In Durchführungs-Etappe 2 soll anhand konkreter Anwendungsfälle untersucht werden, in welchen Personen-, Berufs- oder Gesellschaftsgruppen somato-kognitive Tanzimprovisations-Formate wie “Twist&Talk” sinnvoll eingesetzt bzw. adaptiert werden können. Leider hat sich eine bereits in Aussicht genommene Finanzierung für Conact / Etappe 2 im Bildungsbereich nicht realisieren lassen.
+In Durchführungs-Etappe 2 soll anhand konkreter Anwendungsfälle untersucht werden, in welchen Personen-, Berufs- oder Gesellschaftsgruppen somato-kognitive Tanzimprovisations-Formate wie “Twist&Talk” sinnvoll eingesetzt bzw. adaptiert werden können. Leider hat sich eine bereits in Aussicht genommene Finanzierung für Conact / Etappe 2 im Bildungsbereich (noch) nicht realisieren lassen.
