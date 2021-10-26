@@ -26,8 +26,6 @@ Teil diese Netzwerkes sind unter anderem:
 
 **die tanztheaterperformance WUK** <http://www.wuk.at/wuk/theater_tanz/ttp_wuk> 
 
-**Contact Festival Austria** <http://www.contactfestivalvienna.com/>
-
 **Tanzquartier Wien** [www.tqw.at](http://www.tqw.at)
 
 **Im_flieger** <http://www.imflieger.net>
@@ -38,4 +36,4 @@ Teil diese Netzwerkes sind unter anderem:
 
 **gravityhappens** <http://www.gravityhappens.net/>
 
-**Contact Quarterly** <http://contactquarterly.com/session/new>
+**Contact Quarterly** <http://contactquarterly.com/>
