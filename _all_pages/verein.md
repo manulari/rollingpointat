@@ -15,3 +15,27 @@ rollingpoint forscht mit viel Einsatz, Freude und Idealismus an zeitgenössische
 Ein viertägiger Workshop mit Martin Keogh aus den USA bildete den gelungenen Start im November 2001. Seitdem finden fortlaufende **Semesterkurse** abgestimmt auf Menschen mit unterschiedlichen Bewegungshintergründen statt. Zusätzliche Wochenend- und Mehrtages-Workshops ermöglichen tiefer in spezifische Themen einzutauchen.
 
 maRia Probst und Christian Apschner sind sowohl **pädagogisch** und **künstlerisch** sowie auch als **KörpertherapeutInnen** tätig und verfügen über langjährige Lehrerfahrung im In- und Ausland. Sie wurden u.a. mehrfach eingeladen ihr Arbeit beim Internationalen Seminar für körperbezogene Psychotherapie, Körpertherapie und Körperkunst in Bad Gleichenberg vorzustellen und arbeiten mit Institutionen wie **Tanzquartier Wien**, **Impulstanz**, **Im_flieger,** dem Verein **MAD** und dem Kognitionsforscher Michael Kimmel zusammen.
+
+![](http://www.rollingpoint.at/contents/photos/sundayka.jpg)
+
+Foto: Jakob Fill
+
+**rollingpoint** begreift sich als ein **sich immer wieder neu gestaltendes Eigenes im Kontakt mit Einzelpersonen, Gruppen, Initiativen, Institutionen und Projekten** mit ähnlichen Inhalten und Zielen. Zusammenarbeit unterschiedlichster Intensität und Ebenen wird als Bereicherung angesehen.  In diesem Sinne steht rollingpoint hinter dem **Netzwerkgedanken.**
+
+Teil diese Netzwerkes sind unter anderem:
+
+**die tanztheaterperformance WUK** <http://www.wuk.at/wuk/theater_tanz/ttp_wuk> 
+
+**Contact Festival Austria** <http://www.contactfestivalvienna.com/>
+
+**Tanzquartier Wien** [www.tqw.at](http://www.tqw.at)
+
+**Im_flieger** <http://www.imflieger.net>
+
+**Impulsttanz**[ https://www.impulstanz.com](http://www.impulstanz.com)
+
+**MAD** <https://www.mad-dance.eu>
+
+**gravityhappens** <http://www.gravityhappens.net/>
+
+**Contact Quarterly** <http://contactquarterly.com/session/new>
