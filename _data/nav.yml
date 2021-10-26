@@ -43,8 +43,6 @@ entries:
         path: maria
       - title: Christian Apschner
         path: christian
-      - title: Netzwerk
-        path: network
       - title: Fotos
         path: fotos
       - title: links
