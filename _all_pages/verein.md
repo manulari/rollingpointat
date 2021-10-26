@@ -24,13 +24,13 @@ Foto: Jakob Fill
 
 Teil diese Netzwerkes sind unter anderem:
 
-**die tanztheaterperformance WUK** <http://www.wuk.at/wuk/theater_tanz/ttp_wuk> 
-
 **Tanzquartier Wien** [www.tqw.at](http://www.tqw.at)
 
 **Im_flieger** <http://www.imflieger.net>
 
 **Impulsttanz**[ https://www.impulstanz.com](http://www.impulstanz.com)
+
+**tanztheaterperformance-wuk** <https://www.wuk.at/150-gruppen/tanztheaterperformance-wuk/>
 
 **MAD** <https://www.mad-dance.eu>
 
