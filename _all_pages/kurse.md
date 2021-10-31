@@ -5,7 +5,7 @@ title: KURSE UND WORKSHOPS
 | Tag | Zeit        | Lehrer:in | Titel                                                    | Ort                                |
 | --- | ----------- | --------- | -------------------------------------------------------- | ---------------------------------- |
 | Mo  | 18.10-20.10 | maRia     | ["Opening, Folding, Release" Zeitgenössischer Tanz](#mo) | Turnsaal VS<br/> Gilgegasse 12     |
-| Di  | 18.00-20.00 | maRia     | [CI Körpertraining + "Bounce and Shake"](#di)            | Turnsaal VS<br/> Einsiedlergasse 7 |
+| Di  | 18.00-20.00 | maRia     | [CI Körpertraining + "Bounce and Shake"](#di)            | Turnsaal VS<br/> Einsiedlerg. 7    |
 | Mi  | 18.15-20.30 | Christian | [Contact Improvisation and Technique](#mi)               | Turnsaal VS<br/> Einsiedlergasse 7 |
 | Do  | 18.15-20.45 | Christian | [Contact Dojo: Training + Jam](#do)                      | Turnsaal VS<br/> Gilgegasse 12     |
 
