@@ -4,6 +4,13 @@ title: KURSE UND WORKSHOPS
 ---
 ![](/assets/uploads/bildschirmfoto-2021-10-25-um-21.27.09.png)
 
+|     |             |           |                                                   |                               |
+| --- | ----------- | --------- | ------------------------------------------------- | ----------------------------- |
+| Mo  | 18.10-20.10 | maRia     | "Opening, Folding, Release" Zeitgenössischer Tanz | Turnsaal VS Gilgegasse 12     |
+| Di  | 18.00-20.00 | maRia     | CI Körpertraining + "Bounce and Shake"            | Turnsaal VS Einsiedlergasse 7 |
+| Mi  | 18.15-20.30 | Christian | Contact Improvisation and Technique               | Turnsaal VS Einsiedlergasse 7 |
+| Do  | 18.15-20.45 | Christian | Contact Dojo: Training + Jam                      | Turnsaal VS Gilgegasse 12     |
+
 ### ***Abendkurse Wintersemester 2021/22***
 
 <div class="named-anchor" id="1"></div>
