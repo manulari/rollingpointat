@@ -13,10 +13,6 @@ title: KURSE UND WORKSHOPS
 
 ### ***Abendkurse Wintersemester 2021/22***
 
-<div class="named-anchor" id="1"></div>
-
-<div class="named-anchor" id="mo"></div>
-
 <div class="named-anchor" id="mo"></div>
 
 **1 „Opening, Folding, Release“ mit maRia Probst\
