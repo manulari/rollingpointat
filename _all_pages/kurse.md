@@ -62,9 +62,9 @@ Bei Buchung von zwei oder mehr Kursen Ermäßigung von €30,- ab dem 2. Kurs
 
 **Bankvbdg.:** IBAN: AT54 3200 0000 1701 2717, BIC: RLNWATWW, Verein rollingpoint
 
-An schulautonomen Tagen, Feiertagen und einzelnen Terminen finden keine Kurse statt, konkrete Kalendertage werden zeitgerecht bekannt gegeben.
+An schulautonomen Tagen, Feiertagen und einzelnen Terminen finden keine Kurse statt, konkrete Kalendertage werden zeitgerecht bekannt gegeben. Im Falle neuerlicher pandemiebedingter Stornierungen wird die Kursgebühr nach Absprache anteilig rücküberwiesen oder gutgeschrieben.
 
-Im Falle neuerlicher pandemiebedingter Stornierungen wird die Kursgebühr nach Absprache anteilig rücküberwiesen oder gutgeschrieben.
+&nbsp;
 
 ***Sämtliche rp Angebote werden entsprechend der aktuellen Covid19 Präventionsverordnungen abgehalten.*** 
 
