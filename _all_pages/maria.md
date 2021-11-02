@@ -2,9 +2,7 @@
 permalink: maria
 title: maRia Probst
 ---
-![](http://www.rollingpoint.at/contents/photos/img_2541_-_foto_.jpg)
-
-
+![](/assets/uploads/img_2541_-_foto_.jpg)
 
 **maRia Probst** ist seit 1999 **freischaffende Tanz- Performancekünstlerin**, **Tanzpädagogin** und als **Organisatorin / Konzeptorin im Tanz- Performance Bereich** tätig. Sie studierte künstlerischen Tanz und Tanzpädagogik an der A. Bruckner Privatuniversität Linz und am Moving On Center- School for Participatory Arts and Movement Research San Franzisco. Ihre performativen Arbeiten präsentierte sie u.a. im TQW Wien, MAK Wien, im Rahmen von Im Puls Tanz Wien, Posthof Linz, sowie an diversen Spielorten in den USA, Kanada und Europa.
 
