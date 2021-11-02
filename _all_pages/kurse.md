@@ -11,8 +11,6 @@ title: KURSE UND WORKSHOPS
 
 &nbsp;
 
-![](/assets/uploads/bildschirmfoto-2021-10-25-um-21.27.09.png)
-
 &nbsp;
 
 ### ***Abendkurse Wintersemester 2021/22***
