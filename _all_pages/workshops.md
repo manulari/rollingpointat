@@ -100,7 +100,9 @@ IBAN:AT54 3200 0000 1701 2717, BIC: RLNWATWW, Verein rollingpoint, einzahlen.�
 
 ***Sämtliche rp Angebote werden entsprechend der aktuellen Covid19 Präventionsverordnungen abgehalten.***
 
+&nbsp;
 
+### **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\__**
 
 ### **ARCHIV(Auswahl):**
 
@@ -136,15 +138,6 @@ An diesem Wochenende wollen wir den Organen in ihrem jeweiligen aktuellen Zustan
 Wir werden den oberen und unteren Organen des Rumpfes Richtung geben, damit Raum für die Rumpfmitte generieren und Leichtigkeit in unsere Aufrichtung einladen.
 
 Die aus der Mode geratenen Fähigkeiten des Zuhörens, Wartens, Beobachtens, kultivierend, werden wir uns in vielfältigen Spielformen zu unseren Organen und unseren PartnerInnen in Bezug setzen, den Magen knurren und die Leber tanzen lassen und Begegnung mit sich selbst einladen.
-
-**Contact Flying Skills** - intermediate/advanced\
-***mit Christian Apschner, support: Lena Maritsch***
-
-**Sa/So 25./26.1.2020**, 10.00 - 17.00h
-
-Dieser technikorientierte Workshop lädt bewegungsfreudige CI-TänzerInnen ein, ihr Bewegungsspektrum zu erweitern und sich aufs Fliegen, Fallen und auf akrobatische Elemente einzulassen. Ein Schwerpunkt des Wochenendes wird sein, verschiedene Lifts und Jumps in allen Raumebenen zu üben und kopfüber auf den Händen zu tanzen. Wir stellen eine Verbindung von Athletischem und Meditativem her und lernen durch eine anatomisch gute Körperausrichtung sowie durch Modulation der Körperspannung und unter Nutzung der Schwungenergie Gewicht körperschonend aufzunehmen und abzugeben. Im Laufe des Lernprozesses eröffent sich die Fähigkeit, sich dem gemeinsamen Bewegungsfluss hinzugeben und gleichzeitig den gemeinsamen Tanz so präsent wahrzunehmen, so dass dieser Fluss spielerisch gelenkt werden kann. 
-
-Für diesen Workshop sind CI-Grund- und Tanzerfahrung sowie gute körperliche und mentale Fitness empfehlenswert.
 
 **Contact Improvisation and Kinetic Flow** - open level\
 **mit *maRia Probst und Christian Apschner***
@@ -184,8 +177,6 @@ Building Skills in Contact Improvisation**
 
 **mit maRia Probst und Christian Apschner**
 
-**Sa/So 10.00 - 17.00, Prana Yoga Studio 1, Mariahilferstr. 82/1070 Wien**
-
 Dieses Wochenende ist für BeginnerInnen und CI-TänzerInnen mit geringen CI-Vorerfahrungen, z.B. aus Jams gedacht. Wir möchten einen Rahmen schaffen, in dem die zentralen Grundprinzipien und handfesten bewegungstechnischen Skills der Contact Improvisation vermittelt werden. "Contact Motherland" heisst für uns aktiv wahrnehmen, Gewicht abgeben, aufnehmen und dosieren können, mit dem rollenden Kontaktpunkt tanzen und damit spielen können, sich lehnen und fallen zuzutrauen, mit Angeboten im Tanz wie dem "low table" und "high table" umzugehen und vieles mehr. Im Contact motherland anzukommen erweitert unsere Bewegungsmöglichkeiten im Improvisieren, gibt Sicherheit im freien CI-Tanzen auf Jams, macht meistens viel Freude und generiert Bewegungslust.
 
 **Contact Improvisation + Jam Fundamentals I + II** / beginner\
@@ -213,7 +204,7 @@ mit Christian Apschner \
 
 An dem Wochenende lernen wir verschiedenste Variationen von ganz kleinen bis sehr großen Spiralbewegungen im Liegen, im Stehen und in räumlicher Fortbewegung im Detail kennen und vertiefen diese. Wir kreieren Bewusstheit darüber wie Spiralbewegungen in sequenzieller Form durch den Körper durchlaufen und wie mühelos Fortbewegung dadurch wird, wenn wir die Zugverbindungen des Fasziensystems wirken lassen. Hands-On-Kontakt, Elemente von Contact Improvisation und anatomische Vorstellungsbilder helfen uns ein besseres Verständnis für unsere Körperarchitektur zu gewinnen. Es wird meditative Phasen geben sowie Phasen die durch spezielle ausgewählte Musik und Soundscapes unterstützt werden um Synästhesien bzw. intermodale Zusammenhänge zwischen verschiedenen Sinnsesebenen (taktil, kinästhetisch, auditativ, visuell) zu erfahren. In einem inneren Schwebezustand zwischen Kontemplation und Aktivierung können wir somit das Gelernte und heilsame Erfahrungen in unser Selbst- und Körperbild integrieren. Die erlernten Spiralbewegungen erweitern unsere Bewegungsmöglichkeiten im Contact Improvisations-Tanzen, im freien Tanzen und in Alltagsbewegungen.
 
-**WINTERSEMESTER 2018/19:**
+
 
 **„Lifts, Jumps and Flying Skills“**mit Christian Apschner, Support: Claudia (Lui) Springer\
 **Contact Improvisation** - intermediate/advanced\
