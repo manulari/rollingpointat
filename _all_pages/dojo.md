@@ -4,7 +4,7 @@ title: CI-DOJO (TRAINING+JAM)
 ---
 ## CI-DOJO (Training+Jam)
 
-![](http://www.rollingpoint.at/contents/photos/lsz_5410.jpg)
+![](/assets/uploads/lsz_5410-2.jpg)
 
 Fotocredits: Laurent Ziegler
 
