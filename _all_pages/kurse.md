@@ -2,6 +2,8 @@
 permalink: /kurse
 title: KURSE UND WORKSHOPS
 ---
+#### Semesterkurse
+
 | Tag    | Zeit            | Lehrer:in     | Kurs                                                         | Ort/Turnsaal               |
 | ------ | --------------- | ------------- | ------------------------------------------------------------ | -------------------------- |
 | **Mo** | **18.10-20.10** | **maRia**     | **["Opening, Folding, Release" Zeitgenössischer Tanz](#mo)** | **Gilgegasse 12, 9.Bez.**  |
@@ -10,8 +12,6 @@ title: KURSE UND WORKSHOPS
 | **Do** | **18.15-20.45** | **Christian** | **[Contact Dojo: Training + Jam](#do)**                      | **Gilgegasse 12, 9.Bez.**  |
 
 &nbsp;
-
-
 
 ### ***Abendkurse Wintersemester 2021/22***
 
