@@ -18,8 +18,6 @@ Fotocredit: Johannes Stolba
 
 ### **Abendkurse:**
 
-<div class="named-anchor" id="/kurse#mo"></div>
-
 **[1 „Opening, Folding, Release“ Zeitgenössisches Tanztraining](/kurse#mo)** **open level**\
 **mit maRia Probst**  \
 **Mo 20.9.2021 – 31.1.2022, 18.10 - 20.10 (ca.15x)**\
