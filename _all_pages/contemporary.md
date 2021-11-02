@@ -4,7 +4,7 @@ title: Zeitgenössischer Tanz
 ---
 # Zeitgenössischer Tanz
 
-![](http://www.rollingpoint.at/contents/photos/20160609.143820.jpg)
+![](/assets/uploads/20160609.143820-2.jpg)
 
 Fotocredit: He Shao Hu
 
