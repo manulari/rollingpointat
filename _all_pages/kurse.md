@@ -45,7 +45,7 @@ Teilnahmeempfehlungen: Bewegungsvorerfahrung aller Art sowie Lust und Freude an 
 
 <div class="named-anchor" id="do"></div>
 
-**4 Contact Dojo: Training + Jam**\
+**4 Contact Dojo: Offenes Training + Jam**\
 **Do 16.9.2021 – 3.2.2022, 18.15 - 20.45**\
 **Turnsaal VS Gilgegasse 12, 1090 Wien**
 
