@@ -1,6 +1,6 @@
 entries:
   - title: HOME
-    path: /home
+    path: /
   - title: CONTACT IMPROVISATION
     path: /contactimpro
     subentries:
