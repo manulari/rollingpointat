@@ -6,7 +6,7 @@ title: Forschungsbericht CON.ACT
 
 ## Forschungsbericht CON.ACT
 
-![](http://www.rollingpoint.at/contents/photos/img_1750.jpg)
+![](/assets/uploads/img_1750.jpg)
 
 **Tanzimprovisations- und Diskursformat “Twist&Talk” (CON.ACT 1)**\
 **Ergebnisse des Forschungsprojektes**
