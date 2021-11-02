@@ -4,7 +4,7 @@ title: Winter-Intensive
 ---
 # Winter-Intensive
 
-![](http://www.rollingpoint.at/contents/photos/heshaohui.rollin.jpg)
+![](/assets/uploads/heshaohui.rollin.jpg)
 
 Fotocredits: He Shao Hui
 
