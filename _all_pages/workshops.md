@@ -4,7 +4,7 @@ title: Wochenend-Workshops
 ---
 # Wochenend-Workshops
 
-![](http://www.rollingpoint.at/contents/photos/20160609.145929.jpg)
+![](/assets/uploads/20160609.145929.jpg)
 
 Fotocredits: He Shao Hui
 
@@ -203,8 +203,6 @@ mit Christian Apschner \
 Überall in der Natur vom kleinsten Baustein bis hin zum gesamten Universum ist das Bewegungsprinzip der Spirale verbreitet. Die Architektur des menschlichen Körpers ist ein Erbe evolutionärer Prozesse mit ozeanischem Ursprung. Spiralbewegungen können von verschiedensten Körperteilen aus initiert werden und betreffen Flüssigkeiten, Muskeln, Knochen, Bindegewebe und Organe.
 
 An dem Wochenende lernen wir verschiedenste Variationen von ganz kleinen bis sehr großen Spiralbewegungen im Liegen, im Stehen und in räumlicher Fortbewegung im Detail kennen und vertiefen diese. Wir kreieren Bewusstheit darüber wie Spiralbewegungen in sequenzieller Form durch den Körper durchlaufen und wie mühelos Fortbewegung dadurch wird, wenn wir die Zugverbindungen des Fasziensystems wirken lassen. Hands-On-Kontakt, Elemente von Contact Improvisation und anatomische Vorstellungsbilder helfen uns ein besseres Verständnis für unsere Körperarchitektur zu gewinnen. Es wird meditative Phasen geben sowie Phasen die durch spezielle ausgewählte Musik und Soundscapes unterstützt werden um Synästhesien bzw. intermodale Zusammenhänge zwischen verschiedenen Sinnsesebenen (taktil, kinästhetisch, auditativ, visuell) zu erfahren. In einem inneren Schwebezustand zwischen Kontemplation und Aktivierung können wir somit das Gelernte und heilsame Erfahrungen in unser Selbst- und Körperbild integrieren. Die erlernten Spiralbewegungen erweitern unsere Bewegungsmöglichkeiten im Contact Improvisations-Tanzen, im freien Tanzen und in Alltagsbewegungen.
-
-
 
 **„Lifts, Jumps and Flying Skills“**mit Christian Apschner, Support: Claudia (Lui) Springer\
 **Contact Improvisation** - intermediate/advanced\
