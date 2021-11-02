@@ -7,6 +7,19 @@ $link-color: #1a8ca6;
 $link-color-multiplied: rgb(0, 127, 156);
 $link-color-hover: #00728c;//#252525;
 
+$extra-emph-color: #800000;
+$border-color: #408f9d;
+
+code { color: $extra-emph-color; font-weight: bold; font-family: inherit; }
+blockquote {
+  color: $extra-emph-color;
+  //background-color: $flash-color;
+  margin: 30px 0px;
+  padding: 10px 20px;
+  border: 2px solid $border-color;
+  border-radius: 5px;
+}
+
 a { opacity: 0.9; color: $link-color-multiplied; }
 a:hover { opacity: 1; color: $link-color-hover; }
 
@@ -35,7 +48,7 @@ table {
 }
 
 td, th {
-  border: 1px solid #408f9d;
+  border: 1px solid $border-color;
   padding: 3px;
 }
 

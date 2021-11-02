@@ -4,24 +4,26 @@ title: CI-DOJO (TRAINING+JAM)
 ---
 ## CI-DOJO (Training+Jam)
 
-![](http://www.rollingpoint.at/contents/photos/lsz_5410.jpg)Fotocredits: Laurent Ziegler
+![](http://www.rollingpoint.at/contents/photos/lsz_5410.jpg)
 
-**DOJO=Training+Jam**, abwechselnd **advanced** und\
-**open level (beginners welcome, bring your friends!)**
+Fotocredits: Laurent Ziegler
 
-**Termine Wintersemester 2021/22 ab 16.9.2021**
+**DOJO=Training+Jam**, abwechselnd `advanced` und\
+`open level (beginners welcome, bring your friends!)`
 
-**Open level DOJO: 16.9., 30.9., 14.10., 4.11., 18.11., 2.12., 16.12.2021,\
-20.1., 3.2.2021**
-
-**Advanced DOJO: 23.9., 7.10., 21.10., 11.11., 25.11., 9.12.2021,\
-13.1., 27.1.2022**
-
-**Training: 18.15-19.30\
-Jam 19.30-20.45**\
-**Keine Anmeldung erforderlich**
-
-**Turnsaal Gilgegasse 12, 1090 Wien**
+> **Termine Wintersemester 2021/22 ab 16.9.2021**
+>
+> **Open level DOJO: 16.9., 30.9., 14.10., 4.11., 18.11., 2.12., 16.12.2021,\
+> 20.1., 3.2.2021**
+>
+> **Advanced DOJO: 23.9., 7.10., 21.10., 11.11., 25.11., 9.12.2021,\
+> 13.1., 27.1.2022**
+>
+> **Training: 18.15-19.30\
+> Jam 19.30-20.45**\
+> **Keine Anmeldung erforderlich**
+>
+> **Turnsaal Gilgegasse 12, 1090 Wien**
 
 **Dōjō**, die Übungshalle in den japanischen Kampfkünsten; dies ist auch teilweise die Bezeichnung für den Meditationsraum im japanischen Zen; in diesem Fall auf die Praxis der Contact Improvisation übertragen.
 
