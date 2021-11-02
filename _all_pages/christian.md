@@ -2,7 +2,11 @@
 permalink: christian
 title: Christian Apschner
 ---
+
+
 ![](http://www.rollingpoint.at/contents/photos/700_7881.jpg)
+
+![](/assets/uploads/700_7881.jpg)
 
 Ursprünglich als **Umweltexperte** ausgebildet entschied sich **Christian Apschner** sein Leben ganz dem Tanz und der Bewegung zuzuwenden. Im Laufe seiner nunmehr **mehr als 25-jährigen Praxis mit Contact Improvisation, zeitgenössischen Tanztechniken und Körperarbeit**, begann er sich mehr und mehr für die ganzheitlichen Aspekte somatischen Lernens zu interessieren.\
 \
