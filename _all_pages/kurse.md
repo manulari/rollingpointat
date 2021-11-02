@@ -9,7 +9,7 @@ title: KURSE UND WORKSHOPS
 | **Mo** | **18.10-20.10** | **maRia**     | **["Opening, Folding, Release" Zeitgenössischer Tanz](#mo)** | **Gilgegasse 12, 9.Bez.**  |
 | **Di** | **18.00-20.00** | **maRia**     | **[CI Körpertraining + "Bounce and Shake"](#di)**            | **Einsiedlerg. 7, 5.Bez.** |
 | **Mi** | **18.15-20.30** | **Christian** | **[Contact Improvisation and -Technique](#mi)**              | **Einsiedlerg. 7, 5.Bez.** |
-| **Do** | **18.15-20.45** | **Christian** | **[Contact Dojo: Training + Jam](#do)**                      | **Gilgegasse 12, 9.Bez.**  |
+| **Do** | **18.15-20.45** | **Christian** | **[Contact Dojo: Offenes Training + Jam](#do)**              | **Gilgegasse 12, 9.Bez.**  |
 
 &nbsp;
 
