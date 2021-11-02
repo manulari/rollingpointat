@@ -2,9 +2,9 @@
 permalink: /contactimpro
 title: CONTACT IMPROVISATION
 ---
-# Contact Improvisation
+![](/assets/uploads/home_1940-2.jpg)
 
-![](http://www.rollingpoint.at/contents/photos/home_1940.jpg)
+# Contact Improvisation
 
 **Contact Improvisation (CI)/Kontaktimprovisation**
 
