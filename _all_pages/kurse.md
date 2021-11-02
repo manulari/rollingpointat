@@ -2,7 +2,7 @@
 permalink: /kurse
 title: KURSE UND WORKSHOPS
 ---
-#### Semesterkurse
+### Semesterkurse
 
 | Tag    | Zeit            | Lehrer:in     | Kurs                                                         | Ort/Turnsaal               |
 | ------ | --------------- | ------------- | ------------------------------------------------------------ | -------------------------- |
