@@ -79,8 +79,6 @@ Wir stellen eine Verbindung von Athletischem und Meditativem her und lernen durc
 
 Für diesen Workshop sind CI-Grund- und Tanzerfahrung sowie gute körperliche und mentale Fitness empfehlenswert.
 
-![](/assets/uploads/lsz_5750.jpg)
-
 ###### &nbsp;
 
 ## **Organisatorisches:**
@@ -103,6 +101,8 @@ IBAN:AT54 3200 0000 1701 2717, BIC: RLNWATWW, Verein rollingpoint, einzahlen.�
 ***Sämtliche rp Angebote werden entsprechend der aktuellen Covid19 Präventionsverordnungen abgehalten.***
 
 &nbsp;
+
+![](/assets/uploads/lsz_5750.jpg)
 
 ### **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\__**
 
