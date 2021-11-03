@@ -71,6 +71,8 @@ Diesen Fragestellungen inherent ist die Auseinandersetzung mit Theorien aus der 
 
 Der intensivierte Austausch mit an Embodiment-Prozessen Interessierten aus unterschiedlichen Disziplinen soll der Schärfung des Formats dienen. Idealerweise nehmen alle Forschenden auch an den open level Terminen teil.
 
+![](/assets/uploads/img_1737.jpg)
+
 **CON.ACT Durchführungs-Etappe 2/Ausblick:**
 
 In Durchführungs-Etappe 2 soll anhand konkreter Anwendungsfälle untersucht werden, in welchen Personen-, Berufs- oder Gesellschaftsgruppen somato-kognitive Tanzimprovisations-Formate wie “Twist&Talk” sinnvoll eingesetzt bzw. adaptiert werden können. Leider hat sich eine bereits in Aussicht genommene Finanzierung für Conact / Etappe 2 im Bildungsbereich (noch) nicht realisieren lassen.
