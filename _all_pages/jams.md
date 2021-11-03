@@ -75,3 +75,5 @@ CI-Kurserfahrungen (Grundkenntnisse) sind Voraussetzung für die Teilnahme.
 **Freitags-CI-Jam im WUK:** <http://www.wuk.at/event/id/15192>
 
 **Verschiedenste Jams in Wien + Österreich Übersichtsseite**: [http://vienna.contactimprovisation.at](http://vienna.contactimprovisation.at/)
+
+![](/assets/uploads/img_0198.jpg)
