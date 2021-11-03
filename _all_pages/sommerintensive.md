@@ -36,20 +36,7 @@ Die Praxis der Contact Improvisation kann auch als eine gelebte bzw. bewegte For
 
 **Teilnahmeempfehlungen:** Erste CI-Vorerfahrungen, Lust an körperlichem Einsatz sowie Offenheit sich auf Berührung, Körperkontakt und den öffentlichen Raum und die o.a. Fragestellungen einzulassen. Falls wir dich noch nicht kennen, ersuchen wir zur Anmeldung um kurze persönliche Kontaktaufnahme.
 
-**KOSTEN:**
-
-Frühbucherpreis beiAnmeldung und Einzahlung bis 22.6.2019: € 250,- ermäßigt 200,-
-
-danach: € 280,-, ermäßigt € 220,-
-
-Ermäßigungen für StudentInnen unter 27a und alle Menschen mit geringem Einkommen sowie bei gemeinsamer Anmeldung von zwei oder mehr Personen
-
-Kontovbg:  IBAN: AT54 3200 0000 1701 2717, BIC: RLNWATWW, Verein rollingpoint
-
-Stornobedingungen:\
-Bei Abmeldung bis 22.6.2019 wird der gesamte Betrag zurückbezahlt abzgl. einer Bearbeitungsgebühr von € 20,-. Bei Abmeldung bis 5.7.2018: Stornogebühr von 50%. Bei Abmeldung ab 6.7. wird der gesamte Betrag einbehalten. Es kann aber eine Ersatzperson nominiert werden.
-
-**Anmeldung und Info**: [ci.rollingpoint@gmail.com](mailto:ci.rollingpoint@gmail.com), Tel.: Christian 0650 893 10 81, maRia 0650 951 08 14
+![](/assets/uploads/snv11928.jpg)
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\__
 
