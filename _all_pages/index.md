@@ -47,3 +47,5 @@ Turnsaal VS Einsiedlergasse 7, 1050 Wien**
 **[22./23.1.2022: "Contact Flying Skills"](/workshops#flying)** **mit Christian Apschner und Lui Springer (support)**
 
 *Sämtliche Angebote werden entsprechend den aktuellen Covid-Regelungen abgehalten.*
+
+![](/assets/uploads/img_8109-photo-by-daniela-ponieman.jpg)
