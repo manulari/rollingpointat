@@ -12,11 +12,11 @@ Fotocredits: He Shao Hui
 
 **[9./10.10.2021 "From Bodywork into Movement" mit Christian Apschner und maRia Probst](#bodywork)**
 
-[**13./14.11.2021 "Comics a**[](#comics)**nd Dance"**\
-**mit maRia Prob**[\#comics](#comics)**st und Susanne Hochreiter**](#comics)
+[**13./14.11.2021 "Comics a**\[](#comics)**nd Dance"**\
+**mit maRia Prob**\[#comics](#comics)**st und Susanne Hochreiter**](#comics)
 
 [**22./23.1.2022: "Contact Flying Skills"**\
-**mit Christian Apschner und** [\#flying](#flying)**Lui Springer (support)**](#flying)
+**mit Christian Apschner und** \[#flying](#flying)**Lui Springer (support)**](#flying)
 
 &nbsp;
 
@@ -78,6 +78,8 @@ Dieser technikorientierte Workshop lädt bewegungsfreudige CI-TänzerInnen ein, 
 Wir stellen eine Verbindung von Athletischem und Meditativem her und lernen durch eine anatomisch gute Körperausrichtung sowie durch Modulation der Körperspannung und Nutzung der Schwungenergie Gewicht körperschonend aufzunehmen und abzugeben. Im Laufe des Lernprozesses eröffnet sich die Fähigkeit sich dem gemeinsamen Bewegungsfluss hinzugeben und gleichzeitig den gemeinsamen Tanz so präsent wahrzunehmen, dass dieser Fluss spielerisch gelenkt werden kann.
 
 Für diesen Workshop sind CI-Grund- und Tanzerfahrung sowie gute körperliche und mentale Fitness empfehlenswert.
+
+![](/assets/uploads/lsz_5750.jpg)
 
 ###### &nbsp;
 
