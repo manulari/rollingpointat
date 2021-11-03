@@ -9,3 +9,5 @@ title: maRia Probst
 **maRia Probst** ist seit 2000 kontinuierlich als **Dozentin im Bereich Tanz**, **Performance** und **Somatic Movement** sowohl für angehende professionelle TänzerInnen und SchauspielerInnen, als auch für Laien aller Altersgruppen u.a. Schule des Theaters, Studio an der Wien, Verein rollingpoint, als auch innerhalb von Workshop- Formaten national und international (USA, Kanada, Europa) tätig.
 
 **maRia Probst** ist zertifizierte **Somatic Educator** und **Tuinapraktikerin**(Anwendungen basierend auf den Prinzipien klassischer chinesischer Medizin und westlich-physikalischer Erkenntnisse).
+
+![](/assets/uploads/heshaohui.rollingpoint-wu-fotos.049.jpg)
