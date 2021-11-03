@@ -64,6 +64,8 @@ Der Underscore nach Nancy Stark Smith ist ein sehr hilfreicher zeitlich und räu
 
 CI-Kurserfahrungen (Grundkenntnisse) sind Voraussetzung für die Teilnahme.
 
+![](/assets/uploads/img_0198.jpg)
+
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 **INFO zu weiteren Contact Improvisation Jams in Wien/Österreich:**
@@ -75,5 +77,3 @@ CI-Kurserfahrungen (Grundkenntnisse) sind Voraussetzung für die Teilnahme.
 **Freitags-CI-Jam im WUK:** <http://www.wuk.at/event/id/15192>
 
 **Verschiedenste Jams in Wien + Österreich Übersichtsseite**: [http://vienna.contactimprovisation.at](http://vienna.contactimprovisation.at/)
-
-![](/assets/uploads/img_0198.jpg)
