@@ -46,3 +46,5 @@ Come prepared! 
 Bezahlung bitte ausschließlich per Banküberweisung auf das rollingpoint-Konto IBAN: AT54 3200 0000 1701 2717, BIC: RLNWATWW
 
 **Wichtig**: Bitte vor dem Betreten der Turnsaalgarderobe die Schuhe am Gang ausziehen; keinenfalls Roller oder Fahrräder mit in die Schule nehmen!
+
+![](/assets/uploads/lsz_5630.jpg)
