@@ -4,6 +4,8 @@ title: CON.ACT/Twist&Talk
 ---
 **Das künstlerische Forschungsprojekt Twist&Talk: "In, Out, With" wurde im Herbst 2018 in Kooperation mit dem Tanzquartier Wien und der KünstlerInnen-Initiative Im_flieger durchgeführt.**
 
+![](/assets/uploads/img_1828.jpg)
+
 **Projektbeschreibung:**
 
 **Twist&Talk: "In, Out, With"**
@@ -42,6 +44,8 @@ Das Projekt **„CON.ACT“** ist ein partizipatives und künstlerisch-wissens
 **Projektformat:**
 
 Die Durchführung des Gesamtprojektes ist in zwei Etappen geplant. Die nachfolgenden Ausführungen beziehen sich auf die Durchführungsetappe 1. Nach Abschluss und Vorliegen von Ergebnissen der Durchführungsetappe 1 soll das Projekt weiterentwickelt werden und zu Durchführungsetappe 2 führen.
+
+![](/assets/uploads/img_1783.jpg)
 
 **CON.ACT Durchführungs-Etappe 1/Realisierung**
 
