@@ -17,3 +17,5 @@ Inzwischen gibt es, seit dem ersten Contact-Experiment im Jahr 1972, einen gro�
 An der **Schnittstelle von Tanz, Kunst, Sport, Therapie und Spiel** angesiedelt, eröffnet die CI einen weiten Erfahrungsraum. Das Erlernte lässt sich in verschiedenste Lebensbereiche integrieren und bereichernd einsetzen. Die Heimat der Contact Improvisation bleibt jedoch der zeitgenössische Tanz mit dem Fokus willentliches Bewegen in den Hintergrund treten zu lassen, Körperwahrnehmungund -reflexe zu trainieren, unnötige Spannung zu lösen und Kraft im richtigen Ausmaß einzusetzen, um einen uneingeschränkten Bewegungsfluss zu erleben.
 
 **maRia Probst und Christian Apschner** konnten Contact Improvisation von den wichtigsten PionierInnen der Contact Improvisation wie Nancy Stark Smith, Steve Paxton, Danny Lepkoff, Lisa Nelson, Nita Little, Kirstie Simson, Martin Keogh u.a. lernen.
+
+![](/assets/uploads/dsc_1941a.jpg)
