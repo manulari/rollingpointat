@@ -72,12 +72,8 @@ Der Underscore nach Nancy Stark Smith ist ein sehr hilfreicher zeitlich und räu
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-**INFO zu weiteren Contact Improvisation Jams in Wien/Österreich:**
+#### **Übersichtsseite zu weiteren Contact Improvisation Jams in Wien/Österreich:**
 
 (keine rollingpoint-Veranstaltungen) 
 
-**WIEN:**
-
-**Freitags-CI-Jam im WUK:** <http://www.wuk.at/event/id/15192>
-
-**Verschiedenste Jams in Wien + Österreich Übersichtsseite**: [http://vienna.contactimprovisation.at](http://vienna.contactimprovisation.at/)
+[http://vienna.contactimprovisation.at](http://vienna.contactimprovisation.at/)
