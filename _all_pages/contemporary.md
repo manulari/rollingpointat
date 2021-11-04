@@ -38,5 +38,7 @@ Wir setzen in unseren Kursen unterschiedliche Themenschwerpunkte, die den einzel
   und v.a.m.
 
 Um eine bestimmte Qualität zu entwickeln, eine neue Koordination zu entdecken, leichter drehen zu können ect., werden verschiedenste Zugänge angewandt. So berühren wir einander um z.B. das Schulterblatt besser spüren zu können, es werden Vorstellungsbilder wie: „Gehe als würde der Boden wie ein Waldboden zurückfedern.“ angeboten und spezifische Musik wird eingesetzt. Eine zeitgenössische Tanzklasse bei rollingpoint ist eine wunderbare Möglichkeit in einer wohlwollenden Atmosphäre zu trainieren, sich und andere in Bewegung zu erfahren, Vertrautes zu bestärken, Neues zu lernen und die Laune zu heben.
+&nbsp;
 
 ![](/assets/uploads/heshaohui.rollingpoint-wu-fotos.076.jpg)
+Fotocredit: He Shao Hui
