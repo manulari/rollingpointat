@@ -2,9 +2,8 @@
 permalink: /JAMS
 title: ROLLINGPOINT-JAMS
 ---
-![](/assets/uploads/img_0198.jpg)
 
-&nbsp;
+
 Die rollingpoint-Jams sind ein Ort für fokussiertes Contact Improvisations-Tanzen an dem **CI als zeitgenössische Tanz- und Kunstform** praktiziert wird. Wir achten darauf einen gemeinsamen Raum zu halten, in dem sich alle sicher fühlen und erwarten von den TeilnehmerInnen, dass sie bereits über erste CI-Kurserfahrungen (im Sinne von Grundkenntnissen) verfügen.
 
 Die reguläre rollingpoint Contact Improvisations Jam findet jeden Sonntag Abend von 19.00-22.00 im Prana Yoga-Studio statt (Detailinfos siehe unten). Weiters gibt es an Schultagen jeweils am Donnerstag Abend eine offene Jam in Verbindung mit einem vorangehenen CI-Training (CI-DOJO) im Turnsaal der VS Gilgegasse.\
@@ -66,7 +65,8 @@ Bei auftauchenden Fragenstellungen in der Jam besteht die Möglichkeit  der/die
 Der Underscore nach Nancy Stark Smith ist ein sehr hilfreicher zeitlich und räumlich definierter Rahmen, um Contact Improvisation in der Gruppe mit einem hohen Grad an Aufmerksamkeit zu praktizieren. Für alle, die den Underscore noch nicht kennen, gibt es eine Einführung von 19:00 und 19.30h. Die Kenntnis der Underscore-Struktur ist für die Teilnahme wichtig. Wir wünschen uns für ein fokussiertes Tanzen, dass alle TeilnehmerInnen vom Beginn bis zum Ende des Underscores (19.30 - 22.00h) anwesend bleiben.
 
 CI-Kurserfahrungen (Grundkenntnisse) sind Voraussetzung für die Teilnahme.
-
+&nbsp;
+![](/assets/uploads/img_0198.jpg)
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
