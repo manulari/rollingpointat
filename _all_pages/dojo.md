@@ -47,4 +47,7 @@ Bezahlung bitte ausschließlich per Banküberweisung auf das rollingpoint-Konto�
 
 **Wichtig**: Bitte vor dem Betreten der Turnsaalgarderobe die Schuhe am Gang ausziehen; keinenfalls Roller oder Fahrräder mit in die Schule nehmen!
 
+&nbsp;
+
 ![](/assets/uploads/lsz_5630.jpg)
+Fotocredits: Laurent Ziegler
