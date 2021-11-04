@@ -21,6 +21,9 @@ Buildung on some mycological knowledge* we will dive into a sensorimotor experie
 
 ![](/assets/uploads/p8220004-kopie.jpg)
 
+Spores of the Inocybe asterospora mushroom\
+Fotocredits: Christian Apschner
+
 **&nbsp;**
 
 **maRia Probst & Susanne Hochreiter*: About Dance, Comics and Survival***\
