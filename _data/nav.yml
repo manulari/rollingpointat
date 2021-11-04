@@ -48,7 +48,7 @@ entries:
   - title: KONTAKT
     path: kontakt
     subentries:
-      - title: impressum
+      - title: Impressum
         path: impressum
-      - title: datenschutz
+      - title: Datenschutz
         path: datenschutz
