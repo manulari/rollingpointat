@@ -66,6 +66,8 @@ Der Underscore nach Nancy Stark Smith ist ein sehr hilfreicher zeitlich und räu
 
 CI-Kurserfahrungen (Grundkenntnisse) sind Voraussetzung für die Teilnahme.
 &nbsp;
+&nbsp;
+
 ![](/assets/uploads/img_0198.jpg)
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
