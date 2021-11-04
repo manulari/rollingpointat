@@ -48,6 +48,6 @@ Turnsaal VS Einsiedlergasse 7, 1050 Wien**
 
 ***Sämtliche Angebote werden entsprechend den aktuellen Covid-Regelungen abgehalten.***
 
-&nbspi
+&nbsp;
 
 ![](/assets/uploads/dsc_1941a.jpg)
