@@ -18,4 +18,6 @@ An der **Schnittstelle von Tanz, Kunst, Sport, Therapie und Spiel** angesiedelt,
 
 **maRia Probst und Christian Apschner** konnten Contact Improvisation von den wichtigsten PionierInnen der Contact Improvisation wie Nancy Stark Smith, Steve Paxton, Danny Lepkoff, Lisa Nelson, Nita Little, Kirstie Simson, Martin Keogh u.a. lernen.
 
+&nbsp;
+
 ![](/assets/uploads/dsc_1941a.jpg)
