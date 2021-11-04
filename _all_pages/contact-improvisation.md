@@ -21,4 +21,4 @@ An der **Schnittstelle von Tanz, Kunst, Sport, Therapie und Spiel** angesiedelt,
 &nbsp;
 
 ![](/assets/uploads/heshaohui.rollingpoint-wu-fotos.028.jpg)
-Foto: He Shao Hui
+Fotocredit: He Shao Hui
