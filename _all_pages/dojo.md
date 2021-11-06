@@ -11,17 +11,15 @@ Fotocredits: Laurent Ziegler
 **DOJO=Training+Jam**, abwechselnd `advanced` und\
 `open level (beginners welcome, bring your friends!)`
 
-> **Termine Wintersemester 2021/22 ab 16.9.2021**
+> `Termine Wintersemester 2021/22 ab 16.9.2021`
 >
-> **Open level DOJO: 16.9., 30.9., 14.10., 4.11., 18.11., 2.12., 16.12.2021,\
-> 20.1., 3.2.2021**
+> **Open level DOJO:** 16.9., 30.9., 14.10., 4.11., 18.11., 2.12., 16.12.2021,20.1., 3.2.2021
 >
-> **Advanced DOJO: 23.9., 7.10., 21.10., 11.11., 25.11., 9.12.2021,\
-> 13.1., 27.1.2022**
+> **Advanced DOJO:** 23.9., 7.10., 21.10., 11.11., 25.11., 9.12.2021,13.1., 27.1.2022
 >
-> **Training: 18.15-19.30\
-> Jam 19.30-20.45**\
-> **Keine Anmeldung erforderlich**
+> **Training:** 18.15-19.30\
+> **Jam:** 19.30-20.45\
+> Keine Anmeldung erforderlich
 >
 > **Turnsaal Gilgegasse 12, 1090 Wien**
 
