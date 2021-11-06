@@ -2,6 +2,10 @@
 permalink: /sommerintensive
 title: Sommer-Intensive
 ---
+![](/assets/uploads/img_2936_large.jpg)
+
+### **Sommer-Intensive**
+
 **WOCHENEND-WORKSHOP 24./25.8.2019 / Wien**
 
 **"Touching Down on Contact Motherland" \
@@ -18,8 +22,6 @@ Kontovbg:  IBAN: AT54 3200 0000 1701 2717, BIC: RLNWATWW, Verein rollingpoint
 
 **Stornobedingungen für Wochenend-Workshops:** Bei Abmeldung bis sieben Tage vor dem Workshop wird der gesamte Betrag abzgl. einer Bearbeitungsgebühr von € 10,- zurückbezahlt. 50% Storno bis zwei Tage vor dem Workhsop. Am Vortag und Tag des Workshops kein Storno mehr möglich. Es kann aber eine Ersatzperson nominiert werden.
 
-
-
 **SOMMERINTENSIVE 9.- 12.7.2019 / Wien**
 
 **Urban Nature Contact Improvisation - Dedication, Cooperation and Trust**
@@ -34,30 +36,9 @@ Die Praxis der Contact Improvisation kann auch als eine gelebte bzw. bewegte For
 
 **Teilnahmeempfehlungen:** Erste CI-Vorerfahrungen, Lust an körperlichem Einsatz sowie Offenheit sich auf Berührung, Körperkontakt und den öffentlichen Raum und die o.a. Fragestellungen einzulassen. Falls wir dich noch nicht kennen, ersuchen wir zur Anmeldung um kurze persönliche Kontaktaufnahme.
 
-**KOSTEN:**
-
-Frühbucherpreis beiAnmeldung und Einzahlung bis 22.6.2019: € 250,- ermäßigt 200,-
-
-danach: € 280,-, ermäßigt € 220,-
-
-Ermäßigungen für StudentInnen unter 27a und alle Menschen mit geringem Einkommen sowie bei gemeinsamer Anmeldung von zwei oder mehr Personen
-
-Kontovbg:  IBAN: AT54 3200 0000 1701 2717, BIC: RLNWATWW, Verein rollingpoint
-
-Stornobedingungen:\
-Bei Abmeldung bis 22.6.2019 wird der gesamte Betrag zurückbezahlt abzgl. einer Bearbeitungsgebühr von € 20,-. Bei Abmeldung bis 5.7.2018: Stornogebühr von 50%. Bei Abmeldung ab 6.7. wird der gesamte Betrag einbehalten. Es kann aber eine Ersatzperson nominiert werden.
-
-**Anmeldung und Info**: [ci.rollingpoint@gmail.com](mailto:ci.rollingpoint@gmail.com), Tel.: Christian 0650 893 10 81, maRia 0650 951 08 14
-
- 
-
- 
-
- 
+![](/assets/uploads/snv11928.jpg)
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\__
-
- 
 
 **RÜCKBLICK:** 
 
@@ -76,13 +57,9 @@ Ort: Prana Yoga Studio 1, Mariahilferstr. 82, 1070 Wien
 
 **Bring your friends:** Wenn ihr Euch gemeinsam zu zweit oder zu dritt für die Sommerintensive anmeldet, dann  gilt für alle zusätzlichen Personen eine Ermäßigung von **minus 50%** vom Normalpreis!
 
- 
-
 Nach vielen Jahren in den Bergen wollen wir diesmal die rollingpoint-Sommerintensive der URBAN NATURE widmen. Urban Nature sind in erster Linie wir selbst, unser menschlicher organischer Körper, der die weitgehend von uns selbst geschaffene Umgebung belebt, benützt, sie verändert und durch unser „SEIN“ in einem kreativen tänzerischen Dialog mitgestaltet.
 
 Die für alle Erfahrungslevels offene Sommerintensive 2018 besteht aus zwei Teilen, die getrennt oder gemeinsam gebucht werden können. Am einleitenden Wochenende**„Falling high“ (Teil 1: 14./15.7.)** liegt der Fokus auf den Prinzipien und der Technik von Contemporary Contact Ballroom. **„Urban Nature Contact Improvisation“ (Teil 2: 16.- 19.7.)** vermittelt und vertieft fundierte Kenntnisse der Contact Improvisation und überträgt sie in die Stadtnatur.
-
- 
 
 **Inhaltliche Beschreibung:**
 
@@ -96,8 +73,6 @@ Unsere tänzerischen Entscheidungen werden vom Strom sensorischer Information un
 
 „Falling high“ im Sinne von, subtiles Balancegefühl entwickeln und die physische Bereitschaft sich in alle Richtungen, im speziellen auch hinauf fallen lassen zu können, werden wir an diesem Wochenende genauer erforschen. Es ermöglicht uns die Fallenergie in einem spannenden tänzerischen Dialog stetig zu „recyceln“ wie auch umzulenken und auf musikalische Impulse einzugehen. Im "bouncing" nutzen wir die Elastizität unseres Fasziensystems um das Contact Improvisations-Tanzen durch rhythmische/arhythmische Impulse zu bereichern und damit zu spielen.
 
- 
-
 **Teil 2: „Urban Nature Contact Improvisation“ Mo-Do 16.- 19.7.2018**
 
 Contact Improvisation at the studio, in town and in nature, hands on body work, CI principles and techniques, lifts and spatial awareness, dancing and improvising along specific scores in the urban nature, body alignment and architecture
@@ -106,15 +81,9 @@ Während der Vormittagseinheiten im Tanzstudio entwickeln und erweitern wir unse
 
 In den Nachmittagseinheiten tanzen wir entlang von speziell für die Stadtnatur erarbeiteten „Scores“ im Sinne von spezifischen Improvisationsstrukturen an denen sich unser Contact Improvisations-Tanzen orientiert. Die Scores werden im Studio vorbereitet um sie anschließend auf anregende und verschiedenartige Orte im urbanen Raum zu übertragen. In unsere Experimentierfreude kann dabei mehr und mehr unser ganzes kreatives Potential einfließen.
 
- 
-
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\__
 
- 
-
 Die **rollingpoint Sommerintensiven** finden jährlich seit 2007 statt und sind jeweils einem speziellen Schwerpunktthema gewidmet. In Berührung mit der Natur und über mehrere Tage hinweg in Gemeinschaft lebend ist ein tiefes Eintauchen in die Welt der Contact Improvisation möglich.
-
- 
 
 RÜCKBLICK:
 
@@ -158,8 +127,6 @@ Christian: Trager, Ortho-Bionomy, Zero-Balancing, Nuad u.a.
 
 Der letzte Abend der Sommerintensive soll ganz dem Tanzen und Jammen gewidmet sein.
 
- 
-
 **ORGANISATORISCHES:**
 
 Ankommen: Mo 10.7., 14.00 - 16.00h\
@@ -169,19 +136,11 @@ FRÜHBUCHER ANMELDESCHLUSS:  3.6.2017
 
 In Kirchberg und St.Corona am Wechsel (eine Fahrstunde südlich von Wien) stehen uns zwei einladende Bewegungsräume und ein eigenes Haus zum Wohnen mit Garten und Waldumgebung zur Verfügung. Möglichkeiten für gemeinsame Freizeitgestaltung, Lagerfeuer, Musizieren etc..
 
- 
-
 **ANMELDUNG und INFO:**
 
 ci.rollingpoint(ät)gmail.com   Tel.: 0650/8931081 (Christian)
 
-|                                                                                                                                                                             |                                                                                                                                                                               |                                                                                                                                                                   |                                                                                                                                                                       |
-| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [![](http://www.rollingpoint.at/contents/galleries/Sommerk1/thumbnails/3_christ..jpg)](http://www.rollingpoint.at/images.php?src=contents/galleries/Sommerk1/3_christ..jpg) | [![](http://www.rollingpoint.at/contents/galleries/Sommerk1/thumbnails/2_wanderin.jpg)](http://www.rollingpoint.at/images.php?src=contents/galleries/Sommerk1/2_wanderin.jpg) | [![](http://www.rollingpoint.at/contents/galleries/Sommerk1/thumbnails/1_ts.jpg)](http://www.rollingpoint.at/images.php?src=contents/galleries/Sommerk1/1_ts.jpg) | [![](http://www.rollingpoint.at/contents/galleries/Sommerk1/thumbnails/4_maxi.jpg)](http://www.rollingpoint.at/images.php?src=contents/galleries/Sommerk1/4_maxi.jpg) |
-
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
- 
 
 **Rückblick: Sommer-Intensive Contact Improvisation No10 - 2016\
 "Unfolding Creativity":**\
@@ -219,8 +178,6 @@ Möglichkeiten für gemeinsame Freizeitgestaltung, Lagerfeuer, Musizieren etc.\
 So wie das Wetter es erlaubt, werden wir einen wesentlichen Anteil unserer Zeit im Freien verbringen. Gemeinsames Wandern und Tanzen auf den Bergen der Umgebung ist vorgesehen.
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
- 
 
 **RÜCKBLICK: Sommerintensive 2015: 26. - 31.7.2015**
 

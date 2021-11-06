@@ -28,6 +28,8 @@ Im **zeitgenössischen Tanz** öffnen wir uns der Bewegungsvielfalt um unser K
  \
 Die **wissenschaftlichen Erkenntnisse** aus der Neurobiologie und Neurophysiologie bestätigen, dass ein gutes Zusammenspiel von bewusstem Bewegen, Empfinden, Fühlen, Denken und Handeln eine wesentliche Voraussetzung für Gesundheit und Heilung ist. **Somatisches Lernen ermöglicht den eigenen Körper besser zu verstehen und seine Signale hören zu lernen** und somit mehr Verantwortung für sich selbst und seine eigene körperliche und geistige Gesundheit zu übernehmen. 
 
+![](/assets/uploads/lsz_5866.jpg)
+
 ***1)Gekürzter Textausschnitt aus einem Vortag von Elsa Gindler aus dem Jahr 1926:***
 
  „*Entspannung ist für uns ein Zustand der höchsten Reagierfähigkeit, eine Stllle in uns, eine Bereitwilligkeit auf jeden Reiz richtig zu antworten. Die Entspannung, die wir suchen, lässt sich leichtesten erreichen durch Empfindung der Schwerkraft. Die Schwerkraft müssen unsere Glieder begreifen und fühlen lernen, ja jede Zelle in uns muss wieder die Fähigkeit erwerben, ihr folgen zu können.*

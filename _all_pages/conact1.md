@@ -4,6 +4,8 @@ title: CON.ACT/Twist&Talk
 ---
 **Das künstlerische Forschungsprojekt Twist&Talk: "In, Out, With" wurde im Herbst 2018 in Kooperation mit dem Tanzquartier Wien und der KünstlerInnen-Initiative Im_flieger durchgeführt.**
 
+![](/assets/uploads/img_1828.jpg)
+
 **Projektbeschreibung:**
 
 **Twist&Talk: "In, Out, With"**
@@ -43,6 +45,8 @@ Das Projekt **„CON.ACT“** ist ein partizipatives und künstlerisch-wissens
 
 Die Durchführung des Gesamtprojektes ist in zwei Etappen geplant. Die nachfolgenden Ausführungen beziehen sich auf die Durchführungsetappe 1. Nach Abschluss und Vorliegen von Ergebnissen der Durchführungsetappe 1 soll das Projekt weiterentwickelt werden und zu Durchführungsetappe 2 führen.
 
+![](/assets/uploads/img_1783.jpg)
+
 **CON.ACT Durchführungs-Etappe 1/Realisierung**
 
 Die Zusammenarbeit mit TQW und Im_flieger ermöglicht konkret eine sehr komprimierte Version der Durchführungs-Etappe 1. Im Zuge dessen finden drei öffentliche “Twist&Talk” Termine und zwei weitere Peer Group Treffen zum Thema “In, Out, With” mit einer kleineren Anzahl geladener TeilnehmerInnen statt. Vorbereitung, Reflexion, Dokumentation und Evaluation basieren großteils auf Eigenleistung des Vereins rollingpoint und werden daher eine erste Entwicklungs-Phase darstellen.
@@ -66,6 +70,8 @@ Die konkreten Fragestellung von "In, Out, With" sind: Erfahre ich mehr über Ein
 Diesen Fragestellungen inherent ist die Auseinandersetzung mit Theorien aus der Kognitionsforschung, im speziellen mit Embodimenttheorien.
 
 Der intensivierte Austausch mit an Embodiment-Prozessen Interessierten aus unterschiedlichen Disziplinen soll der Schärfung des Formats dienen. Idealerweise nehmen alle Forschenden auch an den open level Terminen teil.
+
+![](/assets/uploads/img_1737.jpg)
 
 **CON.ACT Durchführungs-Etappe 2/Ausblick:**
 

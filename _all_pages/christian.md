@@ -2,8 +2,6 @@
 permalink: christian
 title: Christian Apschner
 ---
-
-
 ![](/assets/uploads/700_7881.jpg)
 
 Ursprünglich als **Umweltexperte** ausgebildet entschied sich **Christian Apschner** sein Leben ganz dem Tanz und der Bewegung zuzuwenden. Im Laufe seiner nunmehr **mehr als 25-jährigen Praxis mit Contact Improvisation, zeitgenössischen Tanztechniken und Körperarbeit**, begann er sich mehr und mehr für die ganzheitlichen Aspekte somatischen Lernens zu interessieren.\
@@ -17,3 +15,5 @@ Neben seinen eigenen künstlerischen Projekten arbeitet Christian gelegentlich a
 Christians Auftrag ist es, Körperarbeit und Tanz als ein Werkzeug lebenslangen **somatischen Lernens** allen interessierten Menschen unabhängig vom jeweiligen Bewegungserfahrungshintergrund zugänglich zu machen.
 
 Mehr Informationen auf der persönlichen homepage [www.retune.at](http://www.retune.at/)
+
+![](/assets/uploads/heshaohui.rollingpoint-wu-fotos.084.jpg)

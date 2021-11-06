@@ -2,6 +2,10 @@
 permalink: /koop
 title: Kooperationen
 ---
+![](/assets/uploads/img_5398.jpg)
+
+&nbsp;
+
 Christian und maRia trugen beide zum diesjährigen **IDOCDE Symposion** bei:
 
 **[per/mutation](https://rollingpoint.us2.list-manage.com/track/click?u=da383dd0deb60c7d9b43b8bc2&id=f8e5460ae9&e=4de8c5a696) practical and tactical applications in taking care of mortal dancing July 26 - August 1, 2021: IDOCDE residency + symposium ,online and offline:**
@@ -15,6 +19,13 @@ Buildung on some mycological knowledge* we will dive into a sensorimotor experie
 *Paul Stamets: Fantastic fungi. How Mushrooms can heal, shift consciousness, and save the planet*\
 *Patricia Kaishian: The Science Underground: Mycology as a queer discipline (preprint)*
 
+![](/assets/uploads/p8220004-kopie.jpg)
+
+Spores of the Inocybe asterospora mushroom\
+Fotocredits: Christian Apschner
+
+**&nbsp;**
+
 **maRia Probst & Susanne Hochreiter*: About Dance, Comics and Survival***\
 So here we are, right in the gutter. Having switched from full on\
 physicality towards imagination and poetry into the 2nd dimension of\
@@ -25,6 +36,8 @@ abstractions and joyful signs. Let's explore, let's dialogue,  let s be\
 in touch!
 
 **Details:** <http://www.idocde.net/>
+
+![](/assets/uploads/img_5387.jpg)
 
 **&nbsp;**
 

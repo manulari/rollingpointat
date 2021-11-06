@@ -13,10 +13,10 @@ Fotocredits: He Shao Hui
 **[9./10.10.2021 "From Bodywork into Movement" mit Christian Apschner und maRia Probst](#bodywork)**
 
 [**13./14.11.2021 "Comics a**[](#comics)**nd Dance"**\
-**mit maRia Prob**[\#comics](#comics)**st und Susanne Hochreiter**](#comics)
+**mit maRia Prob**\[#comics](#comics)**st und Susanne Hochreiter**](#comics)
 
 [**22./23.1.2022: "Contact Flying Skills"**\
-**mit Christian Apschner und** [\#flying](#flying)**Lui Springer (support)**](#flying)
+**mit Christian Apschner und** [#flying](#flying)**Lui Springer (support)**](#flying)
 
 &nbsp;
 
@@ -101,6 +101,10 @@ IBAN:AT54 3200 0000 1701 2717, BIC: RLNWATWW, Verein rollingpoint, einzahlen.�
 ***Sämtliche rp Angebote werden entsprechend der aktuellen Covid19 Präventionsverordnungen abgehalten.***
 
 &nbsp;
+
+![](/assets/uploads/lsz_5750.jpg)
+
+Fotocredit: Laurent Ziegler
 
 ### **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\__**
 

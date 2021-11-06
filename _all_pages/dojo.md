@@ -4,7 +4,7 @@ title: CI-DOJO (TRAINING+JAM)
 ---
 ## CI-DOJO (Training+Jam)
 
-![](/assets/uploads/lsz_5410-2.jpg)
+![](/assets/uploads/lsz_5410-3.jpg)
 
 Fotocredits: Laurent Ziegler
 
@@ -46,3 +46,8 @@ Come prepared! 
 Bezahlung bitte ausschließlich per Banküberweisung auf das rollingpoint-Konto IBAN: AT54 3200 0000 1701 2717, BIC: RLNWATWW
 
 **Wichtig**: Bitte vor dem Betreten der Turnsaalgarderobe die Schuhe am Gang ausziehen; keinenfalls Roller oder Fahrräder mit in die Schule nehmen!
+
+&nbsp;
+
+![](/assets/uploads/lsz_5630.jpg)
+Fotocredits: Laurent Ziegler

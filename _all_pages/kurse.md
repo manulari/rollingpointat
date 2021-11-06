@@ -2,16 +2,16 @@
 permalink: /kurse
 title: KURSE UND WORKSHOPS
 ---
-| Tag    | Zeit            | Lehrer:in     | Kurs                                                         | Ort/Turnsaal               |
-| ------ | --------------- | ------------- | ------------------------------------------------------------ | -------------------------- |
-| **Mo** | **18.10-20.10** | **maRia**     | **["Opening, Folding, Release" Zeitgenössischer Tanz](#mo)** | **Gilgegasse 12, 9.Bez.**  |
-| **Di** | **18.00-20.00** | **maRia**     | **[CI Körpertraining + "Bounce and Shake"](#di)**            | **Einsiedlerg. 7, 5.Bez.** |
-| **Mi** | **18.15-20.30** | **Christian** | **[Contact Improvisation and -Technique](#mi)**              | **Einsiedlerg. 7, 5.Bez.** |
-| **Do** | **18.15-20.45** | **Christian** | **[Contact Dojo: Training + Jam](#do)**                      | **Gilgegasse 12, 9.Bez.**  |
+Semesterkurse
+
+| Tag    | Zeit            | Lehrer:in     | Kurs                                                         | Ort/Turnsaal                  |
+| ------ | --------------- | ------------- | ------------------------------------------------------------ | ----------------------------- |
+| **Mo** | **18.10-20.10** | **maRia**     | **["Opening, Folding, Release" Zeitgenössischer Tanz](#mo)** | **Gilgegasse 12, 1090 Wien**  |
+| **Di** | **18.00-20.00** | **maRia**     | **[CI Körpertraining + "Bounce and Shake"](#di)**            | **Einsiedlerg. 7, 1050 Wien** |
+| **Mi** | **18.15-20.30** | **Christian** | **[Contact Improvisation and -Technique](#mi)**              | **Einsiedlerg. 7, 1050 Wien** |
+| **Do** | **18.15-20.45** | **Christian** | **[Contact Dojo: Offenes Training + Jam](#do)**              | **Gilgegasse 12, 1090 Wien**  |
 
 &nbsp;
-
-
 
 ### ***Abendkurse Wintersemester 2021/22***
 
@@ -45,7 +45,7 @@ Teilnahmeempfehlungen: Bewegungsvorerfahrung aller Art sowie Lust und Freude an 
 
 <div class="named-anchor" id="do"></div>
 
-**4 Contact Dojo: Training + Jam**\
+**4 Contact Dojo: Offenes Training + Jam**\
 **Do 16.9.2021 – 3.2.2022, 18.15 - 20.45**\
 **Turnsaal VS Gilgegasse 12, 1090 Wien**
 
@@ -66,8 +66,6 @@ An schulautonomen Tagen, Feiertagen und einzelnen Terminen finden keine Kurse st
 
 &nbsp;
 
-***Sämtliche rp Angebote werden entsprechend der aktuellen Covid19 Präventionsverordnungen abgehalten.*** 
+***Sämtliche rp Angebote werden entsprechend der aktuellen Covid19 Präventionsverordnungen abgehalten.***
 
-|                                                                                                                                                                                     |                                                                                                                                                                                     |                                                                                                                                                                                   |                                                                                                                                                                                     |
-| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [![](http://www.rollingpoint.at/contents/galleries/thumbnSEMK1/thumbnails/img_1503kk.jpg)](http://www.rollingpoint.at/images.php?src=contents/galleries/thumbnSEMK1/img_1503kk.jpg) | [![](http://www.rollingpoint.at/contents/galleries/thumbnSEMK1/thumbnails/img_1665kk.jpg)](http://www.rollingpoint.at/images.php?src=contents/galleries/thumbnSEMK1/img_1665kk.jpg) | [![](http://www.rollingpoint.at/contents/galleries/thumbnSEMK1/thumbnails/img_1317k.jpg)](http://www.rollingpoint.at/images.php?src=contents/galleries/thumbnSEMK1/img_1317k.jpg) | [![](http://www.rollingpoint.at/contents/galleries/thumbnSEMK1/thumbnails/img_1765kk.jpg)](http://www.rollingpoint.at/images.php?src=contents/galleries/thumbnSEMK1/img_1765kk.jpg) |
+![](/assets/uploads/img_0197.jpg)

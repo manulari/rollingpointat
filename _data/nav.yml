@@ -1,6 +1,6 @@
 entries:
   - title: HOME
-    path: /home
+    path: /
   - title: CONTACT IMPROVISATION
     path: /contactimpro
     subentries:
@@ -43,14 +43,12 @@ entries:
         path: maria
       - title: Christian Apschner
         path: christian
-      - title: Fotos
-        path: fotos
-      - title: links
+      - title: Links
         path: /links
   - title: KONTAKT
     path: kontakt
     subentries:
-      - title: impressum
+      - title: Impressum
         path: impressum
-      - title: datenschutz
+      - title: Datenschutz
         path: datenschutz
