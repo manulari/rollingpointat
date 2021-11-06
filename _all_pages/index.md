@@ -50,5 +50,6 @@ Turnsaal VS Einsiedlergasse 7, 1050 Wien**
 
 &nbsp;
 
-![](/assets/uploads/dsc_1941a.jpg)
+![Mehr CI auf der Stiege](/assets/uploads/dsc_1941a.jpg "Mehr CI auf der Stiege")
+
 Fotocredit: Johannes Stolba
