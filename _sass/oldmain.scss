@@ -1,44 +1,10 @@
-HTML, BODY{height: 100%; margin: 0; padding: 0;}
-
 body {
-	color: #3d3d3d;
-	font-family: Verdana, Arial, Helvetica, sans-serif;
-	font-size: 12px;
-	line-height: 20px;
+  color: $color-main;
+  font-family: $font-main;
+  font-size: 12px;
+  line-height: 20px;
 }
 
-h1 {
-	color: #354f59;
-        font-family: Arial, Verdana, Helvetica, sans-serif;
-	font-size: 23px;
-	line-height: 27px;
-	font-weight: normal;
-}
-h2 {
-	color: #354f59;
-        font-family: Arial, Verdana, Helvetica, sans-serif;
-	font-size: 23px;
-	line-height: 27px;
-	font-weight: normal;
-	background-image: url(title_underline.gif);
-	background-repeat: no-repeat;
-	background-position: 0 25px;
-}
-h3 {
-	color: #354f59;
-        font-family: Arial, Verdana, Helvetica, sans-serif;
-	font-size: 21px;
-	line-height: 25px;
-	font-weight: normal;
-}
-a {
-	color: #c03f20;
-	//text-decoration: underline;
-}
-a:hover {
-	color: #252525;
-	//text-decoration: underline;
-}
 
 #left{
  	background-image: url(seamless_hdr_bg.gif);
@@ -71,17 +37,11 @@ a:hover {
 	float: left;
 }
 
-#menu a {
+#flashMenu a {
 	color: #353535;
-	text-decoration: none;
 }
-#menu a:hover {
+#flashMenu a:hover {
 	color: #1a8ca6;
-	text-decoration: none;
-}
-
-#flashMenu {
-	font-family: 'open_sansregular', Verdana, Arial, Helvetica, sans-serif;
 }
 
 #contents {
@@ -138,11 +98,11 @@ a:hover {
 	font-weight: bold;
 }
 .menusubcat {
-        font-size: 11px;
+  font-size: 11px;
 	line-height: 20px;
 }
 .menusubsubcat {
-        font-size: 10px;
+  font-size: 10px;
 	line-height: 15px;
 }
 #menu .menu_active a {
@@ -152,14 +112,4 @@ a:hover {
 	height: 10px;
 	font-size: 10px;
 	line-height: 10px;
-}
-.images {
-	/*border:1px solid #CCC;*/
-	padding:2px;
-}
-#newsletter {
-        font-size: 11px;
-}
-#newsletter input {
-       font-size: 10px;
 }

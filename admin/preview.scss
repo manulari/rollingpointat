@@ -1,6 +1,9 @@
 ---
 ---
+@import 'variables';
 @import 'myreset';
 @import 'contentStyle';
 
-@include maincontent;
+body {
+  @include maincontent;
+}
