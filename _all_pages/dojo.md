@@ -47,5 +47,6 @@ Bezahlung bitte ausschließlich per Banküberweisung auf das rollingpoint-Konto�
 
 &nbsp;
 
-![](/assets/uploads/lsz_5630.jpg)
+![Kopf an Kopf](/assets/uploads/lsz_5630.jpg)
+
 Fotocredits: Laurent Ziegler
