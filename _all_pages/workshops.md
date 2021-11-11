@@ -12,11 +12,12 @@ Fotocredits: He Shao Hui
 
 **[9./10.10.2021 "From Bodywork into Movement" mit Christian Apschner und maRia Probst](#bodywork)**
 
-[**13./14.11.2021 "Comics a**[](#comics)**nd Dance"**\
-**mit maRia Prob**\[#comics](#comics)**st und Susanne Hochreiter**](#comics)
+[**13./14.11.2021 "Comics and Dance"**\
+**mit maRia Prob**](#comics)**st und Susanne Hochreiter**\
+**Achtung: Termin wird verschoben**
 
 [**22./23.1.2022: "Contact Flying Skills"**\
-**mit Christian Apschner und** [#flying](#flying)**Lui Springer (support)**](#flying)
+**mit Christian Apschner und** **Lui Springer (support)**](#flying)
 
 &nbsp;
 
@@ -40,7 +41,8 @@ Der Workshop lädt sowohl Nicht-Contact Improvisation TänzerInnen als auch Cont
 
 **"Comics and Dance"** – open level\
 **13./14.11.2021 / 10.00-17.00 (ca 1,5h Mittagspause)**\
-**mit maRia Probst und Susanne Hochreiter**
+**mit maRia Probst und Susanne Hochreiter**\
+**Achtung: Dieser Termin wird verschoben**
 
 hybrid event (Zoom und gemeinsam im Studio)
 
