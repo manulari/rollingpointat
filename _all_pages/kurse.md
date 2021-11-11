@@ -66,6 +66,6 @@ An schulautonomen Tagen, Feiertagen und einzelnen Terminen finden keine Kurse st
 
 &nbsp;
 
-***Sämtliche rp Angebote werden entsprechend der aktuellen Covid19 Präventionsverordnungen abgehalten.***
+***Sämtliche rp Angebote werden entsprechend den jeweils aktuellen Covid-Regelungen für Wien abgehalten.***
 
 ![](/assets/uploads/img_0197.jpg)
