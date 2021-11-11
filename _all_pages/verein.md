@@ -2,7 +2,7 @@
 permalink: verein
 title: VEREIN ROLLINGPOINT
 ---
-![](http://www.rollingpoint.at/contents/photos/img_2335k.jpg)
+![](/assets/uploads/img_2335k.jpg)
 
 **[rollingpoint Video-link](https://www.youtube.com/watch?v=kp3DqzN1Ldo)**
 
@@ -16,7 +16,7 @@ Ein viertägiger Workshop mit Martin Keogh aus den USA bildete den gelungenen St
 
 maRia Probst und Christian Apschner sind sowohl **pädagogisch** und **künstlerisch** sowie auch als **KörpertherapeutInnen** tätig und verfügen über langjährige Lehrerfahrung im In- und Ausland. Sie wurden u.a. mehrfach eingeladen ihr Arbeit beim Internationalen Seminar für körperbezogene Psychotherapie, Körpertherapie und Körperkunst in Bad Gleichenberg vorzustellen und arbeiten mit Institutionen wie **Tanzquartier Wien**, **Impulstanz**, **Im_flieger,** dem Verein **MAD** und dem Kognitionsforscher Michael Kimmel zusammen.
 
-![](http://www.rollingpoint.at/contents/photos/sundayka.jpg)
+![](/assets/uploads/sundayka.jpg)
 
 Foto: Jakob Fill
 
