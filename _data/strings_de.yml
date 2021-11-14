@@ -1,5 +1,7 @@
+sign_up: "Zum Newsletter anmelden"
 email: "Email"
 firstname: "Vorname"
 lastname: "Nachname"
+button_label: "Anmelden"
 gdpr: 'Durch Anmeldung zum Newsletter stimme ich der Verarbeitung meiner Daten zum Zweck der Zusendung des Newsletters zu.<br/><a href="/datenschutz">Mehr Informationen.</a>'
 previous_newsletters: "Frühere Newsletter ansehen."

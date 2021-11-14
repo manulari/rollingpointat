@@ -1,6 +1,8 @@
+sign_up: "Subscribe to our newsletter"
 email: "Email"
 firstname: "First Name"
 lastname: "Last Name"
+button_label: "Subscribe"
 gdpr: 'By subscribing to the newsletter you agree to the processing of your data for the purpose of sending you the newsletter.<br/><a href="/datenschutz">More information.</a>'
 previous_newsletters: "Previous newsletters."
 
