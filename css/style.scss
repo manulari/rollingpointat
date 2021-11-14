@@ -1,13 +1,16 @@
 ---
 ---
+@import 'contentStyle';
+@include attop;
 @import 'variables';
 @import 'normalize';
 @import 'myreset';
 @import 'oldmain';
-@import 'contentStyle';
 @import 'mailchimp';
 
 //.mainnav .active { color: red; }
+
+@include unscoped;
 
 .maincontent {
   @include maincontent;
