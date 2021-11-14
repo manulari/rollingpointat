@@ -1,3 +1,18 @@
+@mixin attop {
+@import url('https://fonts.googleapis.com/css2?family=Rubik&family=Raleway:ital,wght@0,400;0,600;1,400;1,600&display=swap');
+} 
+
+
+@mixin unscoped {
+body {
+  font-family: 'Raleway', monospace;
+  color: $color-main;
+  font-family: $font-main;
+  font-size: 15px;
+  line-height: 20px;
+}
+}
+
 @mixin maincontent {
 
 
@@ -45,10 +60,6 @@ td, th {
 
 // begin from old site
 
-color: $color-main;
-font-family: $font-main;
-font-size: 12px;
-line-height: 20px;
 
 h1, h2, h3 {
 	color: #354f59;
