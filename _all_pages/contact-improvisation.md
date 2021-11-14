@@ -1,5 +1,5 @@
 ---
-permalink: /contactimpro
+permalink: /contact-improvisation
 title: CONTACT IMPROVISATION
 ---
 # Contact Improvisation

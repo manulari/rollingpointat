@@ -1,5 +1,5 @@
 ---
-permalink: maria
+permalink: /maria
 title: maRia Probst
 ---
 ![](/assets/uploads/img_2541_-_foto_.jpg)

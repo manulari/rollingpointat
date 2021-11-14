@@ -1,5 +1,5 @@
 ---
-permalink: somatics
+permalink: /somatics
 title: Somatisches Lernen
 ---
 # Somatisches Lernen

@@ -1,5 +1,5 @@
 ---
-permalink: bearbeitungshilfe
+permalink: /bearbeitungshilfe
 title: Bearbeitungshilfe
 ---
 Folgende Bearbeitungsmöglichkeiten gibt es:

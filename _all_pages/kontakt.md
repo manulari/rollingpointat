@@ -1,5 +1,5 @@
 ---
-permalink: kontakt
+permalink: /kontakt
 title: KONTAKT
 ---
 ## Impressum

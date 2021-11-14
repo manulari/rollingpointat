@@ -1,5 +1,5 @@
 ---
-permalink: impressum
+permalink: /impressum
 title: Impressum
 ---
 **rollingpoint** - Verein für Contact Improvisation und artverwandte Tanz- und Bewegungsformen

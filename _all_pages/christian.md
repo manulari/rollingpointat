@@ -1,5 +1,5 @@
 ---
-permalink: christian
+permalink: /christian
 title: Christian Apschner
 ---
 ![](/assets/uploads/700_7881.jpg)

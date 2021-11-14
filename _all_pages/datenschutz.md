@@ -1,5 +1,5 @@
 ---
-permalink: datenschutz
+permalink: /datenschutz
 title: Datenschutzerklärung
 ---
 **Verantwortlich für den Datenschutz auf dieser Homepage im Sinne der Datenschutzgesetze ist:**\

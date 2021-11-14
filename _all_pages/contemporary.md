@@ -1,5 +1,5 @@
 ---
-permalink: contemporary
+permalink: /contemporary
 title: Zeitgenössischer Tanz
 ---
 # Zeitgenössischer Tanz

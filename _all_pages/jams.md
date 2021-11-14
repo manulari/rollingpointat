@@ -1,5 +1,5 @@
 ---
-permalink: /JAMS
+permalink: /jams
 title: ROLLINGPOINT-JAMS
 ---
 Die rollingpoint-Jams sind ein Ort für fokussiertes Contact Improvisations-Tanzen an dem **CI als zeitgenössische Tanz- und Kunstform** praktiziert wird. Wir achten darauf einen gemeinsamen Raum zu halten, in dem sich alle sicher fühlen und erwarten von den TeilnehmerInnen, dass sie bereits über erste CI-Kurserfahrungen (im Sinne von Grundkenntnissen) verfügen.
@@ -73,4 +73,4 @@ Der Underscore nach Nancy Stark Smith ist ein sehr hilfreicher zeitlich und räu
 
 (keine rollingpoint-Veranstaltungen) 
 
-[http://vienna.contactimprovisation.at](http://vienna.contactimprovisation.at/)
+[https://vienna.contactimprovisation.at](https://vienna.contactimprovisation.at/)

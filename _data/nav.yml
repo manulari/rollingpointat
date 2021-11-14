@@ -2,14 +2,14 @@ entries:
   - title: HOME
     path: /
   - title: CONTACT IMPROVISATION
-    path: /contactimpro
+    path: /contact-improvisation
     subentries:
       - title: Contact Improvisation
-        path: /contactimpro
+        path: /contact-improvisation
       - title: Zeitgenössischer Tanz
-        path: contemporary
+        path: /contemporary
       - title: Somatisches Lernen
-        path: somatics
+        path: /somatics
   - title: KURSE UND WORKSHOPS
     path: /kurse
     subentries:
@@ -24,7 +24,7 @@ entries:
   - title: CI-DOJO (TRAINING+JAM)
     path: /dojo
   - title: JAMS+PERFORMANCES
-    path: /JAMS
+    path: /jams
   - title: KÜNSTLERISCHE FORSCHUNG
     path: /conact1
     subentries:
@@ -35,20 +35,20 @@ entries:
       - title: Kooperationen
         path: /koop
   - title: VEREIN ROLLINGPOINT
-    path: verein
+    path: /verein
     subentries:
       - title: Verein rollingpoint
-        path: verein
+        path: /verein
       - title: maRia Probst
-        path: maria
+        path: /maria
       - title: Christian Apschner
-        path: christian
+        path: /christian
       - title: Links
         path: /links
   - title: KONTAKT
-    path: kontakt
+    path: /kontakt
     subentries:
       - title: Impressum
-        path: impressum
+        path: /impressum
       - title: Datenschutz
-        path: datenschutz
+        path: /datenschutz

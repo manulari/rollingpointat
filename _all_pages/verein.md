@@ -1,5 +1,5 @@
 ---
-permalink: verein
+permalink: /verein
 title: VEREIN ROLLINGPOINT
 ---
 ![](/assets/uploads/img_2335k.jpg)

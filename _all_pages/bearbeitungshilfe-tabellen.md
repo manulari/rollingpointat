@@ -1,5 +1,5 @@
 ---
-permalink: bearbeitungshilfe-tabellen
+permalink: /bearbeitungshilfe-tabellen
 title: "Bearbeitungshilfe: Tabellen"
 ---
 Tabellen:
