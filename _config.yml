@@ -1,9 +1,10 @@
 site_language: de
 
 collections:
-  all_pages:
+  pages_de:
     output: true
-    permalink: /:name/index.html
+  pages_en:
+    output: true
 defaults:
   - scope:
       path: ""

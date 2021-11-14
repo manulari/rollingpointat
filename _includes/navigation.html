@@ -1,6 +1,6 @@
 <div id="flashMenu" style="padding: 0 5px 10px 25px;">
-
-    {% for item in site.data.nav.entries %}
+  {% if language == "en" %}{% assign entries = site.data.nav_en.entries %}{% else %}{% assign entries = site.data.nav_de.entries %}{% endif %}
+    {% for item in entries %}
       {% assign firstchar = item.path | slice: 0 %}
       {% if firstchar == '/' %}
       {% assign itempath = item.path %}

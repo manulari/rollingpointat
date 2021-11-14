@@ -3,7 +3,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="{{ language }}" xml:lang="{{ language }}">
 <head>
   <meta charset="utf-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
+  <!--<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />-->
   <title>Rollingpoint - Contact Improvisation und artverwandte Tanz und BewegungsFormen - {{ page.title }}</title>
   <meta name="keywords" lang="de" content="Rollingpoint, Contact Improvisation, Kurs, Tanzkurs, Vienna, embodiment, Kontaktimprovisation, zeitgenössischer Tanz, Tanztraining, Wien, Jam, Trager, körperarbeit, christian apschner, maRia Probst, Maria Probst, Tuinapraktik">
 
@@ -41,8 +41,13 @@
     </div>
     <div id="contents">
 <div id="header">
-         <div style="text-align: right; padding: 10px 33px 0 0;"><span class="lang_active"><b>deutsch</b></span> <font color="#0a6873">|</font> <a href="?lang=eng"><b>english</b></a></div>
+  {% if language != "en" %}
+  <div style="text-align: right; padding: 10px 33px 0 0;"><span class="lang_active"><b>deutsch</b></span> <font color="#0a6873">|</font> <a href="{{ other_lang | default: "/en/" }}"><b>english</b></a></div>
          <div id="impressum" style="font-size: 11px; text-align:right; margin-top: 60px; color: #717171;"><a href="/kontakt">Kontakt</a> | <a href="/impressum">Impressum</a></div>
+  {% else %}
+  <div style="text-align: right; padding: 10px 33px 0 0;"><a href="{{ other_lang | default: "/" }}"><b>deutsch</b></a> <font color="#0a6873">|</font> <span class="lang_active"><b>english</b></span></div>
+         <div id="impressum" style="font-size: 11px; text-align:right; margin-top: 60px; color: #717171;"><a href="/kontakt">Kontakt</a> | <a href="/impressum">Impressum</a></div>
+  {% endif %}
     </div>
     <div id="real_contents" class="maincontent">
     {{ content }}

@@ -11,9 +11,9 @@ collections:
   - name: 'global_config'
     label: 'Settings'
     files:
-      - label: "Menu"
-        name: 'nav'
-        file: '_data/nav.yml'
+      - label: "Menu DE"
+        name: 'nav_de'
+        file: '_data/nav_de.yml'
         editor:
           preview: false
         fields:
@@ -28,7 +28,7 @@ collections:
               - name: 'path'
                 label: 'link'
                 widget: 'relation'
-                collection: 'all_pages'
+                collection: 'pages_de'
                 value_field: 'permalink'
                 search_fields: ['title', 'permalink']
                 display_fields: ['permalink', 'title']
@@ -43,20 +43,87 @@ collections:
                   - name: 'path'
                     label: 'Link'
                     widget: 'relation'
-                    collection: 'all_pages'
+                    collection: 'pages_de'
                     value_field: 'permalink'
                     search_fields: ['title', 'permalink']
                     display_fields: ['permalink', 'title']
-  - name: 'all_pages'
-    label: 'Pages'
-    label_singular: 'page'
-    folder: '_all_pages'
+      - label: "Menu EN"
+        name: 'nav_en'
+        file: '_data/nav_en.yml'
+        editor:
+          preview: false
+        fields:
+          - name: 'entries'
+            label: 'entries'
+            label_singular: 'entry'
+            widget: 'list'
+            fields:
+              - name: 'title'
+                label: 'text'
+                widget: 'string'
+              - name: 'path'
+                label: 'link'
+                widget: 'relation'
+                collection: 'pages_en'
+                value_field: 'permalink'
+                search_fields: ['title', 'permalink']
+                display_fields: ['permalink', 'title']
+              - name: 'subentries'
+                label: 'subentries'
+                label_singular: 'subentry'
+                widget: 'list'
+                fields:
+                  - name: 'title'
+                    label: 'Text'
+                    widget: 'string'
+                  - name: 'path'
+                    label: 'Link'
+                    widget: 'relation'
+                    collection: 'pages_en'
+                    value_field: 'permalink'
+                    search_fields: ['title', 'permalink']
+                    display_fields: ['permalink', 'title']
+  - name: 'pages_de'
+    label: 'Pages DE'
+    label_singular: 'page (de)'
+    folder: '_pages_de'
     extension: md
     format: yaml-frontmatter
     create: true
     fields:
       - { label: 'Link', name: 'permalink', widget: 'string', hint: "Part of URL after https://example.com/. Use only English letters, numbers, and -" }
       - { label: 'Title', name: 'title', widget: 'string', hint: "The title shows up as the name of the tab in the browser." }
+      - { label: 'Language', name: 'language', widget: 'hidden', default: 'de' }
+      - name: 'other_lang'
+        label: 'English version'
+        widget: 'relation'
+        collection: 'pages_en'
+        value_field: 'permalink'
+        search_fields: ['title', 'permalink']
+        display_fields: ['permalink', 'title']
+      - { label: 'Body', name: 'body', widget: 'markdown' }
+    summary: '{{permalink}}: {{title}}'
+    sortable_fields: ['title', 'permalink']
+    slug: '{{permalink}}'
+    preview_path: "/{{permalink}}"
+  - name: 'pages_en'
+    label: 'Pages EN'
+    label_singular: 'page (en)'
+    folder: '_pages_en'
+    extension: md
+    format: yaml-frontmatter
+    create: true
+    fields:
+      - { label: 'Link', name: 'permalink', widget: 'string', hint: "Part of URL after https://example.com/. Always start with /en/ for english pages. Use only English letters, numbers, and - after that." }
+      - { label: 'Title', name: 'title', widget: 'string', hint: "The title shows up as the name of the tab in the browser." }
+      - { label: 'Language', name: 'language', widget: 'hidden', default: 'en' }
+      - name: 'other_lang'
+        label: 'German version'
+        widget: 'relation'
+        collection: 'pages_de'
+        value_field: 'permalink'
+        search_fields: ['title', 'permalink']
+        display_fields: ['permalink', 'title']
       - { label: 'Body', name: 'body', widget: 'markdown' }
     summary: '{{permalink}}: {{title}}'
     sortable_fields: ['title', 'permalink']

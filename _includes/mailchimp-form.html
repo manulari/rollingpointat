@@ -1,3 +1,5 @@
+{% if language == "en" %}{% assign strings = site.data.strings_en %}{% else %}{% assign strings = site.data.strings_de %}{% endif %}
+
 <!-- Begin Mailchimp Signup Form -->
 <div id="mc_embed_signup">
 <form action="https://rollingpoint.us2.list-manage.com/subscribe/post?u=da383dd0deb60c7d9b43b8bc2&amp;id=1ba439b6a6" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
@@ -25,12 +27,11 @@
     <div class="clear"><input type="submit" value="Anmelden" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
     </div>
     <p>
-    Durch Anmeldung zum Newsletter stimme ich der Verarbeitung meiner Daten zum Zweck der Zusendung des Newsletters zu.<br/>
-    <a href="/datenschutz">Mehr Informationen.</a>
+    {{ strings.gdpr }}
     </p>
-<p><a href="https://us2.campaign-archive.com/home/?u=da383dd0deb60c7d9b43b8bc2&id=1ba439b6a6" title="View previous campaigns">Frühere Newsletter ansehen.</a></p>
+    <p><a href="https://us2.campaign-archive.com/home/?u=da383dd0deb60c7d9b43b8bc2&id=1ba439b6a6" title="{{ strings.previous_newsletters }}">{{ strings.previous_newsletters }}</a></p>
 </form>
 </div>
 <script type='text/javascript' src='//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js' defer></script>
-<script type='text/javascript' src='/js/mailchimp-local.js' defer></script>
+<script type='text/javascript' src='/js/mailchimp-local-{{ language }}.js' defer></script>
 <!--End mc_embed_signup-->
