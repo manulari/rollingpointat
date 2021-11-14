@@ -42,10 +42,10 @@
     <div id="contents">
 <div id="header">
   {% if language != "en" %}
-  <div style="text-align: right; padding: 10px 33px 0 0;"><span class="lang_active"><b>deutsch</b></span> <font color="#0a6873">|</font> <a href="{{ other_lang | default: "/en/" }}"><b>english</b></a></div>
+  <div style="text-align: right; padding: 10px 33px 0 0;"><span class="lang_active"><b>deutsch</b></span> <font color="#0a6873">|</font> <a href="{{ page.other_lang | default: "/en/" }}"><b>english</b></a></div>
          <div id="impressum" style="font-size: 11px; text-align:right; margin-top: 60px; color: #717171;"><a href="/kontakt">Kontakt</a> | <a href="/impressum">Impressum</a></div>
   {% else %}
-  <div style="text-align: right; padding: 10px 33px 0 0;"><a href="{{ other_lang | default: "/" }}"><b>deutsch</b></a> <font color="#0a6873">|</font> <span class="lang_active"><b>english</b></span></div>
+  <div style="text-align: right; padding: 10px 33px 0 0;"><a href="{{ page.other_lang | default: "/" }}"><b>deutsch</b></a> <font color="#0a6873">|</font> <span class="lang_active"><b>english</b></span></div>
          <div id="impressum" style="font-size: 11px; text-align:right; margin-top: 60px; color: #717171;"><a href="/kontakt">Kontakt</a> | <a href="/impressum">Impressum</a></div>
   {% endif %}
     </div>

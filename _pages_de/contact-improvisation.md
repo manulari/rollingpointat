@@ -1,6 +1,7 @@
 ---
 permalink: /contact-improvisation
 title: CONTACT IMPROVISATION
+other_lang: /en/contact-improvisation
 ---
 # Contact Improvisation
 
