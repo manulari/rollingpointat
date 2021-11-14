@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: HOME
+title: rollingpoint - Contact Improvisation und artverwandte Tanz- und Bewegungsformen
 other_lang: /en/
 ---
 ### [](#1)Contact Improvisation und artverwandte Tanz-und Bewegungsformen
