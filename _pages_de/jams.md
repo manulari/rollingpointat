@@ -2,13 +2,9 @@
 permalink: /jams
 title: ROLLINGPOINT-JAMS
 ---
-
-
 > **Aktualisierung 20.11.:**\
 > \
 > **Liebe TänzerInnen! Wir müssen leider wieder in eine Pause gehen. Dies betrifft auch schon die Jam am So 21.11. Wir kommen wieder sobald es wieder möglich ist.**
-
-
 
 Die rollingpoint-Jams sind ein Ort für fokussiertes Contact Improvisations-Tanzen an dem **CI als zeitgenössische Tanz- und Kunstform** praktiziert wird. Wir achten darauf einen gemeinsamen Raum zu halten, in dem sich alle sicher fühlen und erwarten von den TeilnehmerInnen, dass sie bereits über erste CI-Kurserfahrungen (im Sinne von Grundkenntnissen) verfügen.
 
@@ -58,7 +54,7 @@ Ein CI-Tanz ist ein gleichberechtigter körperlicher Dialog, in dem wir uns fort
 
 *Auch wenn die Aufmerksamkeit im Tanzen beim sensomotorischen Geschehen liegt so wird natürlich wie bei allen menschlichen Begegnungen auch immer eine psychologische oder sexuell motivierte Komponente in den Tänzen mitschwingen. Wir können lernen unser Tanzen durch diese emotionalen Komponenten zu bereichern ohne den Fokus auf das Tanzen  zu verlieren. Je nachdem welche Vorerfahrung wir mit Körperkontakt mitbringen, kann das CI-Tanzen zu Beginn in uns unterschiedliche Gefühle und Gedanken auslösen. CI ist keine Therapie. Für viele CI-Praktizierende ist das gemeinsame Tanzen aber auch ein wichtiger Lernprozess, der in verschiedenste Lebensbereiche integriert werden kann.*
 
-Bei auftauchenden Fragenstellungen in der Jam besteht die Möglichkeit  der/die Jam-host anzusprechen.
+Bei auftauchenden Fragenstellungen in der Jam besteht immer die Möglichkeit  der/die Jam-host anzusprechen.
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
@@ -78,7 +74,5 @@ Der Underscore nach Nancy Stark Smith ist ein sehr hilfreicher zeitlich und räu
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 ### **Übersichtsseite zu weiteren Contact Improvisation Jams in Wien/Österreich:**
-
-(keine rollingpoint-Veranstaltungen) 
 
 [https://vienna.contactimprovisation.at](https://vienna.contactimprovisation.at/)
