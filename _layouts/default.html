@@ -19,21 +19,21 @@
   <![endif]-->
 </head>
 <body>
-<table width="100%" height="100%" cellpadding="0" cellspacing="0" border="0" >
+<table style="width: 100%; border-collapse: collapse; border: 0;" >
 <tr>
-<td id="left" valign="top">&nbsp;</td>
-<td id="main" width="933" valign="top">
-    <div id="menu" valign="top">
+<td id="left">&nbsp;</td>
+<td id="main">
+    <div id="menu">
     {% include navigation.html %}
     {% include mailchimp-form.html %}
     </div>
     <div id="contents">
 <div id="header">
   {% if language != "en" %}
-  <div style="text-align: right; padding: 10px 33px 0 0;"><span class="lang_active"><b>deutsch</b></span> <font color="#0a6873">|</font> <a href="{{ page.other_lang | default: "/en/" }}"><b>english</b></a></div>
+  <div style="text-align: right; padding: 10px 33px 0 0;"><span class="lang_active"><b>deutsch</b></span> <span style="color: #0a6873;">|</span> <a href="{{ page.other_lang | default: "/en/" }}"><b>english</b></a></div>
          <div id="impressum" style="font-size: 11px; text-align:right; margin-top: 60px; color: #717171;"><a href="/kontakt">Kontakt</a> | <a href="/impressum">Impressum</a></div>
   {% else %}
-  <div style="text-align: right; padding: 10px 33px 0 0;"><a href="{{ page.other_lang | default: "/" }}"><b>deutsch</b></a> <font color="#0a6873">|</font> <span class="lang_active"><b>english</b></span></div>
+  <div style="text-align: right; padding: 10px 33px 0 0;"><a href="{{ page.other_lang | default: "/" }}"><b>deutsch</b></a> <span style="color: #0a6873;">|</span> <span class="lang_active"><b>english</b></span></div>
          <div id="impressum" style="font-size: 11px; text-align:right; margin-top: 60px; color: #717171;"><a href="/kontakt">Kontakt</a> | <a href="/impressum">Impressum</a></div>
   {% endif %}
     </div>
@@ -43,7 +43,7 @@
     </div>
     <br class="clearfloat" />
 </td>
-<td id="right" valign="top">&nbsp; </td>
+<td id="right">&nbsp; </td>
 </tr>
 </table>
 </body>

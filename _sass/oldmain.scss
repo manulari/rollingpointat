@@ -85,6 +85,8 @@
 	padding: 0;
 	background-image: url(menu_bg.gif);
 	background-repeat: repeat-y;
+  width: 933px;
+  vertical-align: top;
 }
 
 #menu {
@@ -95,6 +97,7 @@
 	background-repeat: no-repeat;
 //	text-align: left; //unnecessary
 	float: left;
+  vertical-align: top;
 }
 
 #contents {
