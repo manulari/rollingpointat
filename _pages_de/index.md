@@ -3,7 +3,7 @@ permalink: /
 title: rollingpoint - Contact Improvisation und artverwandte Tanz- und Bewegungsformen
 other_lang: /en/
 ---
-### [](#1)Contact Improvisation und artverwandte Tanz-und Bewegungsformen
+### Contact Improvisation und artverwandte Tanz-und Bewegungsformen
 
 ![Christian und maRia tanzen Contact Improvisation auf einer Stiege](/assets/uploads/dsc_1901_klein.jpg "Contact Improvisation")
 
@@ -11,9 +11,9 @@ Fotocredit: Johannes Stolba
 
 ## Videos
 
-<div class="imglink"><a target="_blank" href="https://www.youtube.com/embed/kp3DqzN1Ldo"><img src="/assets/uploads/video_vorschau_rollingpoint.png" /><div>rollingpoint-Video</div></a></div>
+<div class="imglink"><a target="_blank" href="https://www.youtube.com/embed/kp3DqzN1Ldo"><img src="/assets/uploads/video_vorschau_rollingpoint.png" alt="" /><div>rollingpoint-Video</div></a></div>
 
-<div class="imglink"><a target="_blank" href="https://www.youtube.com/embed/6A5otnVZAg4"><img src="/assets/uploads/video_vorschau_maria.png" /><div>Ganzheitliches Körpertraining mit maRia Probst</div></a></div>
+<div class="imglink"><a target="_blank" href="https://www.youtube.com/embed/6A5otnVZAg4"><img src="/assets/uploads/video_vorschau_maria.png" alt="" /><div>Ganzheitliches Körpertraining mit maRia Probst</div></a></div>
 
 > **Aktualisierung 20.11.:**\
 > \
