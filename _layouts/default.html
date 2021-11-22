@@ -23,25 +23,40 @@
 <tr>
 <td id="left">&nbsp;</td>
 <td id="main">
-    <div id="menu">
+  <div id="menu">
     {% include navigation.html %}
     {% include mailchimp-form.html %}
+  </div>
+  <div id="contents">
+
+    <div id="header">
+      {% if language != "en" %}
+        <div id="lang_selector">
+          <span class="lang_active">deutsch</span>
+          <span style="color: #0a6873;">|</span>
+          <a href="{{ page.other_lang | default: "/en/" }}">english</a>
+        </div>
+        <div id="impressum"><a href="/kontakt">Kontakt</a>
+          | <a href="/impressum">Impressum</a>
+        </div>
+      {% else %}
+        <div id="lang_selector">
+          <a href="{{ page.other_lang | default: "/" }}">deutsch</a>
+          <span style="color: #0a6873;">|</span>
+          <span class="lang_active">english</span>
+        </div>
+        <div id="impressum"><a href="/kontakt">Kontakt</a>
+          | <a href="/impressum">Impressum</a>
+        </div>
+      {% endif %}
     </div>
-    <div id="contents">
-<div id="header">
-  {% if language != "en" %}
-  <div style="text-align: right; padding: 10px 33px 0 0;"><span class="lang_active"><b>deutsch</b></span> <span style="color: #0a6873;">|</span> <a href="{{ page.other_lang | default: "/en/" }}"><b>english</b></a></div>
-         <div id="impressum" style="font-size: 11px; text-align:right; margin-top: 60px; color: #717171;"><a href="/kontakt">Kontakt</a> | <a href="/impressum">Impressum</a></div>
-  {% else %}
-  <div style="text-align: right; padding: 10px 33px 0 0;"><a href="{{ page.other_lang | default: "/" }}"><b>deutsch</b></a> <span style="color: #0a6873;">|</span> <span class="lang_active"><b>english</b></span></div>
-         <div id="impressum" style="font-size: 11px; text-align:right; margin-top: 60px; color: #717171;"><a href="/kontakt">Kontakt</a> | <a href="/impressum">Impressum</a></div>
-  {% endif %}
-    </div>
+
     <div id="real_contents" class="maincontent">
-    {{ content }}
+      {{ content }}
     </div>
-    </div>
-    <br class="clearfloat" />
+
+  </div>
+  <br class="clearfloat" />
 </td>
 <td id="right">&nbsp; </td>
 </tr>
