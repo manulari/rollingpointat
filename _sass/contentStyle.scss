@@ -57,9 +57,9 @@ code { color: $extra-emph-color; font-weight: $f-bold; font-family: inherit; }
 blockquote {
   margin: 30px 0px;
   padding: 10px 20px;
-  border: 2px solid #408f9d;//#b13b66
+  border: 2px solid #b13b66;//#408f9d;
   border-radius: 5px;
-  //color: #b13b66;
+  color: #b13b66;
 }
 
 a { opacity: 0.9; color: $link-color-multiplied; }
