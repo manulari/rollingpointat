@@ -4,8 +4,6 @@ title: Bearbeitungshilfe
 ---
 Folgende Bearbeitungsmöglichkeiten gibt es:
 
-
-
 Überschriften:
 
 Überschriften sind immer eine ganze Zeile.
@@ -17,6 +15,11 @@ Folgende Bearbeitungsmöglichkeiten gibt es:
 ### Überschrift 3 = Heading 3
 
 #### Überschrift 4 = Heading 4
+
+Der darauffolgende Absatz wird eingerückt.\
+Wird momentan verwendet für die Eckdaten von Kursen, etc.
+
+
 
 ##### Überschrift 5 = Heading 5
 
@@ -89,7 +92,7 @@ An einem anderen Punkt in der Seite kann ein Link eingefügt werden, der zu dies
 
 Dieser [Link](#hierher-wird-gesprungen) springt zum Hinspringpunkt mit der ID hierher-wird-gesprungen.
 
-___
+- - -
 
 Links auf andere Seiten:
 
@@ -97,7 +100,7 @@ Um auf andere Unterseiten zu verlinken, für "URL of the Link" das eingeben, was
 
 Man kann auch zu einem Hinspringpunkt auf einer anderen Seite springen, also z.B. auf den [Dienstags-Kurs innerhalb der Kurse-Seite](/kurse#di), mit /kurse#di.
 
-___
+- - -
 
 Bilder:
 

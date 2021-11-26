@@ -20,7 +20,7 @@ Semesterkurse
 #### „Opening, Folding, Release“
 
 mit **maRia Probst**\
-*Zeitgenössisches Tanztraining* - **open level**\
+*Zeitgenössisches Tanztraining* - *open level*\
 **Mo 18.10 - 20.10**; 20.9.2021 – 31.1.2022 (ca. 15x)\
 Turnsaal VS Gilgegasse 12, 1090 Wien
 
@@ -31,7 +31,7 @@ Turnsaal VS Gilgegasse 12, 1090 Wien
 
 #### CI Körpertraining + „Bounce and Shake"
 mit **maRia Probst**\
-**open level**\
+*open level*\
 **Di 18.00 – 20.00**, 21.9.2021- 1.2.2022 (ca. 15x)\
 Turnsaal VS Einsiedlergasse 7, 1050 Wien
 
@@ -43,7 +43,7 @@ Das dreidimensionale Bewegungsverständnis, wie es aus der Praxis der CI erwäch
 #### Contact Improvisation and - Technique
 
 mit **Christian Apschner**\
-**beginner/intermediate**\
+*beginner/intermediate*\
 **Mi 18.15 – 20.30**, 22.9.2021. - 2.2.2022 (ca. 15x)\
 Turnsaal VS Einsiedlergasse 7, 1050 Wien
 
@@ -55,7 +55,7 @@ Teilnahmeempfehlungen: Bewegungsvorerfahrung aller Art sowie Lust und Freude an 
 #### Contact Dojo: Offenes Training + Jam
 
 mit **Christian Apschner**\
-**abwechselnd open level/advanced**\
+abwechselnd *open level/advanced*\
 **Do 18.15 - 20.45**, 16.9.2021 – 3.2.2022\
 **einzeln besuchbar**\
 Turnsaal VS Gilgegasse 12, 1090 Wien

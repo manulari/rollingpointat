@@ -36,7 +36,7 @@ h3 {
 h4 {
   font-size: 17px;
   font-weight: $f-bold;
-  color: #1e6b3c;
+  color: #b13b66;//#060d7c;//#805a11;//#1e6b3c;
   margin-bottom: 0px;
 }
 h4+p {
@@ -57,8 +57,9 @@ code { color: $extra-emph-color; font-weight: $f-bold; font-family: inherit; }
 blockquote {
   margin: 30px 0px;
   padding: 10px 20px;
-  border: 2px solid #408f9d;
+  border: 2px solid #408f9d;//#b13b66
   border-radius: 5px;
+  //color: #b13b66;
 }
 
 a { opacity: 0.9; color: $link-color-multiplied; }
