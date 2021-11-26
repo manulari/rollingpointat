@@ -13,3 +13,85 @@
 .maincontent {
   @include maincontent;
 }
+
+
+/* Styling, colors, fonts of menu, impressum, etc */
+
+#menu nav {
+  font-family: 'Rubik', sans-serif;
+  font-weight: $f-bold;
+	color: #353535;
+
+  > ul {
+    > li > a {
+      font-size: 15px;
+    }
+    > li > ul > li > a {
+      font-size: 13px;
+    }
+  }
+  .menu_active {
+	  color: #1a8ca6;
+  }
+
+  a:hover {
+    color: #1a8ca6;
+  }
+
+}
+
+#header {
+  font-family: 'Rubik', sans-serif;
+  font-weight: $f-bold;
+  padding-right: 33px;
+  text-align: right;
+  
+  #lang_selector {
+	  color: #fdfdff;
+    font-size: 14px;
+    padding-top: 10px;
+    .lang_active {
+      color: #aae4e5;
+    }
+  }
+
+  #impressum {
+    font-size: 13px;
+    font-weight: 400;
+    color: #717171;
+    margin-top: 65px;
+  }
+
+  a:hover {
+    color: #1a8ca6;
+  }
+
+}
+
+
+
+/* paddings, margins in menu */
+
+#menu nav {
+  padding: 0 5px 10px 25px;
+
+  ul {
+    list-style: none;
+    margin: 0;
+  }
+  > ul {
+    padding-left: 0;
+    > li > ul {
+      padding-left: 15px;
+    }
+  }
+
+  > ul > li {
+    margin-bottom: 30px;
+  }
+  > ul > li > ul > li:first-child {
+    margin-top: 6px;
+  }
+
+}
+

@@ -1,16 +1,10 @@
-// color for jump target when jumping within page
-$flash-color: #aae4e5;
 
-$link-color: #1a8ca6;
+//$link-color: #1a8ca6;
+$link-color: rgb(26,140,66); //= 0.9*$link-color-multiplied + 0.1*white
 $link-color-multiplied: rgb(0, 127, 156);
 $link-color-hover: #00728c;//#252525;
 
 $extra-emph-color: #800000;
-$border-color: #408f9d;
 
 
-
-
-$font-main: 'Raleway', sans-serif;
-$font-h: 'Raleway', sans-serif;
-$color-main: #3d3d3d;
+$f-bold: 600;

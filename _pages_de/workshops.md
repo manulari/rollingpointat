@@ -108,7 +108,7 @@ IBAN:AT54 3200 0000 1701 2717, BIC: RLNWATWW, Verein rollingpoint, einzahlen.�
 
 Fotocredit: Laurent Ziegler
 
-### **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\__**
+___
 
 ### **ARCHIV(Auswahl):**
 
