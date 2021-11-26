@@ -6,6 +6,7 @@
 @mixin unscoped {
 body {
   font-family: 'Raleway', sans-serif;
+  font-variant-ligatures: no-common-ligatures;
   color: #3d3d3d;
   font-size: 15px;
   line-height: 1.3;
