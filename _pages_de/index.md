@@ -3,7 +3,7 @@ permalink: /
 title: rollingpoint - Contact Improvisation und artverwandte Tanz- und Bewegungsformen
 other_lang: /en/
 ---
-### Contact Improvisation und artverwandte Tanz-und Bewegungsformen
+# Contact Improvisation und artverwandte Tanz-und Bewegungsformen
 
 ![Christian und maRia tanzen Contact Improvisation auf einer Stiege](/assets/uploads/dsc_1901_klein.jpg "Contact Improvisation")
 
@@ -19,11 +19,9 @@ Fotocredit: Johannes Stolba
 > \
 > **Liebe TänzerInnen! Wir müssen leider wieder in eine Pause gehen. Dies betrifft auch schon die Jam am So 21.11. Wir kommen wieder sobald es wieder möglich ist.**
 
+### Übersicht Wintersemester 2021/22
 
-
-### **Übersicht Wintersemester 2021/22**
-
-### **Abendkurse:**
+### Abendkurse:
 
 **[1 „Opening, Folding, Release“ Zeitgenössisches Tanztraining](/kurse#mo)** **open level**\
 **mit maRia Probst**  \
@@ -45,7 +43,7 @@ Turnsaal VS Einsiedlergasse 7, 1050 Wien**
 **Do 16.9.2021 – 3.2.2022, 18.15 - 20.45**\
 **Turnsaal VS Gilgegasse 12, 1090 Wien**
 
-### **Wochenend-Workshops:**
+### Wochenend-Workshops:
 
 **[9./10.10.2021 "From Bodywork into Movement"](/workshops#bodywork)** **mit Christian Apschner und maRia Probst**
 

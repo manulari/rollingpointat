@@ -4,7 +4,7 @@ title: Sommer-Intensive
 ---
 ![](/assets/uploads/img_2936_large.jpg)
 
-### **Sommer-Intensive**
+### Sommer-Intensive
 
 **WOCHENEND-WORKSHOP 24./25.8.2019 / Wien**
 

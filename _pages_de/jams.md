@@ -13,7 +13,7 @@ Die reguläre rollingpoint Contact Improvisations Jam findet jeden Sonntag Abend
 
 ***Alle rollingpoint-Angebote werden entsprechend den jeweils aktuellen CoVid-Regelungen für Wien abgehalten.*** 
 
-## **rollingpoint-Jam am Sonntag**
+## rollingpoint-Jam am Sonntag
 
 **Jeden Sonntag 19.00 - 22.00**\
 Prana Yoga-Studio Nr. 1, 2. Innenhof, 1. Stock, Mariahilferstr. 82, 1070 Wien\
@@ -73,6 +73,6 @@ Der Underscore nach Nancy Stark Smith ist ein sehr hilfreicher zeitlich und räu
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-### **Übersichtsseite zu weiteren Contact Improvisation Jams in Wien/Österreich:**
+### Übersichtsseite zu weiteren Contact Improvisation Jams in Wien/Österreich:
 
 [https://vienna.contactimprovisation.at](https://vienna.contactimprovisation.at/)

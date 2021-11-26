@@ -8,7 +8,7 @@ title: Wochenend-Workshops
 
 Fotocredits: He Shao Hui
 
-# **Workshoptermine Wintersemester 2021/22:**
+## Workshoptermine Wintersemester 2021/22:
 
 **[9./10.10.2021 "From Bodywork into Movement" mit Christian Apschner und maRia Probst](#bodywork)**
 
@@ -83,7 +83,7 @@ Für diesen Workshop sind CI-Grund- und Tanzerfahrung sowie gute körperliche un
 
 ###### &nbsp;
 
-## **Organisatorisches:**
+## Organisatorisches:
 
 **Ort:** Alle Workshops finden im Prana Yoga-Studio Nr.1, Mariahilferstr. 82, 1070 Wien statt.
 
@@ -110,7 +110,7 @@ Fotocredit: Laurent Ziegler
 
 ___
 
-### **ARCHIV(Auswahl):**
+### ARCHIV(Auswahl):
 
 **22./23.8.2020  "Gravity Based Dialogs"**\
 Contact Improvisation/ Somatics/ Zeitgenössischer Tanz\
