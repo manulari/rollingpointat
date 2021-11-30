@@ -54,10 +54,12 @@ h5+p {
   margin-top: 0;
 }
 
-p,p+.named-anchor {
-  &+h1,&+h2,&+h3,&+h4,&+h5,&+h6 {
-    margin-top: 30px;
+:not(h1):not(h2):not(h3):not(h4):not(h5):not(h6) { // any element that's not a heading
+&:not(.named-anchor),&+.named-anchor { // but ignore .named-anchor
+  &+h1,&+h2,&+h3,&+h4,&+h5,&+h6 { // heading followed by this element
+    margin-top: 30px; // should have a margin-top
   }
+}
 }
 
 code { color: $extra-emph-color; font-weight: $f-bold; font-family: inherit; }
