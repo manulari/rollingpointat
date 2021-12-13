@@ -15,9 +15,11 @@ Fotocredit: Johannes Stolba
 
 <div class="imglink"><a target="_blank" href="https://www.youtube.com/embed/6A5otnVZAg4"><img src="/assets/uploads/video_vorschau_maria.png" alt="" /><div>Ganzheitliches Körpertraining mit maRia Probst</div></a></div>
 
-> **Aktualisierung 20.11.:**\
+> **Aktualisierung 13.12.2021:**\
+> **Unsere fortlaufenden Kurse können ab heute wieder stattfinden. Aufgrund der CoVid-Regelungen der Stadt Wien finden die Kurse ohne Körperkontakt statt.**\
 > \
-> **Liebe TänzerInnen! Wir müssen leider wieder in eine Pause gehen. Dies betrifft auch schon die Jam am So 21.11. Wir kommen wieder sobald es wieder möglich ist.**
+> **Aktualisierung 20.11.2021:**\
+> **Wir müssen leider wieder in eine Pause gehen. Dies betrifft auch schon die Jam am So 21.11. Wir kommen wieder sobald es wieder möglich ist.**
 
 ### Übersicht Wintersemester 2021/22
 
