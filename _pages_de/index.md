@@ -51,7 +51,8 @@ Turnsaal VS Einsiedlergasse 7, 1050 Wien**
 
 **[13./14.11.2021 "Comics and Dance"](/workshops#comics) mit maRia Probst und Susanne Hochreiter**
 
-**[22./23.1.2022: "Contact Flying Skills"](/workshops#flying)** **mit Christian Apschner und Lui Springer (support)**
+**[22./23.1.2022: "Contact Flying Skills"](/workshops#flying)** **mit Christian Apschner und Lui Springer (support)**\
+Achtung: Dieser Termin wird aufgrund der sich ständig ändernden CoVid-Regelungen in den Frühling verschoben.
 
 ***Sämtliche Angebote werden entsprechend den jeweils aktuellen Covid-Regelungen für Wien abgehalten.***
 
