@@ -19,6 +19,7 @@ Fotocredits: He Shao Hui
 [**22./23.1.2022: "Contact Flying Skills"**\
 **mit Christian Apschner und** **Lui Springer (support)**](#flying)
 
+Achtung: Dieser Termin wird aufgrund der sich ständig ändernden CoVid-Regelungen in den Frühling verschoben\
 &nbsp;
 
 <div class="named-anchor" id="bodywork"></div>
@@ -71,7 +72,8 @@ In diesem Sinne erwartet euch an diesem Wochenende:\
 
 **"Contact Flying Skills"** - advanced\
 **Sa/So 22./23.1.2022, 10.00-17.00  (ca 1,5h Mittagspause)**\
-**mit Christian Apschner und Lui Springer (support)**
+**mit Christian Apschner und Lui Springer (support)**\
+**Achtung:** Dieser Termin wird aufgrund der sich ständig ändernden CoVid-Regelungen in den Frühling verschoben
 
 Der rollingpoint Workshop-Klassiker für alle CI-TänzerInnen mit sportlichen Ambitionen!
 
@@ -108,7 +110,7 @@ IBAN:AT54 3200 0000 1701 2717, BIC: RLNWATWW, Verein rollingpoint, einzahlen.�
 
 Fotocredit: Laurent Ziegler
 
-___
+- - -
 
 ### ARCHIV(Auswahl):
 
