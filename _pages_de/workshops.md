@@ -17,8 +17,7 @@ Fotocredits: He Shao Hui
 **Achtung: Termin wird verschoben**
 
 [**22./23.1.2022: "Contact Flying Skills"**\
-**mit Christian Apschner und** **Lui Springer (support)**](#flying)
-
+**mit Christian Apschner und** **Lui Springer (support)**](#flying)\
 Achtung: Dieser Termin wird aufgrund der sich ständig ändernden CoVid-Regelungen in den Frühling verschoben\
 &nbsp;
 
