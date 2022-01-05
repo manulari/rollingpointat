@@ -13,9 +13,17 @@ Fotocredits: He Shao Hui
 **Woche 1 Mo-Do 14.- 17.2.2022**\
 **Woche 2 Mo-Do 21.- 24.2.2022**
 
+**jeweils  18.15 - 20.30h**
+
+Mo und Do (14.2., 17.2., 21.2., 24.2.): Turnsaal Gilgegasse 12, 9. Bez.
+
+Di und Mi (15.2., 16.2., 22.2., 23.2.): Turnsaal Einsiedlergasse 7, 5. Bez.
+
+**Aktualisierung 5.1.2022: Die Winter-Intensive wird auf alle Fälle stattfinden soferne die CoVid-Regelungen dies zu lassen. Im Moment untersagt uns die Wiener Stadtregierung Tanzkurse mit Körperkontakt. Haltet mit uns die Daumen, dass die Winter-Intensive stattfinden kann.**
+
 &nbsp;
 
-___
+- - -
 
 **Contact Improvisation Winter-Intensive 2020**
 
