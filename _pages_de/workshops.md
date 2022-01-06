@@ -18,7 +18,7 @@ Fotocredits: He Shao Hui
 
 [**22./23.1.2022: "Contact Flying Skills"**\
 **mit Christian Apschner und** **Lui Springer (support)**](#flying)\
-Achtung: Dieser Termin muss aufgrund der sich ständig ändernden CoVid-Regelungen auf den **19./20.3.2022** verschoben werden.\
+Achtung: Dieser Termin muss aufgrund der sich ständig ändernden CoVid-Regelungen auf einen späteren Termin verschoben werden.\
 &nbsp;
 
 <div class="named-anchor" id="bodywork"></div>
@@ -72,7 +72,7 @@ In diesem Sinne erwartet euch an diesem Wochenende:\
 **"Contact Flying Skills"** - advanced\
 **Sa/So 22./23.1.2022, 10.00-17.00  (ca 1,5h Mittagspause)**\
 **mit Christian Apschner und Lui Springer (support)**\
-**Achtung:** Dieser Termin muss aufgrund der sich ständig ändernden CoVid-Regelungen auf den **19./20.3.2022** verschoben werden.
+**Achtung:** Dieser Termin muss aufgrund der sich ständig ändernden CoVid-Regelungen auf einen späteren Termin verschoben werden.
 
 Der rollingpoint Workshop-Klassiker für alle CI-TänzerInnen mit sportlichen Ambitionen!
 
