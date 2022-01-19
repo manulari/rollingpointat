@@ -14,7 +14,7 @@ Fotocredits: Laurent Ziegler
 > `Termine Wintersemester 2021/22 ab 16.9.2021`
 >
 > **Open level DOJO:** 16.9., 30.9., 14.10., 4.11., 18.11., 2.12. (entfällt) 16.12.2021 (muss aufgrund der Covid-Regelungen entfallen)\
-> 20.1., 3.2.2021
+> 20.1. (entfällt), 3.2.2021
 >
 > **Advanced DOJO:** 23.9., 7.10., 21.10., 11.11., 25.11. (entfällt), 9.12.2021 (entfällt), 13.1. (muss aufgrund der Covid-Regelungen entfallen), 27.1.2022
 >
