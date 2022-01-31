@@ -48,8 +48,8 @@ Turnsaal VS Einsiedlergasse 7, 1050 Wien**
 **Turnsaal VS Gilgegasse 12, 1090 Wien**
 
 ### **Winter-Intensive: Liquid Motion into Contact Improvisation**\
-**Woche 1: 14.-17.2.2022**\
-**Woche 2: 21.-24.2.2022**
+[**Woche 1: 14.-17.2.2022**\
+**Woche 2: 21.-24.2.2022**](https://rollingpoint.at/winterintensive)
 
 ### Wochenend-Workshops:
 
