@@ -15,11 +15,13 @@ Fotocredit: Johannes Stolba
 
 <div class="imglink"><a target="_blank" href="https://www.youtube.com/embed/6A5otnVZAg4"><img src="/assets/uploads/video_vorschau_maria.png" alt="" /><div>Ganzheitliches Körpertraining mit maRia Probst</div></a></div>
 
-> **Aktualisierung 8.1.2022: Ab Mo 10.1. gehen unsere Kurse weiter. Hinzukommende sind gerne willkommen. Contact Dojo und Sonntags-Jam müssen weiterhin pausieren.**
->
-> **Aktualisierung 13.12.2021: Unsere fortlaufenden Kurse können ab heute wieder stattfinden. Aufgrund der CoVid-Regelungen der Stadt Wien finden die Kurse ohne Körperkontakt statt.**\
+> **Aktualisierung 31.1.2022:**\
+> **Wir gehen davon aus, dass unsere Angebote nach den Semesterferien ab 13.2.2022 wieder ganz regulär stattfinden können. Bitte die website auf Aktualisierungen checken!**\
 > \
-> **Aktualisierung 20.11.2021:Wir müssen leider wieder in eine Pause gehen. Dies betrifft auch schon die Jam am So 21.11. Wir kommen wieder sobald es wieder möglich ist.**
+> **Winter-Intensive Liquid Motion/Contact Improvisation**\
+> **Woche 1: 14.-17.2.2022, Woche 21.-24.2.2022**\
+> \
+> **Kursbeginn Sommersemester: 28.2.- 3.3.2022**
 
 
 
