@@ -21,6 +21,8 @@ Fotocredits: He Shao Hui
 Achtung: Dieser Termin muss aufgrund der sich ständig ändernden CoVid-Regelungen auf einen späteren Termin verschoben werden.\
 &nbsp;
 
+**19./20.3.2022: Deep Listening** (details coming soon)
+
 <div class="named-anchor" id="bodywork"></div>
 
 **"From Bodywork into Movement" -** open level\
