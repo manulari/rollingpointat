@@ -23,8 +23,6 @@ Fotocredit: Johannes Stolba
 > \
 > **Kursbeginn Sommersemester: 28.2.- 3.3.2022**
 
-
-
 ### Übersicht Wintersemester 2021/22
 
 ### Abendkurse:
@@ -48,6 +46,10 @@ Turnsaal VS Einsiedlergasse 7, 1050 Wien**
 **mit Christian Apschner**\
 **Do 16.9.2021 – 3.2.2022, 18.15 - 20.45**\
 **Turnsaal VS Gilgegasse 12, 1090 Wien**
+
+### **Winter-Intensive: Liquid Motion into Contact Improvisation**\
+**Woche 1: 14.-17.2.2022**\
+**Woche 2: 21.-24.2.2022**
 
 ### Wochenend-Workshops:
 
