@@ -67,12 +67,17 @@ In diesem Sinne erwartet euch an diesem Wochenende:\
 
 &nbsp;
 
+**"Deep Listening"** open level\
+Sa/So 19./20.3.2022, 10.00-17.30\
+Weitere Infos in Kürze
+
+&nbsp;
+
 <div class="named-anchor" id="flying"></div>
 
 **"Contact Flying Skills"** - advanced\
-**Sa/So 22./23.1.2022, 10.00-17.00  (ca 1,5h Mittagspause)**\
-**mit Christian Apschner und Lui Springer (support)**\
-**Achtung:** Dieser Termin muss aufgrund der sich ständig ändernden CoVid-Regelungen auf einen späteren Termin verschoben werden.
+**Sa/So 21./22.5.2022, 10.00-17.00  (ca 1,5h Mittagspause)**\
+**mit Christian Apschner und Lui Springer (support)**
 
 Der rollingpoint Workshop-Klassiker für alle CI-TänzerInnen mit sportlichen Ambitionen!
 
