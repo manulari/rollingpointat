@@ -13,6 +13,11 @@ Semesterkurse
 
 &nbsp;
 
+### Kursbeginn Sommersemester 2022: 28.2.-3.3.2022
+(weitere Infos in Kürze)
+
+###  
+
 ### Abendkurse Wintersemester 2021/22
 
 <div class="named-anchor" id="mo"></div>
@@ -24,17 +29,16 @@ mit **maRia Probst**\
 **Mo 18.10 - 20.10**; 20.9.2021 – 31.1.2022 (ca. 15x)\
 Turnsaal VS Gilgegasse 12, 1090 Wien
 
-
 Über das Loslassen Momentum zu gewinnen ist ein zentrales Prinzip im zeitgenössischen Tanz. In diesem Kurs wollen wir vielfältige Varianten des Loslassens ausloten und für unseren Tanz erschließen. Wir werden uns auf Kernelemente der "Release Technique" beziehen, das lösende Potenzial tiefer Faltungen erfahren, Raum in uns einladen und damit die Beziehung zum uns umgebenden Raum erweitern. Wir werden uns tief in unserer Körperlichkeit ankern, den kritischen Geist ruhen lassen um Unmittelbarkeit in unsere tänzerischen Beziehungen zu uns Selbst, zu unseren PartnerInnen und zu dem uns Umgebenden und Bewohnenden einzuladen.
 
 <div class="named-anchor" id="di"></div>
 
 #### CI Körpertraining + „Bounce and Shake"
+
 mit **maRia Probst**\
 *open level*\
 **Di 18.00 – 20.00**, 21.9.2021- 1.2.2022 (ca. 15x)\
 Turnsaal VS Einsiedlergasse 7, 1050 Wien
-
 
 Das dreidimensionale Bewegungsverständnis, wie es aus der Praxis der CI erwächst, ist Basis aller rollingpoint Kurse. In diesem Kurs fließt dieses Körperwissen in ein ganzheitliches Verständnis von Training ein. Es finden sich Elemente aus Yoga, Qi Gong, Mentastics, dem zeitgenössischen Tanz u.a. Die Einheit ist als Kraft-, Beweglichkeits- und Koordinationstraining zur Steigerung des allgemeinen Wohlbefindens und zur Gesundheitsförderung gedacht und kann für diverse Trainingsanliegen genutzt werden. Abtanzen zu Musik, als wesentlicher Bestandteil, könnte durchaus unser Herz-Kreislaufsystem anregen.
 
