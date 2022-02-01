@@ -21,9 +21,14 @@ Fotocredit: Johannes Stolba
 > **Winter-Intensive Liquid Motion/Contact Improvisation**\
 > **Woche 1: 14.-17.2.2022, Woche 21.-24.2.2022**\
 > \
-> **Kursbeginn Sommersemester: 28.2.- 3.3.2022**
+> **Kursbeginn Sommersemester: 28.2.- 3.3.2022; weitere Infos in Kürze**
 
 ### Übersicht Wintersemester 2021/22
+
+### **Winter-Intensive: Liquid Motion into Contact Improvisation**
+
+[**Woche 1: 14.-17.2.2022**\
+**Woche 2: 21.-24.2.2022**](https://rollingpoint.at/winterintensive)
 
 ### Abendkurse:
 
@@ -47,19 +52,15 @@ Turnsaal VS Einsiedlergasse 7, 1050 Wien**
 **Do 16.9.2021 – 3.2.2022, 18.15 - 20.45**\
 **Turnsaal VS Gilgegasse 12, 1090 Wien**
 
-### **Winter-Intensive: Liquid Motion into Contact Improvisation**
-
-[**Woche 1: 14.-17.2.2022**\
-**Woche 2: 21.-24.2.2022**](https://rollingpoint.at/winterintensive)
-
 ### Wochenend-Workshops:
 
 **[9./10.10.2021 "From Bodywork into Movement"](/workshops#bodywork)** **mit Christian Apschner und maRia Probst**
 
 **[13./14.11.2021 "Comics and Dance"](/workshops#comics) mit maRia Probst und Susanne Hochreiter**
 
-**[22./23.1.2022: "Contact Flying Skills"](/workshops#flying)** **mit Christian Apschner und Lui Springer (support)**\
-*Achtung: Dieser Termin muss aufgrund der sich ständig ändernden CoVid-Regelungen auf einen späteren Termin verschoben werden.*
+**19./20.3.2022 "Deep Listening"**
+
+**[21./22.5.2022: "Contact Flying Skills"](/workshops#flying)** **mit Christian Apschner und Lui Springer (support)**
 
 ***Sämtliche Angebote werden entsprechend den jeweils aktuellen Covid-Regelungen für Wien abgehalten.***
 
