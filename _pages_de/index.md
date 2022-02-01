@@ -16,7 +16,7 @@ Fotocredit: Johannes Stolba
 <div class="imglink"><a target="_blank" href="https://www.youtube.com/embed/6A5otnVZAg4"><img src="/assets/uploads/video_vorschau_maria.png" alt="" /><div>Ganzheitliches Körpertraining mit maRia Probst</div></a></div>
 
 > **Aktualisierung 31.1.2022:**\
-> **Wir gehen davon aus, dass unsere Angebote nach den Semesterferien ab 13.2.2022 wieder ganz regulär stattfinden können. Bitte die website auf Aktualisierungen checken!**\
+> **Das Kontaktsportverbot in Wien wurde aufgehoben. Somit können alle unsere Angebote wieder uneingeschränkt ausgeübt werden.**\
 > \
 > **Winter-Intensive Liquid Motion/Contact Improvisation**\
 > **Woche 1: 14.-17.2.2022, Woche 21.-24.2.2022**\
@@ -48,6 +48,7 @@ Turnsaal VS Einsiedlergasse 7, 1050 Wien**
 **Turnsaal VS Gilgegasse 12, 1090 Wien**
 
 ### **Winter-Intensive: Liquid Motion into Contact Improvisation**
+
 [**Woche 1: 14.-17.2.2022**\
 **Woche 2: 21.-24.2.2022**](https://rollingpoint.at/winterintensive)
 
