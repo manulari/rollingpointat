@@ -23,7 +23,7 @@ Mo und Do (14.2., 17.2., 21.2., 24.2.): Turnsaal Gilgegasse 12, 9. Bez.
 
 Di und Mi (15.2., 16.2., 22.2., 23.2.): Turnsaal Einsiedlergasse 7, 5. Bez.
 
-> **Aktualisierung 31.1.2022: Wir gehen davon aus, dass die Winter-Intensive ganz regulär stattfinden kann. Bitte website auf Aktualisierungen checken!**
+> **Aktualisierung 31.1.2022: Das Kontaktsportverbot in Wien wurde aufgehoben. Unsere Winter-Intensive kann daher uneingeschränkt stattfinden.**
 
 Wir laden dich ein, zwei Wochen lang jeden Tag jeweils von Mo-Do Abend mehr als zwei Stunden lang Contact Improvisation zu tanzen. Finde in deinen Bewegungsfluss und lerne grundlegende Bewegungstechniken der Contact Improvisation kennen wie gemeinsam zu rollen, dich fallen zu lassen, sicher zu landen oder wieder in Spiralbewegungen aufzurichten. 
 
@@ -32,8 +32,6 @@ Liquid Motion nutzt die Tatsache, dass unser Körper großteils aus Wasser beste
 Jede Klasse beginnt mit fließenden Bodenübungen und floorwork um uns gut aufzuwärmen und unser Bewegungsvokabular zu erweitern. In PartnerInnenübungen lernen wir gegenseitig Gewicht abzugeben und aufzunehmen und ausgegehend von einem gemeinsamen Kontaktpunkt in den Bewegungsfluss zu kommen.
 
 Daneben erforschen die Contact Improvisation als eine Form von nonverbaler Kommunikation. Was bedeutet es, mit dem ganzen Körper zu sprechen und zuzuhören? Wie kann ich Bewegungsimpulse meiner TanzpartnerInnen lesen und in mein Bewegen aufnehmen? Wie kann ich eigene Impulse setzen ohne die Verbindung zu den PartnerInnen zu verlieren? 
-
-
 
 In **Woche 1** der Intensive lernen wir grundlegende Bewegungstechniken der CI kennen und vertiefen diese, wie z.B. gemeinsam zu rollen, uns fallen zu lassen und wieder aufzurichten sowie gegenseitig Gewicht abzugeben und aufzunehmen.
 
@@ -51,8 +49,6 @@ Bitte den Kostenbeitrag vorab auf unser Konto\
 IBAN: AT54 3200 0000 1701 2717, BIC: RLNWATWW, Verein rollingpoint, einzahlen.
 
 Aus Gründen von CoVid ist für beide Seiten jederzeit eine Stornierung möglich. Verrechnet werden die jeweils konsumierten Kurseinheiten.
-
-
 
 &nbsp;
 
