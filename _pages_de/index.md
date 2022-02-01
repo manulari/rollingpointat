@@ -16,7 +16,7 @@ Fotocredit: Johannes Stolba
 <div class="imglink"><a target="_blank" href="https://www.youtube.com/embed/6A5otnVZAg4"><img src="/assets/uploads/video_vorschau_maria.png" alt="" /><div>Ganzheitliches Körpertraining mit maRia Probst</div></a></div>
 
 > **Aktualisierung 31.1.2022:**\
-> **Das Kontaktsportverbot in Wien wurde aufgehoben. Somit können alle unsere Angebote wieder uneingeschränkt ausgeübt werden.**\
+> **Das Kontaktsportverbot in Wien wurde aufgehoben. Somit können alle unsere Angebote wieder uneingeschränkt stattfinden.**\
 > \
 > **Winter-Intensive Liquid Motion/Contact Improvisation**\
 > **Woche 1: 14.-17.2.2022, Woche 21.-24.2.2022**\
