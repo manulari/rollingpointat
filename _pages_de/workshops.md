@@ -76,7 +76,7 @@ In diesem Sinne erwartet euch an diesem Wochenende:\
 #### **"Deep Listening - Contact Improvisation and Beyond"** - open level
 
 **Sa/So 19./20.3.2022, 10.00-17.30**\
-**mit ChristianApschner und Karola Reifetshamer**\
+**mit ChristianApschner und Karola Reifetshamer**
 
 **Was bewegt mich? Was bewegt dich? Was bewegt uns?**
 
