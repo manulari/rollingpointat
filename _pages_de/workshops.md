@@ -23,6 +23,8 @@ Fotocredits: He Shao Hui
 
 <div class="named-anchor" id="bodywork"></div>
 
+&nbsp;
+
 **"From Bodywork into Movement" -** open level\
 **9./10.10.2021 / 10.00-17.00**\
 **mit Christian Apschner und maRia Probst**
