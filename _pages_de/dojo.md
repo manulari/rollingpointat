@@ -11,12 +11,11 @@ Fotocredits: Laurent Ziegler
 **DOJO=Training+Jam**, abwechselnd `advanced` und\
 `open level (beginners welcome, bring your friends!)`
 
-> `Termine Wintersemester 2021/22 ab 16.9.2021`
+> `Termine Sommersemester 2022 ab 3.3.2022`
 >
-> **Open level DOJO:** 16.9., 30.9., 14.10., 4.11., 18.11., 2.12. (entfällt) 16.12.2021 (muss aufgrund der Covid-Regelungen entfallen)\
-> 20.1. (entfällt), 3.2.2021
+> **Open level DOJO:** 10.3., 24.3., 7.4., 5.5., 19.5., 9.6.
 >
-> **Advanced DOJO:** 23.9., 7.10., 21.10., 11.11., 25.11. (entfällt), 9.12.2021 (entfällt), 13.1. (muss aufgrund der Covid-Regelungen entfallen), 27.1.2022
+> **Advanced DOJO:** 3.3., 17.3., 31.3., 21.4., 12.5., 2.6., 23.6.
 >
 > **Training:** 18.15-19.30\
 > **Jam:** 19.30-20.45\
