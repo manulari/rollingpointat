@@ -8,7 +8,7 @@ title: Wochenend-Workshops
 
 Fotocredits: He Shao Hui
 
-## Workshoptermine
+## Workshoptermine:
 
 **[9./10.10.2021 "From Bodywork into Movement" mit Christian Apschner und maRia Probst](#bodywork)**
 
@@ -25,7 +25,10 @@ Fotocredits: He Shao Hui
 
 &nbsp;
 
-**"From Bodywork into Movement" -** open level\
+### Workshopbeschreibungen:
+
+#### **"From Bodywork into Movement" -** open level
+
 **9./10.10.2021 / 10.00-17.00**\
 **mit Christian Apschner und maRia Probst**
 
@@ -41,7 +44,8 @@ Der Workshop lädt sowohl Nicht-Contact Improvisation TänzerInnen als auch Cont
 
 <div class="named-anchor" id="comics"></div>
 
-**"Comics and Dance"** – open level\
+#### **"Comics and Dance"** – open level
+
 **13./14.11.2021 / 10.00-17.00 (ca 1,5h Mittagspause)**\
 **mit maRia Probst und Susanne Hochreiter**\
 **Achtung: Dieser Termin wird verschoben**
@@ -69,15 +73,21 @@ In diesem Sinne erwartet euch an diesem Wochenende:\
 
 &nbsp;
 
-**"Deep Listening"** open level\
-Sa/So 19./20.3.2022, 10.00-17.30\
-Weitere Infos in Kürze
+#### **"Deep Listening - Contact Improvisation and Beyond"** - open level
+
+**Sa/So 19./20.3.2022, 10.00-17.30**\
+**mit ChristianApschner und Karola Reifetshamer**\
+
+**Was bewegt mich? Was bewegt dich? Was bewegt uns?**
+
+Detailinfos in Kürze
 
 &nbsp;
 
 <div class="named-anchor" id="flying"></div>
 
-**"Contact Flying Skills"** - advanced\
+#### **"Contact Flying Skills"** - advanced
+
 **Sa/So 21./22.5.2022, 10.00-17.00  (ca 1,5h Mittagspause)**\
 **mit Christian Apschner und Lui Springer (support)**
 
