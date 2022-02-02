@@ -2,7 +2,7 @@
 permalink: /jams
 title: ROLLINGPOINT-JAMS
 ---
-> **Aktualisierung 13.12.2021: Die neuen CoVid-Regelungen der Stadt Wien erlauben leider nicht die Ausübung von Kontaktsportarten. Die Jam muss daher weiter pausieren.** 
+> **Aktualisierung 2.2.2022: Die rollingpoint-Jam findet wieder regelmäßig ab 20.2.202 statt.** 
 
 Die rollingpoint-Jams sind ein Ort für fokussiertes Contact Improvisations-Tanzen an dem **CI als zeitgenössische Tanz- und Kunstform** praktiziert wird. Wir achten darauf einen gemeinsamen Raum zu halten, in dem sich alle sicher fühlen und erwarten von den TeilnehmerInnen, dass sie bereits über erste CI-Kurserfahrungen (im Sinne von Grundkenntnissen) verfügen.
 
