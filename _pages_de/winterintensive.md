@@ -37,7 +37,7 @@ In **Woche 1** der Intensive lernen wir grundlegende Bewegungstechniken der CI
 
 In **Woche 2** beginnen wir unsere Tänze mit Schwung und Leichtigkeit in alle Raumrichtungen zu navigieren und unsere Risikobereitschaft herauszufordern. Durch eine anatomisch gute Körperausrichtung sowie durch Modulation der Körperspannung und unter Nutzung der Schwungenergie lernen wir Gewicht körperschonend aufzunehmen und abzugeben. Anhand von einfachen "lifts" lernen wir uns aufzuspannen und ins Fliegen zu kommen und wieder sanft zu landen. 
 
-Teilnahmeempfehlungen: Tanz- und Bewegungsvorerfahrung aller Art sowie Offenheit sich auf Berührung und Körperkontakt einzulassen.\
+Teilnahmeempfehlungen: Tanz- und Bewegungsvorerfahrung aller Art,  sowie Bereitschaft sich auf Körperkontakt einzulassen.\
 Teilnahme an Woche 2: Teilnahme an Woche 1 bzw. sonstige CI-Kursvorerfahrungen 
 
 **Kosten:** 1 Woche: € 90,- , StudentenInnen unter 27: 60,-\
