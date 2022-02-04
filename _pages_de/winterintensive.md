@@ -27,9 +27,9 @@ Di und Mi (15.2., 16.2., 22.2., 23.2.): Turnsaal Einsiedlergasse 7, 5. Bez.
 
 Wir laden dich ein, zwei Wochen lang jeden Tag jeweils von Mo-Do Abend mehr als zwei Stunden lang Contact Improvisation zu tanzen. Finde in deinen Bewegungsfluss und lerne grundlegende Bewegungstechniken der Contact Improvisation kennen wie gemeinsam zu rollen, dich fallen zu lassen, sicher zu landen oder wieder in Spiralbewegungen aufzurichten. 
 
-Liquid Motion nutzt die Tatsache, dass unser Körper großteils aus Wasser besteht und Leben evolutionär im Wasser entstanden ist. Das Wiedereintauchen in diese fundamentalen Bewegungsqualitäten erlaubt uns unnötige Körperanspannungen loszulassen und ein Gefühl der Freiheit "mühelos im Feld der Schwerkraft zu schwimmen".
+Liquid Motion nutzt die Tatsache, dass unser Körper großteils aus Wasser besteht und Leben evolutionär im Wasser entstanden ist. Das Wiedereintauchen in diese fundamentalen Bewegungsqualitäten erlaubt uns unnötige Körperanspannungen loszulassen und "mühelos im Feld der Schwerkraft zu schwimmen".
 
-Jede Klasse beginnt mit fließenden Bodenübungen und floorwork um uns gut aufzuwärmen und unser Bewegungsvokabular zu erweitern. In PartnerInnenübungen lernen wir gegenseitig Gewicht abzugeben und aufzunehmen und ausgegehend von einem gemeinsamen Kontaktpunkt in den Bewegungsfluss zu kommen.
+Jede Klasse beginnt mit fließenden Bodenübungen um uns gut aufzuwärmen und unser Bewegungsvokabular zu erweitern. Wir lernen gegenseitig Gewicht abzugeben und aufzunehmen und ausgegehend von einem gemeinsamen Kontaktpunkt in den Bewegungsfluss zu kommen.
 
 Daneben erforschen die Contact Improvisation als eine Form von nonverbaler Kommunikation. Was bedeutet es, mit dem ganzen Körper zu sprechen und zuzuhören? Wie kann ich Bewegungsimpulse meiner TanzpartnerInnen lesen und in mein Bewegen aufnehmen? Wie kann ich eigene Impulse setzen ohne die Verbindung zu den PartnerInnen zu verlieren? 
 
