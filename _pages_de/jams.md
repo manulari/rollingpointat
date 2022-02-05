@@ -40,7 +40,7 @@ Es ist Teil des Lernprozesses der Contact Improvisation im Laufe der Zeit immer 
 * **Sprich ein „NEIN“ aus, wenn deine Grenzen nonverbal nicht kommuniziert werden können**
 * **Frage nach, wenn du das Gefühl hast, deinE TanzpartnerIn könnte sich nicht sicher fühlen**
 
-Körperkontakt in der CI dient der taktilen und sensomotorischen Wahrnehmung und der Gewichtsübertragung. **Körperkontakt oder Berührung mit dem Ziel sexueller Annäherung ist nicht Contact Improvisation!**
+Körperkontakt in der CI dient der taktilen und sensomotorischen Wahrnehmung und der Gewichtsübertragung. Körperkontakt oder Berührung mit dem Ziel sexueller Annäherung ist nicht Contact Improvisation.
 
 Ein CI-Tanz ist ein gleichberechtigter körperlicher Dialog, in dem wir uns fortlaufend somatische Fragen stellen wie z.B. 
 
@@ -50,7 +50,7 @@ Ein CI-Tanz ist ein gleichberechtigter körperlicher Dialog, in dem wir uns fort
 
 *Contact Improvisation ist auch ein großartiges Empathie-Lerntool um mit anderen Menschen auf einer sinnlich-körperlichen Ebene in Kontakt zu sein und nonverbal zu kommunizieren. Da wir uns im Alltag nicht so selbstverständlich berühren ist Körperkontakt für manche CI-BeginnerInnen mit dem Gedanken an sexuelle Aktivitäten assoziiert. Das Kennenlernen der Bewegungssprache der Contact Improvisation in Kursen reduziert das Potential von Missverständnissen. Oft braucht es einige Zeit um sich als BeginnerIn in der Jam-Welt vertraut zu machen und einzuleben. Viele Fragen lösen sich mit der Zeit von selbst.*
 
-*Auch wenn die Aufmerksamkeit im Tanzen beim sensomotorischen Geschehen liegt so wird natürlich wie bei allen menschlichen Begegnungen auch immer eine psychologische oder sexuell motivierte Komponente in den Tänzen mitschwingen. Wir können lernen unser Tanzen durch diese emotionalen Komponenten zu bereichern ohne den Fokus auf das Tanzen  zu verlieren. Je nachdem welche Vorerfahrung wir mit Körperkontakt mitbringen, kann das CI-Tanzen zu Beginn in uns unterschiedliche Gefühle und Gedanken auslösen. CI ist keine Therapie. Für viele CI-Praktizierende ist das gemeinsame Tanzen aber auch ein wichtiger Lernprozess, der in verschiedenste Lebensbereiche integriert werden kann.*
+*Je nachdem welche Vorerfahrung wir mit Körperkontakt mitbringen, kann das CI-Tanzen zu Beginn in uns unterschiedliche Gefühle und Gedanken auslösen. CI ist keine Therapie. Für viele CI-Praktizierende ist das gemeinsame Tanzen aber auch ein wichtiger Lernprozess, der in verschiedenste Lebensbereiche integriert werden kann.*
 
 Bei auftauchenden Fragenstellungen in der Jam besteht immer die Möglichkeit  der/die Jam-host anzusprechen.
 
