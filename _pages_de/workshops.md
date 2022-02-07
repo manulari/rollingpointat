@@ -10,19 +10,13 @@ Fotocredits: He Shao Hui
 
 ## Workshoptermine:
 
-[**19./20.3.2022: Deep Listening**\
-**mit Christian Apschner und Karola Reifetshamer**](deeplistening)
+[[**19./20.3.2022: Deep Listening**\
+**mit Christian Apschner und Karola Reifetshamer**](deeplistening)](#deeplistening)
 
 [**21./22.5.2022: "Contact Flying Skills"**\
 **mit Christian Apschner und** **Lui Springer (support)**](#flying)
 
 ### Workshopbeschreibungen:
-
-
-
-
-
-
 
 <div class="named-anchor" id="deeplistening"></div>
 
@@ -125,8 +119,6 @@ In diesem Sinne erwartet euch an diesem Wochenende:\
 \*\**ein Angebot an tanzimprovisatorischen Settings entlang von Comics-Strategien\
 \*\**und ein reger Austausch über die Einwirkungen und Auswirkungen dieser Begegnungen
 
-
-
 #### **"From Bodywork into Movement" -** open level
 
 **9./10.10.2021 / 10.00-17.00**\
@@ -137,8 +129,6 @@ In diesem Workshop wollen wir dem uns Menschen meist grundlegenden Bedürfnis na
 Wir möchten zentrale Verbindungen unseres Bewegungssystems wie Atlas-Steiß, Schultern-Hüftgelenke oder die Hand- und Fußgelenke ansprechen, Aspekte unseres sympathischen, parasympathischen, somatischen oder enterischen Nervensystems adressieren und auf unsere Körperflüssigkeiten eingehen. Dabei werden weitere Körperstrukturen wie Haut, Fett und Organe mitbewegt und beeinflusst.\
 Der Fokus an diesem Wochenende liegt darin, diesen Berührungsschatz im Hinblick auf Bewegungsvielfalt, Bewegungsqualität und angemessenem Einsatz von Energie und Kraft zu heben und ihn in unsere tänzerischen Beziehungen sowohl in der Contact Improvisation wie auch in der freien Improvisation einfließen zu lassen.\
 Der Workshop lädt sowohl Nicht-Contact Improvisation TänzerInnen als auch Contact Improvisation TänzerInnen zum Mitmachen ein.
-
-
 
 **22./23.8.2020  "Gravity Based Dialogs"**\
 Contact Improvisation/ Somatics/ Zeitgenössischer Tanz\
