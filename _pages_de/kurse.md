@@ -4,21 +4,18 @@ title: KURSE UND WORKSHOPS
 ---
 Semesterkurse
 
-| Tag    | Zeit            | Lehrer:in     | Kurs                                                         | Ort/Turnsaal                  |
-| ------ | --------------- | ------------- | ------------------------------------------------------------ | ----------------------------- |
-| **Mo** | **18.10-20.10** | **maRia**     | **["Opening, Folding, Release" Zeitgenössischer Tanz](#mo)** | **Gilgegasse 12, 1090 Wien**  |
-| **Di** | **18.00-20.00** | **maRia**     | **[CI Körpertraining + "Bounce and Shake"](#di)**            | **Einsiedlerg. 7, 1050 Wien** |
-| **Mi** | **18.15-20.30** | **Christian** | **[Contact Improvisation and -Technique](#mi)**              | **Einsiedlerg. 7, 1050 Wien** |
-| **Do** | **18.15-20.45** | **Christian** | **[Contact Dojo: Offenes Training + Jam](#do)**              | **Gilgegasse 12, 1090 Wien**  |
+| Tag      | Zeit              | Lehrer:in     | Kurs                                                         | Ort/Turnsaal                  |
+| -------- | ----------------- | ------------- | ------------------------------------------------------------ | ----------------------------- |
+| **Mo**   | **18.10-20.10**   | **maRia**     | **["Opening, Folding, Release" Zeitgenössischer Tanz](#mo)** | **Gilgegasse 12, 1090 Wien**  |
+| **(Di)** | **(18.00-20.00)** | **maRia**     | **[CI Körpertraining + "Bounce and Shake"](#di)**            | **Einsiedlerg. 7, 1050 Wien** |
+| **Mi**   | **18.15-20.30**   | **Christian** | **[Contact Improvisation and -Technique](#mi)**              | **Einsiedlerg. 7, 1050 Wien** |
+| **Do**   | **18.15-20.45**   | **Christian** | **[Contact Dojo: Offenes Training + Jam](#do)**              | **Gilgegasse 12, 1090 Wien**  |
 
 &nbsp;
 
 ### Kursbeginn Sommersemester 2022: 28.2.-3.3.2022
-(weitere Infos in Kürze)
 
-###  
 
-### Abendkurse Wintersemester 2021/22
 
 <div class="named-anchor" id="mo"></div>
 
@@ -26,7 +23,7 @@ Semesterkurse
 
 mit **maRia Probst**\
 *Zeitgenössisches Tanztraining* - *open level*\
-**Mo 18.10 - 20.10**; 20.9.2021 – 31.1.2022 (ca. 15x)\
+**Mo 18.10 - 20.10**; 28.2. – 27.6.2022 (ca. 14x)\
 Turnsaal VS Gilgegasse 12, 1090 Wien
 
 Über das Loslassen Momentum zu gewinnen ist ein zentrales Prinzip im zeitgenössischen Tanz. In diesem Kurs wollen wir vielfältige Varianten des Loslassens ausloten und für unseren Tanz erschließen. Wir werden uns auf Kernelemente der "Release Technique" beziehen, das lösende Potenzial tiefer Faltungen erfahren, Raum in uns einladen und damit die Beziehung zum uns umgebenden Raum erweitern. Wir werden uns tief in unserer Körperlichkeit ankern, den kritischen Geist ruhen lassen um Unmittelbarkeit in unsere tänzerischen Beziehungen zu uns Selbst, zu unseren PartnerInnen und zu dem uns Umgebenden und Bewohnenden einzuladen.
@@ -37,7 +34,7 @@ Turnsaal VS Gilgegasse 12, 1090 Wien
 
 mit **maRia Probst**\
 *open level*\
-**Di 18.00 – 20.00**, 21.9.2021- 1.2.2022 (ca. 15x)\
+**Di 18.00 – 20.00**, unregelmäßig, Termine in Kürze\
 Turnsaal VS Einsiedlergasse 7, 1050 Wien
 
 Das dreidimensionale Bewegungsverständnis, wie es aus der Praxis der CI erwächst, ist Basis aller rollingpoint Kurse. In diesem Kurs fließt dieses Körperwissen in ein ganzheitliches Verständnis von Training ein. Es finden sich Elemente aus Yoga, Qi Gong, Mentastics, dem zeitgenössischen Tanz u.a. Die Einheit ist als Kraft-, Beweglichkeits- und Koordinationstraining zur Steigerung des allgemeinen Wohlbefindens und zur Gesundheitsförderung gedacht und kann für diverse Trainingsanliegen genutzt werden. Abtanzen zu Musik, als wesentlicher Bestandteil, könnte durchaus unser Herz-Kreislaufsystem anregen.
@@ -48,7 +45,7 @@ Das dreidimensionale Bewegungsverständnis, wie es aus der Praxis der CI erwäch
 
 mit **Christian Apschner**\
 *beginner/intermediate*\
-**Mi 18.15 – 20.30**, 22.9.2021. - 2.2.2022 (ca. 15x)\
+**Mi 18.15 – 20.30**, 2.3.- 22.6.2022 (ca. 15x)\
 Turnsaal VS Einsiedlergasse 7, 1050 Wien
 
 Dieser Kurs ist für bewegungsfreudige BeginnerInnen und CI-TänzerInnen mit Vorerfahrung konzipiert. Mit ausreichend Zeit, Fokus und Kontinuität erlernen und vertiefen wir Grundelemente der Contact Improvisation. Im Fokus stehen die Technik des gegenseitigen Gewichtabgebens und -nehmens und das Spiel mit dem Bewegungsfluss und mit dem rollenden Kontaktpunkt. Wir trainieren Kraft und Beweglichkeit, lernen einfache Jumps und Lifts, uns fallen zu lassen und sicher zu landen. Verschiedene Variationen von Roll- und Spiralbewegungen erweitern unsere tänzerischen Fähigkeiten. Spiel mit dem Raum und Improvisation in der Gruppe.\
@@ -60,7 +57,7 @@ Teilnahmeempfehlungen: Bewegungsvorerfahrung aller Art sowie Lust und Freude an 
 
 mit **Christian Apschner**\
 abwechselnd *open level/advanced*\
-**Do 18.15 - 20.45**, 16.9.2021 – 3.2.2022\
+**Do 18.15 - 20.45**, 3.3. – 23.6..2022\
 **einzeln besuchbar**\
 Turnsaal VS Gilgegasse 12, 1090 Wien
 
