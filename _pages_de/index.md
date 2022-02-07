@@ -23,7 +23,7 @@ Fotocredit: Johannes Stolba
 > \
 > **Kursbeginn Sommersemester: 28.2.- 3.3.2022; weitere Infos in Kürze**
 
-### Übersicht Wintersemester 2021/22
+### Übersicht der Kurse/Workshops/Jams/Performances
 
 ### **Winter-Intensive: Liquid Motion into Contact Improvisation**
 
@@ -57,6 +57,10 @@ Turnsaal VS Einsiedlergasse 7, 1050 Wien**
 **[19./20.3.2022 "Deep Listening"](/workshops#deeplistening) mit Christian Apschner und Karola Reifetshamer**
 
 **[21./22.5.2022: "Contact Flying Skills"](/workshops#flying)** **mit Christian Apschner und Lui Springer (support)**
+
+### **rollingpoint-Jam: wieder ab 20.2.2022**
+
+
 
 ***Sämtliche Angebote werden entsprechend den jeweils aktuellen Covid-Regelungen für Wien abgehalten.***
 
