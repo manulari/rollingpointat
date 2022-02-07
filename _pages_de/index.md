@@ -56,7 +56,7 @@ Turnsaal VS Einsiedlergasse 7, 1050 Wien**
 
 **[19./20.3.2022 "Deep Listening"](/workshops#deeplistening) mit Christian Apschner und Karola Reifetshamer**
 
-**[21./22.5.2022: "Contact Flying Skills"](/workshop#flying)** **mit Christian Apschner und Lui Springer (support)**
+**[21./22.5.2022: "Contact Flying Skills"](/workshops#flying)** **mit Christian Apschner und Lui Springer (support)**
 
 ***Sämtliche Angebote werden entsprechend den jeweils aktuellen Covid-Regelungen für Wien abgehalten.***
 
