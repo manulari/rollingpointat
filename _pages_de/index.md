@@ -54,11 +54,7 @@ Turnsaal VS Einsiedlergasse 7, 1050 Wien**
 
 ### Wochenend-Workshops:
 
-**[9./10.10.2021 "From Bodywork into Movement"](/workshops#bodywork)** **mit Christian Apschner und maRia Probst**
-
-**[13./14.11.2021 "Comics and Dance"](/workshops#comics) mit maRia Probst und Susanne Hochreiter**
-
-**19./20.3.2022 "Deep Listening"**
+**[19./20.3.2022 "Deep Listening"](/workshops/deeplistening) mit Christian Apschner und Karola Reifetshamer**
 
 **[21./22.5.2022: "Contact Flying Skills"](/workshops#flying)** **mit Christian Apschner und Lui Springer (support)**
 
