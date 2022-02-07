@@ -10,68 +10,19 @@ Fotocredits: He Shao Hui
 
 ## Workshoptermine:
 
-**[9./10.10.2021 "From Bodywork into Movement" mit Christian Apschner und maRia Probst](#bodywork)**
-
-[**13./14.11.2021 "Comics and Dance"**\
-**mit maRia Probst und Susanne Hochreiter**](#comics)\
-**Achtung: Termin wird verschoben**
-
-**19./20.3.2022: Deep Listening** (details coming soon)
+[**19./20.3.2022: Deep Listening**\
+**mit Christian Apschner und Karola Reifetshamer**](deeplistening)
 
 [**21./22.5.2022: "Contact Flying Skills"**\
 **mit Christian Apschner und** **Lui Springer (support)**](#flying)
 
-<div class="named-anchor" id="bodywork"></div>
-
-&nbsp;
-
 ### Workshopbeschreibungen:
 
-#### **"From Bodywork into Movement" -** open level
 
-**9./10.10.2021 / 10.00-17.00**\
-**mit Christian Apschner und maRia Probst**
 
-Berührung ist eine reichhaltige Quelle unsere Bewegungsqualitäten zu verfeinern und zu erweitern. Oft reicht es dabei in einer wohlwollenden Haltung unserer Intuition freien Lauf zu lassen.\
-In diesem Workshop wollen wir dem uns Menschen meist grundlegenden Bedürfnis nach Berührung Raum geben und dieses mit gezieltem Bodywork-Know How aus unseren Berührungs-Fachgebieten Tuina, Trager Psychophysische Integration, Somatische Faszientherapie und Ortho-Bionomy verbinden.\
-Wir möchten zentrale Verbindungen unseres Bewegungssystems wie Atlas-Steiß, Schultern-Hüftgelenke oder die Hand- und Fußgelenke ansprechen, Aspekte unseres sympathischen, parasympathischen, somatischen oder enterischen Nervensystems adressieren und auf unsere Körperflüssigkeiten eingehen. Dabei werden weitere Körperstrukturen wie Haut, Fett und Organe mitbewegt und beeinflusst.\
-Der Fokus an diesem Wochenende liegt darin, diesen Berührungsschatz im Hinblick auf Bewegungsvielfalt, Bewegungsqualität und angemessenem Einsatz von Energie und Kraft zu heben und ihn in unsere tänzerischen Beziehungen sowohl in der Contact Improvisation wie auch in der freien Improvisation einfließen zu lassen.\
-Der Workshop lädt sowohl Nicht-Contact Improvisation TänzerInnen als auch Contact Improvisation TänzerInnen zum Mitmachen ein.
 
-&nbsp;
 
-<div class="named-anchor" id="comics"></div>
 
-<div class="named-anchor" id="comics"></div>
-
-#### **"Comics and Dance"** – open level
-
-**13./14.11.2021 / 10.00-17.00 (ca 1,5h Mittagspause)**\
-**mit maRia Probst und Susanne Hochreiter**\
-**Achtung: Dieser Termin wird verschoben**
-
-hybrid event (Zoom und gemeinsam im Studio)
-
-Dass wir uns in den vergangenen Monate hauptsächlich per Zoom zu Tanzsessions treffen konnten, hatte auch humorvolle Aspekte für uns. Sind die Zoom-Fenster nicht ähnlich den Panels eines Comics? Entsprechen nicht auch manche Möglichkeiten des Mediums Comic, jenen von Zoom? Etwa, dass Details in den Vordergrund rücken, manches begrenzt und durch den Bildrand durchschnitten wird oder unsichtbar, um dann wieder aufzutauchen?
-
-**Und:**
-
-Wie funktioniert Comics eigentlich? Eröffnet die Auseinandersetzung mit Comics möglicherweise ein lustvolleres Zusammentreffen von Tanz und digitalen Kommunikationswerkzeugen?
-
-**Vor allem:**
-
-Eröffnen uns spezifische Arbeiten bestimmter Comics-Künstler*innen, aber auch die Beschäftigung mit Gestaltungsparametern der Comic-Kunst generell Optionen im pandemischen und postpandemischen tänzerischen Miteinander? Gewinnen wir Distanz mithilfe der Gestaltungsmittel von Comics – durch Rahmen und „Rinnsteine“, durch das Spiel mit Körperformen und -darstellungen, durch ironische (Selbst)Reflexion und Humor? Gelingt es dadurch ein Stück Abstand nehmen zu können zum aktuellen Geschehen und uns dadurch\
-möglicherweise etwas anders dazu beziehen können?\
-Einiges an Spielformen aus dem Kochtopf „Comics and Dance“ haben wir bereits heraus gezaubert und wollen wir mit euch teilen.
-
-In diesem Sinne erwartet euch an diesem Wochenende:\
-\*\**eine Begleitung in ein Ankommen in der eigenen Körperlichkeit, in Basisaspekte des zeitgenössischen Tanzes und der Tanz-Improvisation\
-\*\**eine Einführung in die Welt des Comics\
-\*\**viel miteinander Comics schauen und lesen\
-\*\**ein Angebot an tanzimprovisatorischen Settings entlang von Comics-Strategien\
-\*\**und ein reger Austausch über die Einwirkungen und Auswirkungen dieser Begegnungen
-
-&nbsp;
 
 <div class="named-anchor" id="deeplistening"></div>
 
@@ -119,8 +70,6 @@ Wir stellen eine Verbindung von Athletischem und Meditativem her und lernen durc
 
 Für diesen Workshop sind CI-Grund- und Tanzerfahrung sowie gute körperliche und mentale Fitness empfehlenswert.
 
-###### &nbsp;
-
 ## Organisatorisches:
 
 **Ort:** Alle Workshops finden im Prana Yoga-Studio Nr.1, Mariahilferstr. 82, 1070 Wien statt.
@@ -148,6 +97,48 @@ Fotocredit: Laurent Ziegler
 - - -
 
 ### ARCHIV(Auswahl):
+
+#### **"Comics and Dance"** – open level
+
+**13./14.11.2021 / 10.00-17.00 (ca 1,5h Mittagspause)**\
+**mit maRia Probst und Susanne Hochreiter**\
+**Achtung: Dieser Termin wird verschoben**
+
+hybrid event (Zoom und gemeinsam im Studio)
+
+Dass wir uns in den vergangenen Monate hauptsächlich per Zoom zu Tanzsessions treffen konnten, hatte auch humorvolle Aspekte für uns. Sind die Zoom-Fenster nicht ähnlich den Panels eines Comics? Entsprechen nicht auch manche Möglichkeiten des Mediums Comic, jenen von Zoom? Etwa, dass Details in den Vordergrund rücken, manches begrenzt und durch den Bildrand durchschnitten wird oder unsichtbar, um dann wieder aufzutauchen?
+
+**Und:**
+
+Wie funktioniert Comics eigentlich? Eröffnet die Auseinandersetzung mit Comics möglicherweise ein lustvolleres Zusammentreffen von Tanz und digitalen Kommunikationswerkzeugen?
+
+**Vor allem:**
+
+Eröffnen uns spezifische Arbeiten bestimmter Comics-Künstler*innen, aber auch die Beschäftigung mit Gestaltungsparametern der Comic-Kunst generell Optionen im pandemischen und postpandemischen tänzerischen Miteinander? Gewinnen wir Distanz mithilfe der Gestaltungsmittel von Comics – durch Rahmen und „Rinnsteine“, durch das Spiel mit Körperformen und -darstellungen, durch ironische (Selbst)Reflexion und Humor? Gelingt es dadurch ein Stück Abstand nehmen zu können zum aktuellen Geschehen und uns dadurch\
+möglicherweise etwas anders dazu beziehen können?\
+Einiges an Spielformen aus dem Kochtopf „Comics and Dance“ haben wir bereits heraus gezaubert und wollen wir mit euch teilen.
+
+In diesem Sinne erwartet euch an diesem Wochenende:\
+\*\**eine Begleitung in ein Ankommen in der eigenen Körperlichkeit, in Basisaspekte des zeitgenössischen Tanzes und der Tanz-Improvisation\
+\*\**eine Einführung in die Welt des Comics\
+\*\**viel miteinander Comics schauen und lesen\
+\*\**ein Angebot an tanzimprovisatorischen Settings entlang von Comics-Strategien\
+\*\**und ein reger Austausch über die Einwirkungen und Auswirkungen dieser Begegnungen
+
+
+
+#### **"From Bodywork into Movement" -** open level
+
+**9./10.10.2021 / 10.00-17.00**\
+**mit maRia Probst und Christian Apschner**
+
+Berührung ist eine reichhaltige Quelle unsere Bewegungsqualitäten zu verfeinern und zu erweitern. Oft reicht es dabei in einer wohlwollenden Haltung unserer Intuition freien Lauf zu lassen.\
+In diesem Workshop wollen wir dem uns Menschen meist grundlegenden Bedürfnis nach Berührung Raum geben und dieses mit gezieltem Bodywork-Know How aus unseren Berührungs-Fachgebieten Tuina, Trager Psychophysische Integration, Somatische Faszientherapie und Ortho-Bionomy verbinden.\
+Wir möchten zentrale Verbindungen unseres Bewegungssystems wie Atlas-Steiß, Schultern-Hüftgelenke oder die Hand- und Fußgelenke ansprechen, Aspekte unseres sympathischen, parasympathischen, somatischen oder enterischen Nervensystems adressieren und auf unsere Körperflüssigkeiten eingehen. Dabei werden weitere Körperstrukturen wie Haut, Fett und Organe mitbewegt und beeinflusst.\
+Der Fokus an diesem Wochenende liegt darin, diesen Berührungsschatz im Hinblick auf Bewegungsvielfalt, Bewegungsqualität und angemessenem Einsatz von Energie und Kraft zu heben und ihn in unsere tänzerischen Beziehungen sowohl in der Contact Improvisation wie auch in der freien Improvisation einfließen zu lassen.\
+Der Workshop lädt sowohl Nicht-Contact Improvisation TänzerInnen als auch Contact Improvisation TänzerInnen zum Mitmachen ein.
+
+
 
 **22./23.8.2020  "Gravity Based Dialogs"**\
 Contact Improvisation/ Somatics/ Zeitgenössischer Tanz\
