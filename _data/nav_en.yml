@@ -10,3 +10,10 @@ entries:
         path: /en/contemporary
       - title: SOMATIC EDUCATION
         path: /en/somatics
+  - title: COURES AND WORKSHOPS
+    path: /en/kurse
+    subentries:
+      - title: SEMESTER COURSES
+        path: /en/kurse
+      - title: WORKSHOPS
+        path: /en/workshops
