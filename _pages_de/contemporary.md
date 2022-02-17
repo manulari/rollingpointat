@@ -6,7 +6,7 @@ title: Zeitgenössischer Tanz
 
 ![](/assets/uploads/20160609.143820-2.jpg)
 
-Fotocredit: He Shao Hu
+Fotocredit: He Shao Hui
 
 **Zeitgenössischer Tanz**
 
