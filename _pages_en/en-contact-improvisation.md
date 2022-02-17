@@ -6,4 +6,4 @@ other_lang: /contact-improvisation
 ---
 # Contact Improvisation
 
-\[Content coming soon]
+![](/assets/uploads/home_1940-2.jpg)
