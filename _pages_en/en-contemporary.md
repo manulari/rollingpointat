@@ -1,5 +1,5 @@
 ---
-permalink: en/contemporary
+permalink: /en/contemporary
 title: Contemporary Dance
 language: en
 ---
