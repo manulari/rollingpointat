@@ -1,5 +1,5 @@
 ---
-permalink: en/kurse
+permalink: /en/kurse
 title: COURSES AND WORKSHOPS
 language: en
 ---
