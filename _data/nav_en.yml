@@ -3,3 +3,8 @@ entries:
     path: /en/
   - title: CONTACT IMPROVISATION
     path: /en/contact-improvisation
+    subentries:
+      - title: CONTACT IMPROVISATION
+        path: /en/contact-improvisation
+      - title: CONTEMPORARY DANCE
+        path: /en/contemporary
