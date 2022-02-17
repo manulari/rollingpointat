@@ -6,7 +6,8 @@ other_lang: /
 ---
 ### Contact Improvisation and Related  Dance and Movement Practices
 
-The english version of our website is coming soon.
+**Under construction.**\
+**The new english version of our website is coming soon.**
 
 ![](/assets/uploads/dsc_1901_klein.jpg "https://www.youtube.com/embed/6A5otnVZAg4")
 
