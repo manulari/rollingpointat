@@ -5,6 +5,10 @@ language: en
 ---
 ![](/assets/uploads/20160609.143820-2.jpg)
 
+
+
+fotocredit: He Shao Hui
+
 Contemporary Dance is an artistic form of dance and a wonderful field of development and playing for people from different movement backgrounds.
 
 \-      is to be in contact with oneself and others in movement.
@@ -13,7 +17,7 @@ Contemporary Dance is an artistic form of dance and a wonderful field of develop
 
 \-      is an opportunity to be creative.
 
-\-      **is a holistic body training.**
+\-      is a holistic body training.
 
 In Contemporary Dance various forms of dance are melting together and are being developed further. Its roots lie primarily in Modern Dance and expressive dance.
 
@@ -26,8 +30,6 @@ Opening oneself to the diversity of movement awakens and educates our body knowl
 Combining movements according to one's own aesthetic values and also allowing for other organizations is part of the training in Contemporary Dance practice.
 
 In a dance class the whole body is put to use. The holistic experience of Contemporary Dance training encompasses strength, endurance and coordination training.
-
- 
 
 **What can I expect from a Contemporary Dance class at rollingpoint?**
 
@@ -58,3 +60,5 @@ In order to develop a certain quality or discover a new coordination, to turn mo
 In any case a Contemporary Dance class at rollingpoint is a wonderful opportunity to train in a supportive atmosphere, to experience yourself and others moving, to strengthen what you are familiar with, learn something new and lift your spirits!
 
 ![](/assets/uploads/heshaohui.rollingpoint-wu-fotos.076.jpg)
+
+fotocredit: He Shao Hui
