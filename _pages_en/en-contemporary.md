@@ -13,7 +13,7 @@ Contemporary Dance is an artistic form of dance and a wonderful field of develop
 
 \-      is to be in contact with oneself and others in movement.
 
-\-      is (in many cases) a learning with one's mind and body, i.e. somatic learning.
+\-      is a learning with one's mind and body, i.e. somatic learning.
 
 \-      is an opportunity to be creative.
 
