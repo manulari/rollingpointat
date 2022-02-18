@@ -3,6 +3,8 @@ permalink: /en/somatics
 title: Somatic Education
 language: en
 ---
+# Somatic Education
+
 ![](/assets/uploads/img_1706c__-_pho.jpg)
 
 Somatic Education is a holistic way to learn via positive body experiences and to bring your body and mind into harmony. The learning environment of somatic methods in dance strategically directs your attention to specific aspects of movement and posture in order to widen and refine the body awareness and movement repertoire.
