@@ -5,7 +5,7 @@ language: en
 ---
 Semester courses
 
-| day       | time              | teacher       | titel                                                        | place                         |
+| day       | time              | teacher       | course                                                       | place                         |
 | --------- | ----------------- | ------------- | ------------------------------------------------------------ | ----------------------------- |
 | **mo**    | **18.10-20.10**   | **maRia**     | **["Opening, Folding, Release" Zeitgenössischer Tanz](#mo)** | **Gilgegasse 12, 1090 Wien**  |
 | **(tue)** | **(18.00-20.00)** | **maRia**     | **[CI Körpertraining + "Bounce and Shake"](#di)**            | **Einsiedlerg. 7, 1050 Wien** |
