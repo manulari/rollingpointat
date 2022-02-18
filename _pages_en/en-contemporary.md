@@ -3,11 +3,11 @@ permalink: /en/contemporary
 title: Contemporary Dance
 language: en
 ---
+# Contemporary Dance
+
 ![](/assets/uploads/20160609.143820-2.jpg)
 
-
-
-fotocredit: He Shao Hui
+photocredits: He Shao Hui
 
 Contemporary Dance is an artistic form of dance and a wonderful field of development and playing for people from different movement backgrounds.
 
@@ -61,4 +61,4 @@ In any case a Contemporary Dance class at rollingpoint is a wonderful opportunit
 
 ![](/assets/uploads/heshaohui.rollingpoint-wu-fotos.076.jpg)
 
-fotocredit: He Shao Hui
+photocredits: He Shao Hui
