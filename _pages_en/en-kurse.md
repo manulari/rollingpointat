@@ -14,7 +14,7 @@ Semester courses
 
 &nbsp;
 
-### Start Sommersemester 2022: 28.2.-3.3.2022
+### Start summer semester 2022: 28.2.-3.3.2022
 
 <div class="named-anchor" id="mo"></div>
 
