@@ -17,15 +17,6 @@ entries:
         path: /en/kurse
       - title: WORKSHOPS
         path: /en/workshops
-  - title: ASSOCIATION ROLLINGPOINT
-    path: /en/verein
-    subentries:
-      - title: Association rollingpoint
-        path: /en/verein
-      - title: Christian Apschner
-        path: /en/christian
-      - title: maRia Probst
-        path: /en/maria
   - title: CI-DOJO (TRAINING+JAM)
     path: /en/dojo
   - title: JAMS+PERFORMANCES
