@@ -15,13 +15,7 @@ Fotocredit: Johannes Stolba
 
 <div class="imglink"><a target="_blank" href="https://www.youtube.com/embed/6A5otnVZAg4"><img src="/assets/uploads/video_vorschau_maria.png" alt="" /><div>Ganzheitliches Körpertraining mit maRia Probst</div></a></div>
 
-> **Aktualisierung 31.1.2022:**\
-> **Das Kontaktsportverbot in Wien wurde aufgehoben. Somit können alle unsere Angebote wieder uneingeschränkt stattfinden.**\
-> \
-> **Winter-Intensive Liquid Motion/Contact Improvisation**\
-> **Woche 1: 14.-17.2.2022, Woche 21.-24.2.2022**\
-> \
-> **Kursbeginn Sommersemester: 28.2.- 3.3.202**
+
 
 ### Übersicht der Kurse/Workshops/Jams/Performances
 
@@ -31,6 +25,8 @@ Fotocredit: Johannes Stolba
 **Woche 2: 21.-24.2.2022**](https://rollingpoint.at/winterintensive)
 
 ### Abendkurse:
+
+**Kursbeginn Sommersemester: 28.2.- 3.3.2022**
 
 **[1 „Opening, Folding, Release“ Zeitgenössisches Tanztraining](/kurse#mo)** **open level**\
 **mit maRia Probst**  \
