@@ -78,7 +78,8 @@ Tel. Christian 0650 8931081, maRia 0650 9510814
 **Bezahlung:** Bitte die Kostenbeiträge immer vorab auf unser Konto\
 IBAN:AT54 3200 0000 1701 2717, BIC: RLNWATWW, Verein rollingpoint, einzahlen. 
 
-**Stornobedingungen:** Bei Abmeldung bis sieben Tage vor dem Workshop wird der gesamte Betrag abzgl. einer Bearbeitungsgebühr von € 10,- zurückbezahlt. 50% Storno bis zwei Tage vor dem Workshop. Am Vortag und Tag des Workshops kein Storno mehr möglich. Es kann aber eine Ersatzperson nominiert werden.
+**Stornobedingungen:** Bei Abmeldung bis sieben Tage vor dem Workshop wird der gesamte Betrag abzgl. einer Bearbeitungsgebühr von € 10,- zurückbezahlt. 50% Storno bis zwei Tage vor dem Workshop. Am Vortag und Tag des Workshops kein Storno mehr möglich. Es kann aber eine Ersatzperson nominiert werden.\
+Aus Gründen von CoVid ist für beide Seiten jederzeit eine Stornierung möglich.
 
 ***Sämtliche rp Angebote werden entsprechend der aktuellen Covid19 Präventionsverordnungen abgehalten.***
 
