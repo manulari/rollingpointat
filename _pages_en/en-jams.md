@@ -25,32 +25,30 @@ Sometimes with guided warm-ups, selected music and soundscapes in the second hal
 
 **Costs donation based: approx. 10€ (min 6€),** should be paid on our bank account IBAN: AT54 3200 0000 1701 2717, BIC: RLNWATWW, Verein rollingpoint
 
-\
-**Hinweise zur Sicherheit in den rollingpoint-Jams:** 
+**Notes about safety in the CI jam:**
 
-Wichtigster Grundkonsens einer CI-Jam ist, dass alle TeilnehmerInnen so gut wie möglich **auf die eigene Sicherheit UND die Sicherheit der TanzpartnerInnen achten**: *„Pass auf, dass du niemand verletzt! Pass auf, dass dich niemand verletzt!”*
+At a CI jam, we share the basic agreement that all participants mind their own safety AND the safety of their dance partners. “Take care not to hurt anyone. Take care not to get hurt.” Knowing your own physical and emotional limits and learning to read those of your dance partners is part of the learning process in CI. Knowing our limits o ers safety and opens up the freedom to move and experiment in close proximity to these limits.
 
-Es ist Teil des Lernprozesses der Contact Improvisation im Laufe der Zeit immer besser herauszufinden, wo die eigenen Grenzen und die Grenzen der TanzpartnerInnen liegen z.B. im Umgang mit Körpergewichten. Der Lernprozess erlaubt aber vor allem auch „gedachte Grenzen“ zu erweitern und neue Freiheiten im Tanzen zu eröffnen. Für die physische Sicherheit ist es wichtig, einige Grundtechniken zu erlernen, welche gezielt in Kursen vermittelt werden wie Falltechniken, Körpergewicht dosiert abzugeben und gemeinsam zu rollen oder zu gleiten u.v.a.m. In einer Jam gibt es **keine Anleitung** wie in einem Kurs. Erste **Basiskenntnisse** und ein **Grundverständnis der Contact Improvisation werden** daher für die Teilnahme an der rollingpoint-jam **vorausgesetzt**.
+For physical safety it is important to learn some basic techniques, such as rolling on the oor, pouring your weight, and rolling or sliding together. Techniques for emotional safety are more diverse between individuals, and they are at least as important as those for physical safety.
 
-**Einige wichtige Regeln für die Sicherheit** sind u.a.:
+* Wear comfortable clothes and remove jewellery that might get caught in clothes, hair, etc.
+* Dance with your eyes open and be aware of the space(„periphery gaze“) in order to be able to quickly react to what is happening on the dance oor.
+* See movement impulses as „invitations”. Dancers should always have the possibility to decide whether to follow an impulse or not.
+* Don’t hold on to your dance partners‘ arms and legs – they are their landing gear!
+* You can end a dance at any time – no need to give a reason. • Boundaries are often communicated non-verbally. Still, it is always possible to say a “No” out loud.
+* A “No“ is non-negotiable and does not require an explanation.
 
-* Mit offenen Augen tanzen und auch auf den Raum rundherum achten, damit du auf das Tanzgeschehen um dich reagieren kannst
-* Arme und Beine der TanzpartnerInnen nicht blockieren oder festhalten, weil sie im Fallen als „landing pads“ benötigt werden
-* Gegenseitige Bewegungsimpulse sind als „Einladungen“ zu verstehen bei denen die TanzpartnerInnen die Möglichkeit haben „körperlich“ ein NEIN zu kommunizieren, z.B. bei Hebungen
-* **Du hast jederzeit die Möglichkeit Tänze ohne Begründung zu beenden**
-* **Sprich ein „NEIN“ aus, wenn deine Grenzen nonverbal nicht kommuniziert werden können**
-* **Frage nach, wenn du das Gefühl hast, deinE TanzpartnerIn könnte sich nicht sicher fühlen**
+**Physical contact in CI:**
 
-Körperkontakt in der CI dient der taktilen und sensomotorischen Wahrnehmung und der Gewichtsübertragung. Körperkontakt oder Berührung mit dem Ziel sexueller Annäherung ist nicht Contact Improvisation.
+A CI dance mostly develops out of the dancers being in physical contact. This contact is necessary in order to be able to give and take weight and to dance with a mutual point of contact.
 
-Ein CI-Tanz ist ein gleichberechtigter körperlicher Dialog, in dem wir uns fortlaufend somatische Fragen stellen wie z.B. 
+Using touch for making sexual advances is not CI!
 
-„Wo spüre ich meinen TanzpartnerIn und den Boden?“\
-„In welche Richtung bewegt sich der Kontaktpunkt?“\
-„Wieviel Unterstützung braucht meine TanzpartnerInnen in diesem Moment?“ u.a.
+Physical contact provides us with essential information about our dance partners:
 
-*Contact Improvisation ist auch ein großartiges Empathie-Lerntool um mit anderen Menschen auf einer sinnlich-körperlichen Ebene in Kontakt zu sein und nonverbal zu kommunizieren. Da wir uns im Alltag nicht so selbstverständlich berühren ist Körperkontakt für manche CI-BeginnerInnen mit dem Gedanken an sexuelle Aktivitäten assoziiert. Das Kennenlernen der Bewegungssprache der Contact Improvisation in Kursen reduziert das Potential von Missverständnissen. Oft braucht es einige Zeit um sich als BeginnerIn in der Jam-Welt vertraut zu machen und einzuleben. Viele Fragen lösen sich mit der Zeit von selbst.*
+What is the body’s organisation in spaceand in relation to my own body?\
+What kind of support do my dance partners need; how much weight can they take?In which direction is our point of contactmoving?
 
-*Je nachdem welche Vorerfahrung wir mit Körperkontakt mitbringen, kann das CI-Tanzen zu Beginn in uns unterschiedliche Gefühle und Gedanken auslösen. CI ist keine Therapie. Für viele CI-Praktizierende ist das gemeinsame Tanzen aber auch ein wichtiger Lernprozess, der in verschiedenste Lebensbereiche integriert werden kann.*
+It is great fun and can be very inspiring to yield to the play of our bodies and the physical forces and to discover endless possibilities for movement – from the lightest touch to dynamic and forceful encounters.
 
-Bei auftauchenden Fragenstellungen in der Jam besteht immer die Möglichkeit  der/die Jam-host anzusprechen.
+<http://vienna.contactimprovisation.at/images/CI-Jam-Info%201-0E.pdf>
