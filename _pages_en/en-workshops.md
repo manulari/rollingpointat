@@ -7,7 +7,7 @@ language: en
 
 Fotocredits: He Shao Hui
 
-## Workshoptermine:
+## Weekendworkshops 1-6/2022
 
 [[**19./20.3.2022: Deep Listening**\
 **mit Christian Apschner und Karola Reifetshamer**](deeplistening)](#deeplistening)
@@ -15,7 +15,7 @@ Fotocredits: He Shao Hui
 [**21./22.5.2022: "Contact Flying Skills"**\
 **mit Christian Apschner und** **Lui Springer (support)**](#flying)
 
-### Workshopbeschreibungen:
+### Workshop descriptions:
 
 <div class="named-anchor" id="deeplistening"></div>
 
@@ -65,13 +65,11 @@ We create a connection between the athletic and meditative and learn to take wei
 
 A solid basic CI and dance experience as well as good physical and mental fitness are recommended for this workshop.
 
-
-
 ## Further Information:
 
 **Place:** All Workshops will take place in the Prana Yoga-Studio Nr.1, Mariahilferstr. 82, 1070 Wien.
 
-**Registration:** please write us an email to <ci.rollingpoint@gmail.com>\
+**Registration:** please write us an email to [ci.rollingpoint@gmail.com](mailto:ci.rollingpoint@gmail.com)\
 Phone Christian +43650 8931081, maRia +43650 9510814
 
 **Costs:**\
@@ -84,8 +82,6 @@ IBAN:AT54 3200 0000 1701 2717, BIC: RLNWATWW, Verein rollingpoint, einzahlen.�
 **Cancellation conditions:** If you cancel up to seven days before the workshop, the entire amount minus a processing fee of €10 will be refunded. 50% cancellation up to two days before the workshop. Cancellation is no longer possible on the day before and on the day of the workshop. However, a substitute can be nominated.
 
 ***All rollingpoint offers are held in accordance with the current CoVid regulations for Vienna.***
-
-
 
 &nbsp;
 
