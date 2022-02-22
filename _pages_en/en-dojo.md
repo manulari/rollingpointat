@@ -38,7 +38,8 @@ moving with momentum\
 Come prepared! 
 
 **Costs:** training 10 - 15€, jam 6 - 10€, training+jam 12 - 20€\
-Payment should be made on our bank account IBAN: AT54 3200 0000 1701 2717, BIC: RLNWATWW
+Payment should be made on our bank account\
+IBAN: AT54 3200 0000 1701 2717, BIC: RLNWATWW
 
 **Important note:** Before entering the gym cloakroom, please take off your shoes.  Never take scooters or bicycles to school!
 
