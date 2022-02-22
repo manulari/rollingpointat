@@ -9,7 +9,9 @@ other_lang: /
 **Under construction.**\
 **The new english version of our website is coming soon.**
 
-![](/assets/uploads/dsc_1901_klein.jpg "https://www.youtube.com/embed/6A5otnVZAg4")
+![](/assets/uploads/dsc_1901_klein.jpg)
+
+#### Welcome on our rollingpoint website! We invite you to dive into the world of Contact Improvisation, Contemporary Dance and Somatic Learning with us. We operate at the intersection of dance, art, sports, learning and research and bring more than 20 years of experience to our work. Especially now it is particularly important to us to create open spaces for encounters and enjoyment of life.
 
 <div class="imglink"><a target="_blank" href="https://www.youtube.com/embed/kp3DqzN1Ldo"><img src="/assets/uploads/video_vorschau_rollingpoint.png" alt="" /><div>rollingpoint film</div></a></div>
 
