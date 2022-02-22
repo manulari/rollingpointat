@@ -33,7 +33,7 @@ Release technique into momentum, improvisation, dance sequences, somatics and em
 
 with **maRia Probst**\
 *open level*\
-**tue 18.00 – 20.00**, irregular, schedule coming soon\
+**tue 18.00 – 20.00**, **irregular, schedule coming soon!**\
 Turnsaal VS Einsiedlergasse 7, 1050 Wien
 
 3-D coordination for Contact Improvisation\
