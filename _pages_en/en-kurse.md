@@ -5,18 +5,18 @@ language: en
 ---
 Semester courses
 
-| day       | time              | teacher       | course                                                 | place                         |
-| --------- | ----------------- | ------------- | ------------------------------------------------------ | ----------------------------- |
-| **mo**    | **18.10-20.10**   | **maRia**     | **"Opening, Folding, Release" Contempory Dance**       | **Gilgegasse 12, 1090 Wien**  |
-| **(tue)** | **(18.00-20.00)** | **maRia**     | **[Holistic body training + "Bounce and Shake"](#di)** | **Einsiedlerg. 7, 1050 Wien** |
-| **wed**   | **18.15-20.30**   | **Christian** | **[Contact Improvisation and -Technique](#mi)**        | **Einsiedlerg. 7, 1050 Wien** |
-| **thu**   | **18.15-20.45**   | **Christian** | **[Contact Dojo: Open Training + Jam](#do)**           | **Gilgegasse 12, 1090 Wien**  |
+| day       | time              | teacher       | course                                                                               | place                         |
+| --------- | ----------------- | ------------- | ------------------------------------------------------------------------------------ | ----------------------------- |
+| **mo**    | **18.10-20.10**   | **maRia**     | **"Ope**[](#emo)**nin**[](#emo)**g, Folding, Release" Contem**[](#emo)**pory Dance** | **Gilgegasse 12, 1090 Wien**  |
+| **(tue)** | **(18.00-20.00)** | **maRia**     | **Ho**[](#edi)**listic body training + "Bounce and Shake"**                          | **Einsiedlerg. 7, 1050 Wien** |
+| **wed**   | **18.15-20.30**   | **Christian** | **Contact Improvisation and -Technique**                                             | **Einsiedlerg. 7, 1050 Wien** |
+| **thu**   | **18.15-20.45**   | **Christian** | **[Contact Dojo: Open Training + Jam](#edo)**                                        | **Gilgegasse 12, 1090 Wien**  |
 
 &nbsp;
 
 ### Start summer semester 2022: 28.2.-3.3.2022
 
-<div class="named-anchor" id="mo"></div>
+<div class="named-anchor" id="moe"></div>
 
 #### „Opening, Folding, Release“
 
@@ -27,7 +27,7 @@ Turnsaal VS Gilgegasse 12, 1090 Wien
 
 Release technique into momentum, improvisation, dance sequences, somatics and embodiment
 
-<div class="named-anchor" id="di"></div>
+<div class="named-anchor" id="die"></div>
 
 #### Holistic Body Training for CI + „Bounce and Shake"
 
@@ -41,7 +41,7 @@ Elements of Yoga, Qi Gong, Mentastics and Contemporary Dance\
 Strenght, mobility and coordination training\
 Open dancing and shaking to music
 
-<div class="named-anchor" id="mi"></div>
+<div class="named-anchor" id="mie"></div>
 
 #### Contact Improvisation and - Technique
 
@@ -56,7 +56,7 @@ Strenght, mobility and coordination training\
 Easy jumps and lifts\
 Group improvisation and Instant Composition
 
-<div class="named-anchor" id="do"></div>
+<div class="named-anchor" id="doe"></div>
 
 #### Contact Dojo: Open Training + Jam
 
