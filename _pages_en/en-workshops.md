@@ -3,11 +3,13 @@ permalink: /en/workshops
 title: Workshops
 language: en
 ---
+## Weekend Workshops
+
 ![](/assets/uploads/20160609.145929.jpg)
 
 Fotocredits: He Shao Hui
 
-## Weekendworkshops 1-6/2022
+## Weekend Workshops 1-6/2022
 
 [[**19./20.3.2022: Deep Listening**\
 **mit Christian Apschner und Karola Reifetshamer**](deeplistening)](#deeplistening)
