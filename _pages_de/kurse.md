@@ -7,15 +7,13 @@ Semesterkurse
 | Tag      | Zeit              | Lehrer:in     | Kurs                                                         | Ort/Turnsaal                  |
 | -------- | ----------------- | ------------- | ------------------------------------------------------------ | ----------------------------- |
 | **Mo**   | **18.10-20.10**   | **maRia**     | **["Opening, Folding, Release" Zeitgenössischer Tanz](#mo)** | **Gilgegasse 12, 1090 Wien**  |
-| **(Di)** | **(18.00-20.00)** | **maRia**     | **[CI Körpertraining + "Bounce and Shake"](#di)**            | **Einsiedlerg. 7, 1050 Wien** |
+| **(Di)** | **(18.00-20.00)** | **(maRia)**   | (**[CI Körpertraining + "Bounce and Shake")](#di)**          | **Einsiedlerg. 7, 1050 Wien** |
 | **Mi**   | **18.15-20.30**   | **Christian** | **[Contact Improvisation and -Technique](#mi)**              | **Einsiedlerg. 7, 1050 Wien** |
 | **Do**   | **18.15-20.45**   | **Christian** | **[Contact Dojo: Offenes Training + Jam](#do)**              | **Gilgegasse 12, 1090 Wien**  |
 
 &nbsp;
 
 ### Kursbeginn Sommersemester 2022: 28.2.-3.3.2022
-
-
 
 <div class="named-anchor" id="mo"></div>
 
@@ -30,11 +28,12 @@ Turnsaal VS Gilgegasse 12, 1090 Wien
 
 <div class="named-anchor" id="di"></div>
 
-#### CI Körpertraining + „Bounce and Shake"
+#### (CI Körpertraining + „Bounce and Shake")
 
 mit **maRia Probst**\
 *open level*\
-**Di 18.00 – 20.00**, unregelmäßig, Termine in Kürze\
+**Di 18.00 – 20.00**\
+**Achtung: findet nur unregelmäßig statt, Termine in Kürze**\
 Turnsaal VS Einsiedlergasse 7, 1050 Wien
 
 Das dreidimensionale Bewegungsverständnis, wie es aus der Praxis der CI erwächst, ist Basis aller rollingpoint Kurse. In diesem Kurs fließt dieses Körperwissen in ein ganzheitliches Verständnis von Training ein. Es finden sich Elemente aus Yoga, Qi Gong, Mentastics, dem zeitgenössischen Tanz u.a. Die Einheit ist als Kraft-, Beweglichkeits- und Koordinationstraining zur Steigerung des allgemeinen Wohlbefindens und zur Gesundheitsförderung gedacht und kann für diverse Trainingsanliegen genutzt werden. Abtanzen zu Musik, als wesentlicher Bestandteil, könnte durchaus unser Herz-Kreislaufsystem anregen.
