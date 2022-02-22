@@ -5,12 +5,12 @@ language: en
 ---
 Semester courses
 
-| day       | time              | teacher       | course                                                                               | place                         |
-| --------- | ----------------- | ------------- | ------------------------------------------------------------------------------------ | ----------------------------- |
-| **mo**    | **18.10-20.10**   | **maRia**     | **"Ope**[](#emo)**nin**[](#emo)**g, Folding, Release" Contem**[](#emo)**pory Dance** | **Gilgegasse 12, 1090 Wien**  |
-| **(tue)** | **(18.00-20.00)** | **maRia**     | **Ho**[](#edi)**listic body training + "Bounce and Shake"**                          | **Einsiedlerg. 7, 1050 Wien** |
-| **wed**   | **18.15-20.30**   | **Christian** | **Contact Improvisation and -Technique**                                             | **Einsiedlerg. 7, 1050 Wien** |
-| **thu**   | **18.15-20.45**   | **Christian** | **[Contact Dojo: Open Training + Jam](#edo)**                                        | **Gilgegasse 12, 1090 Wien**  |
+| day       | time              | teacher       | course                                                                                       | place                         |
+| --------- | ----------------- | ------------- | -------------------------------------------------------------------------------------------- | ----------------------------- |
+| **mo**    | **18.10-20.10**   | **maRia**     | **"Ope**[](#emo)**nin**[](#emo)[](#moe)**g, Folding, Release" Contem**[](#emo)**pory Dance** | **Gilgegasse 12, 1090 Wien**  |
+| **(tue)** | **(18.00-20.00)** | **maRia**     | **Ho**[](#edi)**listic body training + "Bounce and Shake"**                                  | **Einsiedlerg. 7, 1050 Wien** |
+| **wed**   | **18.15-20.30**   | **Christian** | [](#mie)**Contac**[](#mie)**t Im**[](#mie)**provisation and -Technique**                     | **Einsiedlerg. 7, 1050 Wien** |
+| **thu**   | **18.15-20.45**   | **Christian** | **[Contact Dojo: Open Training + Jam](#doe)**                                                | **Gilgegasse 12, 1090 Wien**  |
 
 &nbsp;
 
