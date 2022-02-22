@@ -10,7 +10,9 @@ other_lang: /
 
 ![](/assets/uploads/dsc_1901_klein.jpg)
 
-#### Welcome on our rollingpoint website! We invite you to dive into the world of Contact Improvisation, Contemporary Dance and Somatics with us. We operate at the intersection of dance, art, sports, learning and research and bring more than 20 years of experience to our work. Especially now it is particularly important to us to create open and safe spaces for encounters and enjoyment of life.
+### Welcome on our rollingpoint website!
+
+**We invite you to dive into the world of Contact Improvisation, Contemporary Dance and Somatics with us. We operate at the intersection of dance, art, sports, learning and research and bring more than 20 years of experience to our work. Especially now it is particularly important to us to create open and safe spaces for encounters and enjoyment of life.**
 
 #### &nbsp;
 
