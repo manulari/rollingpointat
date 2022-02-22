@@ -3,6 +3,8 @@ permalink: /en/workshops
 title: Workshops
 language: en
 ---
+![](/assets/uploads/20160609.145929.jpg)
+
 Fotocredits: He Shao Hui
 
 ## Workshoptermine:
