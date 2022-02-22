@@ -69,7 +69,9 @@ Tel. Christian 0650 8931081, maRia 0650 9510814
 
 **Kosten Kurse 1-3: €230 (Normalpreis), 190,- (ermäßigt), €150,- (StudentInnen <27a)**\
 **5er Block für Kurse 1 und 2**: **€95 (Normalpreis), €75 (ermäßigt)**\
-Bei Buchung von zwei oder mehr Kursen Ermäßigung von €30,- ab dem 2. Kurs
+Bei Buchung von zwei oder mehr Kursen Ermäßigung von €30,- ab dem 2. Kurs\
+\
+Schnupperstunden in den ersten Kurswochen zu je 10€/Einheit (max. 1x je Kurs)
 
 **Bankvbdg.:** IBAN: AT54 3200 0000 1701 2717, BIC: RLNWATWW, Verein rollingpoint
 
