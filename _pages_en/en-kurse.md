@@ -25,7 +25,7 @@ with **maRia Probst**\
 **mo 18.10 - 20.10**; 28.2. – 27.6.2022 (ca. 14x)\
 Turnsaal VS Gilgegasse 12, 1090 Wien
 
-Release technique into momentum, improvisation, dance sequences, somatics and embodiment
+Release technique into momentum. Improvisation, dance sequences, somatics and embodiment
 
 <div class="named-anchor" id="die"></div>
 
