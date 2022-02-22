@@ -28,7 +28,7 @@ photocredits: Laurent Ziegler
 
 The dojo alternates between the special needs for beginners and advanced dancers. A guided CI training session is followed by a contact jam. An almost 200m2 large gym in the VS Gilgegasse 12, 1090 Wien with perfect wooden floor is available for us as a training room.
 
-**Open level CI-DOJO:** The open level dojos also invite all interested newcomers without any previous knowledge to try out and participate ("Tasting Contact Improvisation). The 1,5h training sessions are about learning  CI fundamentals. We will start the jams with an opening round and short guided warm up.
+**Open level CI-DOJO:** The open level dojos also invite all interested newcomers without any previous knowledge to try out and participate ("Tasting Contact Improvisation"). The 1,5h training sessions are about learning  CI fundamentals. We will start the jams with an opening round and short guided warm up.
 
 **Advanced CI-DOJO:** The sessions offer a strongly physically oriented movement and contact improvisation training. We will work on deepening the basic principles of the CI, such as the consistent following of the rolling contact point as well as on the specific technique for lifts and partnering sequences such as\
 dancing offbalance/commitment to fall\
