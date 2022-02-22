@@ -65,7 +65,7 @@ alternating *open level/advanced*\
 **thu 18.15 - 20.45**, 3.3. – 23.6..2022\
 Turnsaal VS Gilgegasse 12, 1090 Wien
 
-siehe: [Rollingpoint - CI-DOJO (Training+Jam)](/dojo)
+siehe: Rollingpoint - CI-DOJO (Training+Jam)
 
 ### Registration and Costs:
 
@@ -78,10 +78,10 @@ If you book two courses, you get a discount of €30,- for the second course.
 
 **Bankvbdg.:** IBAN: AT54 3200 0000 1701 2717, BIC: RLNWATWW, Verein rollingpoint
 
-No classen on school holiday
+No classes on school holiday
 
 &nbsp;
 
-***Sämtliche rp Angebote werden entsprechend den jeweils aktuellen Covid-Regelungen für Wien abgehalten.***
+***All rollingpoint offers are held in accordance with the current CoVid regulations for Vienna.***
 
 ![](/assets/uploads/img_0197.jpg)
