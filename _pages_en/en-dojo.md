@@ -3,6 +3,8 @@ permalink: /en/dojo
 title: CI-DOJO (TRAINING+JAM)
 language: en
 ---
+## CI-DOJO (Training+Jam)
+
 ![](/assets/uploads/lsz_5410-3.jpg)
 
 photocredits: Laurent Ziegler
