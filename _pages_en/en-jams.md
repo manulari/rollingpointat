@@ -5,28 +5,25 @@ language: en
 ---
 
 
-> **\
-> Aktualisierung 2.2.2022: Die rollingpoint-Jam findet wieder regelmäßig ab 20.2.2022 statt.**
+The rollingpoint jams are a place for focused contact improvisation dancing where **CI is practiced as a contemporary dance and art form.** We want to offer a space in which everyone feels safe. Participants are asked to have some CI course experience in the sense of basic knowledge.
 
-Die rollingpoint-Jams sind ein Ort für fokussiertes Contact Improvisations-Tanzen an dem **CI als zeitgenössische Tanz- und Kunstform** praktiziert wird. Wir achten darauf einen gemeinsamen Raum zu halten, in dem sich alle sicher fühlen und erwarten von den TeilnehmerInnen, dass sie bereits über erste CI-Kurserfahrungen (im Sinne von Grundkenntnissen) verfügen.
+The regular rollingpoint Contact Improvisations Jam takes place every Sunday evening from 7pm to 10pm in the Prana Yoga studio 1 (more infos: see below).
 
-Die reguläre rollingpoint Contact Improvisations Jam findet jeden Sonntag Abend von 19.00-22.00 im Prana Yoga-Studio statt (Detailinfos siehe unten). Weiters gibt es an Schultagen jeweils am Donnerstag Abend eine offene Jam in Verbindung mit einem vorangehenen CI-Training (CI-DOJO) im Turnsaal der VS Gilgegasse.\
+Furthermore, there are open jams on thursday evenings on school days in connection with a previous CI training (CI-DOJO) in the gym of VS Gilgegasse.\
 [Info zum **CI-DOJO (Training+Jam)**](/dojo)
 
-***Alle rollingpoint-Angebote werden entsprechend den jeweils aktuellen CoVid-Regelungen für Wien abgehalten.***
+***All rollingpoint offers are held in accordance with the current CoVid regulations for Vienna.***
 
-## rollingpoint-Jam am Sonntag
+## rollingpoint-Jam on sunday
 
-**Jeden Sonntag 19.00 - 22.00**\
-Prana Yoga-Studio Nr. 1, 2. Innenhof, 1. Stock, Mariahilferstr. 82, 1070 Wien\
-Keine Anmeldung erforderich.
+**every  sunday 19.00 - 22.00**\
+Prana Yoga-Studio Nr. 1, 2nd inner courtyard, 1st floor, Mariahilferstr. 82, 1070 Wien\
+No registration needed.
 
-**Ankommen von 19.00 bis 19.30**; vor 19.00 und nach 19:30h aus raumorganisatorischen Gründe kein Einlass möglich\
-Teilweise  angeleitete warm ups, ausgewählte Musik und Sound-Scapes in der 2.Hälfte der Jams.
+**Arrival time 19.00 bis 19.30**; Before 19.00 and after 19.30 no entry is possible.\
+Sometimes with guided warm-ups, selected music and soundscapes in the second half of the jams.
 
-**Raumbeitrag auf Spendenbasis: ca.10€ (min 6€), bitte um Kontoüberweisung**
-
-**Bankvbdg.:** IBAN: AT54 3200 0000 1701 2717, BIC: RLNWATWW, Verein rollingpoint
+**Costs donation based: approx. 10€ (min 6€),** should be paid on our bank account IBAN: AT54 3200 0000 1701 2717, BIC: RLNWATWW, Verein rollingpoint
 
 \
 **Hinweise zur Sicherheit in den rollingpoint-Jams:** 
