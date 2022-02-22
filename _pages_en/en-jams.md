@@ -8,7 +8,7 @@ The rollingpoint jams are a place for focused contact improvisation dancing wher
 The regular rollingpoint Contact Improvisations Jam takes place every Sunday evening from 7pm to 10pm in the Prana Yoga studio 1 (more infos: see below).
 
 Furthermore, there are open jams on thursday evenings on school days in connection with a previous CI training (CI-DOJO) in the gym of VS Gilgegasse.\
-[Info zum **CI-DOJO (Training+Jam)**](en/dojo)
+**[CI-DOJO (Training+Jam)](en/dojo)**
 
 ***All rollingpoint offers are held in accordance with the current CoVid regulations for Vienna.***
 
