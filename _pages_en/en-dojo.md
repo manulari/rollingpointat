@@ -10,7 +10,7 @@ photocredits: Laurent Ziegler
 **DOJO=Training+Jam**, alternating `advanced` and\
 `open level (beginners welcome, bring your friends!)`
 
-`Sommersemester 2022 beginning 3.3.2022`
+`Summersemester 2022 beginning 3.3.2022`
 
 > **Open level DOJO:** 10.3., 24.3., 7.4., 5.5., 19.5., 9.6.
 >
@@ -22,27 +22,23 @@ photocredits: Laurent Ziegler
 >
 > **Turnsaal Gilgegasse 12, 1090 Wien**
 
-**Dōjō**, die Übungshalle in den japanischen Kampfkünsten; dies ist auch teilweise die Bezeichnung für den Meditationsraum im japanischen Zen; in diesem Fall auf die Praxis der Contact Improvisation übertragen.
+**A dōjō**, is a hall or place for immersive learning or meditation. This is traditionally in the field of martial arts, but has been seen increasingly in other fields. The term literally means "place of the the Way" in Japanese
 
-**Noch mehr Raum zum Contact Improvisations-Tanzen:**
+**More space to learn and dance Contact Improvisation:**
 
-Das Format geht abwechselnd sowohl auf die speziellen Wünsche und Bedürfnisse von fortgeschrittenen CI-TänzerInnen und auch von NeubeginnerInnen ein. Die Abende bestehen jeweils aus einem angeleiteten CI-Training und einer nachfolgenden Contact-Jam. CI-Training und Jam können gemeinsam oder unabhängig voneinander besucht werden, die gemeinsame Teilnahme ist empfehlenswert. Als Contact-Dojo steht uns der knapp 200m2 große Turnsaal mit für CI optimalem Holzschwingboden in der VS Gilgegasse 9, 1090 Wien zur Verfügung. 
+The dojo alternates between the special needs for beginners and advanced dancers. A guided CI training session is followed by a contact jam. An almost 200m2 large gym in the VS Gilgegasse 12, 1090 Wien with perfet wooden floor is available for us as a training room.
 
-**Open level CI-DOJO:** Die open level Termine laden insbesondere auch alle interessierten NeueinsteigerInnen ohne jegliche Vorkenntnisse zum Ausprobieren und Mitmachen ein ("Tasting Contact Improvisation). In den 1,5 stündigen Trainings vor der Jam werden CI Fundamentals vermittelt. Für die nachfolgende Jam wird es eine gemeinsame Eröffnungsrunde zum Kennenlernen sowie ein kurzes angeleitetes warm up geben. Der Fokus der Jam liegt in einem Miteinander-Tanzen unabhängig von den jeweiligen CI-Vorerfahrungen.
+**Open level CI-DOJO:** The open level dojos also invite all interested newcomers without any previous knowledge to try out and participate ("Tasting Contact Improvisation). The 1,5h training session is about learning In den 1,5 stündigen CI fundamentals. We will start the jams with an opening round and short guided warm up.
 
-**Advanced CI-DOJO:** Die Termine für Fortgeschrittene bieten ein stark physisch orientiertes Bewegungs- und Contact Improvisations Training. Wir arbeiten sowohl an einer Vertiefung von Grundprinzipien der CI wie dem konsequenten Folgen des rollenden Kontaktpunktes sowie der Bereitschaft sich jederzeit fallen zu lassen als auch an der Technik für Lifts und von spezifischen Bewegungsabläufen. In den nachfolgenden Jams möchten wir das gesamte in der nunmehr bald 50jährigen Geschichte der CI erarbeitete Bewegungs Know-how zur Anwendung bringen:
-
-dancing offbalance/commitment to fall\
+**Advanced CI-DOJO:** The sessions offer a strongly physically oriented movement and contact improvisation training. We will work on deepening the basic principles of the CI, such as the consistent following of the rolling contact point as well as on the specific technique for lifts and partnering sequences such as dancing offbalance/commitment to fall\
 center to center rollingpoint of contact \
 flying Low/high\
-moving with momentum\
-Come prepared! 
+moving with momentum 
 
-**Kosten:** Training 10 - 15€, Jam 6 - 10€, Training+Jam 12 - 20€\
-(kann vom Jam-Guthabenkonto abgebucht werden).\
-Bezahlung bitte ausschließlich per Banküberweisung auf das rollingpoint-Konto IBAN: AT54 3200 0000 1701 2717, BIC: RLNWATWW
+**Costa:** training 10 - 15€, jam 6 - 10€, training+jam 12 - 20€\
+Payment should be made on our bank account IBAN: AT54 3200 0000 1701 2717, BIC: RLNWATWW
 
-**Wichtig**: Bitte vor dem Betreten der Turnsaalgarderobe die Schuhe am Gang ausziehen; keinenfalls Roller oder Fahrräder mit in die Schule nehmen!
+**Important note:** Before entering the gym cloakroom, please take off your shoes.  Never take scooters or bicycles to school!
 
 ![](/assets/uploads/lsz_5630.jpg)
 
