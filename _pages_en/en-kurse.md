@@ -5,12 +5,12 @@ language: en
 ---
 Semester courses
 
-| day       | time              | teacher       | course                                                                                       | place                         |
-| --------- | ----------------- | ------------- | -------------------------------------------------------------------------------------------- | ----------------------------- |
-| **mo**    | **18.10-20.10**   | **maRia**     | **"Ope**[](#emo)**nin**[](#emo)[](#moe)**g, Folding, Release" Contem**[](#emo)**pory Dance** | **Gilgegasse 12, 1090 Wien**  |
-| **(tue)** | **(18.00-20.00)** | **maRia**     | **Ho**[](#edi)**listic body training + "Bounce and Shake"**                                  | **Einsiedlerg. 7, 1050 Wien** |
-| **wed**   | **18.15-20.30**   | **Christian** | [](#mie)**Contac**[](#mie)**t Im**[](#mie)**provisation and -Technique**                     | **Einsiedlerg. 7, 1050 Wien** |
-| **thu**   | **18.15-20.45**   | **Christian** | **[Contact Dojo: Open Training + Jam](#doe)**                                                | **Gilgegasse 12, 1090 Wien**  |
+| day       | time              | teacher       | course                                                          | place                         |
+| --------- | ----------------- | ------------- | --------------------------------------------------------------- | ----------------------------- |
+| **mo**    | **18.10-20.10**   | **maRia**     | **["Opening, Folding, Release" Contempory Dance](#moe)**        | **Gilgegasse 12, 1090 Wien**  |
+| **(tue)** | **(18.00-20.00)** | **maRia**     | [](#die)**[Holistic body training + "Bounce and Shake"](#die)** | **Einsiedlerg. 7, 1050 Wien** |
+| **wed**   | **18.15-20.30**   | **Christian** | [](#mie)**[Contact Improvisation and -Technique](#mie)**        | **Einsiedlerg. 7, 1050 Wien** |
+| **thu**   | **18.15-20.45**   | **Christian** | **[Contact Dojo: Open Training + Jam](#doe)**                   | **Gilgegasse 12, 1090 Wien**  |
 
 &nbsp;
 
