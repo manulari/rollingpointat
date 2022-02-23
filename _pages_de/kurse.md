@@ -28,7 +28,7 @@ Turnsaal VS Gilgegasse 12, 1090 Wien
 
 <div class="named-anchor" id="di"></div>
 
-#### (CI Körpertraining + „Bounce and Shake")
+#### CI Körpertraining + „Bounce and Shake"
 
 mit **maRia Probst**\
 *open level*\
@@ -68,9 +68,9 @@ siehe: [Rollingpoint - CI-DOJO (Training+Jam)](/dojo)
 **Anmeldung: Schreibe uns bitte ein kurzes mail an ci.rollingpoint@gmail.com**\
 Tel. Christian 0650 8931081, maRia 0650 9510814
 
-**Kosten Kurse 1-3: €230 (Normalpreis), 190,- (ermäßigt), €150,- (StudentInnen <27a)**\
-**5er Block für Kurse 1 und 2**: **€95 (Normalpreis), €75 (ermäßigt)**\
-Bei Buchung von zwei oder mehr Kursen Ermäßigung von €30,- ab dem 2. Kurs\
+**Kosten Semesterkurse Mo, Mi: €230 (Normalpreis), 190,- (ermäßigt), €150,- (StudentInnen <27a)**\
+**5er Block Mo, Di**: **€95 (Normalpreis), €75 (ermäßigt)**\
+Bei Buchung von zwei Kursen Ermäßigung von €30,- fü den 2. Kurs\
 \
 Schnupperstunden in den ersten Kurswochen zu je 10€/Einheit (max. 1x je Kurs)
 
