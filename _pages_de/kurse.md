@@ -33,7 +33,8 @@ Turnsaal VS Gilgegasse 12, 1090 Wien
 mit **maRia Probst**\
 *open level*\
 **Di 18.00 – 20.00**\
-**Achtung: findet nur unregelmäßig statt, Termine in Kürze**\
+**Achtung: findet nur unregelmäßig statt**\
+**Termine Sommersemester 2022: 8.3., 5.4., 3.5., 24.5. und 21.6.2022**\
 Turnsaal VS Einsiedlergasse 7, 1050 Wien
 
 Das dreidimensionale Bewegungsverständnis, wie es aus der Praxis der CI erwächst, ist Basis aller rollingpoint Kurse. In diesem Kurs fließt dieses Körperwissen in ein ganzheitliches Verständnis von Training ein. Es finden sich Elemente aus Yoga, Qi Gong, Mentastics, dem zeitgenössischen Tanz u.a. Die Einheit ist als Kraft-, Beweglichkeits- und Koordinationstraining zur Steigerung des allgemeinen Wohlbefindens und zur Gesundheitsförderung gedacht und kann für diverse Trainingsanliegen genutzt werden. Abtanzen zu Musik, als wesentlicher Bestandteil, könnte durchaus unser Herz-Kreislaufsystem anregen.
