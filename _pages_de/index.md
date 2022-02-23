@@ -30,22 +30,23 @@ Fotocredit: Johannes Stolba
 
 **Kursbeginn Sommersemester: 28.2.- 3.3.2022**
 
-**[1 „Opening, Folding, Release“ Zeitgenössisches Tanztraining](/kurse#mo)** **open level**\
+**[„Opening, Folding, Release“ Zeitgenössisches Tanztraining](/kurse#mo)** **open level**\
 **mit maRia Probst**  \
 **wieder ab Mo 28.2.2022 – 31.1.2022, 18.10 - 20.10**\
 **Turnsaal VS Gilgegasse 12, 1090 Wien**
 
-**[2 CI Körpertraining + „Bounce and Shake"](/kurse#di)**  **open level**\
+**[CI Körpertraining + „Bounce and Shake"](/kurse#di)**  **open level**\
 **mit maRia Probst**\
-**neue Termine in Planung, Di 18.00 – 20.00**\
+**Termine Sommersemester 2022: 8.3., 5.4., 3.5., 24.5. und 21.6.2022**\
+**Di 18.00 – 20.00**\
 **Turnsaal VS Einsiedlergasse 7, 1050 Wien**
 
-**[3 Contact Improvisation and -Technique](/kurse#mi) beginner/intermediate\
+**[Contact Improvisation and -Technique](/kurse#mi) beginner/intermediate\
 mit Christian Apschner\
 wieder ab Mi 2.3.2022, 18.15 – 20.30 (ca.15x)\
 Turnsaal VS Einsiedlergasse 7, 1050 Wien**
 
-**[4 Contact Dojo: Training + Jam](/dojo)**\
+**[Contact Dojo: Training + Jam](/dojo)**\
 **mit Christian Apschner**\
 **wieder ab Do 3.3.2022, 18.15 - 20.45**\
 **Turnsaal VS Gilgegasse 12, 1090 Wien**
