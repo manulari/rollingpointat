@@ -35,7 +35,7 @@ Fotocredit: Johannes Stolba
 **wieder ab Mo 28.2.2022 – 31.1.2022, 18.10 - 20.10**\
 **Turnsaal VS Gilgegasse 12, 1090 Wien**
 
-**[CI Körpertraining + „Bounce and Shake"](/kurse#di)**  **open level**\
+**[CI Körpertraining + „Bounce and Shake" /compact+extended](/kurse#di)**  **open level**\
 **mit maRia Probst**\
 **Termine Sommersemester 2022: 8.3., 5.4., 3.5., 24.5. und 21.6.2022**\
 **Di 18.00 – 20.30**\
