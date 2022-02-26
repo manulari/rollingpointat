@@ -4,13 +4,16 @@ title: KURSE UND WORKSHOPS
 ---
 Semesterkurse
 
-| Tag      | Zeit              | Lehrer:in     | Kurs                                                         | Ort/Turnsaal                  |
-| -------- | ----------------- | ------------- | ------------------------------------------------------------ | ----------------------------- |
-| **Mo**   | **18.10-20.10**   | **maRia**     | **["Opening, Folding, Release" Zeitgenössischer Tanz](#mo)** | **Gilgegasse 12, 1090 Wien**  |
-| **(Di)** | **18.00-20.30)*** | **maRia**     | (**[CI Körpertraining + "Bounce and Shake")](#di)**          | **Einsiedlerg. 7, 1050 Wien** |
-| **Mi**   | **18.15-20.30**   | **Christian** | **[Contact Improvisation and -Technique](#mi)**              | **Einsiedlerg. 7, 1050 Wien** |
-| **Do**   | **18.15-20.45**   | **Christian** | **[Contact Dojo: Offenes Training + Jam](#do)**              | **Gilgegasse 12, 1090 Wien**  |
+| Tag      | Zeit            | Lehrer:in     | Kurs                                                         | Ort/Turnsaal                  |
+| -------- | --------------- | ------------- | ------------------------------------------------------------ | ----------------------------- |
+| **Mo**   | **18.10-20.10** | **maRia**     | **["Opening, Folding, Release" Zeitgenössischer Tanz](#mo)** | **Gilgegasse 12, 1090 Wien**  |
+| **Di*)** | **18.00-20.30** | **maRia**     | (**[CI Körpertraining + "Bounce and Shake")](#di)**          | **Einsiedlerg. 7, 1050 Wien** |
+| **Mi**   | **18.15-20.30** | **Christian** | **[Contact Improvisation and -Technique](#mi)**              | **Einsiedlerg. 7, 1050 Wien** |
+| **Do**   | **18.15-20.45** | **Christian** | **[Contact Dojo: Offenes Training + Jam](#do)**              | **Gilgegasse 12, 1090 Wien**  |
 
+
+
+**\*) tue 5.3., 5.4., 3.5., 24.5. und 21.6.2022**\
 &nbsp;
 
 ### Kursbeginn Sommersemester 2022: 28.2.-3.3.2022
@@ -49,8 +52,6 @@ stay tuned\*\**
 **CI Körpertraining + bounce and shake: maRia, [ci.rollingpoint@gmail.com](mailto:ci.rollingpoint@gmail.com) oder +43650 9510814,** 
 
 **Andere Dienstags Formate: Christian, [ci.rollingpoint@​gmail.com](mailto:ci.rollingpoint@gmail.com)  oder +43650 8931081** 
-
-
 
 <div class="named-anchor" id="mi"></div>
 
