@@ -72,7 +72,7 @@ Für diesen Workshop sind CI-Grund- und Tanzerfahrung sowie gute körperliche un
 Tel. Christian 0650 8931081, maRia 0650 9510814
 
 **Kosten:**\
-**€ 190/150/110,-** (Supporter/Normalpreis/ermäßigt) bei Einzahlung bis 14 Tage vor Workshopbeginn\
+**Frühbucherpreis € 190/150/110,-** (Supporter/Normalpreis/ermäßigt) bei Einzahlung bis 14 Tage vor Workshopbeginn\
 **€ 210/170/130,-** (Supporter/Normalpreis/ermäßigt) bei Einzahlung ab 13 Tagen vor Workshopbeginn
 
 **Bezahlung:** Bitte die Kostenbeiträge immer vorab auf unser Konto\
