@@ -84,10 +84,10 @@ Tel. Christian 0650 8931081, maRia 0650 9510814
 **5er Block Mo, Mi**: **€95 (Normalpreis), €75 (ermäßigt)**\
 Bei Buchung von zwei Kursen Ermäßigung von €30,- fü den 2. Kurs
 
-**Di 5 Termine:**  €95 (Normalpreis), €75 (ermäßigt), Einzeltermin: €25.- / €20.-\
-\
 **Schnupperstunden** in den ersten Kurswochen zu je 10€/Einheit (max. 1x je Kurs)
 
+**Di 5 Termine:**  €95 (Normalpreis), €75 (ermäßigt), Einzeltermin: €25.- / €20.-\
+\
 **Bankvbdg.:** IBAN: AT54 3200 0000 1701 2717, BIC: RLNWATWW, Verein rollingpoint
 
 An schulautonomen Tagen, Feiertagen und einzelnen Terminen finden keine Kurse statt, konkrete Kalendertage werden zeitgerecht bekannt gegeben. Im Falle neuerlicher pandemiebedingter Stornierungen wird die Kursgebühr nach Absprache anteilig rücküberwiesen oder gutgeschrieben.
