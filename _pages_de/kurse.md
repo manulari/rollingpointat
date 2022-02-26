@@ -11,8 +11,6 @@ Semesterkurse
 | **Mi**   | **18.15-20.30** | **Christian** | **[Contact Improvisation and -Technique](#mi)**              | **Einsiedlerg. 7, 1050 Wien** |
 | **Do**   | **18.15-20.45** | **Christian** | **[Contact Dojo: Offenes Training + Jam](#do)**              | **Gilgegasse 12, 1090 Wien**  |
 
-
-
 **\*) tue 5.3., 5.4., 3.5., 24.5. und 21.6.2022**\
 &nbsp;
 
@@ -37,7 +35,7 @@ mit **maRia Probst**\
 *open level*\
 **Di 18.00 – 20.30**\
 **Achtung: findet nur unregelmäßig statt**\
-**Termine Sommersemester 2022: 8.3., 5.4., 3.5., 24.5. und 21.6.2022**\
+**5 Termine im Sommersemester 2022: 8.3., 5.4., 3.5., 24.5. und 21.6.2022**\
 Turnsaal VS Einsiedlergasse 7, 1050 Wien
 
 Das dreidimensionale Bewegungsverständnis, wie es aus der Praxis der CI erwächst, ist Basis aller rollingpoint Kurse. In diesem Kurs fließt dieses Körperwissen in ein ganzheitliches Verständnis von Training ein. Es finden sich Elemente aus Yoga, Qi Gong, Mentastics, dem zeitgenössischen Tanz u.a. Die Einheit ist als Kraft-, Beweglichkeits- und Koordinationstraining zur Steigerung des allgemeinen Wohlbefindens und zur Gesundheitsförderung gedacht und kann für diverse Trainingsanliegen besonders als Vorbereitung für Contact Improvisation genutzt werden. 
