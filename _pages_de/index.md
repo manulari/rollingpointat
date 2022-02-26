@@ -38,7 +38,7 @@ Fotocredit: Johannes Stolba
 **[CI Körpertraining + „Bounce and Shake"](/kurse#di)**  **open level**\
 **mit maRia Probst**\
 **Termine Sommersemester 2022: 8.3., 5.4., 3.5., 24.5. und 21.6.2022**\
-**Di 18.00 – 20.00**\
+**Di 18.00 – 20.30**\
 **Turnsaal VS Einsiedlergasse 7, 1050 Wien**
 
 **[Contact Improvisation and -Technique](/kurse#mi) beginner/intermediate\
