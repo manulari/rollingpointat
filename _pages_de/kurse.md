@@ -42,7 +42,7 @@ Das dreidimensionale Bewegungsverständnis, wie es aus der Praxis der CI erwäch
 
 5 Termine 30 min länger abtanzen als bisher um auch das Herz-Kreislauf System in Schwung zu bringen und durch ein geführtes "Warm Down" mit mehr Weite in den Alltag zurückzukehren.
 
-Zwischen diesen Terminen erwarten euch CI-Schwerpunkt Kurzreihen wie: "CI und Reflexe" Specials mit Gastlehrenden und weitere kreative Formate.\
+Zwischen diesen Terminen erwarten euch CI-Specials wie "CI und Reflexe", ev. Gastlehrende und weitere kreative Formate.\
 stay tuned\*\**
 
 **Anfragen zu:**
