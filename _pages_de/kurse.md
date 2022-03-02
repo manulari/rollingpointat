@@ -22,7 +22,7 @@ Semesterkurse
 
 mit **maRia Probst**\
 *Zeitgenössisches Tanztraining* - *open level*\
-**Mo 18.10 - 20.10**; 28.2. – 27.6.2022 (ca. 14x)\
+**Mo 18.10 - 20.10**; 28.2. – 20.6.2022 (ca. 14x)\
 Turnsaal VS Gilgegasse 12, 1090 Wien
 
 Über das Loslassen Momentum zu gewinnen ist ein zentrales Prinzip im zeitgenössischen Tanz. In diesem Kurs wollen wir vielfältige Varianten des Loslassens ausloten und für unseren Tanz erschließen. Wir werden uns auf Kernelemente der "Release Technique" beziehen, das lösende Potenzial tiefer Faltungen erfahren, Raum in uns einladen und damit die Beziehung zum uns umgebenden Raum erweitern. Wir werden uns tief in unserer Körperlichkeit ankern, den kritischen Geist ruhen lassen um Unmittelbarkeit in unsere tänzerischen Beziehungen zu uns Selbst, zu unseren PartnerInnen und zu dem uns Umgebenden und Bewohnenden einzuladen.
