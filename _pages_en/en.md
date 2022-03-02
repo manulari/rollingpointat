@@ -36,7 +36,8 @@ other_lang: /
 **tue 8.3., 5.4., 3.5., 24.5. and 21.6.2022, 18.00 – 20.30**\
 **Turnsaal VS Einsiedlergasse 7, 1050 Wien**
 
-**Wed Contact Improvisation and -Technique beginner/intermediates Mi 2.3.2022, start wed 2.3.3022 18.15 – 20.30 (ca.15x)\
+**Wed Contact Improvisation and -Technique beginner/intermediate**\
+**start wed 2.3.3022 18.15 – 20.30 (ca.15x)\
 Turnsaal VS Einsiedlergasse 7, 1050 Wien**
 
 **Thu Contact Dojo: Training + Jam**\
