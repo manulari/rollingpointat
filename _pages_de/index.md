@@ -32,7 +32,7 @@ Fotocredit: Johannes Stolba
 
 **[„Opening, Folding, Release“ Zeitgenössisches Tanztraining](/kurse#mo)** **open level**\
 **mit maRia Probst**  \
-**wieder ab Mo 28.2.– 27.6.2022, 18.10 - 20.10**\
+**wieder ab Mo 28.2.– 27.6.2022, 18.10 - 20.10 (ca.14x)**\
 **Turnsaal VS Gilgegasse 12, 1090 Wien**
 
 **[CI Körpertraining + „Bounce and Shake" /compact+extended](/kurse#di)**  **open level**\
