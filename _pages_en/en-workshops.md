@@ -11,8 +11,8 @@ Fotocredits: He Shao Hui
 
 ## Weekend Workshops 1-6/2022
 
-[[**19./20.3.2022: Deep Listening**\
-**mit Christian Apschner und Karola Reifetshamer**](deeplistening)](#deeplistening)
+[**19./20.3.2022: Deep Listening**\
+**mit Christian Apschner und Karola Reifetshamer**](#deeplistening)
 
 [**21./22.5.2022: "Contact Flying Skills"**\
 **mit Christian Apschner und** **Lui Springer (support)**](#flying)
