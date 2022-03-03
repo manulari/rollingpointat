@@ -25,7 +25,7 @@ Semester courses
 
 with **maRia Probst**\
 *Contemporary Dance* - *open level*\
-**mo 18.10 - 20.10**; 28.2. – 27.6.2022 (ca. 14x)\
+**mo 18.10 - 20.10**; 28.2. – 20.6.2022 (ca. 14x)\
 Turnsaal VS Gilgegasse 12, 1090 Wien
 
 Release technique into momentum. Improvisation, dance sequences, somatics and embodiment
@@ -67,8 +67,6 @@ with **Christian Apschner**\
 alternating *open level/advanced*\
 **thu 18.15 - 20.45**, 3.3. – 23.6..2022\
 Turnsaal VS Gilgegasse 12, 1090 Wien
-
-
 
 ### Registration and Costs:
 
