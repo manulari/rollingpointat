@@ -15,7 +15,7 @@ Fotocredits: He Shao Hui
 **mit Christian Apschner und Karola Reifetshamer**](#deeplistening)
 
 [**21./22.5.2022: "Contact Flying Skills"**\
-**mit Christian Apschner und** **Lui Springer (support)**](#flying)
+**with Christian Apschner and** **Lui Springer (support)**](#flying)
 
 ### Workshop descriptions:
 
@@ -56,8 +56,8 @@ Karola Reifetshamer: <https://www.tiefbewegt.at/ueber-mich/>
 
 #### **"Contact Flying Skills"** - advanced
 
-**sa/sun 21./22.5.2022, 10.00-17.00  (ca 1,5h lunch break)**\
-**with Christian Apschner und Lui Springer (support)**
+**sat/sun 21./22.5.2022, 10.00-17.00  (ca 1,5h lunch break)**\
+**with Christian Apschner and Lui Springer (support)**
 
 The rollingpoint workshop classic for all CI dancers with sporting ambitions!
 
