@@ -26,7 +26,7 @@ other_lang: /
 
 **Start summersemester: 28.2.- 3.3.2022**
 
-**[Mon „Opening, Folding, Release“ Contemporary Dance](en/kurse#mo)** - **open level**\
+**[Mon „Opening, Folding, Release“ Contemporary Dance](/en/kurse#mo)** - **open level**\
 **with maRia Probst**  \
 **start mo 28.2.2022, 18.10 - 20.10**\
 **Turnsaal VS Gilgegasse 12, 1090 Wien**
@@ -47,7 +47,7 @@ Turnsaal VS Einsiedlergasse 7, 1050 Wien**
 
 ### Weekend-Workshops:
 
-**[19./20.3.2022 "Deep Listening"](en/workshops#deeplistening) mit Christian Apschner und Karola Reifetshamer**\
+**[19./20.3.2022: "Deep Listening"](en/workshops#deeplistening) mit Christian Apschner und Karola Reifetshamer**\
 **held in german language**
 
 **[21./22.5.2022: "Contact Flying Skills"](en/workshops#flying)** **with Christian Apschner und Lui Springer (support)**
