@@ -6,12 +6,12 @@ other_lang: /kurse
 ---
 Semester courses
 
-| day       | time            | teacher       | course                                                          | place                         |
-| --------- | --------------- | ------------- | --------------------------------------------------------------- | ----------------------------- |
-| **mo**    | **18.10-20.10** | **maRia**     | **["Opening, Folding, Release" Contempory Dance](#moe)**        | **Gilgegasse 12, 1090 Wien**  |
-| **tue)*** | **18.00-20.30** | **maRia**     | [](#die)**[Holistic body training + "Bounce and Shake"](#die)** | **Einsiedlerg. 7, 1050 Wien** |
-| **wed**   | **18.15-20.30** | **Christian** | [](#mie)**[Contact Improvisation and -Technique](#mie)**        | **Einsiedlerg. 7, 1050 Wien** |
-| **thu**   | **18.15-20.45** | **Christian** | **[Contact Dojo: Open Training + Jam](#doe)**                   | **Gilgegasse 12, 1090 Wien**  |
+| day       | time            | teacher       | course                                                         | place                         |
+| --------- | --------------- | ------------- | -------------------------------------------------------------- | ----------------------------- |
+| **mo**    | **18.10-20.10** | **maRia**     | **["Opening, Folding, Release" Contempory Dance](#mo)**        | **Gilgegasse 12, 1090 Wien**  |
+| **tue*)** | **18.00-20.30** | **maRia**     | [](#die)**[Holistic body training + "Bounce and Shake"](#di)** | **Einsiedlerg. 7, 1050 Wien** |
+| **wed**   | **18.15-20.30** | **Christian** | [](#mie)**[Contact Improvisation and -Technique](#mi)**        | **Einsiedlerg. 7, 1050 Wien** |
+| **thu**   | **18.15-20.45** | **Christian** | **[Contact Dojo: Open Training + Jam](#do)**                   | **Gilgegasse 12, 1090 Wien**  |
 
 &nbsp;
 
@@ -68,7 +68,7 @@ alternating *open level/advanced*\
 **thu 18.15 - 20.45**, 3.3. – 23.6..2022\
 Turnsaal VS Gilgegasse 12, 1090 Wien
 
-siehe: Rollingpoint - CI-DOJO (Training+Jam)
+
 
 ### Registration and Costs:
 
