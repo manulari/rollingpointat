@@ -31,26 +31,26 @@ other_lang: /
 **start mo 28.2.2022, 18.10 - 20.10**\
 **Turnsaal VS Gilgegasse 12, 1090 Wien**
 
-**[Tue Holistic training for CI + „Bounce and Shake"](en/kurse#di)** - **open level**\
+**[Tue Holistic training for CI + „Bounce and Shake"](/en/kurse#di)** - **open level**\
 **with Ria Probst**\
 **tue 8.3., 5.4., 3.5., 24.5. and 21.6.2022, 18.00 – 20.30**\
 **Turnsaal VS Einsiedlergasse 7, 1050 Wien**
 
-**[Wed Contact Improvisation and -Technique ](en/kurse#mi)beginner/intermediate**\
+**[Wed Contact Improvisation and -Technique ](/en/kurse#mi)beginner/intermediate**\
 **start wed 2.3.3022 18.15 – 20.30 (ca.15x)\
 Turnsaal VS Einsiedlergasse 7, 1050 Wien**
 
-**[Thu Contact Dojo: Training + Jam](en/kurse#do)**\
+**[Thu Contact Dojo: Training + Jam](/en/kurse#do)**\
 **with Christian Apschner**\
 **start the 3.3.2022, 18.15 - 20.45**\
 **Turnsaal VS Gilgegasse 12, 1090 Wien**
 
 ### Weekend-Workshops:
 
-**[19./20.3.2022: "Deep Listening"](en/workshops#deeplistening) mit Christian Apschner und Karola Reifetshamer**\
+**[19./20.3.2022: "Deep Listening"](/en/workshops#deeplistening) mit Christian Apschner und Karola Reifetshamer**\
 **held in german language**
 
-**[21./22.5.2022: "Contact Flying Skills"](en/workshops#flying)** **with Christian Apschner und Lui Springer (support)**
+**[21./22.5.2022: "Contact Flying Skills"](/en/workshops#flying)** **with Christian Apschner und Lui Springer (support)**
 
 ### **rollingpoint-Jam: every sunday**
 
