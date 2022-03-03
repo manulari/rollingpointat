@@ -2,6 +2,7 @@
 permalink: /en/kurse
 title: COURSES AND WORKSHOPS
 language: en
+other_lang: /kurse
 ---
 Semester courses
 
@@ -18,7 +19,7 @@ Semester courses
 
 ### Start summer semester 2022: 28.2.-3.3.2022
 
-<div class="named-anchor" id="moe"></div>
+<div class="named-anchor" id="mo"></div>
 
 #### „Opening, Folding, Release“
 
