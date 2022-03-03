@@ -26,21 +26,21 @@ other_lang: /
 
 **Start summersemester: 28.2.- 3.3.2022**
 
-**[Mon „Opening, Folding, Release“ Contemporary Dance](/en/kurse#mo)** - **open level**\
+**[Mon „Opening, Folding, Release“ Contemporary Dance](en/kurse#mo)** - **open level**\
 **with maRia Probst**  \
 **start mo 28.2.2022, 18.10 - 20.10**\
 **Turnsaal VS Gilgegasse 12, 1090 Wien**
 
-**Tue Holistic training for CI + „Bounce and Shake"** - **open level**\
+**[Tue Holistic training for CI + „Bounce and Shake"](en/kurse#di)** - **open level**\
 **with Ria Probst**\
 **tue 8.3., 5.4., 3.5., 24.5. and 21.6.2022, 18.00 – 20.30**\
 **Turnsaal VS Einsiedlergasse 7, 1050 Wien**
 
-**Wed Contact Improvisation and -Technique beginner/intermediate**\
+**[Wed Contact Improvisation and -Technique ](en/kurse#mi)beginner/intermediate**\
 **start wed 2.3.3022 18.15 – 20.30 (ca.15x)\
 Turnsaal VS Einsiedlergasse 7, 1050 Wien**
 
-**Thu Contact Dojo: Training + Jam**\
+**[Thu Contact Dojo: Training + Jam](en/kurse#do)**\
 **with Christian Apschner**\
 **start the 3.3.2022, 18.15 - 20.45**\
 **Turnsaal VS Gilgegasse 12, 1090 Wien**
