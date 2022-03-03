@@ -47,10 +47,10 @@ Turnsaal VS Einsiedlergasse 7, 1050 Wien**
 
 ### Weekend-Workshops:
 
-**19./20.3.2022 "Deep Listening" mit Christian Apschner und Karola Reifetshamer**\
+**[19./20.3.2022 "Deep Listening"](en/workshops#deeplistening) mit Christian Apschner und Karola Reifetshamer**\
 **held in german language**
 
-**21./22.5.2022: "Contact Flying Skills"** **with Christian Apschner und Lui Springer (support)**
+**[21./22.5.2022: "Contact Flying Skills"](en/workshops#flying)** **with Christian Apschner und Lui Springer (support)**
 
 ### **rollingpoint-Jam: every sunday**
 
