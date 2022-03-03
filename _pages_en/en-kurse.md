@@ -30,7 +30,7 @@ Turnsaal VS Gilgegasse 12, 1090 Wien
 
 Release technique into momentum. Improvisation, dance sequences, somatics and embodiment
 
-<div class="named-anchor" id="die"></div>
+<div class="named-anchor" id="di"></div>
 
 #### Holistic Body Training for CI + „Bounce and Shake" / compact+extended
 
@@ -44,7 +44,7 @@ Elements of Yoga, Qi Gong, Mentastics and Contemporary Dance\
 Strenght, mobility and coordination training\
 Open dancing and shaking to music
 
-<div class="named-anchor" id="mie"></div>
+<div class="named-anchor" id="mi"></div>
 
 #### Contact Improvisation and - Technique
 
@@ -59,7 +59,7 @@ Strenght, mobility and coordination training\
 Easy jumps and lifts\
 Group improvisation and Instant Composition
 
-<div class="named-anchor" id="doe"></div>
+<div class="named-anchor" id="do"></div>
 
 #### Contact Dojo: Open Training + Jam
 
