@@ -16,8 +16,6 @@ Persönliche Seite von **Christian Apschner** (**Körperarbeit: Trager und Ortho
 
 **Contact Improvisation in Austria**
 
-Contact Festival Austria:  <http://www.contactfestivalvienna.com/>[](http://www.tqw.at/)
-
 Tanzquartier Wien: [http://www.tqw.at](http://www.tqw.at/)
 
 Impulstanz-Festival: [http://www.ImPulsTanz.co](http://www.ImPulsTanz.com/)
@@ -25,8 +23,6 @@ Impulstanz-Festival: [http://www.ImPulsTanz.co](http://www.ImPulsTanz.com/)
 **Contact Improvisation in Europa**
 
 [http://www.contactimprovisation.de](http://www.contact-improvisation.de/)
-
-[http://www.tanzfabrik-berlin.de](http://www.tanzfabrik-berlin.de/)
 
 [http://www.contactfestival.de](http://www.contactfestival.de/)
 
@@ -36,9 +32,9 @@ Impulstanz-Festival: [http://www.ImPulsTanz.co](http://www.ImPulsTanz.com/)
 
 **Contact Improvisation worldwide**
 
-[http://www.contactquarterly.com](http://www.contactquarterly.com/)
+<https://contactimprovconsentculture.com>
 
-[http://www.contactimprov.com](http://www.contactimprov.com/)
+[http://www.contactquarterly.com](http://www.contactquarterly.com/)[](http://www.contactimprov.com/)
 
 [http://www.contactimprov.net](http://www.contactimprov.net/)
 
@@ -55,5 +51,3 @@ Release Ballett/Contemporary Andrea Nagl:[ http://www.naglandrea.com](http://ww
 Zeitgenössischer Tanz/Sylvia Scheidl: <http://www.sylviascheidl.at>
 
 Theaterpädagogik/-improvisation Susanne Kadletz: [www.theater-paedagogik.at](http://www.theater-paedagogik.at)
-
-Tanz in OÖ Hannes Plank: [http://www.ueberall-ist-tanz.at](http://www.ueberall-ist-tanz.at/)
