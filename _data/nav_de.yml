@@ -21,6 +21,8 @@ entries:
         path: /winterintensive
       - title: Sommer-Intensive
         path: /sommerintensive
+      - path: /GKT
+        title: Ganzheitliches Körpertraining
   - title: CI-DOJO (TRAINING+JAM)
     path: /dojo
   - title: JAMS+PERFORMANCES
