@@ -81,8 +81,8 @@ siehe: [Rollingpoint - CI-DOJO (Training+Jam)](/dojo)
 Tel. Christian 0650 8931081, maRia 0650 9510814
 
 **Kosten Semesterkurse Mo, Mi: €230 (Normalpreis), 190,- (ermäßigt), €150,- (StudentInnen <27a)**\
-**5er Block Mo, Mi**: **€95 (Normalpreis), €75 (ermäßigt)**\
-Bei Buchung von zwei Kursen Ermäßigung von €30,- fü den 2. Kurs
+Bei Buchung von zwei Kursen Ermäßigung von €30,- fü den 2. Kurs\
+**5er Block Kurs Mo, Mi**: **€95 (Normalpreis), €75 (ermäßigt)**
 
 **Schnupperstunden** in den ersten Kurswochen zu je 10€/Einheit (max. 1x je Kurs)
 
