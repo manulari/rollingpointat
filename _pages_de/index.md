@@ -19,16 +19,11 @@ Fotocredit: Johannes Stolba
 
 <div class="imglink"><a target="_blank" href="https://www.youtube.com/embed/6A5otnVZAg4"><img src="/assets/uploads/video_vorschau_maria.png" alt="" /><div>Ganzheitliches Körpertraining mit maRia Probst</div></a></div>
 
-### Übersicht der Kurse/Workshops/Jams/Performances
+#### Achtung: Vom 25.-28.4.2022 finden keine Abendkurse statt, da wir bei "Leib oder Leben", dem 28. Internationalen Seminar für körperorientere Psychotherapie, Körpertherapie und Körperkunst in Bad Gleichenberg eingeladen sind, eine CI-Gruppe zu leiten.
 
-### **Winter-Intensive: Liquid Motion into Contact Improvisation**
+### Abendkurse Sommersemester 2022:
 
-[**Woche 1: 14.-17.2.2022**\
-**Woche 2: 21.-24.2.2022**](https://rollingpoint.at/winterintensive)
 
-### Abendkurse:
-
-**Kursbeginn Sommersemester: 28.2.- 3.3.2022**
 
 **[„Opening, Folding, Release“ Zeitgenössisches Tanztraining](/kurse#mo)** **open level**\
 **mit maRia Probst**  \
@@ -57,7 +52,7 @@ Turnsaal VS Einsiedlergasse 7, 1050 Wien**
 
 **[21./22.5.2022: "Contact Flying Skills"](/workshops#flying)** **mit Christian Apschner und Lui Springer (support)**
 
-### **rollingpoint-Jam: wieder ab 20.2.2022**
+### **rollingpoint-Jam: jeden Sonntag 19.00-22.00**
 
 ***Sämtliche Angebote werden entsprechend den jeweils aktuellen Covid-Regelungen für Wien abgehalten.***
 
