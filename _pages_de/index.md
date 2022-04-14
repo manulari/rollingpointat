@@ -23,8 +23,6 @@ Fotocredit: Johannes Stolba
 
 ### Abendkurse Sommersemester 2022:
 
-
-
 **[„Opening, Folding, Release“ Zeitgenössisches Tanztraining](/kurse#mo)** **open level**\
 **mit maRia Probst**  \
 **wieder ab Mo 28.2.– 20.6.2022, 18.10 - 20.10 (ca.14x)**\
@@ -45,6 +43,8 @@ Turnsaal VS Einsiedlergasse 7, 1050 Wien**
 **mit Christian Apschner**\
 **wieder ab Do 3.3.2022, 18.15 - 20.45**\
 **Turnsaal VS Gilgegasse 12, 1090 Wien**
+
+**Dojo Special-Training am 21.4. mit Alina Bertha!**
 
 ### Wochenend-Workshops:
 
