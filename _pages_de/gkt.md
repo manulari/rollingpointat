@@ -52,11 +52,11 @@ language: de
 >
 > Fragen und Rückmeldungen gerne unter [tanz@shenmotion.at](mailto:tanz@shenmotion.at) oder 0650 9510814
 >
-> **SOMMERTRAINING 21 mit maRia Probst** 
+> **SOMMERTRAINING 22 mit maRia Probst** 
 >
 > **Weite im Brustkorb, integrierte Arme und mit dem Boden verbunden- der Sommer im Zeichen des Herz Funktionskreislaufes**  
 >
-> **Termine: 25.5 - 22.06.21 (5 Termine) jeweils Mi 9.30-11h**
+> **Termine: 25.5 - 22.06.22 (5 Termine) jeweils Mi 9.30-11h**
 >
 > **Ort: Studio Friedmanngasse 36, 1160 Wien (Im Hof, hinten re durch die Garage die Holztreppe hoch, am besten das erste mal etwas mehr Zeit einplanen ;-)**
 >
@@ -64,7 +64,7 @@ language: de
 >
 > In der chinesischen Medizin steht der Sommer im Zeichen des Herz/Dünndarm Funktionskreislaufes und der Freude. Demzufolge werden wir uns der Arm Integration, dem Öffnen des Brustkorbs und der Verbindung durch unser Skelett- und Organsystem mit dem Boden widmen. Dem Herzen werden wir dabei besonders Raum geben.
 >
-> Die Kursgebühr bitte auf das KONTO: IBAN: AT54 3200 0000 1701 2717, BIC: RLNWATWW, Verein rollingpointmit Verwendungszweck GKT_Sommertraining22 überweisen. Wer eine Ermäßigung in Anspruch nehmen will, bitte mit mir rücksprechen. Danke\*\*
+> Die Kursgebühr bitte auf das KONTO: IBAN: AT54 3200 0000 1701 2717, BIC: RLNWATWW, Verein rollingpoint mit Verwendungszweck GKT_Sommertraining22 überweisen. Wer eine Ermäßigung in Anspruch nehmen will, bitte mit mir rücksprechen. Danke\*\*
 >
 > **Bitte um verbindliche Anmeldung per mail unter [tanz@shenmotion.at](mailto:tanz@shenmotion.at) bis M0 23.05.22**
 >
@@ -80,6 +80,6 @@ language: de
 
 <!--EndFragment-->
 
-![](/assets/uploads/img_2600_klein.jpg)
+![]()
 
 ![]()
