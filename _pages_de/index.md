@@ -7,7 +7,7 @@ other_lang: /en/
 
 ![Christian und maRia tanzen Contact Improvisation auf einer Stiege](/assets/uploads/dsc_1901_klein.jpg "Contact Improvisation")
 
-Fotocredit: Johannes Stolba
+Fotocredit: https://johannes-stolba.net/photography/
 
 ### Willkommen bei rollingpoint!
 
