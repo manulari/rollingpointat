@@ -24,11 +24,11 @@ language: de
 >
 > Frühjahr/Sommer22: €255.- / erm. €215.-
 >
-> **FRÜHJAHRSTRAINING 21 mit maRia Probst**
+> **FRÜHJAHRSTRAINING 22 mit maRia Probst**
 >
 > **Elastizität, Kraft und Verbundenheit- Training mit Fokus auf dem Fasziensystem**
 >
-> **Termine: 2.3-19.5.21 (2.3, 9.3, 16.3, 23.3, 30.3, 6.4, 20.4, 4.5, 11.5, 18.5=10 Termine)**
+> **Termine: 2.3-19.5.22 (2.3, 9.3, 16.3, 23.3, 30.3, 6.4, 20.4, 4.5, 11.5, 18.5=10 Termine)**
 >
 > **jeweils Mi 9.30-11h**
 >
