@@ -9,7 +9,7 @@ Die rollingpoint-Jams sind ein Ort für fokussiertes Contact Improvisations-Tan
 Die reguläre rollingpoint Contact Improvisations Jam findet jeden Sonntag Abend von 19.00-22.00 im Prana Yoga-Studio statt (Detailinfos siehe unten). Weiters gibt es an Schultagen jeweils am Donnerstag Abend eine offene Jam in Verbindung mit einem vorangehenen CI-Training (CI-DOJO) im Turnsaal der VS Gilgegasse.\
 [Info zum **CI-DOJO (Training+Jam)**](/dojo)
 
-***Alle rollingpoint-Angebote werden entsprechend den jeweils aktuellen CoVid-Regelungen für Wien abgehalten.*** 
+
 
 ## rollingpoint-Jam am Sonntag
 
