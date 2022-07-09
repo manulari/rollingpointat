@@ -11,13 +11,16 @@ Fotocredit: https://johannes-stolba.net/photography/
 
 ### Willkommen bei rollingpoint!
 
-**WIr laden dich ein, gemeinsam mit uns in die Welt der Contact Improvisation, des Zeitgenössischen Tanzes und des Somatischen Lernens einzutauchen. Wir bewegen uns an der Schnittstelle von Tanz, Kunst, Sport, Lernen und Forschung und bringen mehr als 20 Jahre Erfahrung in unsere Arbeit ein. Gerade jetzt ist es uns besonders wichtig offene Räume für Lebensfreude und Begegnung zu kreieren.**
+**WIr, maRia und Christian von rollingpoint laden dich ein, gemeinsam mit uns in die Welt der Contact Improvisation, des Zeitgenössischen Tanzes und des Somatischen Lernens einzutauchen. Wir bewegen uns an der Schnittstelle von Tanz, Kunst, Sport, Lernen und Forschung und bringen mehr als 20 Jahre Erfahrung in unsere Arbeit ein. Gerade jetzt ist es uns besonders wichtig offene Räume für Lebensfreude und Begegnung zu kreieren.**
 
 ## Videos
 
 <div class="imglink"><a target="_blank" href="https://www.youtube.com/embed/kp3DqzN1Ldo"><img src="/assets/uploads/video_vorschau_rollingpoint.png" alt="" /><div>rollingpoint-Video</div></a></div>
 
 <div class="imglink"><a target="_blank" href="https://www.youtube.com/embed/6A5otnVZAg4"><img src="/assets/uploads/video_vorschau_maria.png" alt="" /><div>Ganzheitliches Körpertraining mit maRia Probst</div></a></div>
+
+### Nächster Contact Improvisations Workshop für BeginnerInnen:\
+So 31.7., 15.00-18.00h, Detailinfos folgen
 
 ### Abendkurse Sommersemester 2022:
 
@@ -50,8 +53,8 @@ Turnsaal VS Einsiedlergasse 7, 1050 Wien**
 
 **[21./22.5.2022: "Contact Flying Skills"](/workshops#flying)** **mit Christian Apschner und Lui Springer (support)**
 
-### **rollingpoint-Jam: jeden Sonntag 19.00-22.00**
-
+### **rollingpoint-Jam: jeden Sonntag 19.00-22.00**\
+\
 &nbsp;
 
 ![Mehr CI auf der Stiege](/assets/uploads/dsc_1941a.jpg "Mehr CI auf der Stiege")
