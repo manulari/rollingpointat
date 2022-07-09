@@ -1,15 +1,14 @@
 ---
 permalink: /jams
 title: ROLLINGPOINT-JAMS
+other_lang: ""
 ---
-> **Aktualisierung 2.2.2022: Die rollingpoint-Jam findet wieder regelmäßig ab 20.2.2022 statt.** 
+> #### **Aktualiserung 8.7.2022: Die rollingpoint-Jam findet im Sommer 2022 durchgehend ohne Unterbrechung jeden Sonntag abend statt.**
 
 Die rollingpoint-Jams sind ein Ort für fokussiertes Contact Improvisations-Tanzen an dem **CI als zeitgenössische Tanz- und Kunstform** praktiziert wird. Wir achten darauf einen gemeinsamen Raum zu halten, in dem sich alle sicher fühlen und erwarten von den TeilnehmerInnen, dass sie bereits über erste CI-Kurserfahrungen (im Sinne von Grundkenntnissen) verfügen.
 
 Die reguläre rollingpoint Contact Improvisations Jam findet jeden Sonntag Abend von 19.00-22.00 im Prana Yoga-Studio statt (Detailinfos siehe unten). Weiters gibt es an Schultagen jeweils am Donnerstag Abend eine offene Jam in Verbindung mit einem vorangehenen CI-Training (CI-DOJO) im Turnsaal der VS Gilgegasse.\
 [Info zum **CI-DOJO (Training+Jam)**](/dojo)
-
-
 
 ## rollingpoint-Jam am Sonntag
 
