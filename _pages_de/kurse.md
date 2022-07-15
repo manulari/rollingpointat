@@ -67,8 +67,8 @@ Turnsaal VS Gilgegasse 12, 1090 Wien
 
 Das dreidimensionale Bewegungsverständnis, wie es aus der Praxis der CI erwächst, ist Basis aller rollingpoint Kurse. In diesem Kurs fließt dieses Körperwissen in ein ganzheitliches Verständnis von Training ein. Es finden sich Elemente aus Yoga, Qi Gong, Mentastics, dem zeitgenössischen Tanz u.a. Die Einheit ist als Kraft-, Beweglichkeits- und Koordinationstraining zur Steigerung des allgemeinen Wohlbefindens und zur Gesundheitsförderung gedacht und kann für diverse Trainingsanliegen besonders als Vorbereitung für Contact Improvisation genutzt werden. 
 
-### &nbsp;\
-Schnupperstunden, Kursanmeldung und Kosten:
+### \
+Schnupperstunden, Kursanmeldung und Kosten
 
 **Offene Schnupperstunden in den ersten drei Kurswochen um €10 pro Einheit**
 
