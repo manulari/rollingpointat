@@ -47,6 +47,7 @@ Teilnahmeempfehlungen: Bewegungsvorerfahrung aller Art sowie Lust und Freude an 
 <div class="named-anchor" id="mi"></div>
 
 #### **Contact Improvisation intermediate/advanced + open Jam**\
+
 Fortlaufende Trainingsgruppe mit **Christian Apschner und GastlehrerInnen**\
 Termine sind auch einzeln besuchbar\
 **Mi 17.30 - 20.40**, 21.9.2022 – 1.2.2023 (ca.16x)\
@@ -67,8 +68,7 @@ Turnsaal VS Gilgegasse 12, 1090 Wien
 
 Das dreidimensionale Bewegungsverständnis, wie es aus der Praxis der CI erwächst, ist Basis aller rollingpoint Kurse. In diesem Kurs fließt dieses Körperwissen in ein ganzheitliches Verständnis von Training ein. Es finden sich Elemente aus Yoga, Qi Gong, Mentastics, dem zeitgenössischen Tanz u.a. Die Einheit ist als Kraft-, Beweglichkeits- und Koordinationstraining zur Steigerung des allgemeinen Wohlbefindens und zur Gesundheitsförderung gedacht und kann für diverse Trainingsanliegen besonders als Vorbereitung für Contact Improvisation genutzt werden. 
 
-### \
-Schnupperstunden, Kursanmeldung und Kosten
+### Schnupperstunden, Kursanmeldung und Kosten
 
 **Anmeldung: Schreibe uns bitte ein kurzes mail an ci.rollingpoint@gmail.com**\
 oder SMS/Tel. Christian 0650 8931081, maRia 0650 9510814
