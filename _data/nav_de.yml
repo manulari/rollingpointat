@@ -21,8 +21,6 @@ entries:
         path: /winterintensive
       - title: Sommer-Intensive
         path: /sommerintensive
-      - path: /GKT
-        title: Ganzheitliches Körpertraining
   - title: JAMS+PERFORMANCES
     path: /jams
   - title: KÜNSTLERISCHE FORSCHUNG
