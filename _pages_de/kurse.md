@@ -46,7 +46,7 @@ Teilnahmeempfehlungen: Bewegungsvorerfahrung aller Art sowie Lust und Freude an 
 
 <div class="named-anchor" id="mi"></div>
 
-**Contact Improvisation intermediate/advanced + open Jam**
+#### **Contact Improvisation intermediate/advanced + open Jam**
 
 Fortlaufende Trainingsgruppe mit **Christian Apschner und GastlehrerInnen**\
 Termine sind auch einzeln besuchbar\
