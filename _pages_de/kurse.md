@@ -49,11 +49,14 @@ Teilnahmeempfehlungen: Bewegungsvorerfahrung aller Art sowie Lust und Freude an 
 #### **3 Contact Improvisation intermediate/advanced + open Jam (Conact Dojo)**
 
 Fortlaufende Trainingsgruppe mit **Christian Apschner und GastlehrerInnen**\
-Termine sind auch einzeln besuchbar\
-**Mi 17.30 - 20.40**, 21.9.2022 – 1.2.2023 (ca.16x)\
+**Mi 17.30 - 20.40**, 21.9.2022 – 1.2.2023 (ca.15x)\
 Turnsaal VS Einsiedlergasse 7, 1050 Wien\
 **Trainingsgruppe 17.30-19.00**\
-**Offene Jam 19.10-20.40**
+**Offene Jam 19.10-20.40**\
+\
+**Contact BeginnerInnen sind an folgenden Terminen zu einem open level Training inkl. Jam eingeladen: 19.10., 23.11., 21.12.2022 und 25.1.2023**
+
+
 
 siehe: [Rollingpoint - CI-DOJO (Training+Jam)](/dojo)
 
@@ -63,7 +66,7 @@ siehe: [Rollingpoint - CI-DOJO (Training+Jam)](/dojo)
 
 mit **maRia Probst und Christian Apschner (abwechselnd)**\
 *open level*\
-**Do 18.30 – 20.30**, 22.9.2022 - 2.2.2023\
+**Do 18.30 – 20.30**, 22.9.2022 - 2.2.2023 (ca.15x)\
 Turnsaal VS Gilgegasse 12, 1090 Wien
 
 Das dreidimensionale Bewegungsverständnis, wie es aus der Praxis der CI erwächst, ist Basis aller rollingpoint Kurse. In diesem Kurs fließt dieses Körperwissen in ein ganzheitliches Verständnis von Training ein. Es finden sich Elemente aus Yoga, Qi Gong, Mentastics, dem zeitgenössischen Tanz u.a. Die Einheit ist als Kraft-, Beweglichkeits- und Koordinationstraining zur Steigerung des allgemeinen Wohlbefindens und zur Gesundheitsförderung gedacht und kann für diverse Trainingsanliegen besonders als Vorbereitung für Contact Improvisation genutzt werden. 
