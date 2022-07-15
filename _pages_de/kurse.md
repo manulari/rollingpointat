@@ -4,12 +4,12 @@ title: KURSE UND WORKSHOPS
 ---
 Abendangebote Wintersemester 2022/23:
 
-| Tag    | Zeit            | Lehrer:in           | Titel                                                                 | Ort/Turnsaal                  |
-| ------ | --------------- | ------------------- | --------------------------------------------------------------------- | ----------------------------- |
-| **Mo** | **18.30-20.30** | **maRia**           | **[ Zeitgenössischer Tanz / open level](#mo)**                        | **Gilgegasse 12, 1090 Wien**  |
-| **Di** | **18.15-20.30** | **Christian**       | **[Contact Improvisation and -Technique / beginner](#di)**            | **Einsiedlerg. 7, 1050 Wien** |
-| **Mi** | **17.30-20.40** | **Christian u.a.**  | **[CI-Dojo: Contact Improvisation intermediate/advanced + Jam](#mi)** | **Einsiedlerg. 7, 1050 Wien** |
-| **Do** | **18.30-20.30** | **maRia/Christian** | **[CI Körpertraining + "Bounce and Shake" /open level](#do)**         | **Gilgegasse 12, 1090 Wien**  |
+| Tag    | Zeit            | Lehrer:in           | Titel                                                                   | Ort/Turnsaal                  |
+| ------ | --------------- | ------------------- | ----------------------------------------------------------------------- | ----------------------------- |
+| **Mo** | **18.30-20.30** | **maRia**           | **[ 1 Zeitgenössischer Tanz / open level](#mo)**                        | **Gilgegasse 12, 1090 Wien**  |
+| **Di** | **18.15-20.30** | **Christian**       | **[2 Contact Improvisation and -Technique / beginner](#di)**            | **Einsiedlerg. 7, 1050 Wien** |
+| **Mi** | **17.30-20.40** | **Christian u.a.**  | **[3 CI-Dojo: Contact Improvisation intermediate/advanced + Jam](#mi)** | **Einsiedlerg. 7, 1050 Wien** |
+| **Do** | **18.30-20.30** | **maRia/Christian** | **[4 CI Körpertraining + "Bounce and Shake" /open level](#do)**         | **Gilgegasse 12, 1090 Wien**  |
 
 \
 &nbsp;
@@ -24,7 +24,7 @@ Abendangebote Wintersemester 2022/23:
 
 #### Wintersemester 2022/23
 
-#### „Zeitgenössischer Tanz“
+#### 1 Zeitgenössischer Tanz/Somatics
 
 mit **maRia Probst**\
 *Zeitgenössisches Tanztraining und Somatics* - *open level*\
@@ -35,7 +35,7 @@ Turnsaal VS Gilgegasse 12, 1090 Wien
 
 <div class="named-anchor" id="di"></div>
 
-#### Contact Improvisation and - Technique
+#### 2 Contact Improvisation and -Technique
 
 Fortlaufende Trainingsgruppe für BeginnerInnen mit **Christian Apschner**\
 **Di 18.15 – 20.30**, 20.9.2022- 31.1.2022 (ca. 16x)\
@@ -46,7 +46,7 @@ Teilnahmeempfehlungen: Bewegungsvorerfahrung aller Art sowie Lust und Freude an 
 
 <div class="named-anchor" id="mi"></div>
 
-#### **Contact Improvisation intermediate/advanced + open Jam**\
+#### **3 Contact Improvisation intermediate/advanced + open Jam (Conact Dojo)**
 
 Fortlaufende Trainingsgruppe mit **Christian Apschner und GastlehrerInnen**\
 Termine sind auch einzeln besuchbar\
@@ -59,7 +59,7 @@ siehe: [Rollingpoint - CI-DOJO (Training+Jam)](/dojo)
 
 <div class="named-anchor" id="do"></div>
 
-#### CI Körpertraining + „Bounce and Shake"
+#### 4 CI Körpertraining + „Bounce and Shake"
 
 mit **maRia Probst und Christian Apschner (abwechselnd)**\
 *open level*\
