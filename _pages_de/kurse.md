@@ -14,9 +14,9 @@ Abendangebote Wintersemester 2022/23:
 \
 &nbsp;
 
-### Kursbeginn Wintersemester 2022/23: 19.-22.9.2022:\
+### Kursbeginn Wintersemester 2022/23: 19.-22.9.2022:
 
-**in Bearbeitung!**
+**Achtung: Die Kursbeschreibungen befinden sich gerade in Bearbeitung!**
 
 &nbsp;
 
