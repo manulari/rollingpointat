@@ -31,25 +31,27 @@ Fotocredit: https://johannes-stolba.net/photography/
 
 **Kursbeginn 19.-22.9.2022**, offene Schnupperstunden in den ersten drei Kurswochen
 
-**[Zeitgenössischer Tanz/Somatics ](/kurse#mo)open level**\
+**[1 Zeitgenössischer Tanz/Somatics ](/kurse#mo)open level**\
 **mit maRia Probst**  \
 **Mo 19.9.2022.– 30.1.2023, 18.30 - 20.30 (ca.16x)**\
 **Turnsaal VS Gilgegasse 12, 1090 Wien**
 
-**[Contact Improvisation and -Technique](/kurse#di) beginner\
+**[2 Contact Improvisation and -Technique](/kurse#di) beginner\
 mit Christian Apschner\
 Di 20.9.2022 - 31.1.2023, 18.15 – 20.30 (ca.16x)\
 Turnsaal VS Einsiedlergasse 7, 1050 Wien**
 
-**[Contact Improvisation (Contact Dojo)](/kurse#mi) intermediate/advanced (ca.15x)**\
+**[3 Contact Improvisation (Contact Dojo)](/kurse#mi) intermediate/advanced (ca.15x)**\
 **mit Christian Apschner**\
 **Mi 21.9.2022 - 1.2.2023, 17.30 - 19.00 (Training), 19.10-20.40 (Jam)**\
 **Turnsaal VS Gilgegasse 12, 1090 Wien**
 
-**[CI Körpertraining + „Bounce and Shake"](/kurse#di)**  **open level (ca. 15x)**\
+**[4 CI Körpertraining + „Bounce and Shake"](/kurse#di)**  **open level (ca. 15x)**\
 **mit maRia Probst und Christian Apschner (alternierend)**\
 **Do 18.30 – 20.30**\
 **Turnsaal VS Einsiedlergasse 7, 1050 Wien**
+
+> **Monatliche offene open level Kursabende bei allen Angeboten**
 
 ### Wochenend-Workshops:
 
