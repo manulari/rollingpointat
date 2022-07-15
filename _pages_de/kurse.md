@@ -70,10 +70,10 @@ Das dreidimensionale Bewegungsverständnis, wie es aus der Praxis der CI erwäch
 ### \
 Schnupperstunden, Kursanmeldung und Kosten
 
-**Offene Schnupperstunden in den ersten drei Kurswochen um €10 pro Einheit**
-
 **Anmeldung: Schreibe uns bitte ein kurzes mail an ci.rollingpoint@gmail.com**\
 oder SMS/Tel. Christian 0650 8931081, maRia 0650 9510814
+
+**Offene Schnupperstunden in den ersten drei Kurswochen um €10 pro Einheit**
 
 **Kostenbeitrag Semesterkurse: €150 - 300 (bitte um Selbsteinschätzung nach persönlicher Einkommenssituation), einzuzahlen bis spätestens 8.10.2022**\
 \
