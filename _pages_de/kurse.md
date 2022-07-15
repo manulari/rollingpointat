@@ -75,7 +75,9 @@ oder SMS/Tel. Christian 0650 8931081, maRia 0650 9510814
 
 **Offene Schnupperstunden in den ersten drei Kurswochen um €10 pro Einheit**
 
-**Kostenbeitrag Semesterkurse: €150 - 300 (bitte um Selbsteinschätzung nach persönlicher Einkommenssituation), einzuzahlen bis spätestens 8.10.2022**\
+**Kostenbeitrag Semesterkurse: €150 - 300** je Kurs (bitte um Selbsteinschätzung nach persönlicher Einkommenssituation), einzuzahlen bis spätestens 8.10.2022.\
+Die Reservierung des Kursplatzes erfolgt durch Einzahlung des vollen Kursbeitages.\
+\
 \
 **Einzelstunden €18 -30**
 
