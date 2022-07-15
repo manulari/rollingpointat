@@ -19,8 +19,13 @@ Fotocredit: https://johannes-stolba.net/photography/
 
 <div class="imglink"><a target="_blank" href="https://www.youtube.com/embed/6A5otnVZAg4"><img src="/assets/uploads/video_vorschau_maria.png" alt="" /><div>Ganzheitliches Körpertraining mit maRia Probst</div></a></div>
 
-### Nächster Contact Improvisations Workshop für BeginnerInnen:\
-So 31.7., 15.00-18.00h, Detailinfos folgen
+### Contact Improvisations BeginnerInnen Workshops im Sommer:
+
+So 31.7., 15.00-18.00h
+
+So 21.8., 15.00-18.00h
+
+### Kursbeginn Herbst 2022: 19.-22.9.2022
 
 ### Abendkurse Sommersemester 2022:
 
@@ -54,6 +59,7 @@ Turnsaal VS Einsiedlergasse 7, 1050 Wien**
 **[21./22.5.2022: "Contact Flying Skills"](/workshops#flying)** **mit Christian Apschner und Lui Springer (support)**
 
 ### **rollingpoint-Jam: jeden Sonntag 19.00-22.00**\
+
 \
 &nbsp;
 
