@@ -14,9 +14,25 @@ Semesterkurse
 **\*) tue 5.3., 5.4., 3.5., 24.5. und 21.6.2022**\
 &nbsp;
 
-### Kursbeginn Sommersemester 2022: 28.2.-3.3.2022
+### Kursbeginn Wintersemester 2022/23: 19..-22.9.2022:
+
+##### Mo: 18.30-20.30 Zeitgenössisches Tanztraining mit maRia
+
+##### Di: 18.15-20.30 Contact Improvisation beginner mit Christian
+
+##### Mi: 17.30-19.00 Contact Improvisation intermediate/advanced mit Christian und GastlehrerInnen  / Mi 19.00-20.30 CI-Jam
+
+##### Do: 18.30-20.30 CI Körpertraining mit maRia und Christian (abwechselnd)
+
+&nbsp;
+
+
+
+
 
 <div class="named-anchor" id="mo"></div>
+
+#### Rückblick Sommersemester 2022
 
 #### „Opening, Folding, Release“
 
