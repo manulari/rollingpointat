@@ -23,8 +23,6 @@ entries:
         path: /sommerintensive
       - path: /GKT
         title: Ganzheitliches Körpertraining
-  - title: CI-DOJO (TRAINING+JAM)
-    path: /dojo
   - title: JAMS+PERFORMANCES
     path: /jams
   - title: KÜNSTLERISCHE FORSCHUNG
