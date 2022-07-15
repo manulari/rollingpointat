@@ -21,6 +21,8 @@ entries:
         path: /winterintensive
       - title: Sommer-Intensive
         path: /sommerintensive
+      - title: Contact Dojo
+        path: /dojo
   - title: JAMS+PERFORMANCES
     path: /jams
   - title: KÜNSTLERISCHE FORSCHUNG
