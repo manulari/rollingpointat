@@ -46,13 +46,11 @@ Teilnahmeempfehlungen: Bewegungsvorerfahrung aller Art sowie Lust und Freude an 
 
 <div class="named-anchor" id="mi"></div>
 
-#### **Contact Improvisation intermediate/advanced + open Jam**
-
+#### **Contact Improvisation intermediate/advanced + open Jam**\
 Fortlaufende Trainingsgruppe mit **Christian Apschner und GastlehrerInnen**\
 Termine sind auch einzeln besuchbar\
 **Mi 17.30 - 20.40**, 21.9.2022 – 1.2.2023 (ca.16x)\
-Turnsaal VS Einsiedlergasse 7, 1050 Wien
-
+Turnsaal VS Einsiedlergasse 7, 1050 Wien\
 **Trainingsgruppe 17.30-19.00**\
 **Offene Jam 19.10-20.40**
 
