@@ -4,19 +4,19 @@ title: Wochenend-Workshops
 ---
 # Wochenend-Workshops
 
-![](/assets/uploads/20160609.145929.jpg)
+
 
 Fotocredits: He Shao Hui
 
-### Unsere neuen Workshoptermine stehen fest. Weitere Details folgen.
-
-### Sommer-Workshops:
-
-**Contact Improvisation** beginner So 31.7.2022, 15.00-18.00h mit Christian Apschner
-
-**Contact Improvisation** beginner So 21.8.2022, 15.00-18.00h mit Christian Apschner\
-\
-**Zeitgenössischer Tanz/Somatics** So 4.9.2022, 15.00-18.00h mit maRia Probst
+> ### Unsere neuen Workshoptermine stehen fest. Weitere Details folgen.
+>
+> ### Sommer-Workshops:
+>
+> **Contact Improvisation** beginner So 31.7.2022, 15.00-18.00h mit Christian Apschner
+>
+> **Contact Improvisation** beginner So 21.8.2022, 15.00-18.00h mit Christian Apschner\
+> \
+> **Zeitgenössischer Tanz/Somatics** So 4.9.2022, 15.00-18.00h mit maRia Probst
 
 ### Wochenend-Workshops:
 
