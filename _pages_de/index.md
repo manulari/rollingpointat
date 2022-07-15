@@ -63,7 +63,7 @@ Turnsaal VS Einsiedlergasse 7, 1050 Wien**
 
 
 
-### **rollingpoint-Jam: jeden Sonntag 19.00-22.00**
+### **[rollingpoint-Jam: jeden Sonntag 19.00-22.00](/jams)**
 
 \
 &nbsp;
