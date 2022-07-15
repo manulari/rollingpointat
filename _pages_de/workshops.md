@@ -8,9 +8,29 @@ title: Wochenend-Workshops
 
 Fotocredits: He Shao Hui
 
-## Workshoptermine:
+### Unsere neuen Workshoptermine stehen fest. Weitere Details folgen.
 
-[[**19./20.3.2022: Deep Listening**\
+### Sommer-Workshops:
+
+**Contact Improvisation** beginner So 31.7.2022, 15.00-18.00h mit Christian Apschner
+
+**Contact Improvisation** beginner So 21.8.2022, 15.00-18.00h mit Christian Apschner\
+\
+**Zeitgenössischer Tanz/Somatics** So 4.9.2022, 15.00-18.00h mit maRia Probst
+
+### Wochenend-Workshops:
+
+**Neue Termine (Details folgen):**
+
+**15./16.10.2022**
+
+**5./6.11.2022**
+
+**21./22.1.2023 Contact Flying Skills**
+
+## Workshoptermine (Rückblick):
+
+[**19./20.3.2022: Deep Listening**\
 **mit Christian Apschner und Karola Reifetshamer**](deeplistening)](#deeplistening)
 
 [**21./22.5.2022: "Contact Flying Skills"**\
