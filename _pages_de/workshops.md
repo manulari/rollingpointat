@@ -8,9 +8,7 @@ Fotocredits: He Shao Hui
 
 > ### *Unsere neuen Workshoptermine stehen fest. Weitere Details folgen.*
 >
-> ### Sommer-Workshops an drei Sonntag-Nachmittagen
->
-> **Contact Improvisation** beginner So 31.7.2022, 15.00-18.00h mit Christian Apschner
+> ### Sommer-Workshops an zwei Sonntag-Nachmittagen
 >
 > **Contact Improvisation** beginner So 21.8.2022, 15.00-18.00h mit Christian Apschner\
 > \
