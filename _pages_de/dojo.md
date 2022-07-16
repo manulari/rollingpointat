@@ -8,19 +8,15 @@ title: CI-DOJO (TRAINING+JAM)
 
 Fotocredits: Laurent Ziegler
 
-**DOJO=Training+Jam**``
+**DOJO=Training+Jam**
 
-> `Open level Termine Wintersemester 2022/23 (beginners welcome, bring your friends!`
+> `Open level Termine Wintersemester 2022/23 (beginners welcome, bring your friends)`
 >
 >  **19.10., 23.11., 21.12.2022 und 25.1.2023**
 >
 > **Training:** 17.30-19.00\
 > **Jam:** 19.40-20.40\
-> Keine Anmeldung erforderlich
->
-> **Turnsaal Gilgegasse 12, 1090 Wien**
-
-
+> **Turnsaal Einsiedlergasse 7, 1050 Wien**
 
 **Dōjō**, die Übungshalle in den japanischen Kampfkünsten; dies ist auch teilweise die Bezeichnung für den Meditationsraum im japanischen Zen; in diesem Fall auf die Praxis der Contact Improvisation übertragen.
 
