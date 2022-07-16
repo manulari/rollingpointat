@@ -22,6 +22,12 @@ Fotocredits: He Shao Hui
 >
 > **21./22.1.2023: Contact Flying Skills**
 
+### **Contact Improvisation Intro-Workshop für BeginnerInnen**
+
+### mit Christian Apschner uns support (tba)\
+So 21.8.2022, 15.00-18.00h\
+Prana-Yoga Studio 1, Mariahilferstraße 82, 1070 Wien
+
 ## Workshoptermine (Rückblick):
 
 [**19./20.3.2022: Deep Listening**\
