@@ -46,7 +46,7 @@ In diesem aufbauenden Kurs möchte ich bewegungsfreudige BeginnerInnen einladen 
 
 Nicht zuletzt verstehen wir die Contact Improvisation auch als eine Form von nonverbaler Kommunkation und Begegnung, in der wir lernen auf unsere eigenen körperlich-mentalen Bedürfnisse und Grenzen und die unserer TanzpartnerInnen gleichermaßen zu achten. In sprachlichen feedback-Runden möchten wir dieser Thematik zusätzlich Raum geben.
 
-Der Kurs wird im Sommersemester 2023 als beginner/intermediate Kurs fortgeführt werden, wobei alle TeilnehmerInnen auch eingeladen sind mit fortschreitendem Lernprozess an den rollingpoint-Jams teilzunehmen bzw. zusätzlich kostenlos die open level-Termine des Contact-Dojos am Mittwoch zu besuchen. In diesem Sinne kann die Teilnahme am Gesamtpaket als Ausbildungsprogramm verstanden werden.
+Der Kurs wird im Sommersemester 2023 als beginner/intermediate Kurs fortgeführt werden, wobei alle TeilnehmerInnen auch eingeladen sind mit fortschreitendem Lernprozess an den rollingpoint-Jams teilzunehmen bzw. zusätzlich kostenlos die open level-Termine des Contact-Dojos am Mittwoch zu besuchen. In diesem Sinne kann die Teilnahme am Gesamtpaket als **Ausbildungsprogramm** verstanden werden.
 
 Teilnahmeempfehlungen: Bewegungsvorerfahrung aller Art sowie Lust und Freude an körperlich/physischem Einsatz und sich "fallen zu lassen".
 
@@ -58,9 +58,11 @@ Fortlaufende Trainingsgruppe mit **Christian Apschner und GastlehrerInnen (tba)*
 **Mi 17.30 - 20.40**, 21.9.2022 – 1.2.2023 (ca.15x)\
 Turnsaal VS Einsiedlergasse 7, 1050 Wien\
 **Trainingsgruppe 17.30-19.00**\
-**Offene Jam 19.10-20.40**\
-\
-**Contact BeginnerInnen sind an folgenden Terminen zu einem open level Training inkl. Jam eingeladen: 19.10., 23.11., 21.12.2022 und 25.1.2023**\
+**Offene Jam 19.10-20.40**
+
+**BeginnerInnen sind an folgenden Terminen zu einem open level Training inkl. Jam eingeladen:**\
+**19.10., 23.11., 21.12.2022 und 25.1.2023**
+
 **Teilnahme an einzelnen Terminen möglich**
 
 siehe: [Rollingpoint - CI-DOJO (Training+Jam)](/dojo)
