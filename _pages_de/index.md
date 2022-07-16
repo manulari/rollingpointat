@@ -49,8 +49,6 @@ Turnsaal VS Einsiedlergasse 7, 1050 Wien**
 **Do 18.30 – 20.30**\
 **Turnsaal VS Einsiedlergasse 7, 1050 Wien**
 
-> **Monatliche offene open level Kursabende bei allen Angeboten**
-
 ### Wochenend-Workshops:
 
 **Neue Termine (Details folgen):**
