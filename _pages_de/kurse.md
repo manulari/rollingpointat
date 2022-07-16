@@ -4,12 +4,12 @@ title: KURSE UND WORKSHOPS
 ---
 Abendangebote Wintersemester 2022/23:
 
-| Tag    | Zeit            | Lehrer:in           | Titel                                                                   | Ort/Turnsaal                  |
-| ------ | --------------- | ------------------- | ----------------------------------------------------------------------- | ----------------------------- |
-| **Mo** | **18.30-20.30** | **maRia**           | **[ 1 Zeitgenössischer Tanz / open level](#mo)**                        | **Gilgegasse 12, 1090 Wien**  |
-| **Di** | **18.15-20.30** | **Christian**       | **[2 Contact Improvisation and -Technique / beginner](#di)**            | **Einsiedlerg. 7, 1050 Wien** |
-| **Mi** | **17.30-20.40** | **Christian u.a.**  | **[3 CI-Dojo: Contact Improvisation intermediate/advanced + Jam](#mi)** | **Einsiedlerg. 7, 1050 Wien** |
-| **Do** | **18.30-20.30** | **maRia/Christian** | **[4 CI Körpertraining + "Bounce and Shake" /open level](#do)**         | **Gilgegasse 12, 1090 Wien**  |
+| Tag    | Zeit            | Lehrer:in           | Titel                                                                     | Ort/Turnsaal                 |
+| ------ | --------------- | ------------------- | ------------------------------------------------------------------------- | ---------------------------- |
+| **Mo** | **18.30-20.30** | **maRia**           | **[ 1 Zeitgenössischer Tanz / open level](#mo)**                          | **Gilgegasse 12 1090 Wien**  |
+| **Di** | **18.15-20.30** | **Christian**       | **[2 Contact Improvisation and -Technique / beginner](#di)**              | **Einsiedlerg. 7 1050 Wien** |
+| **Mi** | **17.30-20.40** | **Christian u.a.**  | **[3 CI-Dojo: Contact Improvisation   intermediate/advanced + Jam](#mi)** | **Einsiedlerg. 7 1050 Wien** |
+| **Do** | **18.30-20.30** | **maRia/Christian** | **[4 CI Körpertraining + "Bounce and Shake" /open level](#do)**           | **Gilgegasse 12 1090 Wien**  |
 
 \
 &nbsp;
@@ -37,18 +37,22 @@ Turnsaal VS Gilgegasse 12, 1090 Wien
 
 #### 2 Contact Improvisation and -Technique
 
-Fortlaufende Trainingsgruppe für BeginnerInnen mit **Christian Apschner**\
+mit **Christian Apschner**\
+*Mindulness, Challenge and Flow / Fortlaufende Trainingsgruppe für BeginnerInnen*\
 **Di 18.15 – 20.30**, 20.9.2022- 31.1.2022 (ca. 16x)\
 Turnsaal VS Einsiedlergasse 7, 1050 Wien
 
-Dieser Kurs ist für bewegungsfreudige BeginnerInnen und CI-TänzerInnen mit Vorerfahrung konzipiert. Mit ausreichend Zeit, Fokus und Kontinuität erlernen und vertiefen wir Grundelemente der Contact Improvisation. Im Fokus stehen die Technik des gegenseitigen Gewichtabgebens und -nehmens und das Spiel mit dem Bewegungsfluss und mit dem rollenden Kontaktpunkt. Wir trainieren Kraft und Beweglichkeit, lernen einfache Jumps und Lifts, uns fallen zu lassen und sicher zu landen. Verschiedene Variationen von Roll- und Spiralbewegungen erweitern unsere tänzerischen Fähigkeiten. Spiel mit dem Raum und Improvisation in der Gruppe.\
+In diesem aufbauenden Kurs möchte ich bewegungsfreudige BeginnerInnen einladen in die Welt der Contact Improvisation einzutauchen. Mit ausreichend Zeit, Fokus und Kontinuität erlernen und vertiefen wir Grundelemente der Contact Improvisation. Im Fokus stehen die Technik des gegenseitigen Gewichtabgebens und -nehmens unter Berücksichtigung anatomischer Gegebenheiten und das Spiel mit dem Bewegungsfluss und mit dem rollenden Kontaktpunkt. Wir trainieren Kraft und Beweglichkeit, lernen einfache Jumps und Lifts, uns fallen zu lassen und sicher zu landen. Verschiedene Variationen von Roll- und Spiralbewegungen erweitern unsere tänzerischen Fähigkeiten.
+
+Nicht zuletzt verstehen wir die Contact Improvisation auch als eine Form von nonverbaler Kommunkation, in der wir lernen auf unsere eigenen körperlich-mentalen Bedürfnisse und Grenzen und die unserer TanzpartnerInnen gleichermaßen zu achten. In sprachlichen feedback-Runden möchten wir dieser Thematik zusätzlich Raum geben.
+
 Teilnahmeempfehlungen: Bewegungsvorerfahrung aller Art sowie Lust und Freude an körperlich/physischem Einsatz und sich "fallen zu lassen".
 
 <div class="named-anchor" id="mi"></div>
 
-#### **3 Contact Improvisation intermediate/advanced + open Jam (Conact Dojo)**
+#### **3 Contact Improvisation intermediate/advanced + open Jam (Contact Dojo)**
 
-Fortlaufende Trainingsgruppe mit **Christian Apschner und GastlehrerInnen**\
+Fortlaufende Trainingsgruppe mit **Christian Apschner und GastlehrerInnen (tba)**\
 **Mi 17.30 - 20.40**, 21.9.2022 – 1.2.2023 (ca.15x)\
 Turnsaal VS Einsiedlergasse 7, 1050 Wien\
 **Trainingsgruppe 17.30-19.00**\
@@ -56,9 +60,11 @@ Turnsaal VS Einsiedlergasse 7, 1050 Wien\
 \
 **Contact BeginnerInnen sind an folgenden Terminen zu einem open level Training inkl. Jam eingeladen: 19.10., 23.11., 21.12.2022 und 25.1.2023**
 
-
-
 siehe: [Rollingpoint - CI-DOJO (Training+Jam)](/dojo)
+
+Du bringst bereits solide Basiskenntnisse der Contact Improvisation mit und möchtest dein Bewegungsspektrum erweitern und verfeinern. Dann ist diese fortlaufende Trainingsgruppe das richtige für dich. Ein Schwerpunkt des Kurses wird auch sein, verschiedene Lifts und Jumps in allen Raumebenen zu üben und kopfüber auf den Händen zu tanzen. Wir lernen durch eine anatomisch gute Körperausrichtung sowie durch Modulation der Körperspannung und Nutzung der Schwungenergie Gewicht körperschonend aufzunehmen und abzugeben. Im Laufe des Lernprozesses eröffnet sich die Fähigkeit sich dem gemeinsamen Bewegungsfluss hinzugeben und gleichzeitig den gemeinsamen Tanz so präsent wahrzunehmen, dass dieser Fluss spielerisch gelenkt werden kann.
+
+Die offene Jam im Anschluss an das Training lädt zum freien Contact Improvisations-Tanzen ein. KursteilnehmerInnen sind eingeladen an den vier offenen open level-Terminen (s.o.) kostenlos FreundInnen zum Kennenlernen der Contact Improvisation in den Contact Dojo mitzubringen.
 
 <div class="named-anchor" id="do"></div>
 
