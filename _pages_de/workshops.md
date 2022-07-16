@@ -10,7 +10,7 @@ Fotocredits: He Shao Hui
 >
 > ### Sommer-Workshops an zwei Sonntag-Nachmittagen
 >
-> **Contact Improvisation** beginner So 21.8.2022, 15.00-18.00h mit Christian Apschner\
+> **Contact Improvisation** beginner So 21.8.2022, 14.00-18.00h mit Christian Apschner\
 > \
 > **Zeitgenössischer Tanz/Somatics** So 4.9.2022, 15.00-18.00h mit maRia Probst
 >
@@ -22,10 +22,20 @@ Fotocredits: He Shao Hui
 >
 > **21./22.1.2023: Contact Flying Skills**
 
-### **Contact Improvisation Intro-Workshop für BeginnerInnen**
+#### **Achtung: Die untenstehenden Texte zu den Workshop im Sommer und Herbst 2022 befinden sich noch in Bearbeitung!**
 
-### mit Christian Apschner uns support (tba)\
-So 21.8.2022, 15.00-18.00h\
+#### **Contact Improvisation Intro-Workshop für BeginnerInnen:**
+
+mit Christian Apschner und support (tba)\
+So 21.8.2022, 14.00-18.00h\
+Prana-Yoga Studio 1, Mariahilferstraße 82, 1070 Wien\
+\
+Du tanzt und bewegst dich gerne und bist interessiert Contact Improvisation im Rahmen eines Schnupper-Workshops kennenzulernen. Wie fühlt es sich an am Boden zu rollen, sich fallen und auffangen zu lassen oder im Körperkontakt gegenseitig Gewicht abzugeben und zu übernehmen? Wieviel Technik steckt dahinter und wie geht es uns emotional damit? Dieser Workshop bietet dir die Möglichkeit, dir ein erstes Bild zu machen um vielleicht weiter in die faszinierende Welt des Contact Improvisation-Tanzens einzutauchen.
+
+#### **Zeitgenössischer Tanz/Somatics**:
+
+mit maRia Probst\
+So 4.9.2022, 15.00-18.00h\
 Prana-Yoga Studio 1, Mariahilferstraße 82, 1070 Wien
 
 ## Workshoptermine (Rückblick):
