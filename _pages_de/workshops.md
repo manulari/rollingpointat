@@ -28,7 +28,7 @@ Fotocredits: He Shao Hui
 **So 21.8.2022, 14.00-18.00h**\
 Prana-Yoga Studio 1, Mariahilferstraße 82, 1070 Wien\
 \
-Du tanzt und bewegst dich gerne und möchtest Contact Improvisation im Rahmen eines Schnupper-Workshops kennenzulernen. Wie fühlt es sich an am Boden zu rollen, sich fallen und auffangen zu lassen oder im Körperkontakt gegenseitig Gewicht abzugeben und zu übernehmen? Wieviel Technik steckt dahinter und wie geht es uns emotional damit? Dieser Workshop bietet dir die Möglichkeit, dir ein erstes Bild zu machen um vielleicht weiter in die faszinierende Welt des Contact Improvisation-Tanzens einzutauchen und über das Erlebte auszutauschen.\
+Du tanzt und bewegst dich gerne und möchtest Contact Improvisation im Rahmen eines Schnupper-Workshops kennenzulernen. Wie fühlt es sich an am Boden zu rollen, sich fallen und auffangen zu lassen oder im Körperkontakt gegenseitig Gewicht abzugeben und zu übernehmen? Wieviel Technik steckt dahinter, wie komme ich in den Bewegungsfluss und wie geht es uns emotional damit? Dieser Workshop bietet die Möglichkeit, dir ein erstes Bild zu machen um vielleicht weiter in die faszinierende Welt des Contact Improvisation-Tanzens einzutauchen. \
 \
 Kosten: 30-60€ (Selbsteinschätzung nach eigenem Ermessen), Einzahlung auf Konto\
 IBAN:AT54 3200 0000 1701 2717, BIC: RLNWATWW, Verein rollingpoint\
@@ -45,8 +45,6 @@ So 4.9.2022, 15.00-18.00h\
 Prana-Yoga Studio 1, Mariahilferstraße 82, 1070 Wien
 
 &nbsp;
-
-
 
 ## Workshoptermine (Rückblick):
 
