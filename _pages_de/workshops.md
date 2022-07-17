@@ -26,7 +26,7 @@ Fotocredits: He Shao Hui
 
 #### **Contact Improvisation Intro-Workshop für BeginnerInnen:**
 
-mit Christian Apschner und support (tba)\
+mit Christian Apschner und Ines Ingerle (support)\
 So 21.8.2022, 14.00-18.00h\
 Prana-Yoga Studio 1, Mariahilferstraße 82, 1070 Wien\
 \
