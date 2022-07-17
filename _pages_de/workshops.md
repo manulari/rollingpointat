@@ -22,21 +22,31 @@ Fotocredits: He Shao Hui
 >
 > **21./22.1.2023: Contact Flying Skills**
 
-#### **Achtung: Die untenstehenden Texte zu den Workshop im Sommer und Herbst 2022 befinden sich noch in Bearbeitung!**
-
 #### **Contact Improvisation Intro-Workshop für BeginnerInnen:**
 
-mit Christian Apschner und Ines Ingerle (support)\
-So 21.8.2022, 14.00-18.00h\
+**mit Christian Apschner und Ines Ingerle (support)**\
+**So 21.8.2022, 14.00-18.00h**\
 Prana-Yoga Studio 1, Mariahilferstraße 82, 1070 Wien\
 \
-Du tanzt und bewegst dich gerne und bist interessiert Contact Improvisation im Rahmen eines Schnupper-Workshops kennenzulernen. Wie fühlt es sich an am Boden zu rollen, sich fallen und auffangen zu lassen oder im Körperkontakt gegenseitig Gewicht abzugeben und zu übernehmen? Wieviel Technik steckt dahinter und wie geht es uns emotional damit? Dieser Workshop bietet dir die Möglichkeit, dir ein erstes Bild zu machen um vielleicht weiter in die faszinierende Welt des Contact Improvisation-Tanzens einzutauchen.
+Du tanzt und bewegst dich gerne und möchtest Contact Improvisation im Rahmen eines Schnupper-Workshops kennenzulernen. Wie fühlt es sich an am Boden zu rollen, sich fallen und auffangen zu lassen oder im Körperkontakt gegenseitig Gewicht abzugeben und zu übernehmen? Wieviel Technik steckt dahinter und wie geht es uns emotional damit? Dieser Workshop bietet dir die Möglichkeit, dir ein erstes Bild zu machen um vielleicht weiter in die faszinierende Welt des Contact Improvisation-Tanzens einzutauchen und über das Erlebte auszutauschen.\
+\
+Kosten: 30-60€ (Selbsteinschätzung nach eigenem Ermessen), Einzahlung auf Konto\
+IBAN:AT54 3200 0000 1701 2717, BIC: RLNWATWW, Verein rollingpoint\
+Anmeldung bzw. weitere Infos: ci.rollingpoint@gmail.com, Christian 0650 8931081
+
+### &nbsp;
+
+#### **Achtung: Die untenstehenden Texte zu den Workshops im Sommer und Herbst 2022 befinden sich noch in Bearbeitung!**
 
 #### **Zeitgenössischer Tanz/Somatics**:
 
 mit maRia Probst\
 So 4.9.2022, 15.00-18.00h\
 Prana-Yoga Studio 1, Mariahilferstraße 82, 1070 Wien
+
+&nbsp;
+
+
 
 ## Workshoptermine (Rückblick):
 
@@ -53,7 +63,7 @@ Prana-Yoga Studio 1, Mariahilferstraße 82, 1070 Wien
 #### **"Deep Listening - Contact Improvisation and Beyond"** - open level
 
 **Sa/So 19./20.3.2022, 10.00-17.30**\
-**mit ChristianApschner und Karola Reifetshamer**
+**mit Christian Apschner und Karola Reifetshamer**
 
 **Was bewegt mich? Was bewegt dich? Was bewegt uns?**
 
