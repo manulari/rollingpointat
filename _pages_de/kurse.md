@@ -64,8 +64,6 @@ Turnsaal VS Einsiedlergasse 7, 1050 Wien\
 **BeginnerInnen sind an folgenden Terminen zu einem open level Training inkl. Jam eingeladen:**\
 **19.10., 23.11., 21.12.2022 und 25.1.2023**
 
-
-
 siehe: [Rollingpoint - CI-DOJO (Training+Jam)](/dojo)
 
 Du bringst bereits solide Basiskenntnisse der Contact Improvisation mit und möchtest dein Bewegungsspektrum erweitern und verfeinern. Dann ist diese fortlaufende Trainingsgruppe das richtige für dich. Ein Schwerpunkt des Kurses wird auch sein, verschiedene Lifts und Jumps in allen Raumebenen zu üben und kopfüber auf den Händen zu tanzen. Wir lernen durch eine anatomisch gute Körperausrichtung sowie durch Modulation der Körperspannung und Nutzung der Schwungenergie Gewicht körperschonend aufzunehmen und abzugeben. Im Laufe des Lernprozesses eröffnet sich die Fähigkeit sich dem gemeinsamen Bewegungsfluss hinzugeben und gleichzeitig den gemeinsamen Tanz so präsent wahrzunehmen, dass dieser Fluss spielerisch gelenkt werden kann.
@@ -92,11 +90,13 @@ oder SMS/Tel. Christian 0650 8931081, maRia 0650 9510814
 
 **Offene Schnupperstunden in den ersten drei Kurswochen um €10 pro Einheit**
 
-**Kostenbeitrag Semesterkurse: €150 - 300** je Kurs (bitte um Selbsteinschätzung nach persönlicher Einkommenssituation), einzuzahlen bis spätestens 8.10.2022.\
+**Kostenbeitrag Semesterkurse: Normalpreis € 240,- StudentInnen <28a: € 160,-**\
+weitere Ermäßigungen auf Anfrage\
+Kursbeitrag einzuzahlen bis spätestens 8.10.2022.\
 Die Reservierung des Kursplatzes erfolgt durch Einzahlung des vollen Kursbeitages.\
 \
 \
-**Einzelstunden €18 -30**
+**Einzelstunden € 27,- ermäßigt 20,-**
 
 **Schnupperstunden** in den ersten Kurswochen zu je 10€/Einheit (max. 1x je Kurs)\
 \
