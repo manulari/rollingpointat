@@ -62,7 +62,7 @@ Ingrid Hörlezeder will support us to find more lightness in dance and to refine
 
 <div class="named-anchor" id="do"></div>
 
-#### 4 Holistic Body Training for CI + „Bounce and Shake" / compact+extended
+#### 4 Holistic Body Training for CI + „Bounce and Shake"
 
 with **maRia Probst and Christian Apschner (alternating)**\
 *open level*\
@@ -81,7 +81,7 @@ phone Christian +43 650 8931081, maRia +43 650 9510814
 
 **Costs Course: €250 (regular), 200,- (reduced), €160,- (students <28a)**\
 **single class**: **€27 (regular), €20 (reduced)**\
-If you book two courses, you get a discount of €30,- for the second course.
+If you book two courses, you get a discount of €30,- for the second/third course.
 
 **Bankvbdg.:** IBAN: AT54 3200 0000 1701 2717, BIC: RLNWATWW, Verein rollingpoint
 
