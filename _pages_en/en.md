@@ -28,8 +28,6 @@ other_lang: /
 \
 **Contemporary Dance/Somatics** So 4.9.2022, 15.00-18.00h with maRia Probst
 
-
-
 ### Evening courses / study groups
 
 **Start wintersemester 2022/23: 19.-22.9.2022**
@@ -54,7 +52,13 @@ other_lang: /
 **start thu 22.9.2022, 18.30 – 20.30**\
 **Turnsaal VS Einsiedlergasse 7, 1050 Wien**
 
+### Weekend-Workshops:
 
+**15./16.10.2022**
+
+**5./6.11.2022**
+
+**21./22.1.2023 Contact Flying Skills**
 
 ### **rollingpoint-Jam: every sunday**
 
