@@ -4,20 +4,23 @@ title: COURSES AND WORKSHOPS
 language: en
 other_lang: /kurse
 ---
-Semester courses
+Semester courses 
 
-| day       | time            | teacher       | course                                                         | place                         |
-| --------- | --------------- | ------------- | -------------------------------------------------------------- | ----------------------------- |
-| **mo**    | **18.10-20.10** | **maRia**     | **["Opening, Folding, Release" Contempory Dance](#mo)**        | **Gilgegasse 12, 1090 Wien**  |
-| **tue*)** | **18.00-20.30** | **maRia**     | [](#die)**[Holistic body training + "Bounce and Shake"](#di)** | **Einsiedlerg. 7, 1050 Wien** |
-| **wed**   | **18.15-20.30** | **Christian** | [](#mie)**[Contact Improvisation and -Technique](#mi)**        | **Einsiedlerg. 7, 1050 Wien** |
-| **thu**   | **18.15-20.45** | **Christian** | **[Contact Dojo: Open Training + Jam](#do)**                   | **Gilgegasse 12, 1090 Wien**  |
+| day       | time            | teacher             | course                                                                           | place                         |
+| --------- | --------------- | ------------------- | -------------------------------------------------------------------------------- | ----------------------------- |
+| **mo**    | **18.30-20.30** | **maRia**           | **[Contempory Dance](#mo)**\
+**open level**                                      | **Gilgegasse 12, 1090 Wien**  |
+| **tue*)** | **18.15-20.30** | **Christian**       | [](#mie)**[Contact Improvisation and -Technique](#di)**\
+**beginner**            | **Einsiedlerg. 7, 1050 Wien** |
+| **wed**   | **17.30-20.40** | **Christian u.a.**  | **[Contact Dojo: Contact Improvisation intermediate/advanced + open Jam](#mi)**  | **Einsiedlerg. 7, 1050 Wien** |
+| **thu**   | **18.30-20.30** | **maRia/Christian** | **[Holistic body training + "Bounce and Shake"](#di)**\
+**open level**           | **Gilgegasse 12, 1090 Wien**  |
 
 &nbsp;
 
-**\*) tue 8.3., 5.4., 3.5., 24.5. und 21.6.2022**
 
-### Start summer semester 2022: 28.2.-3.3.2022
+
+### Start winter semester 2022/23: 19.-22.9.2022
 
 <div class="named-anchor" id="mo"></div>
 
