@@ -22,13 +22,13 @@ Fotocredits: Laurent Ziegler
 
 **Noch mehr Raum zum Contact Improvisations-Tanzen:**
 
-Das Format geht abwechselnd sowohl auf die speziellen Wünsche und Bedürfnisse von fortgeschrittenen CI-TänzerInnen und auch von NeubeginnerInnen ein. Die Abende bestehen jeweils aus einem angeleiteten CI-Training und einer nachfolgenden Contact-Jam. CI-Training und Jam können gemeinsam oder unabhängig voneinander besucht werden, die gemeinsame Teilnahme ist empfehlenswert. Als Contact-Dojo steht uns der knapp 200m2 große Turnsaal mit für CI optimalem Holzschwingboden in der VS Gilgegasse 9, 1090 Wien zur Verfügung. 
+Das Format geht abwechselnd sowohl auf die speziellen Wünsche und Bedürfnisse von fortgeschrittenen CI-TänzerInnen und auch von NeubeginnerInnen ein. Die Abende bestehen jeweils aus einem angeleiteten CI-Training und einer nachfolgenden Contact-Jam. CI-Training und Jam können gemeinsam oder unabhängig voneinander besucht werden, die gemeinsame Teilnahme ist empfehlenswert. Als Contact-Dojo steht uns der knapp 200m2 große Turnsaal mit für CI optimalem Holzschwingboden in der VS Einsiedlergasse 7, 1050 Wien zur Verfügung. 
 
 **Open level CI-DOJO:** Die open level Termine laden insbesondere auch alle interessierten NeueinsteigerInnen ohne jegliche Vorkenntnisse zum Ausprobieren und Mitmachen ein ("Tasting Contact Improvisation). In den 1,5 stündigen Trainings vor der Jam werden CI Fundamentals vermittelt. Für die nachfolgende Jam wird es eine gemeinsame Eröffnungsrunde zum Kennenlernen sowie ein kurzes angeleitetes warm up geben. Der Fokus der Jam liegt in einem Miteinander-Tanzen unabhängig von den jeweiligen CI-Vorerfahrungen.
 
 **Advanced CI-DOJO:** Die Termine für Fortgeschrittene bieten ein stark physisch orientiertes Bewegungs- und Contact Improvisations Training. Wir arbeiten sowohl an einer Vertiefung von Grundprinzipien der CI wie dem konsequenten Folgen des rollenden Kontaktpunktes sowie der Bereitschaft sich jederzeit fallen zu lassen als auch an der Technik für Lifts und von spezifischen Bewegungsabläufen.
 
-**Kosten je Abend:** 18 - 30 € nach Selbsteinschätzung\
+**Kosten je Abend:** 20 - 30 € nach Selbsteinschätzung\
 Jam: 7 - 10 € (kann vom Jam-Guthabenkonto abgebucht werden).\
 Bezahlung bitte ausschließlich per Banküberweisung auf das rollingpoint-Konto IBAN: AT54 3200 0000 1701 2717, BIC: RLNWATWW
 
