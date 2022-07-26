@@ -16,7 +16,7 @@ title: KURSE UND WORKSHOPS
 
 ### Kursbeginn Wintersemester 2022/23: 19.-22.9.2022:
 
-**Achtung: Die Kursbeschreibungen befinden sich gerade in Bearbeitung!**
+**Achtung: Die Beschreibungen für Kurs 1 befinden sich noch in Bearbeitung**
 
 &nbsp;
 
