@@ -47,7 +47,7 @@ other_lang: /
 **start wed 21.9.2022, 17.30 - 19.00 (training), 19.10-20.40 (jam)**\
 **Turnsaal VS Gilgegasse 12, 1090 Wien**
 
-**[4 thu Holistic training for CI + „Bounce and Shake"](/en/kurse#di)** - **open level**\
+**[4 thu Holistic training for CI + „Bounce and Shake"](/en/kurse#do)** - **open level**\
 **with Ria Probst and Christian Apschner (alternating)**\
 **start thu 22.9.2022, 18.30 – 20.30**\
 **Turnsaal VS Einsiedlergasse 7, 1050 Wien**
