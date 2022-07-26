@@ -22,9 +22,17 @@ other_lang: /
 
 ### Overview Coures/Workshops/Jams/Performances
 
-### Evening courses:
+### Summer-Workshops:
 
-**Start summersemester: 28.2.- 3.3.2022**
+**Contact Improvisation** beginner So 21.8.2022, 14.00-18.00h with Christian Apschner\
+\
+**Contemporary Dance/Somatics** So 4.9.2022, 15.00-18.00h with maRia Probst
+
+
+
+### Evening courses / study groups
+
+**Start wintersemester 2022/23: 19.-22.9.2022**
 
 **[Mon „Opening, Folding, Release“ Contemporary Dance](/en/kurse#mo)** - **open level**\
 **with maRia Probst**  \
