@@ -44,7 +44,7 @@ Turnsaal VS Einsiedlergasse 7, 1050 Wien**
 **Mi 21.9.2022 - 1.2.2023, 17.30 - 19.00 (Training), 19.10-20.40 (Jam)**\
 **Turnsaal VS Gilgegasse 12, 1090 Wien**
 
-**[4 CI Körpertraining + „Bounce and Shake"](/kurse#di)**  **open level (ca. 15x)**\
+**[4 CI Körpertraining + „Bounce and Shake"](/kurse#do)**  **open level (ca. 15x)**\
 **mit maRia Probst und Christian Apschner (alternierend)**\
 **Do 18.30 – 20.30**\
 **Turnsaal VS Einsiedlergasse 7, 1050 Wien**
