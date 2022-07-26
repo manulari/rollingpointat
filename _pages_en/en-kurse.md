@@ -6,12 +6,12 @@ other_lang: /kurse
 ---
 Semester courses 
 
-| day       | time            | teacher             | course                                                                           | place                         |
-| --------- | --------------- | ------------------- | -------------------------------------------------------------------------------- | ----------------------------- |
-| **mo**    | **18.30-20.30** | **maRia**           | **[Contempory Dance / open level](#mo)**                                         | **Gilgegasse 12, 1090 Wien**  |
-| **tue*)** | **18.15-20.30** | **Christian**       | [](#mie)**[Contact Improvisation and -Technique / beginner](#di)**               | **Einsiedlerg. 7, 1050 Wien** |
-| **wed**   | **17.30-20.40** | **Christian u.a.**  | **[Contact Dojo: Contact Improvisation intermediate/advanced + open Jam](#mi)**  | **Einsiedlerg. 7, 1050 Wien** |
-| **thu**   | **18.30-20.30** | **maRia/Christian** | **[Holistic body training + "Bounce and Shake" / open level](#di)**              | **Gilgegasse 12, 1090 Wien**  |
+| day     | time            | teacher             | course                                                                             | place                         |
+| ------- | --------------- | ------------------- | ---------------------------------------------------------------------------------- | ----------------------------- |
+| **mo**  | **18.30-20.30** | **maRia**           | **[1 Contempory Dance and Somatics / open level](#mo)**                            | **Gilgegasse 12, 1090 Wien**  |
+| **tue** | **18.15-20.30** | **Christian**       | [](#mie)**[2 Contact Improvisation and -Technique / beginner](#di)**               | **Einsiedlerg. 7, 1050 Wien** |
+| **wed** | **17.30-20.40** | **Christian u.a.**  | **[3 Contact Dojo: Contact Improvisation intermediate/advanced + open Jam](#mi)**  | **Einsiedlerg. 7, 1050 Wien** |
+| **thu** | **18.30-20.30** | **maRia/Christian** | **[4 Holistic body training + "Bounce and Shake" / open level](#di)**              | **Gilgegasse 12, 1090 Wien**  |
 
 &nbsp;
 
