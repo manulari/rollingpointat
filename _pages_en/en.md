@@ -24,9 +24,9 @@ other_lang: /
 
 ### Summer-Workshops:
 
-**Contact Improvisation** beginner So 21.8.2022, 14.00-18.00h with Christian Apschner\
+**Contact Improvisation beginner: sun 21.8.2022**, 14.00-18.00h with Christian Apschner\
 \
-**Contemporary Dance/Somatics** So 4.9.2022, 15.00-18.00h with maRia Probst
+**Contemporary Dance/Somatics: sun 4.9.2022**, 15.00-18.00h with maRia Probst
 
 ### Evening courses / study groups
 
