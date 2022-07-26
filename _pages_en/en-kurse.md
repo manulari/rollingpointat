@@ -32,7 +32,7 @@ Release technique into momentum. Improvisation, dance sequences, somatics and em
 
 <div class="named-anchor" id="di"></div>
 
-#### Contact Improvisation and - Technique
+#### 2 Contact Improvisation and - Technique
 
 with **Christian Apschner**\
 *“Mindfulness, Challenge and Flow” / ongoing study group for beginners*\
@@ -47,20 +47,28 @@ Group improvisation and Instant Composition
 
 <div class="named-anchor" id="mi"></div>
 
-Contact Dojo: Open Training + Jam
+#### 3 **Contact Improvisation intermediate/advanced + open Jam (=Contact Dojo)**
 
-with **Christian Apschner**\
-alternating *open level/advanced*\
-**thu 18.15 - 20.45**, 3.3. – 23.6..2022\
-Turnsaal VS Gilgegasse 12, 1090 Wien
+with **Christian Apschner and guest teachers Ingrid Hörlezeder and Alina Bertha**\
+**wed 17.30 - 20.40, 21.9.2022 – 1.2.2023 (ca.15x)**\
+Turnsaal VS Gilgegasse 12, 1090 Wien\
+**study group 17.30-19.00**\
+**open jam 19.10-20.40**
+
+**Beginners are invited to participate on open level trainings and jam on**\
+**19.10., 23.11., 21.12.2022 und 25.1.2023**
+
+We create a connection between the athletic and meditative and learn to take weight in a body-friendly way through anatomically good alignment, tonus modulation and the use of momentum. In our learning process we want to find the ability to follow the flow of movement and at the same time to perceive the dance so presently that this flow can directed and redirected in a playful way.
+
+Ingrid Hörlezeder will support us to find more lightness in dance and to refine our perception via Trager Psychophysical Integration. Alina Berthas training is based on contemporary dance technique with a focus on flow of movement and elements of breakdance.
 
 <div class="named-anchor" id="do"></div>
 
 #### Holistic Body Training for CI + „Bounce and Shake" / compact+extended
 
-with **maRia Probst**\
+with **maRia Probst and Christian Apschner (alternating)**\
 *open level*\
-**tue 8.3., 5.4., 3.5., 24.5. und 21.6.2022, 18.00 – 20.30**\
+**Do 18.30 – 20.30**, 22.9.2022 - 2.2.2023 (ca. 15x)\
 Turnsaal VS Einsiedlergasse 7, 1050 Wien
 
 3-D coordination for Contact Improvisation\
@@ -73,8 +81,8 @@ Open dancing and shaking to music
 **Registration: Please send us an email to ci.rollingpoint@gmail.com**\
 phone Christian +43 650 8931081, maRia +43 650 9510814
 
-**Costs Course: €230 (regular), 190,- (reduced), €150,- (students <27a)**\
-**5 classes**: **€95 (regular), €75 (reduced)**\
+**Costs Course: €250 (regular), 200,- (reduced), €160,- (students <28a)**\
+**single class**: **€27 (regular), €19 (reduced)**\
 If you book two courses, you get a discount of €30,- for the second course.
 
 **Bankvbdg.:** IBAN: AT54 3200 0000 1701 2717, BIC: RLNWATWW, Verein rollingpoint
