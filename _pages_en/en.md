@@ -34,31 +34,27 @@ other_lang: /
 
 **Start wintersemester 2022/23: 19.-22.9.2022**
 
-**[Mon „Opening, Folding, Release“ Contemporary Dance](/en/kurse#mo)** - **open level**\
+**[1 mo Contemporary Dance and Somatics](/en/kurse#mo)** - **open level**\
 **with maRia Probst**  \
-**start mo 28.2.2022, 18.10 - 20.10**\
+**start mo 19.9.2022, 18.30 - 20.30**\
 **Turnsaal VS Gilgegasse 12, 1090 Wien**
 
-**[Tue Holistic training for CI + „Bounce and Shake"](/en/kurse#di)** - **open level**\
-**with Ria Probst**\
-**tue 8.3., 5.4., 3.5., 24.5. and 21.6.2022, 18.00 – 20.30**\
+**[2 tue Contact Improvisation and -Technique ](/en/kurse#di)- beginner**\
+**with Christian Apschner**\
+**start tue 20.9.2022, 18.15 - 20.30**\
 **Turnsaal VS Einsiedlergasse 7, 1050 Wien**
 
-**[Wed Contact Improvisation and -Technique ](/en/kurse#mi)beginner/intermediate**\
-**start wed 2.3.3022 18.15 – 20.30 (ca.15x)\
-Turnsaal VS Einsiedlergasse 7, 1050 Wien**
-
-**[Thu Contact Dojo: Training + Jam](/en/kurse#do)**\
-**with Christian Apschner**\
-**start the 3.3.2022, 18.15 - 20.45**\
+**[3 wed Contact Improvisation (Contact Dojo)](/en/kurse#mi) intermediate/advanced**\
+**mit Christian Apschner and guest teachers**\
+**start wed 21.9.2022, 17.30 - 19.00 (training), 19.10-20.40 (jam)**\
 **Turnsaal VS Gilgegasse 12, 1090 Wien**
 
-### Weekend-Workshops:
+**[4 thu Holistic training for CI + „Bounce and Shake"](/en/kurse#di)** - **open level**\
+**with Ria Probst and Christian Apschner (alternating)**\
+**start thu 22.9.2022, 18.30 – 20.30**\
+**Turnsaal VS Einsiedlergasse 7, 1050 Wien**
 
-**[19./20.3.2022: "Deep Listening"](/en/workshops#deeplistening) mit Christian Apschner und Karola Reifetshamer**\
-**held in german language**
 
-**[21./22.5.2022: "Contact Flying Skills"](/en/workshops#flying)** **with Christian Apschner und Lui Springer (support)**
 
 ### **rollingpoint-Jam: every sunday**
 
