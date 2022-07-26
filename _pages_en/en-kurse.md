@@ -21,16 +21,40 @@ Semester courses
 
 <div class="named-anchor" id="mo"></div>
 
-#### „Opening, Folding, Release“
+#### 1 Contempory Dance and Somatics“
 
 with **maRia Probst**\
 *Contemporary Dance* - *open level*\
-**mo 18.10 - 20.10**; 28.2. – 20.6.2022 (ca. 14x)\
+**mo 18.30 - 20.30**, 19.9.2022 – 30.1.2023 (ca.16x)\
 Turnsaal VS Gilgegasse 12, 1090 Wien
 
 Release technique into momentum. Improvisation, dance sequences, somatics and embodiment
 
 <div class="named-anchor" id="di"></div>
+
+#### Contact Improvisation and - Technique
+
+with **Christian Apschner**\
+*“Mindfulness, Challenge and Flow” / ongoing study group for beginners*\
+**tue 18.15 – 20.30**, 20.9.2022- 31.1.2022 (ca. 16x)\
+Turnsaal VS Einsiedlergasse 7, 1050 Wien
+
+Exploring Contact basis such as rolling, falling, landing, spiraling\
+Giving and taking weight, rollingpoint of contact\
+Strenght, mobility and coordination training\
+Easy jumps and lifts\
+Group improvisation and Instant Composition
+
+<div class="named-anchor" id="mi"></div>
+
+Contact Dojo: Open Training + Jam
+
+with **Christian Apschner**\
+alternating *open level/advanced*\
+**thu 18.15 - 20.45**, 3.3. – 23.6..2022\
+Turnsaal VS Gilgegasse 12, 1090 Wien
+
+<div class="named-anchor" id="do"></div>
 
 #### Holistic Body Training for CI + „Bounce and Shake" / compact+extended
 
@@ -43,30 +67,6 @@ Turnsaal VS Einsiedlergasse 7, 1050 Wien
 Elements of Yoga, Qi Gong, Mentastics and Contemporary Dance\
 Strenght, mobility and coordination training\
 Open dancing and shaking to music
-
-<div class="named-anchor" id="mi"></div>
-
-#### Contact Improvisation and - Technique
-
-with **Christian Apschner**\
-*beginner/intermediate*\
-**wed 18.15 – 20.30**, 2.3.- 22.6.2022 (ca. 15x)\
-Turnsaal VS Einsiedlergasse 7, 1050 Wien
-
-Exploring Contact basis such as rolling, falling, landing, spiraling\
-Giving and taking weight, rollingpoint of contact\
-Strenght, mobility and coordination training\
-Easy jumps and lifts\
-Group improvisation and Instant Composition
-
-<div class="named-anchor" id="do"></div>
-
-#### Contact Dojo: Open Training + Jam
-
-with **Christian Apschner**\
-alternating *open level/advanced*\
-**thu 18.15 - 20.45**, 3.3. – 23.6..2022\
-Turnsaal VS Gilgegasse 12, 1090 Wien
 
 ### Registration and Costs:
 
