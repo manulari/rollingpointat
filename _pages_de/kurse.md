@@ -90,13 +90,14 @@ oder SMS/Tel. Christian 0650 8931081, maRia 0650 9510814
 
 **Offene Schnupperstunden in den ersten drei Kurswochen um €10 pro Einheit**
 
-**Kostenbeitrag Semesterkurse: Normalpreis € 250,-**\
-Ermäßigungen: € 160,- für StudentInnen <=28a, € 200,- Sonstige\
+**Kostenbeitrag Semesterkurse: Normalpreis € 250**\
+Ermäßigungen: € 160 für StudentInnen <=28a, € 200 Sonstige\
+Bei Buchung von mehr als einem Kurs minus € 30 ab dem 2.Kurs\
 Kursbeitrag einzuzahlen bis spätestens 8.10.2022.\
 Die Reservierung des Kursplatzes erfolgt durch Einzahlung des vollen Kursbeitages.\
 \
 \
-**Einzelstunden € 27,- ermäßigt 20,-**
+**Einzelstunden € 27 / ermäßigt € 20**
 
 **Schnupperstunden** in den ersten Kurswochen zu je 10€/Einheit (max. 1x je Kurs)\
 \
