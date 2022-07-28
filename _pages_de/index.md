@@ -21,7 +21,7 @@ Fotocredit: https://johannes-stolba.net/photography/
 
 ### Sommer-Workshops:
 
-**Contact Improvisation** beginner So 21.8.2022, 14.00-18.00h mit Christian Apschner\
+**[Contact Improvisation Intro](/workshops#intro)** BeginnerInnen So 21.8.2022, 14.00-18.00h mit Christian Apschner\
 \
 **Zeitgenössischer Tanz/Somatics** So 4.9.2022, 15.00-18.00h mit maRia Probst
 
