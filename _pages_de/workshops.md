@@ -21,6 +21,8 @@ Fotocredits: He Shao Hui
 > **5./6.11.2022**
 >
 > **21./22.1.2023: Contact Flying Skills**
+>
+> <div class="named-anchor" id="intro"></div>
 
 #### **Contact Improvisation Intro-Workshop für BeginnerInnen:**
 
