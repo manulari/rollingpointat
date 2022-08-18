@@ -6,7 +6,7 @@ title: KURSE UND WORKSHOPS
 
 | Tag    | Zeit            | Lehrer:in           | Titel                                                                     | Ort/Turnsaal                 |
 | ------ | --------------- | ------------------- | ------------------------------------------------------------------------- | ---------------------------- |
-| **Mo** | **18.30-20.30** | **maRia**           | **[ 1 Zeitgenössischer Tanz / open level](#mo)**                          | **Gilgegasse 12 1090 Wien**  |
+| **Mo** | **18.30-20.30** | **maRia**           | **[ 1 "Energize Through Motion" / open level](#mo)**                      | **Gilgegasse 12 1090 Wien**  |
 | **Di** | **18.15-20.30** | **Christian**       | **[2 Contact Improvisation and -Technique / beginner](#di)**              | **Einsiedlerg. 7 1050 Wien** |
 | **Mi** | **17.30-20.40** | **Christian u.a.**  | **[3 CI-Dojo: Contact Improvisation   intermediate/advanced + Jam](#mi)** | **Einsiedlerg. 7 1050 Wien** |
 | **Do** | **18.30-20.30** | **maRia/Christian** | **[4 CI Körpertraining + "Bounce and Shake" /open level](#do)**           | **Gilgegasse 12 1090 Wien**  |
@@ -31,9 +31,15 @@ mit **maRia Probst**\
 **Mo 18.30 - 20.30**; 19.9.2022 – 30.1.2023 (ca.16x)\
 Turnsaal VS Gilgegasse 12, 1090 Wien
 
-Über das Loslassen Momentum zu gewinnen ist ein zentrales Prinzip im zeitgenössischen Tanz. In diesem Kurs wollen wir vielfältige Varianten des Loslassens ausloten und für unseren Tanz erschließen. Wir werden uns auf Kernelemente der "Release Technique" beziehen, das lösende Potenzial tiefer Faltungen erfahren, Raum in uns einladen und damit die Beziehung zum uns umgebenden Raum erweitern. Wir werden uns tief in unserer Körperlichkeit ankern, den kritischen Geist ruhen lassen um Unmittelbarkeit in unsere tänzerischen Beziehungen zu uns Selbst, zu unseren PartnerInnen und zu dem uns Umgebenden und Bewohnenden einzuladen.
+Sich wirbeln, satt am Boden landen, dagegen drücken und das Momentum des plötzlichen Loslassens nützen, sind Elemente unseres grundlegenden Bewegungsvokabulars als Menschen. In diesem Kurs wollen wir wieder eintauchen in die Unmittelbarkeit unseres frühen Seins als Säuglinge und Kinder. Wir wollen über ziehen, drücken, gleiten, rollen, rutschen...in Bezug treten mit der Welt und erleben wie wir uns dabei aufladen, wie wir auftanken können. Oft kann dadurch unser kritischer Geist ruhen und wir sind bereit müheloser unser vorhandenes Bewegungsspektrum zu erweitern. Somatics öffnen unsere Wahrnehmungsfähigkeit und unser Körperbild. Was unsere Zunge mit den Füßen zu tun hat oder wie die Beine locker vom Zwerchfell hängen können sind mögliche Entdeckungen auf diesem Weg. Aneinander rollen oder dosierte Gewichtsübertragung, Fertigkeiten, die es innerhalb der CI zu erlernen gibt, eröffnen eine in dieser Form einzigartige dreidimensionale Bewegungserfahrung. Spezifische tanztechnische Details lassen uns unseren Rücken besser integrieren. Schließlich soll diese reiche Erfahrungswelt auch der Erweiterung unserer Dialogfähigkeit in der Tanzimprovisation dienen, die meist am Ende jeder Einheit das gemeinsame Tun abschließt.
 
-<div class="named-anchor" id="di"></div>
+
+
+<div class="named-anchor" id=""></div>
+
+
+
+
 
 #### 2 Contact Improvisation and -Technique
 
