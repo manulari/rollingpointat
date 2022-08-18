@@ -57,7 +57,7 @@ Turnsaal VS Einsiedlergasse 7, 1050 Wien**
 
 **15./16.10.2022 Der bewohnte Körper - Tanzimprovisation / Bewegungs- und Ausdrucksschulung mit maRia Probst**
 
-**5./6.11.2022 From bodywork into Contact mit Christian Apschner und maRia Probst**
+**5./6.11.2022 From Bodywork into Contact mit Christian Apschner und maRia Probst**
 
 **21./22.1.2023 Contact Flying Skills**
 
