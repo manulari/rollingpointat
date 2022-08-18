@@ -4,12 +4,12 @@ title: KURSE UND WORKSHOPS
 ---
 **Abendangebote Wintersemester 2022/23**
 
-| Tag    | Zeit            | Lehrer:in           | Titel                                                                     | Ort/Turnsaal                 |
-| ------ | --------------- | ------------------- | ------------------------------------------------------------------------- | ---------------------------- |
-| **Mo** | **18.30-20.30** | **maRia**           | **[ 1 "Energize Through Motion" / open level](#mo)**                      | **Gilgegasse 12 1090 Wien**  |
-| **Di** | **18.15-20.30** | **Christian**       | **[2 Contact Improvisation and -Technique / beginner](#di)**              | **Einsiedlerg. 7 1050 Wien** |
-| **Mi** | **17.30-20.40** | **Christian u.a.**  | **[3 CI-Dojo: Contact Improvisation   intermediate/advanced + Jam](#mi)** | **Einsiedlerg. 7 1050 Wien** |
-| **Do** | **18.30-20.30** | **maRia/Christian** | **[4 CI Körpertraining + "Bounce and Shake" /open level](#do)**           | **Gilgegasse 12 1090 Wien**  |
+| Tag    | Zeit            | Lehrer:in           | Titel                                                                                | Ort/Turnsaal                 |
+| ------ | --------------- | ------------------- | ------------------------------------------------------------------------------------ | ---------------------------- |
+| **Mo** | **18.30-20.30** | **maRia**           | **[ 1 "Energize Through Motion" / Zeitg. Tanz, CI light, Somatics open level](#mo)** | **Gilgegasse 12 1090 Wien**  |
+| **Di** | **18.15-20.30** | **Christian**       | **[2 Contact Improvisation and -Technique / beginner](#di)**                         | **Einsiedlerg. 7 1050 Wien** |
+| **Mi** | **17.30-20.40** | **Christian u.a.**  | **[3 CI-Dojo: Contact Improvisation   intermediate/advanced + Jam](#mi)**            | **Einsiedlerg. 7 1050 Wien** |
+| **Do** | **18.30-20.30** | **maRia/Christian** | **[4 CI Körpertraining + "Bounce and Shake" /open level](#do)**                      | **Gilgegasse 12 1090 Wien**  |
 
 \
 &nbsp;
