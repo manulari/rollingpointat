@@ -23,7 +23,7 @@ Fotocredit: https://johannes-stolba.net/photography/
 
 **[Contact Improvisation Intro](/workshops#intro)** BeginnerInnen So 21.8.2022, 14.00-18.00h mit Christian Apschner\
 \
-**Energize Through Motion** - open level
+"**Energize Through Motion"** - open level
 
 **Zeitgenössischer Tanz, CI light und Somatics** So 4.9.2022, 15.00-18.00h mit maRia Probst
 
