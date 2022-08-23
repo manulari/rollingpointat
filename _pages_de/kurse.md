@@ -6,7 +6,7 @@ title: KURSE UND WORKSHOPS
 
 | Tag    | Zeit            | Lehrer:in           | Titel                                                                                | Ort/Turnsaal                 |
 | ------ | --------------- | ------------------- | ------------------------------------------------------------------------------------ | ---------------------------- |
-| **Mo** | **18.30-20.30** | **maRia**           | **[ 1 "Energize Through Motion" / Zeitg. Tanz, CI light, Somatics open level](#mo)** | **Gilgegasse 12 1090 Wien**  |
+| **Mo** | **18.30-20.15** | **maRia**           | **[ 1 "Energize Through Motion" / Zeitg. Tanz, CI light, Somatics open level](#mo)** | **Gilgegasse 12 1090 Wien**  |
 | **Di** | **18.15-20.30** | **Christian**       | **[2 Contact Improvisation and -Technique / beginner](#di)**                         | **Einsiedlerg. 7 1050 Wien** |
 | **Mi** | **17.30-20.40** | **Christian u.a.**  | **[3 CI-Dojo: Contact Improvisation   intermediate/advanced + Jam](#mi)**            | **Einsiedlerg. 7 1050 Wien** |
 | **Do** | **18.30-20.30** | **maRia/Christian** | **[4 CI Körpertraining + "Bounce and Shake" /open level](#do)**                      | **Gilgegasse 12 1090 Wien**  |
@@ -27,9 +27,10 @@ title: KURSE UND WORKSHOPS
 #### 1 "Energize Through Motion" Zeitgenössischer Tanz/CI light/ Somatics
 
 mit **maRia Probst -** *open level*\
- - *open level*\
-**Mo 18.30 - 20.15**; 19.9.2022 – 30.1.2023 (ca.16x)\
-Turnsaal VS Gilgegasse 12, 1090 Wien
+
+* *open level*\
+  **Mo 18.30 - 20.15**; 19.9.2022 – 30.1.2023 (ca.16x)\
+  Turnsaal VS Gilgegasse 12, 1090 Wien
 
 Sich wirbeln, satt am Boden landen, dagegen drücken und das Momentum des plötzlichen Loslassens nützen, sind Elemente unseres grundlegenden Bewegungsvokabulars als Menschen. In diesem Kurs wollen wir wieder eintauchen in die Unmittelbarkeit unseres frühen Seins als Säuglinge und Kinder. Wir wollen über ziehen, drücken, gleiten, rollen, rutschen...in Bezug treten mit der Welt und erleben wie wir uns dabei aufladen, wie wir auftanken können. Oft kann dadurch unser kritischer Geist ruhen und wir sind bereit müheloser unser vorhandenes Bewegungsspektrum zu erweitern. 
 
@@ -37,13 +38,11 @@ Somatics öffnen unsere Wahrnehmungsfähigkeit und unser Körperbild. Was unsere
 
 Schließlich soll diese reiche Erfahrungswelt auch der Erweiterung unserer Dialogfähigkeit in der Tanzimprovisation dienen, die meist am Ende jeder Einheit das gemeinsame Tun abschließt.
 
+**Teilnahmeempfehlung:** Tanz- und Bewegungs-Freudige und -Neugierige mit und ohne Vorerfahrung, Freude an Berührung mit genanntem Fokus, Interesse an CI Elementen mit geringer Gewichtsübertragung, Menschen mit der Intention eine Tanzklasse pro Woche oft möglich zu machen, Menschen die während der Einheit Urlaub von ihrem Alltag machen wollen und das gerne tun, indem sie sich auf Bewegung und nonverbale Kommunikation fokussieren
+
 
 
 <div class="named-anchor" id=""></div>
-
-
-
-
 
 #### 2 Contact Improvisation and -Technique
 
