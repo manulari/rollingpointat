@@ -40,9 +40,7 @@ Schließlich soll diese reiche Erfahrungswelt auch der Erweiterung unserer Dialo
 
 **Teilnahmeempfehlung:** Tanz- und Bewegungs-Freudige und -Neugierige mit und ohne Vorerfahrung, Freude an Berührung mit genanntem Fokus, Interesse an CI Elementen mit geringer Gewichtsübertragung, Menschen mit der Intention eine Tanzklasse pro Woche oft möglich zu machen, Menschen die während der Einheit Urlaub von ihrem Alltag machen wollen und das gerne tun, indem sie sich auf Bewegung und nonverbale Kommunikation fokussieren
 
-
-
-<div class="named-anchor" id=""></div>
+<div class="named-anchor" id="di"></div>
 
 #### 2 Contact Improvisation and -Technique
 
