@@ -18,7 +18,7 @@ Fotocredits: He Shao Hui
 >
 > **15./16.10.2022**
 >
-> **5./6.11.2022**
+> **5./6.11.2022: From Bodywork into Contact Improvisation**
 >
 > **21./22.1.2023: Contact Flying Skills**
 >
