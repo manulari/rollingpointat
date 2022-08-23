@@ -32,23 +32,30 @@ Prana-Yoga Studio 1, Mariahilferstraße 82, 1070 Wien\
 \
 Du tanzt und bewegst dich gerne und möchtest Contact Improvisation im Rahmen eines Schnupper-Workshops kennenzulernen. Wie fühlt es sich an am Boden zu rollen, dich fallen und auffangen zu lassen oder im Körperkontakt gegenseitig Gewicht abzugeben und zu übernehmen? Wieviel Technik steckt dahinter, wie kommen wir in einen flow-Zustand und wie geht es uns emotional damit? Dieser Workshop bietet die Möglichkeit, dir ein erstes Bild zu machen um vielleicht weiter in die faszinierende Welt des Contact Improvisation-Tanzens einzutauchen. 
 
+
+
+#### **"Energize through Motion" / Intro-Workshop open level:**
+
+**Zeitgenössischer Tanz, CI light and Somatics
+mit maRia Probst
+So 4.9.2022, 15.00-18.00h**
+Prana-Yoga Studio 1, Mariahilferstraße 82, 1070 Wien
+
+Über ziehen, drücken, gleiten, rollen, rutschen... sind wir in unseren ersten Lebensjahren unmittelbar und mühelos in Kontakt mit der Welt. An diesem Nachmittag wollen wir diese uns innewohnenden Möglichkeiten wieder ansprechen. Wir lassen unnötige Körperspannung los und setzen dadurch Energie frei. Geschmeidig wie Katzen mobilisieren wir unsere Wirbelkette und erleben diese zentrale Körperstruktur als verlässliche Partnerin in und aus dem Boden, in Kontakt mit unseren Tanzkolleg*innen und im Dialog mit dem Raum. Dieser Kurzworkshop kann als Vorbereitung für die darauffolgende rollingpoint- jam genützt werden (Details dazu siehe:.). Menschen die sich einen Nachmittag der Leichtigkeit in Bewegung und im physischen Kontakt widmen wollen sind ebenso willkommen, wie auch jene die einen Einblick in den Semesterkurs „Energize Through Motion“ gewinnen wollen.
+
 \
-Kosten: Normalpreis 48€, ermäßigt 32€\
+**Kosten:** Normalpreis 48€, ermäßigt 32€\
 Einzahlung auf Konto\
 IBAN:AT54 3200 0000 1701 2717, BIC: RLNWATWW, Verein rollingpoint\
-Anmeldung bzw. weitere Infos: ci.rollingpoint@gmail.com, Christian 0650 8931081
-
-### &nbsp;
+Anmeldung bzw. weitere Infos: ci.rollingpoint@gmail.com,  ab 2.9 unter 0650 9510814
 
 #### **Achtung: Die untenstehenden Texte zu den Workshops im Sommer und Herbst 2022 befinden sich noch in Bearbeitung!**
 
-#### **Zeitgenössischer Tanz/Somatics**:
 
-mit maRia Probst\
-So 4.9.2022, 15.00-18.00h\
-Prana-Yoga Studio 1, Mariahilferstraße 82, 1070 Wien
 
-&nbsp;
+
+
+
 
 ## Workshoptermine (Rückblick):
 
