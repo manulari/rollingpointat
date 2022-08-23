@@ -16,11 +16,11 @@ Fotocredits: He Shao Hui
 >
 > ### Wochenend-Workshops:
 >
-> **15./16.10.2022**
+> **15./16.10.2022: "Liquid Motion" mit maRia Probst**
 >
-> **5./6.11.2022: From Bodywork into Contact Improvisation**
+> **5./6.11.2022: "From Bodywork into Contact" mit Christian Apschner und maRia Probst**
 >
-> **21./22.1.2023: Contact Flying Skills**
+> **21./22.1.2023: "Contact Flying Skills" mit Christian Apschner und support**
 >
 > <div class="named-anchor" id="intro"></div>
 
@@ -47,15 +47,9 @@ Prana-Yoga Studio 1, Mariahilferstraße 82, 1070 Wien
 **Kosten:** Normalpreis 48€, ermäßigt 32€\
 Einzahlung auf Konto\
 IBAN:AT54 3200 0000 1701 2717, BIC: RLNWATWW, Verein rollingpoint\
-Anmeldung bzw. weitere Infos: ci.rollingpoint@gmail.com,  ab 2.9 unter 0650 9510814
+Anmeldung bzw. weitere Infos: ci.rollingpoint@gmail.com,  ab 2.9 unter maRia 0650 9510814
 
 #### **Achtung: Die untenstehenden Texte zu den Workshops im Sommer und Herbst 2022 befinden sich noch in Bearbeitung!**
-
-
-
-
-
-
 
 ## Workshoptermine (Rückblick):
 
