@@ -69,7 +69,7 @@ Turnsaal VS Einsiedlergasse 7, 1050 Wien\
 **Offene Jam 19.10-20.40**
 
 **BeginnerInnen sind an folgenden Terminen zu einem open level Training inkl. Jam eingeladen:**\
-**19.10., 23.11., 21.12.2022 und 25.1.2023**
+**19.10., 23.11.2022 und 25.1.2023**
 
 siehe: [Rollingpoint - CI-DOJO (Training+Jam)](/dojo)
 
