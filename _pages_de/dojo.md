@@ -12,7 +12,7 @@ Fotocredits: Laurent Ziegler
 
 > `Open level Termine Wintersemester 2022/23 (beginners welcome, bring your friends)`
 >
->  **19.10., 23.11., 21.12.2022 und 25.1.2023**
+>  **19.10., 23.11.2022 und 25.1.2023**
 >
 > **Training:** 17.30-19.00\
 > **Jam:** 19.40-20.40\
