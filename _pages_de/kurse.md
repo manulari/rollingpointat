@@ -55,7 +55,7 @@ Nicht zuletzt verstehen wir die Contact Improvisation auch als eine Form von non
 
 Der Kurs wird im Sommersemester 2023 als beginner/intermediate Kurs fortgeführt werden, wobei alle TeilnehmerInnen eingeladen sind mit fortschreitendem Lernprozess an den rollingpoint-Jams teilzunehmen bzw. zusätzlich kostenlos die open level-Termine des Contact-Dojos am Mittwoch zu besuchen. In diesem Sinne kann die Teilnahme am Gesamtpaket als **Ausbildungsprogramm** verstanden werden.
 
-Teilnahmeempfehlungen: Bewegungsvorerfahrung aller Art sowie Lust und Freude an körperlich/physischem Einsatz und sich "fallen zu lassen".
+Teilnahmeempfehlungen: Da wir in der Contact Improvisation gegenseitig Körpergewicht abgeben und übernehmen, sind ein bestimmtes Ausmaß an Bewegungstalent und eine gute Sensitivität für den eigenen Körper und die Grenzen anderer wichtig für das Funktionieren des Kurses und daher Voraussetzung für die Teilnahme an diesem Beginnerkurs. Bewegungsvorerfahrungen aller Art sowie Lust und Freude an körperlich/physischem Einsatz und sich "fallen zu lassen" sind von Vorteil.
 
 <div class="named-anchor" id="mi"></div>
 
