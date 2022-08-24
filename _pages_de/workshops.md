@@ -79,7 +79,7 @@ Aus Gründen von CoVid ist für beide Seiten jederzeit eine Stornierung möglich
 
 ***Sämtliche rp Angebote werden entsprechend der aktuellen Covid19 Präventionsverordnungen abgehalten.***
 
-#### **Achtung: Die untenstehenden Texte zu den Workshops im Sommer und Herbst 2022 befinden sich noch in Bearbeitung!**
+#### **Die oben angeführten Texte und Bedinungen zu den Workshops im Herbst 2022 befinden sich noch in Bearbeitung.**
 
 ## Workshoptermine (Rückblick):
 
