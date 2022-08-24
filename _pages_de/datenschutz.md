@@ -14,10 +14,10 @@ Der Schutz Ihrer persönlichen Daten sind uns ein besonderes Anliegen. Wir verar
 \
 **Welche Daten verarbeiten wir bei einer Newsletter- Bestellung?**\
 Sie haben die Möglichkeit, über die Website den Newsletter zu abonnieren. Hierfür benötigen wir Ihre E-Mail-Adresse und ihre Erklärung, dass Sie mit dem Bezug des Newsletters einverstanden sind\
-Wir verarbeiten bei einer Newsletter- Bestellung grundsätzlich folgende Daten: Vor- und Nachname, E-Mail-Adresse. \
+Wir verarbeiten bei einer Newsletter-Bestellung grundsätzlich nur folgende Daten: Vor- und Nachname, E-Mail-Adresse. \
 \
 **Einwilligungserklärung zum Datenschutz für Newsletter Abonnenten:**\
-Mit der Anmeldung zum Newsletter stimme ich bis auf Widerruf zu, dass die von mir angegebenen persönlichen Daten zum Zweck der Zusendung von Informationen bezüglich der Arbeit des Vereins rollingpoint gespeichert und verarbeitet werden dürfen. Für die Aussendung unseres newsletters verwenden wir "mailchimp".\
+Mit der Anmeldung zum Newsletter stimme ich bis auf Widerruf zu, dass die von mir angegebenen persönlichen Daten zum Zweck der Zusendung von Informationen bezüglich der Arbeit des Vereins rollingpoint gespeichert und verarbeitet werden dürfen. Für die Aussendung unseres newsletters verwenden wir "mailchimp". Mailchimp hat Compliance-Maßnahmen für internationale Datenübermittlungen umgesetzt. Diese gelten für alle weltweiten Aktivitäten, bei denen Stripe personenbezogene Daten von natürlichen Personen in der EU verarbeitet. Diese Maßnahmen basieren auf den EU-Standardvertragsklauseln (SCCs). Weitere Informationen finden Sie unter: <https://mailchimp.com/legal/data-processing-addendum/>\
 \
 **Einwilligungserklärung bezüglich des Datenschutzes für TeilnehmerInnen an rollingpoint Kurs und Tanz-Angeboten:**\
 Nehmen Sie an Kursen und Veranstaltungen von rollingpoint teil, werden die Daten erhoben oder verarbeitet, die Sie freiwillig im Rahmen einer Anfrage oder Kursanmeldung angeben:\
@@ -32,8 +32,9 @@ Bei ganz vereinzelten Veranstaltungen von rollingpoint können Foto- oder Filmau
 Ihre uns zur Verfügung gestellten persönlichen Daten werden durch Ergreifung aller technischen sowie organisatorischen Sicherheitsmaßnahmen so gesichert, dass sie für den Zugriff unberechtigter Dritter unzugänglich sind. Bei Versendung von sehr sensiblen Daten oder Informationen ist es empfehlenswert, den Postweg zu nutzen, da eine vollständige Datensicherheit per E-Mail nicht gewährleistet werden kann.\
 \
 **Datenübermittlung / Datenprotokollierung**\
-Beim Besuch dieser Seite zeichnet der Web-Server ausschließlich die Zugriffszahlen auf, die keinen Personen etc. zugeordnet werden können. Diese Daten werden nur zum Zweck der statistischen Auswertung gesammelt. Eine Weitergabe an Dritte, zu kommerziellen oder nichtkommerziellen Zwecken, findet nicht statt.\
-\
+Diese Website ist auf Webservern der Firma GitHub gehostet. GitHub zeichnet aus Sicherheitsgründen die IP-Adressen von Besuchern der auf ihren Servern gehosteten Seiten auf. Rollingpoint hat keinen Zugriff auf diese gespeicherten IP-Adressen (und ist auch nicht daran interessiert). Mehr Infos von Github zu diesem Thema finden sich hier:\
+[https://docs.github.com/en/pages/getting-started-with-github-pages/about-github-pages#data-collection](https://deref-gmx.net/mail/client/gmMIE3gVijo/dereferrer/?redirectUrl=https%3A%2F%2Fdocs.github.com%2Fen%2Fpages%2Fgetting-started-with-github-pages%2Fabout-github-pages%23data-collection)
+
 **Ihre Rechte**\
 Sofern keine erforderlichen Gründe im Zusammenhang mit einer Geschäftsabwicklung bestehen, können Sie jederzeit kostenlos Ihre bei uns erhobenen Daten sperren, berichtigen oder löschen lassen bzw. die Einwilligung zur Datenverarbeitung schriftlich oder per E-Mail widerrufen.\
 Ihnen stehen grundsätzlich die Rechte auf Auskunft, Berichtigung, Löschung, Einschränkung, Datenübertragbarkeit, Widerruf und Widerspruch zu. Wenn Sie glauben, dass die Verarbeitung Ihrer Daten gegen das Datenschutzrecht verstößt oder Ihre datenschutzrechtlichen Ansprüche sonst in einer Weise verletzt worden sind, können Sie sich bei der Aufsichtsbehörde beschweren. In Österreich ist dies die Datenschutzbehörde. \
