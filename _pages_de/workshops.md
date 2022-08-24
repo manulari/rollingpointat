@@ -23,14 +23,6 @@ Fotocredits: He Shao Hui
 >
 > <div class="named-anchor" id="intro"></div>
 
-#### **Contact Improvisation Intro-Workshop für BeginnerInnen:**
-
-**mit Christian Apschner und Ines Ingerle (support)**\
-**So 21.8.2022, 14.00-18.00h**\
-Prana-Yoga Studio 1, Mariahilferstraße 82, 1070 Wien\
-\
-Du tanzt und bewegst dich gerne und möchtest Contact Improvisation im Rahmen eines Schnupper-Workshops kennenzulernen. Wie fühlt es sich an am Boden zu rollen, dich fallen und auffangen zu lassen oder im Körperkontakt gegenseitig Gewicht abzugeben und zu übernehmen? Wieviel Technik steckt dahinter, wie kommen wir in einen flow-Zustand und wie geht es uns emotional damit? Dieser Workshop bietet die Möglichkeit, dir ein erstes Bild zu machen um vielleicht weiter in die faszinierende Welt des Contact Improvisation-Tanzens einzutauchen. 
-
 #### **"Energize through Motion" / Intro-Workshop open level:**
 
 **Zeitgenössischer Tanz, CI light und Somatics
@@ -43,7 +35,7 @@ Prana-Yoga Studio 1, Mariahilferstraße 82, 1070 Wien
 **Kosten:** Normalpreis 48€, ermäßigt 32€\
 Einzahlung auf Konto\
 IBAN:AT54 3200 0000 1701 2717, BIC: RLNWATWW, Verein rollingpoint\
-Anmeldung bzw. weitere Infos: ci.rollingpoint@gmail.com,  ab 2.9 unter maRia 0650 9510814
+Anmeldung bzw. weitere Infos: ci.rollingpoint@gmail.com,  ab 2.9 unter 0650 9510814 (maRia)
 
 
 
@@ -89,6 +81,14 @@ Aus Gründen von CoVid ist für beide Seiten jederzeit eine Stornierung möglich
 #### **Achtung: Die untenstehenden Texte zu den Workshops im Sommer und Herbst 2022 befinden sich noch in Bearbeitung!**
 
 ## Workshoptermine (Rückblick):
+
+#### **Contact Improvisation Intro-Workshop für BeginnerInnen:**
+
+**mit Christian Apschner und Ines Ingerle (support)**\
+**So 21.8.2022, 14.00-18.00h**\
+Prana-Yoga Studio 1, Mariahilferstraße 82, 1070 Wien\
+\
+Du tanzt und bewegst dich gerne und möchtest Contact Improvisation im Rahmen eines Schnupper-Workshops kennenzulernen. Wie fühlt es sich an am Boden zu rollen, dich fallen und auffangen zu lassen oder im Körperkontakt gegenseitig Gewicht abzugeben und zu übernehmen? Wieviel Technik steckt dahinter, wie kommen wir in einen flow-Zustand und wie geht es uns emotional damit? Dieser Workshop bietet die Möglichkeit, dir ein erstes Bild zu machen um vielleicht weiter in die faszinierende Welt des Contact Improvisation-Tanzens einzutauchen. 
 
 [**19./20.3.2022: Deep Listening**\
 **mit Christian Apschner und Karola Reifetshamer**](deeplistening)](#deeplistening)
