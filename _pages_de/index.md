@@ -31,7 +31,7 @@ Fotocredit: https://johannes-stolba.net/photography/
 
 **Kursbeginn 19.-22.9.2022**, offene Schnupperstunden in den ersten drei Kurswochen
 
-**[1 Energize Through Motion Zeitgenössischer Tanz/CI light/ Somatics ](/kurse#mo)open level**\
+**[1 "Energize Through Motion" Zeitgenössischer Tanz/CI light/ Somatics ](/kurse#mo)open level**\
 **mit maRia Probst**  \
 **Mo 19.9.2022.– 30.1.2023, 18.30 - 20.15 (ca.16x)**\
 **Turnsaal VS Gilgegasse 12, 1090 Wien**
@@ -57,7 +57,7 @@ Turnsaal VS Einsiedlergasse 7, 1050 Wien**
 
 **15./16.10.2022 "Liquid Motion" - Zeitgenössischer Tanz, Tanzimprovisation und Somatics mit maRia Probst**
 
-**5./6.11.2022 From Bodywork into Contact mit Christian Apschner und maRia Probst**
+**5./6.11.2022 "From Bodywork into Movement" Bodywork, CI, Bewegungsexploration mit Christian Apschner und maRia Probst**
 
 **21./22.1.2023 Contact Flying Skills**
 
