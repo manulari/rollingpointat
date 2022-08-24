@@ -17,7 +17,7 @@ Fotocredits: He Shao Hui
 >
 > **15./16.10.2022: "Liquid Motion" mit maRia Probst**
 >
-> **5./6.11.2022: "From Bodywork into Contact" mit Christian Apschner und maRia Probst**
+> **5./6.11.2022: "From Bodywork into Movement" mit Christian Apschner und maRia Probst**
 >
 > **21./22.1.2023: "Contact Flying Skills" mit Christian Apschner und support**
 >
@@ -33,18 +33,29 @@ Du tanzt und bewegst dich gerne und möchtest Contact Improvisation im Rahmen ei
 
 #### **"Energize through Motion" / Intro-Workshop open level:**
 
-**Zeitgenössischer Tanz, CI light and Somatics
+**Zeitgenössischer Tanz, CI light und Somatics
 mit maRia Probst
 So 4.9.2022, 15.00-18.00h**
 Prana-Yoga Studio 1, Mariahilferstraße 82, 1070 Wien
 
 Über ziehen, drücken, gleiten, rollen, rutschen... sind wir in unseren ersten Lebensjahren unmittelbar und mühelos in Kontakt mit der Welt. An diesem Nachmittag wollen wir diese uns innewohnenden Möglichkeiten wieder ansprechen. Wir lassen unnötige Körperspannung los und setzen dadurch Energie frei. Geschmeidig wie Katzen mobilisieren wir unsere Wirbelkette und erleben diese zentrale Körperstruktur als verlässliche Partnerin in und aus dem Boden, in Kontakt mit unseren Tanzkolleg*innen und im Dialog mit dem Raum. Dieser Kurzworkshop kann als Vorbereitung für die darauffolgende rollingpoint- jam genützt werden (Details dazu siehe:.). Menschen die sich einen Nachmittag der Leichtigkeit in Bewegung und im physischen Kontakt widmen wollen sind ebenso willkommen, wie auch jene die einen Einblick in den Semesterkurs „Energize Through Motion“ gewinnen wollen.
 
-\
 **Kosten:** Normalpreis 48€, ermäßigt 32€\
 Einzahlung auf Konto\
 IBAN:AT54 3200 0000 1701 2717, BIC: RLNWATWW, Verein rollingpoint\
 Anmeldung bzw. weitere Infos: ci.rollingpoint@gmail.com,  ab 2.9 unter maRia 0650 9510814
+
+#### "From Bodywork into Movement" open level
+**mit maRia Probst und Christian Apschner 
+Sa 5./ So 6.11.2022, 10-17h**, Prana-Yoga Studio 1, Mariahilferstraße 82, 1070 Wien
+
+Vielfältige Berührung kann eine Quelle für eine Bandbreite an Bewegungsqualitäten darstellen. Dabei reicht es oft, in einer angemessenen Haltung, unserer Intuition freien Lauf zu lassen. In diesem Workshop wollen wir diesem uns Menschen meist Grund gelegten Bedürfnis nach Berührung und der Fähigkeit dazu, Raum geben und in Bewegung münden lassen.
+
+Darüber hinaus werden wir spezifisches Know How aus unseren Berührungs-Fachgebieten Tuina, Trager, Somatische Faszientherapie und Orthobionomie anbieten.
+
+Wir werden zentrale Verbindungen unseres Bewegungssystems wie die Enden unserer Wirbelkette , Schultern-Hüftgelenke oder die Hand- und Fußfesseln ansprechen, verschiedene Aspekte unseres Nervensystems wie das sympathische, parasympathische, somatische oder enterische adressieren und auf unserer Körperflüssigkeiten eingehen. Dabei werden weitere Strukturen wie Haut, Fett und Organe mit bewegt und beeinflusst.
+
+Unser Fokus liegt an diesem Wochenende darin, diesen Berührungsschatz im Sinne der Bewegungsvielfalt, der Bewegungsqualität und dem angemessenen Einsatz von Energie und Kraft zu heben, um ihn in unsere tänzerischen Beziehungen sowohl in der Contact Improvisation wie auch in der freien Improvisation fließen zu lassen.
 
 #### **Achtung: Die untenstehenden Texte zu den Workshops im Sommer und Herbst 2022 befinden sich noch in Bearbeitung!**
 
