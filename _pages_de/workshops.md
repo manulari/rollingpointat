@@ -57,6 +57,25 @@ Wir werden zentrale Verbindungen unseres Bewegungssystems wie die Enden unserer 
 
 Unser Fokus liegt an diesem Wochenende darin, diesen Berührungsschatz im Sinne der Bewegungsvielfalt, der Bewegungsqualität und dem angemessenen Einsatz von Energie und Kraft zu heben, um ihn in unsere tänzerischen Beziehungen sowohl in der Contact Improvisation wie auch in der freien Improvisation fließen zu lassen.
 
+## Organisatorisches:
+
+**Ort:** Alle Workshops finden im Prana Yoga-Studio Nr.1, Mariahilferstr. 82, 1070 Wien statt.
+
+**Anmeldung:** per email ci.rollingpoint@gmail.com\
+Tel. Christian 0650 8931081, maRia 0650 9510814
+
+**Kosten:**\
+**Frühbucherpreis € 190/150/110,-** (Supporter/Normalpreis/ermäßigt) bei Einzahlung bis 14 Tage vor Workshopbeginn\
+**€ 210/170/130,-** (Supporter/Normalpreis/ermäßigt) bei Einzahlung ab 13 Tagen vor Workshopbeginn
+
+**Bezahlung:** Bitte die Kostenbeiträge immer vorab auf unser Konto\
+IBAN:AT54 3200 0000 1701 2717, BIC: RLNWATWW, Verein rollingpoint, einzahlen. 
+
+**Stornobedingungen:** Bei Abmeldung bis sieben Tage vor dem Workshop wird der gesamte Betrag abzgl. einer Bearbeitungsgebühr von € 10,- zurückbezahlt. 50% Storno bis zwei Tage vor dem Workshop. Am Vortag und Tag des Workshops kein Storno mehr möglich. Es kann aber eine Ersatzperson nominiert werden.\
+Aus Gründen von CoVid ist für beide Seiten jederzeit eine Stornierung möglich.
+
+***Sämtliche rp Angebote werden entsprechend der aktuellen Covid19 Präventionsverordnungen abgehalten.***
+
 #### **Achtung: Die untenstehenden Texte zu den Workshops im Sommer und Herbst 2022 befinden sich noch in Bearbeitung!**
 
 ## Workshoptermine (Rückblick):
@@ -133,8 +152,6 @@ IBAN:AT54 3200 0000 1701 2717, BIC: RLNWATWW, Verein rollingpoint, einzahlen.�
 Aus Gründen von CoVid ist für beide Seiten jederzeit eine Stornierung möglich.
 
 ***Sämtliche rp Angebote werden entsprechend der aktuellen Covid19 Präventionsverordnungen abgehalten.***
-
-&nbsp;
 
 ![](/assets/uploads/lsz_5750.jpg)
 
