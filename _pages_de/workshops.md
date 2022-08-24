@@ -45,6 +45,16 @@ Einzahlung auf Konto\
 IBAN:AT54 3200 0000 1701 2717, BIC: RLNWATWW, Verein rollingpoint\
 Anmeldung bzw. weitere Infos: ci.rollingpoint@gmail.com,  ab 2.9 unter maRia 0650 9510814
 
+
+
+#### „Liquid Motion“ open level
+**mit maRia Probst
+Sa 15./So 16.10.2022 10.00-17.00h**Prana-Yoga Studio 1, Mariahilferstraße 82, 1070 Wien
+
+An diesem Wochenende begeben wir uns auf einen tänzerischen Tauchgang in die flüssigen Bewegungswelten unseres Körpers. Wir sprechen dabei im Sinne von BodyMindCentering über spezifische Berührung, anatomische Information oder verbale Anleitung, Körperflüßigkeiten wie: Gelenksflüßigkeit, Blut oder Lymphe an. Mit Elementen aus weiteren Somatic Movement Praktiken, zeitgenössischem Tanz und Contact Improvisation vertiefen wir unser Körperbewusstheit und erweitern und verfeinern unsere Bewegungsmöglichkeiten. Spezifische Musik und Vorstellungsbilder verstärken unseren Zugang zum Schatz der Eigenbewegung unseres inneren Meeres als Basis für vielgestaltigen Tanz mit und ohne physischen Kontakt.
+
+
+
 #### "From Bodywork into Movement" open level
 **mit maRia Probst und Christian Apschner 
 Sa 5./ So 6.11.2022, 10-17h**, Prana-Yoga Studio 1, Mariahilferstraße 82, 1070 Wien
@@ -53,7 +63,7 @@ Vielfältige Berührung kann eine Quelle für eine Bandbreite an Bewegungsqualit
 
 Darüber hinaus werden wir spezifisches Know How aus unseren Berührungs-Fachgebieten Tuina, Trager, Somatische Faszientherapie und Orthobionomie anbieten.
 
-Wir werden zentrale Verbindungen unseres Bewegungssystems wie die Enden unserer Wirbelkette , Schultern-Hüftgelenke oder die Hand- und Fußfesseln ansprechen, verschiedene Aspekte unseres Nervensystems wie das sympathische, parasympathische, somatische oder enterische adressieren und auf unserer Körperflüssigkeiten eingehen. Dabei werden weitere Strukturen wie Haut, Fett und Organe mit bewegt und beeinflusst.
+Wir werden zentrale Verbindungen unseres Bewegungssystems wie die Enden unserer Wirbelkette , Schultern-Hüftgelenke oder die Hand- und Fußfesseln ansprechen, verschiedene Aspekte unseres Nervensystems wie das sympathische, parasympathische, somatische oder enterische adressieren eingehen. Dabei werden weitere Strukturen wie Haut, Fett und Organe mit bewegt und beeinflusst.
 
 Unser Fokus liegt an diesem Wochenende darin, diesen Berührungsschatz im Sinne der Bewegungsvielfalt, der Bewegungsqualität und dem angemessenen Einsatz von Energie und Kraft zu heben, um ihn in unsere tänzerischen Beziehungen sowohl in der Contact Improvisation wie auch in der freien Improvisation fließen zu lassen.
 
