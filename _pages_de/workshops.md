@@ -6,8 +6,6 @@ title: Wochenend-Workshops
 
 Fotocredits: He Shao Hui
 
-> ### *Unsere neuen Workshoptermine stehen fest. Weitere Details folgen.*
->
 > ### Sommer-Workshops an zwei Sonntag-Nachmittagen
 >
 > **Contact Improvisation** beginner So 21.8.2022, 14.00-18.00h mit Christian Apschner
@@ -18,13 +16,13 @@ Fotocredits: He Shao Hui
 >
 > **15./16.10.2022: "Liquid Motion" mit maRia Probst**
 >
-> **5./6.11.2022: "From Bodywork into Movement" mit Christian Apschner und maRia Probst**
+> **5./6.11.2022: "From Bodywork into Contact Impovisation" mit Christian Apschner und maRia Probst**
 >
-> **21./22.1.2023: "Contact Flying Skills" mit Christian Apschner und support**
+> **xx./xx.1.2023: "Contact Flying Skills" mit Christian Apschner und support**
 >
 > <div class="named-anchor" id="intro"></div>
 
-#### **"Energize through Motion" / Intro-Workshop open level:**
+#### **"Energize through Motion" / Intro-Workshop open level**
 
 **Zeitgenössischer Tanz, CI light und Somatics
 mit maRia Probst
@@ -38,27 +36,39 @@ Einzahlung auf Konto\
 IBAN:AT54 3200 0000 1701 2717, BIC: RLNWATWW, Verein rollingpoint\
 Anmeldung bzw. weitere Infos: ci.rollingpoint@gmail.com,  ab 2.9 unter 0650 9510814 (maRia)
 
-
-
 #### „Liquid Motion“ open level
+
 **mit maRia Probst
-Sa 15./So 16.10.2022 10.00-17.00h**Prana-Yoga Studio 1, Mariahilferstraße 82, 1070 Wien
+Sa/So 15./16.10.2022 10.00-17.00h**\
+Prana-Yoga Studio 1, Mariahilferstraße 82, 1070 Wien
 
 An diesem Wochenende begeben wir uns auf einen tänzerischen Tauchgang in die flüssigen Bewegungswelten unseres Körpers. Wir sprechen dabei im Sinne von BodyMindCentering über spezifische Berührung, anatomische Information oder verbale Anleitung, Körperflüßigkeiten wie: Gelenksflüßigkeit, Blut oder Lymphe an. Mit Elementen aus weiteren Somatic Movement Praktiken, zeitgenössischem Tanz und Contact Improvisation vertiefen wir unser Körperbewusstheit und erweitern und verfeinern unsere Bewegungsmöglichkeiten. Spezifische Musik und Vorstellungsbilder verstärken unseren Zugang zum Schatz der Eigenbewegung unseres inneren Meeres als Basis für vielgestaltigen Tanz mit und ohne physischen Kontakt.
 
+#### "From Bodywork into Contact Improvisation" open level
 
-
-#### "From Bodywork into Movement" open level
 **mit maRia Probst und Christian Apschner 
-Sa 5./ So 6.11.2022, 10-17h**, Prana-Yoga Studio 1, Mariahilferstraße 82, 1070 Wien
+Sa/So 5./ 6.11.2022, 10.00-17.00**, Prana-Yoga Studio 1, Mariahilferstraße 82, 1070 Wien
 
-Vielfältige Berührung kann eine Quelle für eine Bandbreite an Bewegungsqualitäten darstellen. Dabei reicht es oft, in einer angemessenen Haltung, unserer Intuition freien Lauf zu lassen. In diesem Workshop wollen wir diesem uns Menschen meist Grund gelegten Bedürfnis nach Berührung und der Fähigkeit dazu, Raum geben und in Bewegung münden lassen.
+Bewegung und Berührung sind die Grundlage aller menschlichen Entwicklungsprozesse. In diesem Workshop nutzen wir hands-on bodywork als wirkames Mittel zur Regulation des autonomen Nervensystems, für einen freien Bewegungsfluss und um neue Bewegungsmöglichkeiten zu eröffnen. Dabei reicht es oft aus in einer angemessenen Haltung unserer Intuition freien Lauf zu lassen. Darüber hinaus werden wir spezifisches Know How aus unseren Berührungs-Fachgebieten Tuina, Trager Psychophysische Integration, Somatische Faszientherapie und Orthobionomie anbieten.
 
-Darüber hinaus werden wir spezifisches Know How aus unseren Berührungs-Fachgebieten Tuina, Trager, Somatische Faszientherapie und Orthobionomie anbieten.
+Durch unsere mit anatomischen und imaginativen Vorstellungsbildern unterstützten Anleitungen wird es möglich, kleinste Veränderungen von Muskelanspannungen und andere kinästhetische Empfindungen wahrzunehmen. Wir werden zentrale Verbindungen unseres Bewegungssystems wie die Enden unserer Wirbelkette, Schultern-Hüftgelenke oder die Hand- und Fußfesseln ansprechen und verschiedene Aspekte unseres Nervensystems wie das sympathische, parasympathische, somatische oder enterische Nervensystem adressieren. 
 
-Wir werden zentrale Verbindungen unseres Bewegungssystems wie die Enden unserer Wirbelkette , Schultern-Hüftgelenke oder die Hand- und Fußfesseln ansprechen, verschiedene Aspekte unseres Nervensystems wie das sympathische, parasympathische, somatische oder enterische adressieren eingehen. Dabei werden weitere Strukturen wie Haut, Fett und Organe mit bewegt und beeinflusst.
+Unser Fokus liegt an diesem Wochenende darin, diesen "Berührungsschatz" im Sinne von Bewegungsvielfalt, Bewegungsqualität und angemessenen Einsatz von Energie und Kraft zu heben, um ihn in unsere tänzerischen Beziehungen sowohl in der Contact Improvisation wie auch in der freien Improvisation einfließen zu lassen.  In der Contact Improvisation begegnen wir unseren TanzpartnerInnen in Form eines nonverbalen Dialogs und in diversen Übungssettings lernen wir, Bewegung im Kontakt körpergerecht und im Zusammenspiel mit den physikalischen Gesetzmäßigkeiten zu gestalten.
 
-Unser Fokus liegt an diesem Wochenende darin, diesen Berührungsschatz im Sinne der Bewegungsvielfalt, der Bewegungsqualität und dem angemessenen Einsatz von Energie und Kraft zu heben, um ihn in unsere tänzerischen Beziehungen sowohl in der Contact Improvisation wie auch in der freien Improvisation fließen zu lassen.
+
+
+#### **"Contact Flying Skills"** - advanced
+
+**Sa/So xx./01.2023, 10.00-17.00  (ca 1,5h Mittagspause)**\
+**mit Christian Apschner und support tba**
+
+Der rollingpoint Workshop-Klassiker für alle CI-TänzerInnen mit sportlichen Ambitionen!
+
+Dieser technikorientierte Workshop lädt bewegungsfreudige CI-TänzerInnen ein, ihr Bewegungsspektrum zu erweitern und sich aufs Fliegen, Fallen und auf akrobatische Elemente einzulassen. Ein Schwerpunkt des Wochenendes wird sein, verschiedene Lifts und Jumps in allen Raumebenen zu üben und kopfüber auf den Händen zu tanzen.
+
+Wir stellen eine Verbindung von Athletischem und Meditativem her und lernen durch eine anatomisch gute Körperausrichtung sowie durch Modulation der Körperspannung und Nutzung der Schwungenergie Gewicht körperschonend aufzunehmen und abzugeben. Im Laufe des Lernprozesses eröffnet sich die Fähigkeit sich dem gemeinsamen Bewegungsfluss hinzugeben und gleichzeitig den gemeinsamen Tanz so präsent wahrzunehmen, dass dieser Fluss spielerisch gelenkt werden kann.
+
+Für diesen Workshop sind CI-Grund- und Tanzerfahrung sowie gute körperliche und mentale Fitness empfehlenswert.
 
 ## Organisatorisches:
 
@@ -68,8 +78,8 @@ Unser Fokus liegt an diesem Wochenende darin, diesen Berührungsschatz im Sinne 
 Tel. Christian 0650 8931081, maRia 0650 9510814
 
 **Kosten:**\
-**Frühbucherpreis € 190/150/110,-** (Supporter/Normalpreis/ermäßigt) bei Einzahlung bis 14 Tage vor Workshopbeginn\
-**€ 210/170/130,-** (Supporter/Normalpreis/ermäßigt) bei Einzahlung ab 13 Tagen vor Workshopbeginn
+**Frühbucherpreis € 200/160/120,-** (Supporter/Normalpreis/ermäßigt) bei Einzahlung bis 14 Tage vor Workshopbeginn\
+**€ 220/190/140,-** (Supporter/Normalpreis/ermäßigt) bei Einzahlung ab 13 Tagen vor Workshopbeginn
 
 **Bezahlung:** Bitte die Kostenbeiträge immer vorab auf unser Konto\
 IBAN:AT54 3200 0000 1701 2717, BIC: RLNWATWW, Verein rollingpoint, einzahlen. 
@@ -144,25 +154,6 @@ Dieser technikorientierte Workshop lädt bewegungsfreudige CI-TänzerInnen ein, 
 Wir stellen eine Verbindung von Athletischem und Meditativem her und lernen durch eine anatomisch gute Körperausrichtung sowie durch Modulation der Körperspannung und Nutzung der Schwungenergie Gewicht körperschonend aufzunehmen und abzugeben. Im Laufe des Lernprozesses eröffnet sich die Fähigkeit sich dem gemeinsamen Bewegungsfluss hinzugeben und gleichzeitig den gemeinsamen Tanz so präsent wahrzunehmen, dass dieser Fluss spielerisch gelenkt werden kann.
 
 Für diesen Workshop sind CI-Grund- und Tanzerfahrung sowie gute körperliche und mentale Fitness empfehlenswert.
-
-## Organisatorisches:
-
-**Ort:** Alle Workshops finden im Prana Yoga-Studio Nr.1, Mariahilferstr. 82, 1070 Wien statt.
-
-**Anmeldung:** per email ci.rollingpoint@gmail.com\
-Tel. Christian 0650 8931081, maRia 0650 9510814
-
-**Kosten:**\
-**Frühbucherpreis € 190/150/110,-** (Supporter/Normalpreis/ermäßigt) bei Einzahlung bis 14 Tage vor Workshopbeginn\
-**€ 210/170/130,-** (Supporter/Normalpreis/ermäßigt) bei Einzahlung ab 13 Tagen vor Workshopbeginn
-
-**Bezahlung:** Bitte die Kostenbeiträge immer vorab auf unser Konto\
-IBAN:AT54 3200 0000 1701 2717, BIC: RLNWATWW, Verein rollingpoint, einzahlen. 
-
-**Stornobedingungen:** Bei Abmeldung bis sieben Tage vor dem Workshop wird der gesamte Betrag abzgl. einer Bearbeitungsgebühr von € 10,- zurückbezahlt. 50% Storno bis zwei Tage vor dem Workshop. Am Vortag und Tag des Workshops kein Storno mehr möglich. Es kann aber eine Ersatzperson nominiert werden.\
-Aus Gründen von CoVid ist für beide Seiten jederzeit eine Stornierung möglich.
-
-***Sämtliche rp Angebote werden entsprechend der aktuellen Covid19 Präventionsverordnungen abgehalten.***
 
 ![](/assets/uploads/lsz_5750.jpg)
 
