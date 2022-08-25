@@ -54,9 +54,9 @@ An diesem Wochenende begeben wir uns auf einen tänzerischen Tauchgang in die fl
 **mit maRia Probst und Christian Apschner 
 Sa/So 5./ 6.11.2022, 10.00-17.00**, Prana-Yoga Studio 1, Mariahilferstraße 82, 1070 Wien
 
-Bewegung und Berührung sind die Grundlage aller menschlichen Entwicklungsprozesse. In diesem Workshop nutzen wir hands-on bodywork als wirkames Mittel zur Regulation des autonomen Nervensystems, für einen freien Bewegungsfluss und um neue Bewegungsmöglichkeiten zu eröffnen. Dabei reicht es oft aus in einer angemessenen Haltung unserer Intuition freien Lauf zu lassen. Darüber hinaus werden wir spezifisches Know How aus unseren Berührungs-Fachgebieten Tuina, Trager Psychophysische Integration, Somatische Faszientherapie und Orthobionomie anbieten.
+Bewegung und Berührung sind die Grundlage aller menschlichen Entwicklungsprozesse. In unserem Workshop verwenden wir hands-on bodywork-Techniken zur Regulation des autonomen Nervensystems, für einen freien Bewegungsfluss und um neue wohltuende Bewegungsmöglichkeiten zu eröffnen. Oft reicht es aus in einer angemessenen Haltung unserer Intuition freien Lauf zu lassen. Darüber hinaus werden wir spezifisches Know How aus unseren Berührungs-Fachgebieten Tuina, Trager Psychophysische Integration, Somatische Faszientherapie und Orthobionomie anbieten.
 
-Durch unsere mit anatomischen und imaginativen Vorstellungsbildern unterstützten Anleitungen wird es möglich, kleinste Veränderungen von Muskelanspannungen und andere kinästhetische Empfindungen wahrzunehmen. Wir werden zentrale Verbindungen unseres Bewegungssystems wie die Enden unserer Wirbelkette, Schultern-Hüftgelenke oder die Hand- und Fußfesseln ansprechen und verschiedene Aspekte unseres Nervensystems adressieren. 
+Mit unseren durch anatomisch-imaginative Vorstellungsbilder unterstützten Anleitungen wird es möglich, kleinste Veränderungen von Muskelanspannungen und andere kinästhetische Empfindungen wahrzunehmen. Zentrale Verbindungen unseres Bewegungssystems wie die Enden unserer Wirbelkette, Schultern-Hüftgelenke oder die Hand- und Fußfesseln werden gezielt angesprochen.
 
 Unser Fokus liegt an diesem Wochenende darin, diesen "Berührungsschatz" im Sinne von Bewegungsvielfalt, Bewegungsqualität und angemessenen Einsatz von Energie und Kraft zu heben, um ihn in unsere tänzerischen Beziehungen sowohl in der Contact Improvisation wie auch in der freien Improvisation einfließen zu lassen.  In der Contact Improvisation begegnen wir unseren TanzpartnerInnen in Form eines nonverbalen Dialogs und in diversen Übungssettings lernen wir, Bewegung im Kontakt körpergerecht und im Zusammenspiel mit den physikalischen Gesetzmäßigkeiten zu gestalten.
 
@@ -69,9 +69,9 @@ Unser Fokus liegt an diesem Wochenende darin, diesen "Berührungsschatz" im Sinn
 
 Der rollingpoint Workshop-Klassiker für alle CI-TänzerInnen mit sportlichen Ambitionen!
 
-Dieser technikorientierte Workshop lädt bewegungsfreudige CI-TänzerInnen ein, ihr Bewegungsspektrum zu erweitern und sich aufs Fliegen, Fallen und auf akrobatische Elemente einzulassen. Ein Schwerpunkt des Wochenendes wird sein, verschiedene Lifts und Jumps in allen Raumebenen zu üben und kopfüber auf den Händen zu tanzen.
+Dieser technikorientierte Workshop lädt dich ein, dein Bewegungsspektrum zu erweitern und dich aufs Fliegen, Fallen und auf akrobatische Elemente einzulassen. Ein Schwerpunkt des Wochenendes wird sein, verschiedene Lifts und Jumps in allen Raumebenen zu üben und kopfüber auf den Händen zu tanzen.
 
-Wir stellen eine Verbindung von Athletischem und Meditativem her und lernen durch eine anatomisch gute Körperausrichtung sowie durch Modulation der Körperspannung und Nutzung der Schwungenergie Gewicht körperschonend aufzunehmen und abzugeben. Im Laufe des Lernprozesses eröffnet sich die Fähigkeit sich dem gemeinsamen Bewegungsfluss hinzugeben und gleichzeitig den gemeinsamen Tanz so präsent wahrzunehmen, dass dieser Fluss spielerisch gelenkt werden kann.
+Wir stellen eine Verbindung von Athletischem und Meditativem her und lernen durch eine anatomisch gute Körperausrichtung sowie durch Modulation der Körperspannung und Nutzung der Schwungenergie Gewicht schonend aufzunehmen und abzugeben. Im Laufe des Lernprozesses wird es immer leichter sich dem Bewegungsfluss hinzugeben und gleichzeitig den Tanz so präsent wahrzunehmen, dass wir ihn spielerisch lenken können.
 
 Für die Teilnahme an diesem Workshop sind CI-Grund- und Tanzerfahrung sowie gute körperliche und mentale Fitness erforderlich.
 
