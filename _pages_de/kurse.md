@@ -47,13 +47,13 @@ mit **Christian Apschner**\
 **Di 18.15 – 20.30**, 20.9.2022- 31.1.2022 (ca. 16x)\
 Turnsaal VS Einsiedlergasse 7, 1050 Wien
 
-In diesem aufbauenden Kurs möchte ich bewegungsfreudige BeginnerInnen einladen in die Welt der Contact Improvisation einzutauchen. Mit ausreichend Zeit, Fokus und Kontinuität erlernen und vertiefen wir Grundelemente der Contact Improvisation. Im Fokus stehen die Technik des gegenseitigen Gewichtabgebens und -nehmens unter Berücksichtigung anatomischer Gegebenheiten und das Spiel mit dem Bewegungsfluss und rollenden Kontaktpunkt. Wir trainieren Kraft und Beweglichkeit, lernen einfache Jumps und Lifts, uns fallen zu lassen und sicher zu landen. Verschiedene Variationen von Roll- und Spiralbewegungen erweitern unsere tänzerischen Fähigkeiten.
+In diesem aufbauenden Kurs möchte ich bewegungsfreudige BeginnerInnen einladen in die Welt der Contact Improvisation einzutauchen. Mit ausreichend Zeit, Fokus und Kontinuität erlernen und vertiefen wir Grundelemente der Contact Improvisation. Im Fokus stehen die Technik des gegenseitigen Gewichtabgebens und -nehmens unter Berücksichtigung anatomischer Gegebenheiten und das Spiel mit Bewegungsfluss und rollendem Kontaktpunkt. Wir trainieren Kraft und Beweglichkeit, lernen einfache Jumps und Lifts, und üben uns fallen zu lassen und sicher zu landen. Verschiedene Variationen von Roll- und Spiralbewegungen erweitern unsere tänzerischen Fähigkeiten.
 
-Nicht zuletzt verstehen wir die Contact Improvisation auch als eine Form von nonverbaler Kommunkation und Begegnung, in der wir lernen auf unsere eigenen körperlich-mentalen Bedürfnisse und Grenzen und die unserer TanzpartnerInnen gleichermaßen zu achten. In sprachlichen feedback-Runden möchten wir dieser Thematik zusätzlich Raum geben.
+Nicht zuletzt verstehen wir die Contact Improvisation auch als eine Form von nonverbaler Kommunikation und Begegnung, in der wir lernen auf unsere eigenen körperlich-mentalen Bedürfnisse und Grenzen und die unserer TanzpartnerInnen gleichermaßen zu achten. In verbalen Feedback-Runden möchten wir diesen Erfahrungen zusätzlich Raum geben.
 
 Der Kurs wird im Sommersemester 2023 als beginner/intermediate Kurs fortgeführt werden, wobei alle TeilnehmerInnen eingeladen sind mit fortschreitendem Lernprozess an den rollingpoint-Jams teilzunehmen bzw. zusätzlich kostenlos die open level-Termine des Contact-Dojos am Mittwoch zu besuchen. In diesem Sinne kann die Teilnahme am Gesamtpaket als **Ausbildungsprogramm** verstanden werden.
 
-Teilnahmeempfehlungen: Da wir in der Contact Improvisation gegenseitig Körpergewicht abgeben und übernehmen, sind ein bestimmtes Ausmaß an Bewegungstalent und Sensitivität für den eigenen Körper und die Grenzen anderer erforderlich für die Teilnahme an diesem Kurs. Bewegungsvorerfahrungen aller Art sowie Lust und Freude an körperlich/physischem Einsatz und sich "fallen zu lassen" sind von Vorteil.
+Teilnahmeempfehlungen: Da wir in der Contact Improvisation gegenseitig Körpergewicht abgeben und übernehmen, sind ein bestimmtes Ausmaß an Bewegungstalent und Sensitivität für den eigenen Körper und die Grenzen anderer erforderlich für die Teilnahme an diesem Kurs. Bewegungsvorerfahrungen aller Art sowie Lust und Freude an körperlichem Einsatz und sich "fallen zu lassen" sind von Vorteil.
 
 <div class="named-anchor" id="mi"></div>
 
@@ -71,7 +71,8 @@ Turnsaal VS Einsiedlergasse 7, 1050 Wien\
 
 siehe: [Rollingpoint - CI-DOJO (Training+Jam)](/dojo)
 
-Du bringst bereits solide Basiskenntnisse der Contact Improvisation mit und möchtest dein Bewegungsspektrum erweitern und verfeinern. Dann ist diese fortlaufende Trainingsgruppe das richtige für dich. Ein Schwerpunkt des Kurses wird auch sein, verschiedene Lifts und Jumps in allen Raumebenen zu üben und kopfüber auf den Händen zu tanzen. Wir lernen durch eine anatomisch gute Körperausrichtung sowie durch Modulation der Körperspannung und Nutzung der Schwungenergie Gewicht körperschonend aufzunehmen und abzugeben. Im Laufe des Lernprozesses eröffnet sich die Fähigkeit sich dem gemeinsamen Bewegungsfluss hinzugeben und gleichzeitig den gemeinsamen Tanz so präsent wahrzunehmen, dass dieser Fluss spielerisch gelenkt werden kann.
+Du bringst bereits solide Basiskenntnisse der Contact Improvisation mit und möchtest dein Bewegungsspektrum erweitern und verfeinern?\
+Dann ist diese fortlaufende Trainingsgruppe das richtige für dich. Ein Schwerpunkt des Kurses wird sein, verschiedene Lifts und Jumps in allen Raumebenen zu üben und kopfüber auf den Händen zu tanzen. Wir lernen durch gute Körperausrichtung sowie durch angepassste Körperspannung und Nutzung der Schwungenergie Gewicht schonend aufzunehmen und abzugeben. Im Laufe des Lernprozesses eröffnet sich die Fähigkeit sich dem gemeinsamen Bewegungsfluss hinzugeben und gleichzeitig den gemeinsamen Tanz so präsent wahrzunehmen, dass dieser Fluss spielerisch gelenkt werden kann.
 
 Jeweils 3-4 Termine werden von den GastlehrerInnen **Ingrid Hörlezeder** und **Alina Bertha** gestaltet. Ingrid Hörlezeder wird uns durch Anleihen aus Trager Psychophysicher Integration unterstützen mehr Leichtigkeit im Tanz zu finden und unsere Wahrnehmung weiter zu verfeinern. Alinas Training basiert auf zeitgenössicher Tanztechnik mit dem Fokus auf Bewegungsfluss und Elementen des breakdance.
 
