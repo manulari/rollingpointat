@@ -27,10 +27,8 @@ title: KURSE UND WORKSHOPS
 #### 1 "Energize Through Motion" Zeitgenössischer Tanz/CI light/ Somatics
 
 mit **maRia Probst -** *open level*\
-
-* *open level*\
-  **Mo 18.30 - 20.15**; 19.9.2022 – 30.1.2023 (ca.16x)\
-  Turnsaal VS Gilgegasse 12, 1090 Wien
+**Mo 18.30 - 20.15**; 19.9.2022 – 30.1.2023 (ca.16x)\
+Turnsaal VS Gilgegasse 12, 1090 Wien
 
 Sich wirbeln, satt am Boden landen, dagegen drücken und das Momentum des plötzlichen Loslassens nützen, sind Elemente unseres grundlegenden Bewegungsvokabulars als Menschen. In diesem Kurs wollen wir wieder eintauchen in die Unmittelbarkeit unseres frühen Seins als Säuglinge und Kinder. Wir wollen über ziehen, drücken, gleiten, rollen, rutschen...in Bezug treten mit der Welt und erleben wie wir uns dabei aufladen, wie wir auftanken können. Oft kann dadurch unser kritischer Geist ruhen und wir sind bereit müheloser unser vorhandenes Bewegungsspektrum zu erweitern. 
 
