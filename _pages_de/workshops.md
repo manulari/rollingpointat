@@ -8,19 +8,20 @@ Fotocredits: He Shao Hui
 
 > ### Sommer-Workshops an zwei Sonntag-Nachmittagen
 >
-> **Contact Improvisation** beginner So 21.8.2022, 14.00-18.00h mit Christian Apschner
+> **21.8.2022: Contact Improvisation** **beginner Intro-Workshop mit Christian Apschner**
 >
-> **"Energize through Motion"   Zeitgenössischer Tanz / CI light /** **Somatics**   So 4.9.2022, 15.00-18.00h mit maRia Probst
+> [**4.9.2022: "Energize through Motion"  Zeitgenössischer Tanz / CI light /** **Somatics**](#energize)\
+>  **mit maRia Probst**
 >
-> ### Wochenend-Workshops:
+> ### Wochenend-Workshops Wintersemester
 >
-> **15./16.10.2022: "Liquid Motion" mit maRia Probst**
+> **[15./16.10.2022: "Liquid Motion" mit maRia Probst](#liquid)**
 >
-> **5./6.11.2022: "From Bodywork into Contact Impovisation" mit Christian Apschner und maRia Probst**
+> **[5./6.11.2022 "From Bodywork into Contact Impovisation" mit maRia Probst und Christian Apschner](#bodywork)**
 >
-> **xx./xx.1.2023: "Contact Flying Skills" mit Christian Apschner und support**
+> **[xx./xx.1.2023: "Contact Flying Skills" mit Christian Apschner und support tba](#flying)**
 >
-> <div class="named-anchor" id="intro"></div>
+> <div class="named-anchor" id="energize"></div>
 
 #### **"Energize through Motion" / Intro-Workshop open level**
 
@@ -36,6 +37,8 @@ Einzahlung auf Konto\
 IBAN:AT54 3200 0000 1701 2717, BIC: RLNWATWW, Verein rollingpoint\
 Anmeldung bzw. weitere Infos: ci.rollingpoint@gmail.com,  ab 2.9 unter 0650 9510814 (maRia)
 
+<div class="named-anchor" id="liquid"></div>
+
 #### „Liquid Motion“ open level
 
 **mit maRia Probst
@@ -43,6 +46,10 @@ Sa/So 15./16.10.2022 10.00-17.00h**\
 Prana-Yoga Studio 1, Mariahilferstraße 82, 1070 Wien
 
 An diesem Wochenende begeben wir uns auf einen tänzerischen Tauchgang in die flüssigen Bewegungswelten unseres Körpers. Wir sprechen dabei im Sinne von BodyMindCentering über spezifische Berührung, anatomische Information oder verbale Anleitung, Körperflüßigkeiten wie: Gelenksflüßigkeit, Blut oder Lymphe an. Mit Elementen aus weiteren Somatic Movement Praktiken, zeitgenössischem Tanz und Contact Improvisation vertiefen wir unser Körperbewusstheit und erweitern und verfeinern unsere Bewegungsmöglichkeiten. Spezifische Musik und Vorstellungsbilder verstärken unseren Zugang zum Schatz der Eigenbewegung unseres inneren Meeres als Basis für vielgestaltigen Tanz mit und ohne physischen Kontakt.
+
+
+
+<div class="named-anchor" id="bodywork"></div>
 
 #### "From Bodywork into Contact Improvisation" open level
 
@@ -56,6 +63,8 @@ Durch unsere mit anatomischen und imaginativen Vorstellungsbildern unterstützte
 Unser Fokus liegt an diesem Wochenende darin, diesen "Berührungsschatz" im Sinne von Bewegungsvielfalt, Bewegungsqualität und angemessenen Einsatz von Energie und Kraft zu heben, um ihn in unsere tänzerischen Beziehungen sowohl in der Contact Improvisation wie auch in der freien Improvisation einfließen zu lassen.  In der Contact Improvisation begegnen wir unseren TanzpartnerInnen in Form eines nonverbalen Dialogs und in diversen Übungssettings lernen wir, Bewegung im Kontakt körpergerecht und im Zusammenspiel mit den physikalischen Gesetzmäßigkeiten zu gestalten.
 
 
+
+<div class="named-anchor" id="flying"></div>
 
 #### **"Contact Flying Skills"** - advanced
 
@@ -127,8 +136,6 @@ Anleitungen aus dem **Focusing**, einem in der Psychotherapie verwendeten Verfa
 2)Die Philosophin April Flakne stellte dazu den Begriff “alloception” (“an enactive bodily receiptivity”) in den Raum, jenem Teil der Wahrnehmung, der sich auf das Lesen und Erkennen der Bedürfnisse aber auch der Gedanken der Tanzpartnerinnen bezieht, welcher mit dem Begriff Empathie nicht hinreichend beschrieben werden kann und auch weit über die kinästhetischen Fragestellungen des Tanzes hinausgeht.
 
 Karola Reifetshamer: <https://www.tiefbewegt.at/ueber-mich/>
-
-
 
 ![](/assets/uploads/lsz_5750.jpg)
 
