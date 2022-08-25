@@ -32,8 +32,8 @@ Fotocredit: https://johannes-stolba.net/photography/
 
 **Kursbeginn 19.-22.9.2022**, offene Schnupperstunden in den ersten drei Kurswochen
 
-**[1 "Energize Through Motion" Zeitgenössischer Tanz/CI light/ Somatics ](/kurse#mo)open level**\
-**mit maRia Probst**  \
+**[1 "Energize Through Motion" Zeitgenössischer Tanz/CI light/ Somatics](/kurse#mo)**\
+**open level, mit maRia Probst**  \
 **Mo 19.9.2022.– 30.1.2023, 18.30 - 20.15 (ca.16x)**\
 **Turnsaal VS Gilgegasse 12, 1090 Wien**
 
