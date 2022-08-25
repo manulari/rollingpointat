@@ -30,7 +30,7 @@ mit maRia Probst
 So 4.9.2022, 15.00-18.00h**
 Prana-Yoga Studio 1, Mariahilferstraße 82, 1070 Wien
 
-Über ziehen, drücken, gleiten, rollen, rutschen... sind wir in unseren ersten Lebensjahren unmittelbar und mühelos in Kontakt mit der Welt. An diesem Nachmittag wollen wir diese uns innewohnenden Möglichkeiten wieder ansprechen. Wir lassen unnötige Körperspannung los und setzen dadurch Energie frei. Geschmeidig wie Katzen mobilisieren wir unsere Wirbelkette und erleben diese zentrale Körperstruktur als verlässliche Partnerin in und aus dem Boden, in Kontakt mit unseren Tanzkolleg*innen und im Dialog mit dem Raum. Dieser Kurzworkshop kann als Vorbereitung für die darauffolgende rollingpoint- jam genützt werden (Details dazu siehe:.). Menschen die sich einen Nachmittag der Leichtigkeit in Bewegung und im physischen Kontakt widmen wollen sind ebenso willkommen, wie auch jene die einen Einblick in den Semesterkurs „Energize Through Motion“ gewinnen wollen.
+Über ziehen, drücken, gleiten, rollen, rutschen... sind wir in unseren ersten Lebensjahren unmittelbar und mühelos in Kontakt mit der Welt. An diesem Nachmittag wollen wir diese uns innewohnenden Möglichkeiten wieder ansprechen. Wir lassen unnötige Körperspannung los und setzen dadurch Energie frei. Geschmeidig wie Katzen mobilisieren wir unsere Wirbelkette und erleben diese zentrale Körperstruktur als verlässliche Partnerin in und aus dem Boden, in Kontakt mit unseren Tanzkolleg*innen und im Dialog mit dem Raum. Menschen die sich einen Nachmittag der Leichtigkeit in Bewegung und im physischen Kontakt widmen wollen sind ebenso willkommen, wie auch jene die einen Einblick in den Semesterkurs „Energize Through Motion“ gewinnen wollen.
 
 **Kosten:** Normalpreis 48€, ermäßigt 32€\
 Einzahlung auf Konto\
@@ -45,9 +45,7 @@ Anmeldung bzw. weitere Infos: ci.rollingpoint@gmail.com,  ab 2.9 unter 0650 9510
 Sa/So 15./16.10.2022 10.00-17.00h**\
 Prana-Yoga Studio 1, Mariahilferstraße 82, 1070 Wien
 
-An diesem Wochenende begeben wir uns auf einen tänzerischen Tauchgang in die flüssigen Bewegungswelten unseres Körpers. Wir sprechen dabei im Sinne von BodyMindCentering über spezifische Berührung, anatomische Information oder verbale Anleitung, Körperflüßigkeiten wie: Gelenksflüßigkeit, Blut oder Lymphe an. Mit Elementen aus weiteren Somatic Movement Praktiken, zeitgenössischem Tanz und Contact Improvisation vertiefen wir unser Körperbewusstheit und erweitern und verfeinern unsere Bewegungsmöglichkeiten. Spezifische Musik und Vorstellungsbilder verstärken unseren Zugang zum Schatz der Eigenbewegung unseres inneren Meeres als Basis für vielgestaltigen Tanz mit und ohne physischen Kontakt.
-
-
+An diesem Wochenende begeben wir uns auf einen tänzerischen Tauchgang in die flüssigen Bewegungswelten unseres Körpers. Wir sprechen dabei im Sinne von BodyMindCentering über spezifische Berührung, anatomische Information oder verbale Anleitung, Körperflüssigkeiten wie Gelenksflüssigkeit, Blut oder Lymphe an. Mit Elementen aus weiteren Somatic Movement Praktiken, zeitgenössischem Tanz und Contact Improvisation vertiefen wir unsere Körperbewusstheit und erweitern und verfeinern unsere Bewegungsmöglichkeiten. Spezifische Musik und Vorstellungsbilder verstärken unseren Zugang zum Schatz der Eigenbewegung unseres inneren Meeres als Basis für vielgestaltigen Tanz mit und ohne physischen Kontakt.
 
 <div class="named-anchor" id="bodywork"></div>
 
@@ -58,11 +56,9 @@ Sa/So 5./ 6.11.2022, 10.00-17.00**, Prana-Yoga Studio 1, Mariahilferstraße 82, 
 
 Bewegung und Berührung sind die Grundlage aller menschlichen Entwicklungsprozesse. In diesem Workshop nutzen wir hands-on bodywork als wirkames Mittel zur Regulation des autonomen Nervensystems, für einen freien Bewegungsfluss und um neue Bewegungsmöglichkeiten zu eröffnen. Dabei reicht es oft aus in einer angemessenen Haltung unserer Intuition freien Lauf zu lassen. Darüber hinaus werden wir spezifisches Know How aus unseren Berührungs-Fachgebieten Tuina, Trager Psychophysische Integration, Somatische Faszientherapie und Orthobionomie anbieten.
 
-Durch unsere mit anatomischen und imaginativen Vorstellungsbildern unterstützten Anleitungen wird es möglich, kleinste Veränderungen von Muskelanspannungen und andere kinästhetische Empfindungen wahrzunehmen. Wir werden zentrale Verbindungen unseres Bewegungssystems wie die Enden unserer Wirbelkette, Schultern-Hüftgelenke oder die Hand- und Fußfesseln ansprechen und verschiedene Aspekte unseres Nervensystems wie das sympathische, parasympathische, somatische oder enterische Nervensystem adressieren. 
+Durch unsere mit anatomischen und imaginativen Vorstellungsbildern unterstützten Anleitungen wird es möglich, kleinste Veränderungen von Muskelanspannungen und andere kinästhetische Empfindungen wahrzunehmen. Wir werden zentrale Verbindungen unseres Bewegungssystems wie die Enden unserer Wirbelkette, Schultern-Hüftgelenke oder die Hand- und Fußfesseln ansprechen und verschiedene Aspekte unseres Nervensystems (sympathisches, parasympathisches, somatisches oder enterisches Nervensystem) adressieren. 
 
 Unser Fokus liegt an diesem Wochenende darin, diesen "Berührungsschatz" im Sinne von Bewegungsvielfalt, Bewegungsqualität und angemessenen Einsatz von Energie und Kraft zu heben, um ihn in unsere tänzerischen Beziehungen sowohl in der Contact Improvisation wie auch in der freien Improvisation einfließen zu lassen.  In der Contact Improvisation begegnen wir unseren TanzpartnerInnen in Form eines nonverbalen Dialogs und in diversen Übungssettings lernen wir, Bewegung im Kontakt körpergerecht und im Zusammenspiel mit den physikalischen Gesetzmäßigkeiten zu gestalten.
-
-
 
 <div class="named-anchor" id="flying"></div>
 
