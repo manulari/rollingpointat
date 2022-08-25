@@ -21,11 +21,12 @@ Fotocredit: https://johannes-stolba.net/photography/
 
 ### Sommer-Workshops:
 
-**[Contact Improvisation Intro](/workshops#intro)** BeginnerInnen So 21.8.2022, 14.00-18.00h mit Christian Apschner\
+**[Contact Improvisation Intro](/workshops#intro)** BeginnerInnen\
+**So 21.8.2022**, 14.00-18.00h mit Christian Apschner\
 \
-"**Energize Through Motion"** - open level
-
-**Zeitgenössischer Tanz, CI light und Somatics** So 4.9.2022, 15.00-18.00h mit maRia Probst
+"**Energize Through Motion"** - open level\
+**Zeitgenössischer Tanz, CI light und Somatics**\
+**So 4.9.2022**, 15.00-18.00h mit maRia Probst
 
 ### Abendkurse Wintersemester 2022/23:
 
@@ -53,13 +54,11 @@ Turnsaal VS Einsiedlergasse 7, 1050 Wien**
 
 ### Wochenend-Workshops:
 
-**Neue Termine (Details folgen):**
-
 **15./16.10.2022 "Liquid Motion" - Zeitgenössischer Tanz, Tanzimprovisation und Somatics mit maRia Probst**
 
-**5./6.11.2022 "From Bodywork into Movement" Bodywork, CI, Bewegungsexploration mit Christian Apschner und maRia Probst**
+**5./6.11.2022 "From Bodywork into Contact Improvisation" mit Christian Apschner und maRia Probst**
 
-**21./22.1.2023 Contact Flying Skills**
+**21./22.1.2023 Contact Flying Skills mit Christian Apschner**
 
 ### **[rollingpoint-Jam: jeden Sonntag 19.00-22.00](/jams)**
 
