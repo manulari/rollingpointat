@@ -68,7 +68,7 @@ Dieser technikorientierte Workshop lädt bewegungsfreudige CI-TänzerInnen ein, 
 
 Wir stellen eine Verbindung von Athletischem und Meditativem her und lernen durch eine anatomisch gute Körperausrichtung sowie durch Modulation der Körperspannung und Nutzung der Schwungenergie Gewicht körperschonend aufzunehmen und abzugeben. Im Laufe des Lernprozesses eröffnet sich die Fähigkeit sich dem gemeinsamen Bewegungsfluss hinzugeben und gleichzeitig den gemeinsamen Tanz so präsent wahrzunehmen, dass dieser Fluss spielerisch gelenkt werden kann.
 
-Für diesen Workshop sind CI-Grund- und Tanzerfahrung sowie gute körperliche und mentale Fitness empfehlenswert.
+Für diesen Workshop sind CI-Grund- und Tanzerfahrung sowie gute körperliche und mentale Fitness erforderlich.
 
 ## Organisatorisches:
 
@@ -101,16 +101,6 @@ Prana-Yoga Studio 1, Mariahilferstraße 82, 1070 Wien\
 \
 Du tanzt und bewegst dich gerne und möchtest Contact Improvisation im Rahmen eines Schnupper-Workshops kennenzulernen. Wie fühlt es sich an am Boden zu rollen, dich fallen und auffangen zu lassen oder im Körperkontakt gegenseitig Gewicht abzugeben und zu übernehmen? Wieviel Technik steckt dahinter, wie kommen wir in einen flow-Zustand und wie geht es uns emotional damit? Dieser Workshop bietet die Möglichkeit, dir ein erstes Bild zu machen um vielleicht weiter in die faszinierende Welt des Contact Improvisation-Tanzens einzutauchen. 
 
-[**19./20.3.2022: Deep Listening**\
-**mit Christian Apschner und Karola Reifetshamer**](deeplistening)](#deeplistening)
-
-[**21./22.5.2022: "Contact Flying Skills"**\
-**mit Christian Apschner und** **Lui Springer (support)**](#flying)
-
-### Workshopbeschreibungen:
-
-<div class="named-anchor" id="deeplistening"></div>
-
 #### **"Deep Listening - Contact Improvisation and Beyond"** - open level
 
 **Sa/So 19./20.3.2022, 10.00-17.30**\
@@ -138,22 +128,7 @@ Anleitungen aus dem **Focusing**, einem in der Psychotherapie verwendeten Verfa
 
 Karola Reifetshamer: <https://www.tiefbewegt.at/ueber-mich/>
 
-&nbsp;
 
-<div class="named-anchor" id="flying"></div>
-
-#### **"Contact Flying Skills"** - advanced
-
-**Sa/So 21./22.5.2022, 10.00-17.00  (ca 1,5h Mittagspause)**\
-**mit Christian Apschner und Lui Springer (support)**
-
-Der rollingpoint Workshop-Klassiker für alle CI-TänzerInnen mit sportlichen Ambitionen!
-
-Dieser technikorientierte Workshop lädt bewegungsfreudige CI-TänzerInnen ein, ihr Bewegungsspektrum zu erweitern und sich aufs Fliegen, Fallen und auf akrobatische Elemente einzulassen. Ein Schwerpunkt des Wochenendes wird sein, verschiedene Lifts und Jumps in allen Raumebenen zu üben und kopfüber auf den Händen zu tanzen.
-
-Wir stellen eine Verbindung von Athletischem und Meditativem her und lernen durch eine anatomisch gute Körperausrichtung sowie durch Modulation der Körperspannung und Nutzung der Schwungenergie Gewicht körperschonend aufzunehmen und abzugeben. Im Laufe des Lernprozesses eröffnet sich die Fähigkeit sich dem gemeinsamen Bewegungsfluss hinzugeben und gleichzeitig den gemeinsamen Tanz so präsent wahrzunehmen, dass dieser Fluss spielerisch gelenkt werden kann.
-
-Für diesen Workshop sind CI-Grund- und Tanzerfahrung sowie gute körperliche und mentale Fitness empfehlenswert.
 
 ![](/assets/uploads/lsz_5750.jpg)
 
