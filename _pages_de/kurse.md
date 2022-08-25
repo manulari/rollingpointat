@@ -75,7 +75,7 @@ Du bringst bereits solide Basiskenntnisse der Contact Improvisation mit und möc
 
 Jeweils 3-4 Termine werden von den GastlehrerInnen **Ingrid Hörlezeder** und **Alina Bertha** gestaltet. Ingrid Hörlezeder wird uns durch Anleihen aus Trager Psychophysicher Integration unterstützen mehr Leichtigkeit im Tanz zu finden und unsere Wahrnehmung weiter zu verfeinern. Alinas Training basiert auf zeitgenössicher Tanztechnik mit dem Fokus auf Bewegungsfluss und Elementen des breakdance.
 
-Die offene Jam im Anschluss an das Training lädt zum freien Contact Improvisations-Tanzen ein. KursteilnehmerInnen sind eingeladen an den vier offenen open level-Terminen (s.o.) kostenlos FreundInnen zum Kennenlernen der Contact Improvisation in den Contact Dojo mitzubringen.
+Die offene Jam im Anschluss an das Training lädt zum freien Contact Improvisations-Tanzen ein. KursteilnehmerInnen sind eingeladen an den drei offenen open level-Terminen (s.o.) kostenlos FreundInnen zum Kennenlernen der Contact Improvisation in den Contact Dojo mitzubringen.
 
 <div class="named-anchor" id="do"></div>
 
