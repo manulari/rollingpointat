@@ -73,7 +73,7 @@ Dieser technikorientierte Workshop lädt bewegungsfreudige CI-TänzerInnen ein, 
 
 Wir stellen eine Verbindung von Athletischem und Meditativem her und lernen durch eine anatomisch gute Körperausrichtung sowie durch Modulation der Körperspannung und Nutzung der Schwungenergie Gewicht körperschonend aufzunehmen und abzugeben. Im Laufe des Lernprozesses eröffnet sich die Fähigkeit sich dem gemeinsamen Bewegungsfluss hinzugeben und gleichzeitig den gemeinsamen Tanz so präsent wahrzunehmen, dass dieser Fluss spielerisch gelenkt werden kann.
 
-Für diesen Workshop sind CI-Grund- und Tanzerfahrung sowie gute körperliche und mentale Fitness erforderlich.
+Für die Teilnahme an diesem Workshop sind CI-Grund- und Tanzerfahrung sowie gute körperliche und mentale Fitness erforderlich.
 
 ## Organisatorisches:
 
