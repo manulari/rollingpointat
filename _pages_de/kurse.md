@@ -30,13 +30,37 @@ mit **maRia Probst -** *open level*\
 **Mo 18.30 - 20.15**; 19.9.2022 – 30.1.2023 (ca.16x)\
 Turnsaal VS Gilgegasse 12, 1090 Wien
 
-Sich wirbeln, satt am Boden landen, dagegen drücken und das Momentum des plötzlichen Loslassens nützen, sind Elemente unseres grundlegenden Bewegungsvokabulars als Menschen. In diesem Kurs wollen wir wieder eintauchen in die Unmittelbarkeit unseres frühen Seins als Säuglinge und Kinder. Wir wollen über ziehen, drücken, gleiten, rollen, rutschen...in Bezug treten mit der Welt und erleben wie wir uns dabei aufladen, wie wir auftanken können. Oft kann dadurch unser kritischer Geist ruhen und wir sind bereit müheloser unser vorhandenes Bewegungsspektrum zu erweitern. 
+In diesem Kurs wollen wir die uns innewohnende körperliche Unmittelbarkeit unseres frühen Seins
+als Säuglinge und Kinder ansprechen. Durch rollen, gleiten, drücken und ziehen verbinden
+wir uns mit der Welt. Wir erweitern damit fast beiläufig unser Bewegungsspektrum und fühlen uns
+dadurch erfrischt und energetisiert.
 
-Somatics öffnen unsere Wahrnehmungsfähigkeit und unser Körperbild. Was unsere Zunge mit den Füßen zu tun hat oder wie die Beine locker vom Zwerchfell hängen können sind mögliche Entdeckungen auf diesem Weg. Aneinander rollen oder dosierte Gewichtsübertragung, Fertigkeiten, die es innerhalb der CI zu erlernen gibt, eröffnen eine in dieser Form einzigartige dreidimensionale Bewegungserfahrung. Spezifische tanztechnische Details lassen uns unseren Rücken besser integrieren oder lustvoller springen. 
 
-Schließlich soll diese reiche Erfahrungswelt auch der Erweiterung unserer Dialogfähigkeit in der Tanzimprovisation dienen, die meist am Ende jeder Einheit das gemeinsame Tun abschließt.
+Spezifische Elemente aus Somatics, dem zeitgenössischen Tanz und der Contact Improvisation
+lassen uns unsere tänzerischen Möglichkeiten weiter entwickeln. Somatics öffnen unsere Wahrnehmungsfähigkeit und verfeinern unser Körperbild. Sie unterstützen
+uns dabei den eigenen Körper und das Zusammenspiel von Muskeln, Knochen und Organen besser
+zu verstehen. So können wir beispielsweise begreifen, was unsere Zunge mit den Füßen zu tun hat
+oder wie die Beine locker hängen können.
 
-**Teilnahmeempfehlung:** Tanz- und Bewegungs-Freudige und -Neugierige mit und ohne Vorerfahrung, Freude an Berührung mit genanntem Fokus, Interesse an CI Elementen mit geringer Gewichtsübertragung, Menschen mit der Intention eine Tanzklasse pro Woche oft möglich zu machen, Menschen die während der Einheit Urlaub von ihrem Alltag machen wollen und das gerne tun, indem sie sich auf Bewegung und nonverbale Kommunikation fokussieren
+
+Spezifische Techniken aus dem zeitgenössischen Tanz helfen uns, unsere Körper bewusster
+einzusetzen: Wir lernen in diesem Semester den Rumpf und die Beine zu integrieren, erfahren
+welche Rolle die Füße dabei spielen und können dadurch insgesamt beweglicher und freier werden.
+Basiselemente aus der Contact Improvisation, wie etwa dosierte Gewichtsübertragung,
+ermöglichen uns eine dreidimensionale Bewegungserfahrung auch in Verbindung mit anderen.
+Am Ende jeder Einheit erforschen, erweitern und erproben wir so mit dem neu Erlernten unsere
+nonverbale Dialogfähigkeit.
+
+Teilnahmeempfehlung: Tanz- und Bewegungs-Freudige und -Neugierige mit und ohne
+Vorerfahrung, Freude an Berührung mit genanntem Fokus; Menschen mit Interesse an
+Kontaktimprovisations-Elementen mit geringer Gewichtsübertragung und sanfter Berührung;
+Menschen, die sich selbst und ihren Körper besser kennen lernen wollen. Eine kontinuierliche
+Teilnahme, auch über diesen Semesterkurs hinaus an weiterführenden Kursen ist von Vorteil und
+daher sehr erwünscht.
+
+
+
+
 
 <div class="named-anchor" id="di"></div>
 
