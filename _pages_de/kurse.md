@@ -119,7 +119,8 @@ Kursbeitrag einzuzahlen bis spätestens 8.10.2022.\
 Die Reservierung des Kursplatzes erfolgt durch Einzahlung des vollen Kursbeitages.\
 \
 \
-**Einzelstunden € 27 / ermäßigt € 20**
+**Einzelstunden € 27 / ermäßigt € 20**\
+**Einzelstunden Mittwochs CI-Training exkl. Jam € 18 / ermäßigt 14, inkl. Jam € 27 / ermäßigt €20**
 
 **Schnupperstunden** in den ersten Kurswochen zu je 10€/Einheit (max. 1x je Kurs)\
 \
