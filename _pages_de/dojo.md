@@ -28,7 +28,7 @@ Das Format geht abwechselnd sowohl auf die speziellen Wünsche und Bedürfnisse 
 
 **Advanced CI-DOJO:** Die Termine für Fortgeschrittene bieten ein stark physisch orientiertes Bewegungs- und Contact Improvisations Training. Wir arbeiten sowohl an einer Vertiefung von Grundprinzipien der CI wie dem konsequenten Folgen des rollenden Kontaktpunktes sowie der Bereitschaft sich jederzeit fallen zu lassen als auch an der Technik für Lifts und von spezifischen Bewegungsabläufen.
 
-**Kosten je Abend:** 20 - 30 € nach Selbsteinschätzung\
+**Kosten je Abend:** 20 - 27 € nach Selbsteinschätzung\
 Jam: 7 - 10 € (kann vom Jam-Guthabenkonto abgebucht werden).\
 Bezahlung bitte ausschließlich per Banküberweisung auf das rollingpoint-Konto IBAN: AT54 3200 0000 1701 2717, BIC: RLNWATWW
 
