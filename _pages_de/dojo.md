@@ -28,8 +28,14 @@ Das Format geht abwechselnd sowohl auf die speziellen Wünsche und Bedürfnisse 
 
 **Advanced CI-DOJO:** Die Termine für Fortgeschrittene bieten ein stark physisch orientiertes Bewegungs- und Contact Improvisations Training. Wir arbeiten sowohl an einer Vertiefung von Grundprinzipien der CI wie dem konsequenten Folgen des rollenden Kontaktpunktes sowie der Bereitschaft sich jederzeit fallen zu lassen als auch an der Technik für Lifts und von spezifischen Bewegungsabläufen.
 
-**Kosten je Abend:** 20 - 27 € nach Selbsteinschätzung\
-Jam: 7 - 10 € (kann vom Jam-Guthabenkonto abgebucht werden).\
+**Kostenbeitrag  als Semesterkurs inkl. Jam: Normalpreis € 250**\
+Ermäßigungen: € 160 für StudentInnen <=28a, € 200 Sonstige\
+Bei Buchung von mehr als einem Kurs minus € 30 ab dem 2.Kurs\
+Kursbeitrag einzuzahlen bis spätestens 8.10.2022.\
+Die Reservierung des Kursplatzes erfolgt durch Einzahlung des vollen Kursbeitages.\
+\
+**Einzelstunden CI-Training exkl. Jam € 18 / ermäßigt € 14; inkl. Jam € 26 / ermäßigt € 19**\
+**Jam: 7 - 10 €** (kann vom Jam-Guthabenkonto abgebucht werden).\
 Bezahlung bitte ausschließlich per Banküberweisung auf das rollingpoint-Konto IBAN: AT54 3200 0000 1701 2717, BIC: RLNWATWW
 
 **Wichtig**: Bitte vor dem Betreten der Turnsaalgarderobe die Schuhe am Gang ausziehen; keinenfalls Roller oder Fahrräder mit in die Schule nehmen!
