@@ -120,7 +120,7 @@ Die Reservierung des Kursplatzes erfolgt durch Einzahlung des vollen Kursbeitage
 \
 \
 **Einzelstunden € 27 / ermäßigt € 20**\
-**Einzelstunden Mittwochs CI-Training exkl. Jam € 18 / ermäßigt 14, inkl. Jam € 27 / ermäßigt €20**
+**Einzelstunden Mittwochs CI-Training exkl. Jam € 18 / ermäßigt 14, inkl. Jam € 25 / ermäßigt €18**
 
 **Schnupperstunden** in den ersten Kurswochen zu je 10€/Einheit (max. 1x je Kurs)\
 \
