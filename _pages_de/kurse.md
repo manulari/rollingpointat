@@ -16,8 +16,6 @@ title: KURSE UND WORKSHOPS
 
 ### Kursbeginn Wintersemester 2022/23: 19.-22.9.2022
 
-
-
 <div class="named-anchor" id="mo"></div>
 
 #### Wintersemester 2022/23
@@ -33,13 +31,11 @@ als Säuglinge und Kinder ansprechen. Durch rollen, gleiten, drücken und ziehen
 wir uns mit der Welt. Wir erweitern damit fast beiläufig unser Bewegungsspektrum und fühlen uns
 dadurch erfrischt und energetisiert.
 
-
 Spezifische Elemente aus Somatics, dem zeitgenössischen Tanz und der Contact Improvisation
 lassen uns unsere tänzerischen Möglichkeiten weiter entwickeln. Somatics öffnen unsere Wahrnehmungsfähigkeit und verfeinern unser Körperbild. Sie unterstützen
 uns dabei den eigenen Körper und das Zusammenspiel von Muskeln, Knochen und Organen besser
 zu verstehen. So können wir beispielsweise begreifen, was unsere Zunge mit den Füßen zu tun hat
 oder wie die Beine locker hängen können.
-
 
 Spezifische Techniken aus dem zeitgenössischen Tanz helfen uns, unsere Körper bewusster
 einzusetzen: Wir lernen in diesem Semester den Rumpf und die Beine zu integrieren, erfahren
@@ -55,10 +51,6 @@ Kontaktimprovisations-Elementen mit geringer Gewichtsübertragung und sanfter Be
 Menschen, die sich selbst und ihren Körper besser kennen lernen wollen. Eine kontinuierliche
 Teilnahme, auch über diesen Semesterkurs hinaus an weiterführenden Kursen ist von Vorteil und
 daher sehr erwünscht.
-
-
-
-
 
 <div class="named-anchor" id="di"></div>
 
@@ -109,7 +101,9 @@ mit **maRia Probst und Christian Apschner (abwechselnd)**\
 **Do 18.30 – 20.30**, 22.9.2022 - 2.2.2023 (ca.15x)\
 Turnsaal VS Gilgegasse 12, 1090 Wien
 
-Das dreidimensionale Bewegungsverständnis, wie es aus der Praxis der CI erwächst, ist Basis aller rollingpoint Kurse. In diesem Kurs fließt dieses Körperwissen in ein ganzheitliches Verständnis von Training ein. Es finden sich Elemente aus Yoga, Qi Gong, Mentastics, dem zeitgenössischen Tanz u.a. Die Einheit ist als Kraft-, Beweglichkeits- und Koordinationstraining zur Steigerung des allgemeinen Wohlbefindens und zur Gesundheitsförderung gedacht und kann für diverse Trainingsanliegen besonders als Vorbereitung für Contact Improvisation genutzt werden. 
+Das dreidimensionale Bewegungsverständnis, wie es aus der Praxis der CI erwächst, ist Basis aller rollingpoint Kurse. In diesem Kurs fließt dieses Körperwissen in ein ganzheitliches Verständnis von Training ein. Daneben finden sich Elemente aus Yoga, Qi Gong, Mentastics, dem zeitgenössischen Tanz, Anatomical Release Technique u.a. Trainingsmethoden. Insgesamt erwartet euch ein gezieltes Kräftigungs-, Beweglichkeits- und Koordinationstraining auf Yoga-Matten und danach noch eine gute halbe Stunde Abshaken und freies Tanzen zu ausgewählten soundscapes und beats. **Gut für die Gesundheit und macht Spaß!** Nicht nur für CI-TänzerInnen als gutes Basistraining geeignet.
+
+Die Termine des abwechselnd von maRia und Christian geleiteten Kurses können auch einzeln besucht werden. 
 
 ### Schnupperstunden, Kursanmeldung und Kosten
 
