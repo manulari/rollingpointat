@@ -39,18 +39,18 @@ Fotocredit: https://johannes-stolba.net/photography/
 
 **[2 Contact Improvisation and -Technique](/kurse#di) beginner\
 mit Christian Apschner\
-Di 20.9.2022 - 31.1.2023, 18.15 – 20.30 (ca.16x)\
-Turnsaal VS Einsiedlergasse 7, 1050 Wien**
+Di 20.9.2022 - 31.1.2023, 18.15 – 20.30 (ca.16x)**\
+**Turnsaal VS Einsiedlergasse 7, 1050 Wien**
 
 **[3 Contact Improvisation (Contact Dojo)](/kurse#mi) intermediate/advanced (ca.15x)**\
 **mit Christian Apschner and guest teachers**\
 **Mi 21.9.2022 - 1.2.2023, 17.30 - 19.00 (Training), 19.10-20.40 (Jam)**\
-**Turnsaal VS Gilgegasse 12, 1090 Wien**
+**Turnsaal VS Einsiedlergasse 7, 1050 Wien**
 
 **[4 CI Körpertraining + „Bounce and Shake"](/kurse#do)**  **open level (ca. 15x)**\
 **mit maRia Probst und Christian Apschner (alternierend)**\
 **Do 18.30 – 20.30**\
-**Turnsaal VS Einsiedlergasse 7, 1050 Wien**
+**Turnsaal VS Gilgegasse 12, 1090 Wien**
 
 ### Wochenend-Workshops:
 
