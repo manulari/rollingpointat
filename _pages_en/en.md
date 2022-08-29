@@ -45,18 +45,18 @@ other_lang: /
 **[3 wed Contact Improvisation (Contact Dojo)](/en/kurse#mi) intermediate/advanced**\
 **mit Christian Apschner and guest teachers**\
 **start wed 21.9.2022, 17.30 - 19.00 (training), 19.10-20.40 (jam)**\
-**Turnsaal VS Gilgegasse 12, 1090 Wien**
+**Turnsaal VS Einsiedlergasse 7, 1050 Wien**
 
 **[4 thu Holistic training for CI + „Bounce and Shake"](/en/kurse#do)** - **open level**\
 **with Ria Probst and Christian Apschner (alternating)**\
 **start thu 22.9.2022, 18.30 – 20.30**\
-**Turnsaal VS Einsiedlergasse 7, 1050 Wien**
+**Turnsaal VS Gilgegasse 12, 1090 Wien**
 
 ### Weekend-Workshops:
 
-**15./16.10.2022**
+**15./16.10.2022 Energize through Motion**
 
-**5./6.11.2022**
+**5./6.11.2022 From Bodywork into Contact Improvisation**
 
 **21./22.1.2023 Contact Flying Skills**
 
