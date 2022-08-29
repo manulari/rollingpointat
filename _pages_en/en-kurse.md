@@ -49,7 +49,7 @@ Group improvisation and Instant Composition
 
 with **Christian Apschner and guest teachers Ingrid Hörlezeder and Alina Bertha**\
 **wed 17.30 - 20.40, 21.9.2022 – 1.2.2023 (ca.15x)**\
-Turnsaal VS Gilgegasse 12, 1090 Wien\
+Turnsaal VS Einsiedlergasse 7, 1050 Wien\
 **study group 17.30-19.00**\
 **open jam 19.10-20.40**
 
@@ -67,7 +67,7 @@ Ingrid Hörlezeder will support us to find more lightness in dance and to refine
 with **maRia Probst and Christian Apschner (alternating)**\
 *open level*\
 **Do 18.30 – 20.30**, 22.9.2022 - 2.2.2023 (ca. 15x)\
-Turnsaal VS Einsiedlergasse 7, 1050 Wien
+Turnsaal VS Gilgegasse 12, 1090 Wien
 
 3-D coordination for Contact Improvisation\
 Elements of Yoga, Qi Gong, Mentastics and Contemporary Dance\
