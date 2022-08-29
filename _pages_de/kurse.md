@@ -31,7 +31,7 @@ als Säuglinge und Kinder ansprechen. Durch rollen, gleiten, drücken und ziehen
 wir uns mit der Welt. Wir erweitern damit fast beiläufig unser Bewegungsspektrum und fühlen uns
 dadurch oft erfrischt und energetisiert.
 
-Spezifische Elemente aus Somatics, dem zeitgenössischen Tanz und der Contact Improvisation
+Elemente aus Somatics, dem zeitgenössischen Tanz und der Contact Improvisation
 lassen uns unsere tänzerischen Möglichkeiten weiter entwickeln. Somatics öffnen unsere Wahrnehmungsfähigkeit und verfeinern unser Körperbild. Sie unterstützen
 uns dabei den eigenen Körper und das Zusammenspiel von Muskeln, Knochen und Organen besser
 zu verstehen. So können wir beispielsweise begreifen, was unsere Zunge mit den Füßen zu tun hat
