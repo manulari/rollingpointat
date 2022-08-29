@@ -29,7 +29,7 @@ Turnsaal VS Gilgegasse 12, 1090 Wien
 In diesem Kurs wollen wir die uns innewohnende körperliche Unmittelbarkeit unseres frühen Seins
 als Säuglinge und Kinder ansprechen. Durch rollen, gleiten, drücken und ziehen verbinden
 wir uns mit der Welt. Wir erweitern damit fast beiläufig unser Bewegungsspektrum und fühlen uns
-dadurch erfrischt und energetisiert.
+dadurch oft erfrischt und energetisiert.
 
 Spezifische Elemente aus Somatics, dem zeitgenössischen Tanz und der Contact Improvisation
 lassen uns unsere tänzerischen Möglichkeiten weiter entwickeln. Somatics öffnen unsere Wahrnehmungsfähigkeit und verfeinern unser Körperbild. Sie unterstützen
