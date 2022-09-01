@@ -19,7 +19,7 @@ Fotocredits: He Shao Hui
 >
 > **[5./6.11.2022 "From Bodywork into Contact Impovisation" mit maRia Probst und Christian Apschner](#bodywork)**
 >
-> **[xx./xx.1.2023: "Contact Flying Skills" mit Christian Apschner und support tba](#flying)**
+> **[14./15.1.2023: "Contact Flying Skills" mit Christian Apschner und support tba](#flying)**
 >
 > <div class="named-anchor" id="energize"></div>
 
@@ -64,7 +64,7 @@ Unser Fokus liegt an diesem Wochenende darin, diesen "Berührungsschatz" im Sinn
 
 #### **"Contact Flying Skills"** - advanced
 
-**Sa/So xx./01.2023, 10.00-17.00  (ca 1,5h Mittagspause)**\
+**Sa/So 14./ 15.01.2023, 10.00-17.00  (ca 1,5h Mittagspause)**\
 **mit Christian Apschner und support tba**
 
 Der rollingpoint Workshop-Klassiker für alle CI-TänzerInnen mit sportlichen Ambitionen!
