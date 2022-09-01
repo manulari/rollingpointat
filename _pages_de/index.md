@@ -58,7 +58,7 @@ Di 20.9.2022 - 31.1.2023, 18.15 – 20.30 (ca.16x)**\
 
 **[5./6.11.2022 "From Bodywork into Contact Improvisation"](/workshops#bodywork) mit Christian Apschner und maRia Probst**
 
-**[21./22.1.2023 Contact Flying Skills](/workshops#flying) mit Christian Apschner**
+**[14./15.1.2023 Contact Flying Skills](/workshops#flying) mit Christian Apschner**
 
 ### **[rollingpoint-Jam: jeden Sonntag 19.00-22.00](/jams)**
 
