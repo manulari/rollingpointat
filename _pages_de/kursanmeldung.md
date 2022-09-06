@@ -1,5 +1,5 @@
 ---
-permalink: Kursanmeldung
+permalink: /Kursanmeldung
 title: Kursanmeldung
 language: de
 ---
