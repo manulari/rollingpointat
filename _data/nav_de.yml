@@ -23,6 +23,8 @@ entries:
         path: /sommerintensive
       - title: Contact Dojo
         path: /dojo
+      - title: Kursanmeldung
+        path: /Kursanmeldung
   - title: JAMS+PERFORMANCES
     path: /jams
   - title: KÜNSTLERISCHE FORSCHUNG
