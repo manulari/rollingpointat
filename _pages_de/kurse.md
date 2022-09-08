@@ -126,17 +126,12 @@ Die Reservierung des Kursplatzes erfolgt durch Einzahlung des vollen Kursbeitage
 \
 **Bankvbdg.:** IBAN: AT54 3200 0000 1701 2717, BIC: RLNWATWW, Verein rollingpoint
 
-An schulautonomen Tagen und Feiertagen finden keine Kurse statt, konkrete Kalendertage werden zeitgerecht bekannt gegeben. Im Falle neuerlicher pandemiebedingter Stornierungen wird die Kursgebühr nach Absprache anteilig rücküberwiesen.
+An schulautonomen Tagen und Feiertagen finden keine Kurse statt, konkrete Kalendertage werden zeitgerecht bekannt gegeben.
+
+Falls aus von rollingpoint nicht beeinflussbaren widrigen Gründen kein Präsenztraining stattfinden kann oder die Rahmenbedingungen dafür unzureichend sind, wird die Kursgebühr zur Gänze oder anteilig rücküberwiesen.
 
 &nbsp;
 
-**Wir legen in unseren Kursen großen Wert auf Sicherheit, respektvollen Umgang und
-Konsens. Damit sich alle Teilnehmenden wohl fühlen und entfalten können, braucht
-es einen geschützten Raum mit klaren Regeln, die von allen mitgetragen werden.
-Um diesen Save Space gewährleisten zu können, obliegt die Letztentscheidung, wer
-bei welchem Kurs teilnehmen kann, uns TrainerInnen als Verantwortungs-
-TrägerInnen.**
-
-***Sämtliche rp Angebote werden entsprechend den jeweils aktuellen Covid-Regelungen für Wien abgehalten.***
+**Wir legen in unseren Kursen großen Wert auf Sicherheit und respektvollen Umgang. Damit sich alle Teilnehmenden wohl fühlen und entfalten können, braucht es einen geschützten Raum und klaren Rahmen. Um diesen "Save Space" gewährleisten zu können, obliegt die Letztentscheidung, wer bei welchem Kurs teilnehmen kann, uns TrainerInnen als Verantwortungs-TrägerInnen.**
 
 ![](/assets/uploads/img_0197.jpg)
