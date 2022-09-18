@@ -52,6 +52,8 @@ Menschen, die sich selbst und ihren Körper besser kennen lernen wollen. Eine ko
 Teilnahme, auch über diesen Semesterkurs hinaus an weiterführenden Kursen ist von Vorteil und
 daher sehr erwünscht.
 
+[Kosten](#kosten)
+
 <div class="named-anchor" id="di"></div>
 
 #### 2 Contact Improvisation and -Technique
@@ -68,6 +70,8 @@ Nicht zuletzt verstehen wir die Contact Improvisation auch als eine Form von non
 Der Kurs wird im Sommersemester 2023 als beginner/intermediate Kurs fortgeführt werden, wobei alle TeilnehmerInnen eingeladen sind mit fortschreitendem Lernprozess an den rollingpoint-Jams teilzunehmen bzw. zusätzlich kostenlos die open level-Termine des Contact-Dojos am Mittwoch zu besuchen. In diesem Sinne kann die Teilnahme am Gesamtpaket als **Ausbildungsprogramm** verstanden werden.
 
 Teilnahmeempfehlungen: Da wir in der Contact Improvisation gegenseitig Körpergewicht abgeben und übernehmen, sind ein bestimmtes Ausmaß an Bewegungstalent und Sensitivität für den eigenen Körper und die Grenzen anderer erforderlich für die Teilnahme an diesem Kurs. Bewegungsvorerfahrungen aller Art sowie Lust und Freude an körperlichem Einsatz und sich "fallen zu lassen" sind von Vorteil.
+
+[Kosten](#kosten)
 
 <div class="named-anchor" id="mi"></div>
 
@@ -92,6 +96,8 @@ Jeweils 3-4 Termine werden von den GastlehrerInnen **Ingrid Hörlezeder** und **
 
 Die offene Jam im Anschluss an das Training lädt zum freien Contact Improvisations-Tanzen ein. KursteilnehmerInnen sind eingeladen an den drei offenen open level-Terminen (s.o.) kostenlos FreundInnen zum Kennenlernen der Contact Improvisation in den Contact Dojo mitzubringen.
 
+[Kosten](#kosten)
+
 <div class="named-anchor" id="do"></div>
 
 #### 4 CI Körpertraining + „Bounce and Shake"
@@ -104,6 +110,12 @@ Turnsaal VS Gilgegasse 12, 1090 Wien
 Das dreidimensionale Bewegungsverständnis, wie es aus der Praxis der CI erwächst, ist Basis aller rollingpoint Kurse. In diesem Kurs fließt dieses Körperwissen in ein ganzheitliches Verständnis von Training ein. Daneben finden sich Elemente aus Yoga, Qi Gong, Mentastics, dem zeitgenössischen Tanz, Anatomical Release Technique u.a. Trainingsmethoden. Insgesamt erwartet euch ein gezieltes Kräftigungs-, Beweglichkeits- und Koordinationstraining auf Yoga-Matten und danach noch eine gute halbe Stunde Abshaken und freies Tanzen zu ausgewählten soundscapes und beats. **Gut für die Gesundheit und macht Spaß!** Nicht nur für CI-TänzerInnen als gutes Basistraining geeignet.
 
 Die Termine des abwechselnd von maRia und Christian geleiteten Kurses können auch einzeln besucht werden. 
+
+[Kosten](#kosten)
+
+
+
+<div class="named-anchor" id="Kosten"></div>
 
 ### Schnupperstunden, Kursanmeldung und Kosten
 
