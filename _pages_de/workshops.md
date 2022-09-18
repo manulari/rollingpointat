@@ -6,8 +6,6 @@ title: Wochenend-Workshops
 
 Fotocredits: He Shao Hui
 
-
-
 > ### Wochenend-Workshops Wintersemester
 >
 > **[15./16.10.2022: "Liquid Motion" mit maRia Probst](#liquid)**
@@ -70,12 +68,11 @@ Tel. Christian 0650 8931081, maRia 0650 9510814
 **Bezahlung:** Bitte die Kostenbeiträge immer vorab auf unser Konto\
 IBAN:AT54 3200 0000 1701 2717, BIC: RLNWATWW, Verein rollingpoint, einzahlen. 
 
-**Stornobedingungen:** Bei Abmeldung bis sieben Tage vor dem Workshop wird der gesamte Betrag abzgl. einer Bearbeitungsgebühr von € 10,- zurückbezahlt. 50% Storno bis zwei Tage vor dem Workshop. Am Vortag und Tag des Workshops kein Storno mehr möglich. Es kann aber eine Ersatzperson nominiert werden.\
-Aus Gründen von CoVid ist für beide Seiten jederzeit eine Stornierung möglich.
+**Stornobedingungen:** Bei Abmeldung bis sieben Tage vor dem Workshop wird der gesamte Betrag abzgl. einer Bearbeitungsgebühr von € 10,- zurückbezahlt. 50% Storno bis zwei Tage vor dem Workshop. Am Vortag und Tag des Workshops kein Storno mehr möglich. Es kann aber eine Ersatzperson nominiert werden.
 
-***Sämtliche rp Angebote werden entsprechend der aktuellen Covid19 Präventionsverordnungen abgehalten.***
 
-#### **Die oben angeführten Texte und Bedingungen zu den Workshops im Herbst 2022 befinden sich noch in Bearbeitung.**
+
+
 
 ## Workshoptermine (Rückblick):
 
