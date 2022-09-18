@@ -6,13 +6,8 @@ title: Wochenend-Workshops
 
 Fotocredits: He Shao Hui
 
-> ### Sommer-Workshops an zwei Sonntag-Nachmittagen
->
-> **21.8.2022: Contact Improvisation** **beginner Intro-Workshop mit Christian Apschner**
->
-> [**4.9.2022: "Energize through Motion"  Zeitgenössischer Tanz / CI light /** **Somatics**](#energize)\
->  **mit maRia Probst**
->
+
+
 > ### Wochenend-Workshops Wintersemester
 >
 > **[15./16.10.2022: "Liquid Motion" mit maRia Probst](#liquid)**
@@ -22,20 +17,6 @@ Fotocredits: He Shao Hui
 > **[14./15.1.2023: "Contact Flying Skills" mit Christian Apschner und support tba](#flying)**
 >
 > <div class="named-anchor" id="energize"></div>
-
-#### **"Energize through Motion" / Intro-Workshop open level**
-
-**Zeitgenössischer Tanz, CI light und Somatics
-mit maRia Probst
-So 4.9.2022, 15.00-18.00h**
-Prana-Yoga Studio 1, Mariahilferstraße 82, 1070 Wien
-
-Über ziehen, drücken, gleiten, rollen, rutschen... sind wir in unseren ersten Lebensjahren unmittelbar und mühelos in Kontakt mit der Welt. An diesem Nachmittag wollen wir diese uns innewohnenden Möglichkeiten wieder ansprechen. Wir lassen unnötige Körperspannung los und setzen dadurch Energie frei. Geschmeidig wie Katzen mobilisieren wir unsere Wirbelkette und erleben diese zentrale Körperstruktur als verlässliche Partnerin in und aus dem Boden, in Kontakt mit unseren Tanzkolleg*innen und im Dialog mit dem Raum. Menschen die sich einen Nachmittag der Leichtigkeit in Bewegung und im physischen Kontakt widmen wollen sind ebenso willkommen, wie auch jene die einen Einblick in den Semesterkurs „Energize Through Motion“ gewinnen wollen.
-
-**Kosten:** Normalpreis 48€, ermäßigt 32€\
-Einzahlung auf Konto\
-IBAN:AT54 3200 0000 1701 2717, BIC: RLNWATWW, Verein rollingpoint\
-Anmeldung bzw. weitere Infos: ci.rollingpoint@gmail.com,  ab 2.9 unter 0650 9510814 (maRia)
 
 <div class="named-anchor" id="liquid"></div>
 
@@ -98,6 +79,15 @@ Aus Gründen von CoVid ist für beide Seiten jederzeit eine Stornierung möglich
 
 ## Workshoptermine (Rückblick):
 
+### Sommer-Workshops:
+
+**Contact Improvisation Intro** BeginnerInnen\
+**So 21.8.2022**, 14.00-18.00h mit Christian Apschner\
+\
+["**Energize Through Motion"** - open level](/workshops#energize)\
+**Zeitgenössischer Tanz, CI light und Somatics**\
+**So 4.9.2022**, 15.00-18.00h mit maRia Probst
+
 #### **Contact Improvisation Intro-Workshop für BeginnerInnen:**
 
 **mit Christian Apschner und Ines Ingerle (support)**\
@@ -105,6 +95,20 @@ Aus Gründen von CoVid ist für beide Seiten jederzeit eine Stornierung möglich
 Prana-Yoga Studio 1, Mariahilferstraße 82, 1070 Wien\
 \
 Du tanzt und bewegst dich gerne und möchtest Contact Improvisation im Rahmen eines Schnupper-Workshops kennenzulernen. Wie fühlt es sich an am Boden zu rollen, dich fallen und auffangen zu lassen oder im Körperkontakt gegenseitig Gewicht abzugeben und zu übernehmen? Wieviel Technik steckt dahinter, wie kommen wir in einen flow-Zustand und wie geht es uns emotional damit? Dieser Workshop bietet die Möglichkeit, dir ein erstes Bild zu machen um vielleicht weiter in die faszinierende Welt des Contact Improvisation-Tanzens einzutauchen. 
+
+#### **"Energize through Motion" / Intro-Workshop open level**
+
+**Zeitgenössischer Tanz, CI light und Somatics
+mit maRia Probst
+So 4.9.2022, 15.00-18.00h**
+Prana-Yoga Studio 1, Mariahilferstraße 82, 1070 Wien
+
+Über ziehen, drücken, gleiten, rollen, rutschen... sind wir in unseren ersten Lebensjahren unmittelbar und mühelos in Kontakt mit der Welt. An diesem Nachmittag wollen wir diese uns innewohnenden Möglichkeiten wieder ansprechen. Wir lassen unnötige Körperspannung los und setzen dadurch Energie frei. Geschmeidig wie Katzen mobilisieren wir unsere Wirbelkette und erleben diese zentrale Körperstruktur als verlässliche Partnerin in und aus dem Boden, in Kontakt mit unseren Tanzkolleg*innen und im Dialog mit dem Raum. Menschen die sich einen Nachmittag der Leichtigkeit in Bewegung und im physischen Kontakt widmen wollen sind ebenso willkommen, wie auch jene die einen Einblick in den Semesterkurs „Energize Through Motion“ gewinnen wollen.
+
+**Kosten:** Normalpreis 48€, ermäßigt 32€\
+Einzahlung auf Konto\
+IBAN:AT54 3200 0000 1701 2717, BIC: RLNWATWW, Verein rollingpoint\
+Anmeldung bzw. weitere Infos: ci.rollingpoint@gmail.com,  ab 2.9 unter 0650 9510814 (maRia)
 
 #### **"Deep Listening - Contact Improvisation and Beyond"** - open level
 
