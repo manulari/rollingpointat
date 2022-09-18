@@ -19,14 +19,7 @@ Fotocredit: https://johannes-stolba.net/photography/
 
 <div class="imglink"><a target="_blank" href="https://www.youtube.com/embed/6A5otnVZAg4"><img src="/assets/uploads/video_vorschau_maria.png" alt="" /><div>Ganzheitliches Körpertraining mit maRia Probst</div></a></div>
 
-### Sommer-Workshops:
 
-**Contact Improvisation Intro** BeginnerInnen\
-**So 21.8.2022**, 14.00-18.00h mit Christian Apschner\
-\
-["**Energize Through Motion"** - open level](/workshops#energize)\
-**Zeitgenössischer Tanz, CI light und Somatics**\
-**So 4.9.2022**, 15.00-18.00h mit maRia Probst
 
 ### Abendkurse Wintersemester 2022/23:
 
