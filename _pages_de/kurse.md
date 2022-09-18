@@ -113,9 +113,7 @@ Die Termine des abwechselnd von maRia und Christian geleiteten Kurses können au
 
 [Kosten](#kosten)
 
-
-
-<div class="named-anchor" id="Kosten"></div>
+<div class="named-anchor" id="kosten"></div>
 
 ### Schnupperstunden, Kursanmeldung und Kosten
 
