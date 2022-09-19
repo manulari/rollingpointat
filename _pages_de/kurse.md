@@ -128,11 +128,8 @@ Bei Buchung von mehr als einem Kurs minus € 30 ab dem 2.Kurs\
 Kursbeitrag einzuzahlen bis spätestens 8.10.2022.\
 Die Reservierung des Kursplatzes erfolgt durch Einzahlung des vollen Kursbeitages.\
 \
-\
 **Einzelstunden € 27 / ermäßigt € 20**\
-**Einzelstunden Mittwochs CI-Training exkl. Jam € 18 / ermäßigt 14, inkl. Jam € 25 / ermäßigt €18**
-
-**Schnupperstunden** in den ersten Kurswochen zu je 10€/Einheit (max. 1x je Kurs)\
+**Einzelstunden Mittwochs CI-Training exkl. Jam € 18 / ermäßigt 14, inkl. Jam € 25 / ermäßigt €18**\
 \
 **Bankvbdg.:** IBAN: AT54 3200 0000 1701 2717, BIC: RLNWATWW, Verein rollingpoint
 
@@ -142,6 +139,6 @@ Falls aus von rollingpoint nicht beeinflussbaren widrigen Gründen kein Präsenz
 
 &nbsp;
 
-**Wir legen in unseren Kursen großen Wert auf Sicherheit und respektvollen Umgang. Damit sich alle Teilnehmenden wohl fühlen und entfalten können, braucht es einen geschützten Raum und klaren Rahmen. Um diesen "Save Space" gewährleisten zu können, obliegt die Letztentscheidung, wer bei welchem Kurs teilnehmen kann, uns TrainerInnen als Verantwortungs-TrägerInnen.**
+**Wir legen in unseren Kursen großen Wert auf Sicherheit und respektvollen Umgang. Damit sich alle Teilnehmenden wohlfühlen und entfalten können, braucht es einen geschützten Raum und klaren Rahmen. Um diesen "Save Space" gewährleisten zu können, obliegt die Letztentscheidung, wer bei welchem Kurs teilnehmen kann, uns TrainerInnen als Verantwortungs-TrägerInnen.**
 
 ![](/assets/uploads/img_0197.jpg)
