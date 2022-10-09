@@ -9,20 +9,14 @@ language: en
 
 photocredits: Laurent Ziegler
 
-**DOJO=Training+Jam**, alternating `advanced` and\
-`open level (beginners welcome, bring your friends!)`
+**DOJO=Training+Jam**.
 
-`Summersemester 2022 beginning 3.3.2022`
-
-> **Open level DOJO:** 10.3., 24.3., 7.4., 5.5., 19.5., 9.6.
->
-> **Advanced DOJO:** 3.3., 17.3., 31.3., 21.4., 12.5., 2.6., 23.6.
->
-> **Training:** 18.15-19.30\
-> **Jam:** 19.30-20.45\
+> **Every wednesdey when schoolday**\
+> **Training:** 17.30-19.00\
+> **Jam:** 19.10-20.40\
 > no registration needed
 >
-> **Turnsaal Gilgegasse 12, 1090 Wien**
+> **Turnsaal Einsiedlergasse 7, 1050 Wien**
 
 **A dōjō**, is a hall or place for immersive learning or meditation. This is traditionally in the field of martial arts, but has been seen increasingly in other fields. The term literally means "place of the the Way" in Japanese.
 
@@ -39,11 +33,11 @@ flying Low/high\
 moving with momentum\
 Come prepared! 
 
-**Costs:** training 10 - 15€, jam 6 - 10€, training+jam 12 - 20€\
+**Costs:** training 14 - 18€, jam 6 - 10€, training+jam 18 - 25€\
 Payment should be made on our bank account\
 IBAN: AT54 3200 0000 1701 2717, BIC: RLNWATWW
 
-**Important note:** Before entering the gym cloakroom, please take off your shoes.  Never take scooters or bicycles to school!
+
 
 ![](/assets/uploads/lsz_5630.jpg)
 
