@@ -15,7 +15,7 @@ Fotocredits: Laurent Ziegler
 >  **19.10., 23.11.2022 und 25.1.2023**
 >
 > **Training:** 17.30-19.00\
-> **Jam:** 19.40-20.40\
+> **Jam:** 19.10-20.40\
 > **Turnsaal Einsiedlergasse 7, 1050 Wien**
 
 **Dōjō**, die Übungshalle in den japanischen Kampfkünsten; dies ist auch teilweise die Bezeichnung für den Meditationsraum im japanischen Zen; in diesem Fall auf die Praxis der Contact Improvisation übertragen.
