@@ -19,8 +19,6 @@ Fotocredit: https://johannes-stolba.net/photography/
 
 <div class="imglink"><a target="_blank" href="https://www.youtube.com/embed/6A5otnVZAg4"><img src="/assets/uploads/video_vorschau_maria.png" alt="" /><div>Ganzheitliches Körpertraining mit maRia Probst</div></a></div>
 
-
-
 ### Abendkurse Wintersemester 2022/23:
 
 **Kursbeginn 19.-22.9.2022**, offene Schnupperstunden in den ersten drei Kurswochen
@@ -45,11 +43,13 @@ Di 20.9.2022 - 31.1.2023, 18.15 – 20.30 (ca.16x)**\
 **Do 18.30 – 20.30**\
 **Turnsaal VS Gilgegasse 12, 1090 Wien**
 
-### Wochenend-Workshops:
-
-**[15./16.10.2022 "Liquid Motion"](workshops) - Zeitgenössischer Tanz, Tanzimprovisation und Somatics mit maRia Probst**
+### Wochenend-Workshops
 
 **[5./6.11.2022 "From Bodywork into Contact Improvisation"](/workshops#bodywork) mit Christian Apschner und maRia Probst**
+
+ACHTUNG neuer Termin:
+
+**[10./11.12.2022 "Liquid Motion"](workshops) - Zeitgenössischer Tanz, Tanzimprovisation und Somatics mit maRia Probst**
 
 **[14./15.1.2023 Contact Flying Skills](/workshops#flying) mit Christian Apschner**
 
