@@ -8,9 +8,11 @@ Fotocredits: He Shao Hui
 
 > ### Wochenend-Workshops Wintersemester
 >
-> **[15./16.10.2022: "Liquid Motion" mit maRia Probst](#liquid)**
+>
 >
 > **[5./6.11.2022 "From Bodywork into Contact Impovisation" mit maRia Probst und Christian Apschner](#bodywork)**
+>
+> **[10./11.12.2022: "Liquid Motion" mit maRia Probst](#liquid)**
 >
 > **[14./15.1.2023: "Contact Flying Skills" mit Christian Apschner und support tba](#flying)**
 >
@@ -28,8 +30,6 @@ Bewegung und Berührung sind die Grundlage aller menschlichen Entwicklungsproze
 Mit unseren durch anatomisch-imaginative Vorstellungsbilder unterstützten Anleitungen wird es möglich, kleinste Veränderungen von Muskelanspannungen und andere kinästhetische Empfindungen wahrzunehmen. Zentrale Verbindungen unseres Bewegungssystems wie die Enden unserer Wirbelkette, Schultern-Hüftgelenke oder die Hand- und Fußfesseln werden gezielt angesprochen.
 
 Unser Fokus liegt an diesem Wochenende darin, diesen "Berührungsschatz" im Sinne von Bewegungsvielfalt, Bewegungsqualität und angemessenen Einsatz von Energie und Kraft zu heben, um ihn in unsere tänzerischen Beziehungen sowohl in der Contact Improvisation wie auch in der freien Improvisation einfließen zu lassen.  In der Contact Improvisation begegnen wir unseren TanzpartnerInnen in Form eines nonverbalen Dialogs und in diversen Übungssettings lernen wir, Bewegung im Kontakt körpergerecht und im Zusammenspiel mit den physikalischen Gesetzmäßigkeiten zu gestalten.
-
-
 
 <div class="named-anchor" id="liquid"></div>
 
