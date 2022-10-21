@@ -36,7 +36,7 @@ Unser Fokus liegt an diesem Wochenende darin, diesen "Berührungsschatz" im Sinn
 #### „Liquid Motion“ open level
 
 **mit maRia Probst
-Sa/So 15./16.10.2022 10.00-17.00h**\
+Sa/So 10.+11.12.2022 10.00-17.00h**\
 Prana-Yoga Studio 1, Mariahilferstraße 82, 1070 Wien
 
 An diesem Wochenende begeben wir uns auf einen tänzerischen Tauchgang in die flüssigen Bewegungswelten unseres Körpers. Wir sprechen dabei im Sinne von BodyMindCentering über spezifische Berührung, anatomische Information oder verbale Anleitung, Körperflüssigkeiten wie Gelenksflüssigkeit, Blut oder Lymphe an. Mit Elementen aus weiteren Somatic Movement Praktiken, zeitgenössischem Tanz und Contact Improvisation vertiefen wir unsere Körperbewusstheit und erweitern und verfeinern unsere Bewegungsmöglichkeiten. Spezifische Musik und Vorstellungsbilder verstärken unseren Zugang zum Schatz der Eigenbewegung unseres inneren Meeres als Basis für vielgestaltigen Tanz mit und ohne physischen Kontakt.
