@@ -109,17 +109,11 @@ Turnsaal VS Gilgegasse 12, 1090 Wien
 
 <!--StartFragment-->
 
+In diesen Kurs bringen wir unser langjähriges Erfahrungs- und Unterrichtswissen, das speziell aus der Praxis und Weitergabe von CI erwächst, ein. In einfachen Übungen bauen wir Kraft auf und verbessern unsere Beweglichkeit und Koordination. Elemente aus Mentastics, Yoga, Qi Gong, Nei Gong, Somatics und dem Zeitgenössischen Tanz fließen ein. Die Übungs-Settings sind auf der Matte, frei im Raum, in Bezug zur Wand oder mit Ball sowie auch mit PartnerInnen. 
 
+Wir nutzen in diesem Kurs die Besonderheiten der Contact Improvisation für unser eigenes Körpertraining. Durch das Zusammenspiel mit unseren Partner*innen und das geschickte Nutzen von physikalischen Kräften wie Hebelwirkung, Schwung, oder Fliehkraft trainieren wir frei und leicht, wie im Wasser. Wir lehnen beispielsweise voneinander weg, um gezielt zu dehnen oder setzen Teilgewichte des Partners ein, um dynamisch Kraft aufzubauen. Durch spezifische Berührung erweitern wir unser Körperbewusstsein.
 
-In der Contact Improvisation können wir Bewegungserfahrungen machen, die einzigartig sind. Durch das Zusammenspiel mit unseren Tanz- Partner*innen und das geschickte Nutzen von physikalischen Kräften wie Schwung, Fliehkraft und Hebelwirkung, können wir uns so frei und leicht bewegen, wie das sonst nur im Wasser oder Weltall möglich ist.
-
-In diesem Kurs nutzen wir diese Besonderheit für unser eigenes Körpertraining: In einfachen Übungen bauen wir Kraft auf und verbessern unsere Beweglichkeit und Koordination. Wir lehnen beispielsweise voneinander weg, um Dehnungen zu verstärken, setzen Teilgewichte des Partners ein, um Kraft aufzubauen und erweitern durch spezifische Berührung unser Körperbewusstsein.
-
-In diesen Kurs bringen die TrainerInnen ihr langjähriges Erfahrungs- und Unterrichtswissen, das speziell aus der Praxis und Weitergabe von CI erwächst, ein. Die Übungs-Settings sind auf der Matte, frei im Raum, in Bezug zur Wand oder mit Ball. Sowohl CI Neulinge wie auch Erfahrene können davon profitieren. Elemente aus Mentastics, Yoga, Qi Gong, Nei Gong, Somatics und dem Zeitgenössischen Tanz fließen ein.
-
-Nach den Übungen tanzen wir zu ausgewählter Musik, um unseren Kreislauf anzukurbeln und alles rauszushaken, was sich noch verspannt anfühlt. Eine Feedback-Runde zum Erlebten schließt unsere Einheiten ab. Das Training kann für diverse Trainingsanliegen und besonders als Vorbereitung für CI genützt werden.
-
-
+Nach den Übungen tanzen wir zu ausgewählter Musik, um unseren Kreislauf anzukurbeln und alles raus zu tanzen, was sich noch verspannt anfühlt. Eine Feedback-Runde zum Erlebten schließt unsere Einheiten ab. Das Training kann für diverse Trainingsanliegen, als CI Neuling, wie auch Erfahrene*r und besonders als Vorbereitung für CI genützt werden.
 
 <!--EndFragment-->
 
