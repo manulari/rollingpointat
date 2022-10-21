@@ -135,7 +135,9 @@ Kursbeitrag einzuzahlen bis spätestens 8.10.2022.\
 Die Reservierung des Kursplatzes erfolgt durch Einzahlung des vollen Kursbeitages.\
 \
 **Einzelstunden € 27 / ermäßigt € 20**\
-**Einzelstunden Mittwochs CI-Training exkl. Jam € 18 / ermäßigt 14, inkl. Jam € 25 / ermäßigt €18**\
+**Einzelstunden Mittwochs CI-Training exkl. Jam € 18 / ermäßigt 14, inkl. Jam € 25 / ermäßigt €18**
+
+**5﻿er Block für CI Körpertraining + Bounce and Shake € 110.- / € 85.-**\
 \
 **Bankvbdg.:** IBAN: AT54 3200 0000 1701 2717, BIC: RLNWATWW, Verein rollingpoint
 
