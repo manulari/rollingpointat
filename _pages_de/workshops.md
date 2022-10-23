@@ -8,8 +8,6 @@ Fotocredits: He Shao Hui
 
 > ### Wochenend-Workshops Wintersemester
 >
->
->
 > **[5./6.11.2022 "From Bodywork into Contact Impovisation" mit maRia Probst und Christian Apschner](#bodywork)**
 >
 > **[10./11.12.2022: "Liquid Motion" mit maRia Probst](#liquid)**
@@ -65,7 +63,7 @@ Tel. Christian 0650 8931081, maRia 0650 9510814
 
 **Kosten:**\
 **Frühbucherpreis € 200/160/120,-** (Supporter/Normalpreis/ermäßigt) bei Einzahlung bis 14 Tage vor Workshopbeginn\
-**€ 220/190/140,-** (Supporter/Normalpreis/ermäßigt) bei Einzahlung ab 13 Tagen vor Workshopbeginn
+**€ 220/180/140,-** (Supporter/Normalpreis/ermäßigt) bei Einzahlung ab 13 Tagen vor Workshopbeginn
 
 **Bezahlung:** Bitte die Kostenbeiträge immer vorab auf unser Konto\
 IBAN:AT54 3200 0000 1701 2717, BIC: RLNWATWW, Verein rollingpoint, einzahlen. 
