@@ -8,22 +8,27 @@ title: Winter-Intensive
 
 Fotocredits: He Shao Hui
 
-## **Winter-Intensive 2022: Liquid Motion into Contact Improvisation**
+## **Contact Improvisation Winter-Intensive 2023** 
 
 beginner/intermediate
 
-mit Christian Apschner (und maRia Probst an einzelnen Terminen)
-
-**Woche 1 Mo-Do 14.- 17.2.2022**\
-**Woche 2 Mo-Do 21.- 24.2.2022**
+**Woche 1 Mo-Do 13.- 16.2.2022: beginner**\
+**Woche 2 Mo-Do 20.- 23.2.2022: intermediate**
 
 **jeweils  18.15 - 20.30h**
 
-Mo und Do (14.2., 17.2., 21.2., 24.2.): Turnsaal Gilgegasse 12, 9. Bez.
+Mo und Do (13.2., 16.2., 20.2., 23.2.): Turnsaal Gilgegasse 12, 9. Bez.
 
-Di und Mi (15.2., 16.2., 22.2., 23.2.): Turnsaal Einsiedlergasse 7, 5. Bez.
+Di und Mi (14.2., 15.2., 21.2., 22.2.): Turnsaal Einsiedlergasse 7, 5. Bez.
 
-> **Aktualisierung 31.1.2022: Das Kontaktsportverbot in Wien wurde aufgehoben. Unsere Winter-Intensive kann daher uneingeschränkt stattfinden.**
+**Weitere Infos zur Winter-Intensive 2023 in Kürze**
+
+&nbsp;
+
+&nbsp;\
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+**Winter-Intensive 2022: Liquid Motion into Contact Improvisation**
 
 Wir laden dich ein, zwei Wochen lang jeden Tag jeweils von Mo-Do Abend mehr als zwei Stunden lang Contact Improvisation zu tanzen. Finde in deinen Bewegungsfluss und lerne grundlegende Bewegungstechniken der Contact Improvisation kennen wie gemeinsam zu rollen, dich fallen zu lassen, sicher zu landen oder wieder in Spiralbewegungen aufzurichten. 
 
@@ -48,7 +53,7 @@ Anmeldung: Christian 0650/8931081 oder ci.rollingpoint@gmail.com
 Bitte den Kostenbeitrag vorab auf unser Konto\
 IBAN: AT54 3200 0000 1701 2717, BIC: RLNWATWW, Verein rollingpoint, einzahlen.
 
-Aus Gründen von CoVid ist für beide Seiten jederzeit eine Stornierung möglich. Verrechnet werden die jeweils konsumierten Kurseinheiten.
+
 
 &nbsp;
 
