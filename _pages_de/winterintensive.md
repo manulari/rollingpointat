@@ -8,6 +8,8 @@ title: Winter-Intensive
 
 Fotocredits: He Shao Hui
 
+<div class="named-anchor" id="winterintensive"></div>
+
 #### **Contact Improvisation Winter-Intensive 2023**
 
 \
