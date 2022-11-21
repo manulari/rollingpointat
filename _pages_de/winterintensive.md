@@ -8,21 +8,21 @@ title: Winter-Intensive
 
 Fotocredits: He Shao Hui
 
-## **Contact Improvisation Winter-Intensive 2023**
-
+#### **Contact Improvisation Winter-Intensive 2023**\
+\
 **Woche 1: Mo - Do 13.- 16.2.2023\
 "CI-Fundamentals and the Art of Listening"  (beginner)**\
-**mit maRia Probst und Christian Apschner**
-
+**mit maRia Probst und Christian Apschner**\
+\
 **Woche 2 .Mo - Do 20.- 23.2.202**\
  **"Get ready to Fly" (intermediate)**\
 **mit Christian Apschner**
 
-**jeweils  18.15 - 20.30h**
-
 Mo und Do (13.2., 16.2., 14.2., 15.2.): Turnsaal Gilgegasse 12, 9. Bez.
 
 Di und Mi (20.2., 23.2., 21.2., 22.2.): Turnsaal Einsiedlergasse 7, 5. Bez.
+
+jeweils  18.15 - 20.30h
 
 Die Winterintensive bietet dir die Möglichkeit zwei Wochen lang jeden Tag jeweils von Mo-Do Abend mehr als zwei Stunden lang Contact Improvisation zu tanzen -  der optimale Einstieg in die Contact Improvisation für BeginnerInnen oder auch eine Vertiefungspraxis für CI-TänzerInnen mit Vorerfahrung.
 
