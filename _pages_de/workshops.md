@@ -27,7 +27,7 @@ Prana-Yoga Studio 1, Mariahilferstraße 82, 1070 Wien
 An diesem Wochenende sprechen wir unser inneres Körper-Meer als\
 Ressource für Bewegungsfluss, Kraft und Wandelbarkeit an. Wir bestehen zu einem großen Teil aus Wasser. Verbinden wir uns mit unserem inneren Meer, fällt es uns leicht in einen Bewegungsfluss zu kommen. Lassen wir uns tiefer auf die verschiedenen Varianten der Säfte in unserem Körper ein, entdecken wir eine Vielfalt an Bewegungsqualitäten.
 
-Unsere Körper-Flüssigkeiten sind ein feines Mitteilungs-System und somit Träger einer breiten Ausdruckspalette. Wir können beispielsweise unser Blut spüren, wie es mithilfe von Herzkraft an die Körperränder und uns davon bewegen lassen. Visualisieren wir die Lymphflüssigkeit, die uns gegen Unzuträgliches verteidigt, bringen wir Klarheit in die Bewegung. Mit der Zwischenzellflüssigkeit zu tanzen, die frei im Körper mäandern kann, eröffnet uns Bewegungsoptionen nach allen Richtungen.
+Unsere Körper-Flüssigkeiten sind ein feines Mitteilungs-System und somit Träger einer breiten Ausdruckspalette. Wir können beispielsweise unser Blut spüren, wie es mithilfe von Herzkraft an die Körperränder strömt und uns davon bewegen lassen. Visualisieren wir die Lymphflüssigkeit, die uns gegen Unzuträgliches verteidigt, bringen wir Klarheit in die Bewegung. Mit der Zwischenzellflüssigkeit zu tanzen, die frei im Körper mäandern kann, eröffnet uns Bewegungsoptionen nach allen Richtungen. 
 
 Zu jedem Zeitpunkt verwandelt sich eine Flüssigkeit in die andere. Verbinden wir uns mit diesem Prozess, gelingt die Transformation von einer zur nächsten Bewegungsqualität ganz leicht.
 
