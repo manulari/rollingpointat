@@ -8,24 +8,46 @@ title: Winter-Intensive
 
 Fotocredits: He Shao Hui
 
-## **Contact Improvisation Winter-Intensive 2023** 
+## **Contact Improvisation Winter-Intensive 2023**
 
-beginner/intermediate
+**Woche 1: Mo - Do 13.- 16.2.2023\
+"CI-Fundamentals and the Art of Listening"  (beginner)**\
+**mit maRia Probst und Christian Apschner**
 
-**Woche 1 Mo-Do 13.- 16.2.2022: beginner**\
-**Woche 2 Mo-Do 20.- 23.2.2022: intermediate**
+**Woche 2 .Mo - Do 20.- 23.2.202**\
+ **"Get ready to Fly" (intermediate)**\
+**mit Christian Apschner**
 
 **jeweils  18.15 - 20.30h**
 
-Mo und Do (13.2., 16.2., 20.2., 23.2.): Turnsaal Gilgegasse 12, 9. Bez.
+Mo und Do (13.2., 16.2., 14.2., 15.2.): Turnsaal Gilgegasse 12, 9. Bez.
 
-Di und Mi (14.2., 15.2., 21.2., 22.2.): Turnsaal Einsiedlergasse 7, 5. Bez.
+Di und Mi (20.2., 23.2., 21.2., 22.2.): Turnsaal Einsiedlergasse 7, 5. Bez.
 
-**Weitere Infos zur Winter-Intensive 2023 in Kürze**
+Die Winterintensive bietet dir die Möglichkeit zwei Wochen lang jeden Tag jeweils von Mo-Do Abend mehr als zwei Stunden lang Contact Improvisation zu tanzen -  der optimale Einstieg in die Contact Improvisation für BeginnerInnen oder auch eine Vertiefungspraxis für CI-TänzerInnen mit Vorerfahrung.
 
-&nbsp;
+CI ist Bewegungslernen im ursprünglichsten Sinne. Jede Bewegung entsteht unmittelbar im Augenblick aus dem gegenseitigen Kontakt und dem Zusammenspiel der Körper mit der Schwerkraft. Die zweiwöchige Intensive ist zunächst ein grundlegendes Bewegungstraining zur Schulung der kinästhetischen und sensomotorischen Sinne – vom feinen Wahrnehmen und Spüren des eigenen Körpers in Ruhe und Bewegung bis hin zum Training von angemessenen und schnellen Reaktionen in Überraschungsmomenten. 
 
-&nbsp;\
+Wir lernen uns selbst wahrzunehmen, in Kontakt zu kommen, im Kontakt aufeinander "zuzuhören" und uns gemeinsam fortzubewegen. Schrittweise lernen wir das Basisvokabular und Grundtechniken der Contact Improvisation kennen.
+
+In **Woche 1** der Intensive lernen wir grundlegende Bewegungstechniken der CI kennen, wie z.B. gemeinsam zu rollen, uns fallen zu lassen und wieder aufzurichten sowie gegenseitig Gewicht abzugeben und aufzunehmen. Wir erforschen die Contact Improvisation als eine Form von nonverbaler Kommunikation. Was bedeutet es, mit dem ganzen Körper zu sprechen und zuzuhören? Wie kann ich Bewegungsimpulse meiner TanzpartnerInnen lesen und in mein Bewegen aufnehmen? Wie kann ich eigene Impulse setzen ohne die Verbindung zu den PartnerInnen zu verlieren? Welcher Dialog, welche Form von Kooperation und welche Bewegungssynergien ergeben sich daraus? sind einige Fragen, die wir uns immer wieder stellen werden.
+
+In **Woche 2** beginnen wir unsere Tänze mit Schwung und Leichtigkeit in alle Raumrichtungen auszudehnen und unsere Risikobereitschaft herauszufordern. Durch eine gute Körperausrichtung, durch Anpassung der Körperspannung und Nutzung der Schwungenergie lernen wir Gewicht körperschonend aufzunehmen und abzugeben. Anhand von einfachen "lifts" lernen wir uns aufzuspannen und ins Fliegen zu kommen und wieder sanft zu landen. 
+
+Teilnahmeempfehlungen: Tanz- und Bewegungsvorerfahrung aller Art sowie Offenheit und Lust sich auf Berührung und Körperkontakt mit gegenseitiger Gewichtsübertragung einzulassen.\
+Teilnahme an Woche 2: Teilnahme an Woche 1 bzw. sonstige CI-Kursvorerfahrungen 
+
+**Kosten:** Eine Woche: € 90,- , StudentenInnen unter 27: 60,-\
+Beide Wochen: € 160,- , ermäßigt: € 110,-
+
+Anmeldung: Christian 0650/8931081 oder ci.rollingpoint@gmail.com
+
+Bitte den Kostenbeitrag vorab auf unser Konto\
+IBAN: AT54 3200 0000 1701 2717, BIC: RLNWATWW, Verein rollingpoint, einzahlen.
+
+Stornobedingungen: Bis drei Tage vor Beginn der Intensive wird der volle Betrag abzüglich einer Bearbeitungsgebühr von € 10,- rückerstattet. Danach keine Stornomöglichkeit. Es kann aber eine Ersatzperson nominiert werden.
+
+\
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 **Winter-Intensive 2022: Liquid Motion into Contact Improvisation**
@@ -53,50 +75,11 @@ Anmeldung: Christian 0650/8931081 oder ci.rollingpoint@gmail.com
 Bitte den Kostenbeitrag vorab auf unser Konto\
 IBAN: AT54 3200 0000 1701 2717, BIC: RLNWATWW, Verein rollingpoint, einzahlen.
 
-
-
 &nbsp;
 
 - - -
 
 **Contact Improvisation Winter-Intensive 2020**
-
-mit Christian Apschner (Woche 1+2) und maRia Probst (Woche 2)
-
-**Woche 1 Mo - Do 10.- 13.2.2020 (beginner/intermediate)\
-"Basic Techniques of CI and the Art of Listening"**
-
-**Woche 2 Mo - Do 17.- 20.2.2020 "Get ready to Fly" (intermediate)**
-
-**jeweils  18.15 - 20.30h**
-
-Mo und Do (10.2., 13.2., 17.2., 20.2.): Turnsaal Gilgegasse 12, 9. Bez.
-
-Di und Mi (12.2., 12.2., 18.2., 19.2.): Turnsaal Einsiedlergasse 7, 5. Bez.
-
-Die Winterintensive bietet die Möglichkeit zwei Wochen lang jeden Tag jeweils von Mo-Do Abend mehr als zwei Stunden lang Contact Improvisation zu tanzen. \
-Der optimale Einstieg in die Contact Improvisation für bewegungsfreudige BeginnerInnen und eine Vertiefungspraxis für CI-TänzerInnen mit Vorerfahrung.
-
-CI ist Bewegungslernen im ursprünglichsten Sinne. Jede Bewegung entsteht unmittelbar im Augenblick aus dem gegenseitigen Kontakt und dem Zusammenspiel der Körper mit der Schwerkraft. Die zweiwöchige Intensive ist zunächst ein grundlegendes Bewegungstraining zur Schulung der kinästhetischen und sensomotorischen Sinne – vom feinen Wahrnehmen und Spüren des eigenen Körpers in Ruhe und Bewegung, des Bodens, der PartnerInnen bis hin zum Training von angemessenen und schnellen Reaktionen in Überraschungsmomenten. 
-
-Wir lernen uns selbst wahrzunehmen, in Kontakt zu kommen, im Kontakt aufeinander "zuzuhören" und uns gemeinsam fortzubewegen. Schrittweise werden wir das Basisvokabular und Grundtechniken der Contact Improvisation (im Sinne von Bewegungsprinzipien) kennenlernen und im Tanzen vertiefen.
-
-In **Woche 1** der Intensive lernen wir grundlegende Bewegungstechniken der CI kennen und vertiefen diese, wie z.B. gemeinsam zu rollen, uns fallen zu lassen und wieder aufzurichten sowie gegenseitig Gewicht abzugeben und aufzunehmen. Wir erforschen die Contact Improvisation als eine Form von nonverbaler Kommunikation. Was bedeutet es, mit dem ganzen Körper zu sprechen und zuzuhören? Wie kann ich Bewegungsimpulse meiner TanzpartnerInnen lesen und in mein Bewegen aufnehmen? Wie kann ich eigene Impulse setzen ohne die Verbindung zu den PartnerInnen zu verlieren? Welcher Dialog, welche Form von Kooperation und welche Bewegungssynergien ergeben sich daraus? sind einige Fragen, die wir uns immer wieder stellen werden.
-
-In **Woche 2** beginnen wir unsere Tänze mit Schwung und Leichtigkeit in alle Raumrichtungen zu navigieren und unsere Risikobereitschaft herauszufordern. Durch eine anatomisch gute Körperausrichtung sowie durch Modulation der Körperspannung und unter Nutzung der Schwungenergie lernen wir Gewicht körperschonend aufzunehmen und abzugeben. Anhand von einfachen "lifts" lernen wir uns aufzuspannen und ins Fliegen zu kommen und wieder sanft zu landen. 
-
-Teilnahmeempfehlungen: Tanz- und Bewegungsvorerfahrung aller Art sowie Offenheit und Lust sich auf Berührung und Körperkontakt einzulassen.\
-Teilnahme an Woche 2: Teilnahme an Woche 1 bzw. sonstige CI-Kursvorerfahrungen 
-
-**Kosten:**1 Woche: € 90,- , StudentenInnen unter 27: 60,-\
-Beide Wochen: € 160,- , ermäßigt: € 105,-
-
-Anmeldung: Christian 0650/8931081 oder ci.rollingpoint@gmail.com
-
-Bitte den Kostenbeitrag vorab auf unser Konto\
-IBAN: AT54 3200 0000 1701 2717, BIC: RLNWATWW, Verein rollingpoint, einzahlen.
-
-Stornobedingungen: Bis drei Tage vor Beginn der Intensive wird der volle Betrag abzüglich einer Bearbeitungsgebühr von € 10,- rückerstattet. Danach keine Stornomöglichkeit. Es kann aber eine Ersatzperson nominiert werden.
 
 ![](/assets/uploads/heshaohui.rollingpoint-wu-fotos.067.jpg)
 
@@ -121,8 +104,7 @@ beginner/intermediate**
 Mo und Do (11.2., 14.2., 18.2., 21.2.): Turnsaal Gilgegasse 12, 9. Bez.\
 Di und Mi (12.2., 13.2., 19.2., 20.2.): Turnsaal Einsiedlergasse 7, 5. Bez.
 
-Die Winterintensive bietet die Möglichkeit zwei Wochen lang jeden Tag jeweils von Mo-Do Abend mehr als zwei Stunden lang Contact Improvisation zu tanzen. \
-Der optimale Einstieg in die Contact Improvisation für bewegungsfreudige BeginnerInnen und eine Vertiefungspraxis für CI-TänzerInnen mit Vorerfahrung.
+Die Winterintensive bietet die Möglichkeit zwei Wochen lang jeden Tag jeweils von Mo-Do Abend mehr als zwei Stunden lang Contact Improvisation zu tanzen - ein optimaler Einstieg in die Contact Improvisation für bewegungsfreudige BeginnerInnen oder auch Vertiefungspraxis für CI-TänzerInnen mit Vorerfahrung.
 
 CI ist Bewegungslernen im ursprünglichsten Sinne. Jede Bewegung entsteht unmittelbar im Augenblick aus dem gegenseitigen Kontakt und dem Zusammenspiel der Körper mit der Schwerkraft. Im Laufe des Lernprozesses der CI eröffnet sich die Fähigkeit, sich dem gemeinsamen Bewegungsfluss hinzugeben und gleichzeitig den gemeinsamen Tanz so präsent wahrzunehmen, so dass dieser Fluss spielerisch gelenkt werden kann.
 
