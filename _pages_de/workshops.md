@@ -8,36 +8,40 @@ Fotocredits: He Shao Hui
 
 > ### Wochenend-Workshops Wintersemester
 >
-> **[5./6.11.2022 "From Bodywork into Contact Impovisation" mit maRia Probst und Christian Apschner](#bodywork)**
->
-> **[10./11.12.2022: "Liquid Motion" mit maRia Probst](#liquid)**
+> ##### ﻿10./11.12.2022: "Liquid Motion" ﻿mit maRia Probst﻿
 >
 > **[14./15.1.2023: "Contact Flying Skills" mit Christian Apschner und support tba](#flying)**
 >
-> <div class="named-anchor" id="energize"></div>
+>
+>
+> <div class="named-anchor" id="Liquid"></div>
 
-<div class="named-anchor" id="bodywork"></div>
+#### „Liquid Motion“ Bewegungsfluss, Kraft und Wandelbarkeit- open level
 
-#### "From Bodywork into Contact Improvisation" open level
-
-**mit maRia Probst und Christian Apschner 
-Sa/So 5./ 6.11.2022, 10.00-17.00**, Prana-Yoga Studio 1, Mariahilferstraße 82, 1070 Wien
-
-Bewegung und Berührung sind die Grundlage aller menschlichen Entwicklungsprozesse. In unserem Workshop verwenden wir hands-on bodywork-Techniken zur Regulation des autonomen Nervensystems, für einen freien Bewegungsfluss und um neue wohltuende Bewegungsmöglichkeiten zu eröffnen. Oft reicht es aus in einer angemessenen Haltung unserer Intuition freien Lauf zu lassen. Darüber hinaus werden wir spezifisches Know How aus unseren Berührungs-Fachgebieten Tuina, Trager Psychophysische Integration, Somatische Faszientherapie und Orthobionomie anbieten.
-
-Mit unseren durch anatomisch-imaginative Vorstellungsbilder unterstützten Anleitungen wird es möglich, kleinste Veränderungen von Muskelanspannungen und andere kinästhetische Empfindungen wahrzunehmen. Zentrale Verbindungen unseres Bewegungssystems wie die Enden unserer Wirbelkette, Schultern-Hüftgelenke oder die Hand- und Fußfesseln werden gezielt angesprochen.
-
-Unser Fokus liegt an diesem Wochenende darin, diesen "Berührungsschatz" im Sinne von Bewegungsvielfalt, Bewegungsqualität und angemessenen Einsatz von Energie und Kraft zu heben, um ihn in unsere tänzerischen Beziehungen sowohl in der Contact Improvisation wie auch in der freien Improvisation einfließen zu lassen.  In der Contact Improvisation begegnen wir unseren TanzpartnerInnen in Form eines nonverbalen Dialogs und in diversen Übungssettings lernen wir, Bewegung im Kontakt körpergerecht und im Zusammenspiel mit den physikalischen Gesetzmäßigkeiten zu gestalten.
-
-<div class="named-anchor" id="liquid"></div>
-
-#### „Liquid Motion“ open level
+**ein Zeitgenössischer Tanz und Somatic Movement Workshop** 
 
 **mit maRia Probst
 Sa/So 10.+11.12.2022 10.00-17.00h**\
 Prana-Yoga Studio 1, Mariahilferstraße 82, 1070 Wien
 
-An diesem Wochenende begeben wir uns auf einen tänzerischen Tauchgang in die flüssigen Bewegungswelten unseres Körpers. Wir sprechen dabei im Sinne von BodyMindCentering über spezifische Berührung, anatomische Information oder verbale Anleitung, Körperflüssigkeiten wie Gelenksflüssigkeit, Blut oder Lymphe an. Mit Elementen aus weiteren Somatic Movement Praktiken, zeitgenössischem Tanz und Contact Improvisation vertiefen wir unsere Körperbewusstheit und erweitern und verfeinern unsere Bewegungsmöglichkeiten. Spezifische Musik und Vorstellungsbilder verstärken unseren Zugang zum Schatz der Eigenbewegung unseres inneren Meeres als Basis für vielgestaltigen Tanz mit und ohne physischen Kontakt.
+An diesem Wochenende sprechen wir unser inneres Körper-Meer als\
+Ressource für Bewegungsfluss, Kraft und Wandelbarkeit an. Wir bestehen zu einem großen Teil aus Wasser. Verbinden wir uns mit unserem inneren Meer, fällt es uns leicht in einen Bewegungsfluss zu kommen. Lassen wir uns tiefer auf die verschiedenen Varianten der Säfte in unserem Körper ein, entdecken wir eine Vielfalt an Bewegungsqualitäten.
+
+Unsere Körper-Flüssigkeiten sind ein feines Mitteilungs-System und somit Träger einer breiten Ausdruckspalette. Wir können beispielsweise unser Blut spüren, wie es mithilfe von Herzkraft an die Körperränder und uns davon bewegen lassen. Visualisieren wir die Lymphflüssigkeit, die uns gegen Unzuträgliches verteidigt, bringen wir Klarheit in die Bewegung. Mit der Zwischenzellflüssigkeit zu tanzen, die frei im Körper mäandern kann, eröffnet uns Bewegungsoptionen nach allen Richtungen.
+
+Zu jedem Zeitpunkt verwandelt sich eine Flüssigkeit in die andere. Verbinden wir uns mit diesem Prozess, gelingt die Transformation von einer zur nächsten Bewegungsqualität ganz leicht.
+
+Dieser Workshop ist ein Tauchgang in die flüssigen Welten unseres inneren Meeres. Wir werden uns manchmal wie im Wasser fühlen, das Körpergefäß als Ufer erspüren und möglicherweise auch Ungewohntem begegnen.
+
+Wir sprechen mit Elementen aus dem zeitgenössischen Tanz, Qi Gong , Yoga und Contact Improvisation unseren "KörperGeist" als Einheit an.
+
+Im Mittelpunkt steht Somatic Movement. Inspiriert von BodyMindCentering\*\* berühren wir einander und visualisieren unser Körperinneres. Klang und punktuelle anatomische Information sind weitere Mittel die uns dieses besondere Körpersystem als Ressource näher bringen.
+
+Somatic Movement Praxen können für viele verschiedene Anliegen fruchtbar sein. An diesem Wochenende steht die Erweiterung des eigene Bewegungsspektrums im Tanz, Leichtigkeit, integrierte Kraft und Wandelbarkeit in der Bewegung im Vordergrund. Mehr Leichtigkeit und Flow Erlebnisse im Alltag, eine veränderte Aufrichtung und auch Begegnungen mit Unbewusstem können "Nebenwirkungen" dieses Workshops sein.
+
+**Teilnahmeempfehlung:** Bewegungs-, Begegnungs- und Berührungsfreudige Menschen, die sich selbst und anderen gegenüber verantwortlich sind.
+
+\*\* Body-Mind Centering ist eine „Somatic Movement“ Disziplin und ein integrativer und leibhafter Zugang zu Bewegung, Körper und Bewusstsein.
 
 <div class="named-anchor" id="flying"></div>
 
@@ -71,6 +75,19 @@ IBAN:AT54 3200 0000 1701 2717, BIC: RLNWATWW, Verein rollingpoint, einzahlen.�
 **Stornobedingungen:** Bei Abmeldung bis sieben Tage vor dem Workshop wird der gesamte Betrag abzgl. einer Bearbeitungsgebühr von € 10,- zurückbezahlt. 50% Storno bis zwei Tage vor dem Workshop. Am Vortag und Tag des Workshops kein Storno mehr möglich. Es kann aber eine Ersatzperson nominiert werden.
 
 ## Workshoptermine (Rückblick):
+
+#### "From Bodywork into Contact Improvisation" open level
+
+**mit maRia Probst und Christian Apschner 
+Sa/So 5./ 6.11.2022, 10.00-17.00**, Prana-Yoga Studio 1, Mariahilferstraße 82, 1070 Wien
+
+Bewegung und Berührung sind die Grundlage aller menschlichen Entwicklungsprozesse. In unserem Workshop verwenden wir hands-on bodywork-Techniken zur Regulation des autonomen Nervensystems, für einen freien Bewegungsfluss und um neue wohltuende Bewegungsmöglichkeiten zu eröffnen. Oft reicht es aus in einer angemessenen Haltung unserer Intuition freien Lauf zu lassen. Darüber hinaus werden wir spezifisches Know How aus unseren Berührungs-Fachgebieten Tuina, Trager Psychophysische Integration, Somatische Faszientherapie und Orthobionomie anbieten.
+
+Mit unseren durch anatomisch-imaginative Vorstellungsbilder unterstützten Anleitungen wird es möglich, kleinste Veränderungen von Muskelanspannungen und andere kinästhetische Empfindungen wahrzunehmen. Zentrale Verbindungen unseres Bewegungssystems wie die Enden unserer Wirbelkette, Schultern-Hüftgelenke oder die Hand- und Fußfesseln werden gezielt angesprochen.
+
+Unser Fokus liegt an diesem Wochenende darin, diesen "Berührungsschatz" im Sinne von Bewegungsvielfalt, Bewegungsqualität und angemessenen Einsatz von Energie und Kraft zu heben, um ihn in unsere tänzerischen Beziehungen sowohl in der Contact Improvisation wie auch in der freien Improvisation einfließen zu lassen.  In der Contact Improvisation begegnen wir unseren TanzpartnerInnen in Form eines nonverbalen Dialogs und in diversen Übungssettings lernen wir, Bewegung im Kontakt körpergerecht und im Zusammenspiel mit den physikalischen Gesetzmäßigkeiten zu gestalten.
+
+<div class="named-anchor" id="liquid"></div>
 
 ### Sommer-Workshops:
 
