@@ -8,7 +8,8 @@ title: Winter-Intensive
 
 Fotocredits: He Shao Hui
 
-#### **Contact Improvisation Winter-Intensive 2023**\
+#### **Contact Improvisation Winter-Intensive 2023**
+
 \
 **Woche 1: Mo - Do 13.- 16.2.2023\
 "CI-Fundamentals and the Art of Listening"  (beginner)**\
