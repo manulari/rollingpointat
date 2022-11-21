@@ -8,7 +8,7 @@ Fotocredits: He Shao Hui
 
 > ### Wochenend-Workshops Wintersemester
 >
-> ##### ﻿10./11.12.2022: "Liquid Motion" ﻿mit maRia Probst﻿
+> ##### `﻿10./11.12.2022: "Liquid Motion" ﻿mit maRia Probst﻿`
 >
 > **[14./15.1.2023: "Contact Flying Skills" mit Christian Apschner und support tba](#flying)**
 >
