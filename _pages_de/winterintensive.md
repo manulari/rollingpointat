@@ -26,7 +26,7 @@ Di und Mi (20.2., 23.2., 21.2., 22.2.): Turnsaal Einsiedlergasse 7, 5. Bez.
 
 Die Winterintensive bietet dir die Möglichkeit zwei Wochen lang jeden Tag jeweils von Mo-Do Abend mehr als zwei Stunden lang Contact Improvisation zu tanzen -  der optimale Einstieg in die Contact Improvisation für BeginnerInnen oder auch eine Vertiefungspraxis für CI-TänzerInnen mit Vorerfahrung.
 
-CI ist Bewegungslernen im ursprünglichsten Sinne. Jede Bewegung entsteht unmittelbar im Augenblick aus dem gegenseitigen Kontakt und dem Zusammenspiel der Körper mit der Schwerkraft. Die zweiwöchige Intensive ist zunächst ein grundlegendes Bewegungstraining zur Schulung der kinästhetischen und sensomotorischen Sinne – vom feinen Wahrnehmen und Spüren des eigenen Körpers in Ruhe und Bewegung bis hin zum Training von angemessenen und schnellen Reaktionen in Überraschungsmomenten. 
+CI ist Bewegungslernen im ursprünglichsten Sinne. Jede Bewegung entsteht unmittelbar im Augenblick aus dem gegenseitigen Kontakt und dem Zusammenspiel der Körper mit der Schwerkraft. Die Intensive ist zunächst ein grundlegendes Bewegungstraining zur Schulung der kinästhetischen und sensomotorischen Sinne – vom feinen Wahrnehmen und Spüren des eigenen Körpers in Ruhe und Bewegung bis hin zum Training von angemessenen und schnellen Reaktionen in Überraschungsmomenten. 
 
 Wir lernen uns selbst wahrzunehmen, in Kontakt zu kommen, im Kontakt aufeinander "zuzuhören" und uns gemeinsam fortzubewegen. Schrittweise lernen wir das Basisvokabular und Grundtechniken der Contact Improvisation kennen.
 
