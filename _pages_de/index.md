@@ -53,6 +53,16 @@ ACHTUNG neuer Termin:
 
 **[14./15.1.2023 Contact Flying Skills](/workshops#flying) mit Christian Apschner**
 
+### **[Winterintensive Contact Improvisation](/winterintensive#winterintensive)**
+
+**Woche 1: Mo - Do 13.- 16.2.2023\
+“CI-Fundamentals and the Art of Listening” (beginner)**\
+**mit maRia Probst und Christian Apschner**\
+\
+**Woche 2 .Mo - Do 20.- 23.2.202**\
+**“Get ready to Fly” (intermediate)**\
+**mit Christian Apschner**
+
 ### **[rollingpoint-Jam: jeden Sonntag 19.00-22.00](/jams)**
 
 \
