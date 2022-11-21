@@ -13,7 +13,7 @@ Fotocredit: https://johannes-stolba.net/photography/
 
 ### Wochenend-Workshop
 
-**[](/workshops#bodywork)[10./11.12.2022 "Liquid Motion"](workshops) - Bewegungsfluss, Kraft und Wandelbarkeit- open level - Zeitgenössischer Tanz und Somatic Movement mit maRia Probst - F﻿rühbucherpreis bis Mo 28.11.22!**
+[](/workshops#bodywork)**[10./11.12.2022 "Liquid Motion"](workshops) - Bewegungsfluss, Kraft und Wandelbarkeit- open level - Zeitgenössischer Tanz und Somatic Movement mit maRia Probst - F﻿rühbucherpreis bis Mo 28.11.22!**
 
 ### Willkommen bei rollingpoint!
 
@@ -51,9 +51,9 @@ Di 20.9.2022 - 31.1.2023, 18.15 – 20.30 (ca.16x)**\
 
 ### Wochenend-Workshops
 
-**[](/workshops#bodywork)[10./11.12.2022 "Liquid Motion"](workshops) - Zeitgenössischer Tanz und Somatic   Movement mit maRia Probst**
+[](/workshops#bodywork)**[10./11.12.2022 "Liquid Motion"](workshops) - Zeitgenössischer Tanz und Somatic   Movement mit maRia Probst**
 
-**[14./15.1.2023 Contact Flying Skills](/workshops#flying) mit Christian Apschner**
+**[14./15.1.2023 Contact Flying Skills](/workshops#flying) mit Christian Apschner und Lui Springer**
 
 ### **[Winterintensive Contact Improvisation](/winterintensive#winterintensive)**
 
