@@ -10,7 +10,7 @@ Fotocredits: He Shao Hui
 >
 > **[1﻿0./11.12.2022 "Liquid Motion" mit maRia Probst](#liquid)**
 >
-> **[14./15.1.2023: "Contact Flying Skills" mit Christian Apschner und support tba](#flying)**
+> **[14./15.1.2023: "Contact Flying Skills" mit Christian Apschner und Lui Springer](#flying)**
 
 <div class="named-anchor" id="liquid"></div>
 
@@ -44,7 +44,7 @@ Somatic Movement Praxen können für viele verschiedene Anliegen fruchtbar sein.
 #### **"Contact Flying Skills"** - advanced
 
 **Sa/So 14./ 15.01.2023, 10.00-17.00  (ca 1,5h Mittagspause)**\
-**mit Christian Apschner und support tba**
+**mit Christian Apschner und Lui Springer**
 
 Prana-Yoga Studio 1, Mariahilferstraße 82, 1070 Wien
 
