@@ -14,11 +14,9 @@ Fotocredits: He Shao Hui
 
 <div class="named-anchor" id="liquid"></div>
 
-#### „Liquid Motion“ Bewegungsfluss, Kraft und Wandelbarkeit- open level
+#### „Liquid Motion“ -open level
 
-**ein Zeitgenössischer Tanz und Somatic Movement Workshop** 
-
-**mit maRia Probst
+**Zeitgenössischer Tanz und Somatic Movement** **mit maRia Probst
 Sa/So 10.+11.12.2022 10.00-17.00h**\
 Prana-Yoga Studio 1, Mariahilferstraße 82, 1070 Wien
 
@@ -47,6 +45,8 @@ Somatic Movement Praxen können für viele verschiedene Anliegen fruchtbar sein.
 
 **Sa/So 14./ 15.01.2023, 10.00-17.00  (ca 1,5h Mittagspause)**\
 **mit Christian Apschner und support tba**
+
+Prana-Yoga Studio 1, Mariahilferstraße 82, 1070 Wien
 
 Der rollingpoint Workshop-Klassiker für alle CI-TänzerInnen mit sportlichen Ambitionen!
 
