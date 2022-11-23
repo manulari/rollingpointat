@@ -21,23 +21,23 @@ Sa/So 10.+11.12.2022 10.00-17.00h**\
 Prana-Yoga Studio 1, Mariahilferstraße 82, 1070 Wien
 
 An diesem Wochenende sprechen wir unser inneres Körper-Meer als\
-Ressource für Bewegungsfluss, Kraft und Wandelbarkeit an. Wir bestehen zu einem großen Teil aus Wasser. Verbinden wir uns mit unserem inneren Meer, fällt es uns leicht in einen Bewegungsfluss zu kommen. Lassen wir uns tiefer auf die verschiedenen Varianten der Säfte in unserem Körper ein, entdecken wir eine Vielfalt an Bewegungsqualitäten.
+Ressource für Bewegungsfluss, Kraft und Wandelbarkeit an. Wir bestehen zu einem großen Teil aus Wasser. Verbinden wir uns mit unserem inneren Meer, fällt es uns leicht in einen Bewegungsfluss zu kommen. Lassen wir uns tiefer auf die verschiedenen Varianten der Körperflüssigkeiten in unserem Körper ein, entdecken wir eine Vielfalt an Bewegungsqualitäten.
 
-Unsere Körper-Flüssigkeiten sind ein feines Mitteilungs-System und somit Träger einer breiten Ausdruckspalette. Wir können beispielsweise unser Blut spüren, wie es mithilfe von Herzkraft an die Körperränder strömt und uns davon bewegen lassen. Visualisieren wir die Lymphflüssigkeit, die uns gegen Unzuträgliches verteidigt, bringen wir Klarheit in die Bewegung. Mit der Zwischenzellflüssigkeit zu tanzen, die frei im Körper mäandern kann, eröffnet uns Bewegungsoptionen nach allen Richtungen. 
+Unsere Körper-Flüssigkeiten sind ein feines Mitteilungs-System und somit Träger einer breiten Ausdruckspalette. Wir können beispielsweise unser Blut spüren, wie es mithilfe von Herzkraft an die Körperränder strömt und uns davon bewegen lassen. Visualisieren wir unsere Lymphflüssigkeit, die uns gegen Unzuträgliches verteidigt während sie von der Peripherie Richtung Körpermitte fließt, stärken wir unser Zentrum. Mit der Zwischenzellflüssigkeit zu tanzen, die frei im Körper mäandern kann, eröffnet uns Bewegungsoptionen nach allen Richtungen. 
 
 Zu jedem Zeitpunkt verwandelt sich eine Flüssigkeit in die andere. Verbinden wir uns mit diesem Prozess, gelingt die Transformation von einer zur nächsten Bewegungsqualität ganz leicht.
 
 Dieser Workshop ist ein Tauchgang in die flüssigen Welten unseres inneren Meeres. Wir werden uns manchmal wie im Wasser fühlen, das Körpergefäß als Ufer erspüren und möglicherweise auch Ungewohntem begegnen.
 
-Wir sprechen mit Elementen aus dem zeitgenössischen Tanz, Qi Gong , Yoga und Contact Improvisation unseren "KörperGeist" als Einheit an.
+Wir sprechen mit Elementen aus dem zeitgenössischen Tanz, Qi Gong , Yoga und Contact Improvisation unseren KörperGeist als Einheit an.
 
-Im Mittelpunkt steht Somatic Movement. Inspiriert von BodyMindCentering\*\* berühren wir einander und visualisieren unser Körperinneres. Klang und punktuelle anatomische Information sind weitere Mittel die uns dieses besondere Körpersystem als Ressource näher bringen.
+Im Mittelpunkt steht Somatic Movement. Inspiriert von Body-Mind Centering®\*\* berühren wir einander und visualisieren unser Körperinneres. Klang und punktuelle anatomische Information sind weitere Mittel die uns dieses besondere Körpersystem als Ressource näher bringen.
 
-Somatic Movement Praxen können für viele verschiedene Anliegen fruchtbar sein. An diesem Wochenende steht die Erweiterung des eigene Bewegungsspektrums im Tanz, Leichtigkeit, integrierte Kraft und Wandelbarkeit in der Bewegung im Vordergrund. Mehr Leichtigkeit und Flow Erlebnisse im Alltag, eine veränderte Aufrichtung und auch Begegnungen mit Unbewusstem können "Nebenwirkungen" dieses Workshops sein.
+Somatic Movement Praxen können für viele verschiedene Anliegen fruchtbar sein. An diesem Wochenende steht die Erweiterung des eigene Bewegungsspektrums im Tanz, Leichtigkeit, integrierte Kraft und Wandelbarkeit in der Bewegung im Vordergrund. Achtung, mögliche positive Nebenwirkungen sind: Leichtigkeit, Flow Erlebnisse und eine verbesserte Aufrichtung im Alltag.
 
-**Teilnahmeempfehlung:** Bewegungs-, Begegnungs- und Berührungsfreudige Menschen, die sich selbst und anderen gegenüber verantwortlich sind.
+**Teilnahmeempfehlung:** Bewegungs-, begegnungs- und berührungsfreudige Menschen, die sich selbst und anderen gegenüber verantwortlich sind.
 
-\*\* Body-Mind Centering ist eine „Somatic Movement“ Disziplin und ein integrativer und leibhafter Zugang zu Bewegung, Körper und Bewusstsein.
+\*\* Body-Mind Centering® ist eine Somatic Movement Disziplin und ein integrativer und leibhafter Zugang zu Bewegung, Körper und Bewusstsein. 
 
 <div class="named-anchor" id="flying"></div>
 
