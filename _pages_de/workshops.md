@@ -56,6 +56,8 @@ Wir stellen eine Verbindung von Athletischem und Meditativem her und lernen durc
 
 Für die Teilnahme an diesem Workshop sind CI-Grund- und Tanzerfahrung sowie gute körperliche und mentale Fitness erforderlich.
 
+Lui Springer: <https://www.freibewegt.at/über/>
+
 ## Organisatorisches:
 
 **Ort:** Alle Workshops finden im Prana Yoga-Studio Nr.1, Mariahilferstr. 82, 1070 Wien statt.
