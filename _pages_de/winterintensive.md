@@ -42,7 +42,7 @@ Teilnahme an Woche 2: Teilnahme an Woche 1 bzw. sonstige CI-Kursvorerfahrungen 
 
 **Anmeldung bitte per email:**  **ci.rollingpoint@gmail.com** bzw. Christian 0650/8931081
 
-**Kosten:** Eine Woche: € 90,- , StudentenInnen unter 27: 60,-\
+**Kosten:** Eine Woche: € 90,- , StudentenInnen unter 28: 60,-\
 Beide Wochen: € 160,- , ermäßigt: € 110,-
 
 Die Reservierung eines Kursplatzes erfolgt durch Überweisung des Kostenbetrages.\
