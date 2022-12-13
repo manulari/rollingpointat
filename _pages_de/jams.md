@@ -3,7 +3,7 @@ permalink: /jams
 title: ROLLINGPOINT-JAMS
 other_lang: ""
 ---
-> #### **Aktualiserung 8.7.2022: Die rollingpoint-Jam findet im Sommer 2022 durchgehend ohne Unterbrechung jeden Sonntag abend statt.**
+> #### **Am 25.1.2022 und 1.1.2023 macht die rollingpoint-Jam Weihnachtsferien**
 
 Die rollingpoint-Jams sind ein Ort für fokussiertes Contact Improvisations-Tanzen an dem **CI als zeitgenössische Tanz- und Kunstform** praktiziert wird. Wir achten darauf einen gemeinsamen Raum zu halten, in dem sich alle sicher fühlen und erwarten von den TeilnehmerInnen, dass sie bereits über erste CI-Kurserfahrungen (im Sinne von Grundkenntnissen) verfügen.
 
@@ -26,7 +26,7 @@ Teilweise  angeleitete warm ups, ausgewählte Musik und Sound-Scapes in der 2.H
 \
 **Hinweise zur Sicherheit in den rollingpoint-Jams:** 
 
-Wichtigster Grundkonsens einer CI-Jam ist, dass alle TeilnehmerInnen so gut wie möglich **auf die eigene Sicherheit UND die Sicherheit der TanzpartnerInnen achten**: *„Pass auf, dass du niemand verletzt! Pass auf, dass dich niemand verletzt!"*
+Wichtigster Grundkonsens einer CI-Jam ist, dass alle TeilnehmerInnen gut **auf die eigene Sicherheit UND die Sicherheit der TanzpartnerInnen achten**: *„Pass auf, dass du niemand verletzt! Pass auf, dass dich niemand verletzt!"*
 
 Es ist Teil des Lernprozesses der Contact Improvisation im Laufe der Zeit immer besser herauszufinden, wo die eigenen Grenzen und die Grenzen der TanzpartnerInnen liegen z.B. im Umgang mit Körpergewichten. Der Lernprozess erlaubt aber vor allem auch „gedachte Grenzen“ zu erweitern und neue Freiheiten im Tanzen zu eröffnen. Für die physische Sicherheit ist es wichtig, einige Grundtechniken zu erlernen, welche gezielt in Kursen vermittelt werden wie Falltechniken, Körpergewicht dosiert abzugeben und gemeinsam zu rollen oder zu gleiten u.v.a.m. In einer Jam gibt es **keine Anleitung** wie in einem Kurs. Erste **Basiskenntnisse** und ein **Grundverständnis der Contact Improvisation werden** daher für die Teilnahme an der rollingpoint-jam **vorausgesetzt**.
 
@@ -39,7 +39,7 @@ Es ist Teil des Lernprozesses der Contact Improvisation im Laufe der Zeit immer 
 * **Sprich ein „NEIN“ aus, wenn deine Grenzen nonverbal nicht kommuniziert werden können**
 * **Frage nach, wenn du das Gefühl hast, deinE TanzpartnerIn könnte sich nicht sicher fühlen**
 
-Körperkontakt in der CI dient der taktilen und sensomotorischen Wahrnehmung und der Gewichtsübertragung. Körperkontakt oder Berührung mit dem Ziel sexueller Annäherung ist nicht Contact Improvisation.
+**Körperkontakt in der CI dient der taktilen und sensomotorischen Wahrnehmung und der Gewichtsübertragung. Körperkontakt oder Berührung mit dem Ziel sexueller Annäherung ist nicht Contact Improvisation.**
 
 Ein CI-Tanz ist ein gleichberechtigter körperlicher Dialog, in dem wir uns fortlaufend somatische Fragen stellen wie z.B. 
 
@@ -47,11 +47,13 @@ Ein CI-Tanz ist ein gleichberechtigter körperlicher Dialog, in dem wir uns fort
 „In welche Richtung bewegt sich der Kontaktpunkt?“\
 „Wieviel Unterstützung braucht meine TanzpartnerInnen in diesem Moment?“ u.a.
 
-*Contact Improvisation ist auch ein großartiges Empathie-Lerntool um mit anderen Menschen auf einer sinnlich-körperlichen Ebene in Kontakt zu sein und nonverbal zu kommunizieren. Da wir uns im Alltag nicht so selbstverständlich berühren ist Körperkontakt für manche CI-BeginnerInnen mit dem Gedanken an sexuelle Aktivitäten assoziiert. Das Kennenlernen der Bewegungssprache der Contact Improvisation in Kursen reduziert das Potential von Missverständnissen. Oft braucht es einige Zeit um sich als BeginnerIn in der Jam-Welt vertraut zu machen und einzuleben. Viele Fragen lösen sich mit der Zeit von selbst.*
+Bei auftauchenden Fragenstellungen in der Jam besteht immer die Möglichkeit  der/die Jam-host anzusprechen.
+
+*Weitere Anmerkungen Contact Improvisation ist auch ein großartiges Empathie-Lerntool um mit anderen Menschen auf einer sinnlich-körperlichen Ebene in Kontakt zu sein und nonverbal zu kommunizieren. Da wir uns im Alltag nicht so selbstverständlich berühren ist Körperkontakt für manche CI-BeginnerInnen mit dem Gedanken an sexuelle Aktivitäten assoziiert. Das Kennenlernen der Bewegungssprache der Contact Improvisation in Kursen ist wichtig um Missverständnisse zu vermeiden. Oft braucht es einige Zeit um sich als BeginnerIn in der Jam-Welt vertraut zu machen und einzuleben. Viele Fragen lösen sich mit der Zeit von selbst.*
 
 *Je nachdem welche Vorerfahrung wir mit Körperkontakt mitbringen, kann das CI-Tanzen zu Beginn in uns unterschiedliche Gefühle und Gedanken auslösen. CI ist keine Therapie. Für viele CI-Praktizierende ist das gemeinsame Tanzen aber auch ein wichtiger Lernprozess, der in verschiedenste Lebensbereiche integriert werden kann.*
 
-Bei auftauchenden Fragenstellungen in der Jam besteht immer die Möglichkeit  der/die Jam-host anzusprechen.
+
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
