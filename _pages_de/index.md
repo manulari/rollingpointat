@@ -9,13 +9,7 @@ other_lang: /en/
 
 Fotocredit: https://johannes-stolba.net/photography/
 
-### A﻿KTUELL:
-
-### Wochenend-Workshop
-
-[](/workshops#bodywork)**[10./11.12.2022 "Liquid Motion"](workshops) - Bewegungsfluss, Kraft und Wandelbarkeit- open level - Zeitgenössischer Tanz und Somatic Movement mit maRia Probst - F﻿rühbucherpreis bis Mo 28.11.22!**
-
-### Willkommen bei rollingpoint!
+### AWillkommen bei rollingpoint!
 
 **Wir laden dich ein, gemeinsam mit uns in die Welt der Contact Improvisation, des Zeitgenössischen Tanzes und des Somatischen Lernens einzutauchen. Wir bewegen uns an der Schnittstelle von Tanz, Kunst, Sport, Lernen und Forschung und bringen mehr als 20 Jahre Erfahrung in unsere Arbeit ein. Gerade jetzt ist es uns besonders wichtig offene Räume für Lebensfreude und Begegnung zu kreieren.**
 
@@ -67,7 +61,7 @@ Di 20.9.2022 - 31.1.2023, 18.15 – 20.30 (ca.16x)**\
 
 ### **[rollingpoint-Jam: jeden Sonntag 19.00-22.00](/jams)**
 
-\
+ausgenommen 25.12.2022 und 1.1.2023\
 &nbsp;
 
 ![Mehr CI auf der Stiege](/assets/uploads/dsc_1941a.jpg "Mehr CI auf der Stiege")
