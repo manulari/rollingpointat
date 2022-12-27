@@ -19,9 +19,19 @@ Fotocredit: https://johannes-stolba.net/photography/
 
 <div class="imglink"><a target="_blank" href="https://www.youtube.com/embed/6A5otnVZAg4"><img src="/assets/uploads/video_vorschau_maria.png" alt="" /><div>Ganzheitliches Körpertraining mit maRia Probst</div></a></div>
 
-### Abendkurse Wintersemester 2022/23:
+### **Kursbeginn Sommersemester 27.2.- 2.3.2023**
 
-**Kursbeginn 19.-22.9.2022**, offene Schnupperstunden in den ersten drei Kurswochen
+### **[Winterintensive Contact Improvisation](/winterintensive#winterintensive)**
+
+**Woche 1: Mo - Do 13.- 16.2.2023\
+“CI-Fundamentals and the Art of Listening” (beginner)**\
+**mit maRia Probst und Christian Apschner**\
+\
+**Woche 2 .Mo - Do 20.- 23.2.202**\
+**“Get ready to Fly” (intermediate)**\
+**mit Christian Apschner**
+
+### Abendkurse Wintersemester 2022/23:
 
 **[1 "Energize Through Motion" Zeitgenössischer Tanz/CI light/ Somatics](/kurse#mo)**\
 **open level, mit maRia Probst**  \
@@ -48,16 +58,6 @@ Di 20.9.2022 - 31.1.2023, 18.15 – 20.30 (ca.16x)**\
 [](/workshops#bodywork)**[10./11.12.2022 "Liquid Motion"](workshops) - Zeitgenössischer Tanz und Somatic   Movement mit maRia Probst**
 
 **[14./15.1.2023 Contact Flying Skills](/workshops#flying) mit Christian Apschner und Lui Springer**
-
-### **[Winterintensive Contact Improvisation](/winterintensive#winterintensive)**
-
-**Woche 1: Mo - Do 13.- 16.2.2023\
-“CI-Fundamentals and the Art of Listening” (beginner)**\
-**mit maRia Probst und Christian Apschner**\
-\
-**Woche 2 .Mo - Do 20.- 23.2.202**\
-**“Get ready to Fly” (intermediate)**\
-**mit Christian Apschner**
 
 ### **[rollingpoint-Jam: jeden Sonntag 19.00-22.00](/jams)**
 
