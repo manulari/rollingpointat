@@ -21,7 +21,7 @@ Fotocredits: He Shao Hui
  **"Get ready to Fly" (intermediate)**\
 **mit Christian Apschner**
 
-Mo und Do (13.2., 15.2., 20.2., 23.2): Turnsaal Gilgegasse 12, 9. Bez.
+Mo und Do (13.2., 16.2., 20.2., 23.2): Turnsaal Gilgegasse 12, 9. Bez.
 
 Di und Mi (14.2., 15.2., 21.2., 22.2.): Turnsaal Einsiedlergasse 7, 5. Bez.
 
