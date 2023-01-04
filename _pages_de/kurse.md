@@ -14,7 +14,7 @@ title: KURSE UND WORKSHOPS
 \
 &nbsp;
 
-### Kursbeginn Sommersemester 2023: 27.2.- 2.3.2023
+### Unsere neuen Kurse des Sommersemesters 2023 starten vom 27.2.- 2.3.2023
 
 <div class="named-anchor" id="mo"></div>
 
