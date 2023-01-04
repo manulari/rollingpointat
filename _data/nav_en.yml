@@ -17,6 +17,8 @@ entries:
         path: /en/kurse
       - title: WORKSHOPS
         path: /en/workshops
+  - title: WINTER-INTENSIVE
+    path: /en/winterintensive
   - title: CI-DOJO (TRAINING+JAM)
     path: /en/dojo
   - title: JAMS+PERFORMANCES
@@ -30,5 +32,3 @@ entries:
         path: /en/christian
       - title: maRia Probst
         path: /en/maria
-  - title: WINTER-INTENSIVE
-    path: /en/winterintensive
