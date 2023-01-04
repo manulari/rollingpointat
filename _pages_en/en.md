@@ -62,6 +62,6 @@ other_lang: /
 
 ### **rollingpoint-Jam: every sunday**
 
-***All rollingpoint offers are held in accordance with the current CoVid regulations for Vienna.***
+
 
 &nbsp;
