@@ -89,6 +89,4 @@ No classes on school holiday
 
 &nbsp;
 
-***All rollingpoint offers are held in accordance with the current CoVid regulations for Vienna.***
-
 ![](/assets/uploads/img_0197.jpg)
