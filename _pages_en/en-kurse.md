@@ -15,7 +15,7 @@ Semester courses
 
 &nbsp;
 
-### Start Summer semester 2023: 27.2.- 2.3.2023
+### New courses (Summer semester 2023) will be starting from 27.2.- 2.3.2023
 
 <div class="named-anchor" id="mo"></div>
 
