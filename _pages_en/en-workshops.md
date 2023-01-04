@@ -42,8 +42,6 @@ IBAN:AT54 3200 0000 1701 2717, BIC: RLNWATWW, Verein rollingpoint, einzahlen.�
 
 **Cancellation conditions:** If you cancel up to seven days before the workshop, the entire amount minus a processing fee of €10 will be refunded. 50% cancellation up to two days before the workshop. Cancellation is no longer possible on the day before and on the day of the workshop. However, a substitute can be nominated.
 
-***All rollingpoint offers are held in accordance with the current CoVid regulations for Vienna.***
-
 &nbsp;
 
 ![](/assets/uploads/lsz_5750.jpg)
