@@ -19,8 +19,6 @@ Fotocredit: https://johannes-stolba.net/photography/
 
 <div class="imglink"><a target="_blank" href="https://www.youtube.com/embed/6A5otnVZAg4"><img src="/assets/uploads/video_vorschau_maria.png" alt="" /><div>Ganzheitliches Körpertraining mit maRia Probst</div></a></div>
 
-### **Kursbeginn Sommersemester 27.2.- 2.3.2023**
-
 ### **[Winterintensive Contact Improvisation](/winterintensive#winterintensive)**
 
 **Woche 1: Mo - Do 13.- 16.2.2023\
@@ -30,6 +28,9 @@ Fotocredit: https://johannes-stolba.net/photography/
 **Woche 2 .Mo - Do 20.- 23.2.202**\
 **“Get ready to Fly” (intermediate)**\
 **mit Christian Apschner**
+
+### **Kursbeginn Sommersemester 27.2.- 2.3.2023**\
+**Kurstage analog Wintersemester**
 
 ### Abendkurse Wintersemester 2022/23:
 
@@ -61,7 +62,7 @@ Di 20.9.2022 - 31.1.2023, 18.15 – 20.30 (ca.16x)**\
 
 ### **[rollingpoint-Jam: jeden Sonntag 19.00-22.00](/jams)**
 
-ausgenommen 25.12.2022 und 1.1.2023\
+\
 &nbsp;
 
 ![Mehr CI auf der Stiege](/assets/uploads/dsc_1941a.jpg "Mehr CI auf der Stiege")
