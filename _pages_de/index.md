@@ -29,8 +29,7 @@ Fotocredit: https://johannes-stolba.net/photography/
 **“Get ready to Fly” (intermediate)**\
 **mit Christian Apschner**
 
-### **Kursbeginn Sommersemester 27.2.- 2.3.2023**\
-**Kurstage analog Wintersemester**
+### **Kursbeginn Sommersemester 27.2.- 2.3.2023: Kurstage analog Wintersemester**
 
 ### Abendkurse Wintersemester 2022/23:
 
