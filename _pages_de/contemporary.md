@@ -8,6 +8,8 @@ title: Zeitgenössischer Tanz
 
 Fotocredit: He Shao Hui
 
+**Some thoughts about Contemporary Dance:**  <https://www.youtube.com/watch?v=6Z7xb51ZIgs>
+
 **Zeitgenössischer Tanz**
 
 * eine künstlerische Tanzform und ein Entwicklungs- und Spielfeld für Menschen mit unterschiedlichsten Bewegungshintergründen
