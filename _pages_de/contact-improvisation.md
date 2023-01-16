@@ -7,6 +7,10 @@ other_lang: /en/contact-improvisation
 
 ![](/assets/uploads/home_1940-2.jpg)
 
+**What is Contact Improvisation:** <https://www.youtube.com/watch?v=JSBVwCVWfGg>
+
+**maRia and Christian dancing Contact Improvisation:**<https://www.youtube.com/watch?v=vuvbU-S_8XM>
+
 **Contact Improvisation (CI)/Kontaktimprovisation**
 
 In der CI bewegen sich die TanzpartnerInnen in mehr oder weniger ständigem **Körperkontakt** (rollender Kontaktpunkt). Es entfaltet sich ein dynamisches Spiel mit dem Gleichgewicht, in dem sie sich im Spannungsfeld zwischen Stabilität und Mobilität vielfach wie ein gemeinsamer Körper fortbewegen. Die Aufmerksamkeit richtet sich auf das Spiel physikalischer Kräfte, die Beziehung zum Boden, die Partner_innen, den Raum und auf sich selbst. Die TanzpartnerInnen finden in **Drehen, Rollen, Gleiten, Fliegen** und **Fallen** ein gemeinsames Zentrum. Dem **Bewegungsfluss** folgend, entstehen **dreidimensionale spiralige Bewegungen**. **Körperwahrnehmung und -reflexe** werden geschult, Kraft und Beweglichkeit erweitert. Die TänzerInnen erlernen unnötige Körperanspannung loszulassen und Muskelkraft effizient einzusetzen. 
