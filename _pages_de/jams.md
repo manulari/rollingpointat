@@ -3,7 +3,7 @@ permalink: /jams
 title: ROLLINGPOINT-JAMS
 other_lang: ""
 ---
-![](https://www.youtube.com/watch?v=u9AhpFxfEfs)
+<div class="imglink"><a target="_blank" href="https://www.youtube.com/watch?v=u9AhpFxfEfs"><img src="https://www.youtube.com/watch?v=u9AhpFxfEfs" alt="" /><div>What happens in a Contact Jam</div></a></div>
 
 **What happens in a Contact Jam?** <https://www.youtube.com/watch?v=u9AhpFxfEfs>
 
