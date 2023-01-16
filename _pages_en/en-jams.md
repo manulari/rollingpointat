@@ -14,7 +14,7 @@ The regular rollingpoint Contact Improvisations Jam takes place every Sunday eve
 Furthermore, there are open jams on thursday evenings on school days in connection with a previous CI training (CI-DOJO) in the gym of VS Gilgegasse.\
 **[CI-DOJO (Training+Jam)](dojo)**
 
-***All rollingpoint offers are held in accordance with the current CoVid regulations for Vienna.***
+
 
 ## rollingpoint-Jam on sunday
 
