@@ -8,6 +8,10 @@ other_lang: /contact-improvisation
 
 ![](/assets/uploads/home_1940-2.jpg)
 
+**What is Contact Improvisation:** <https://www.youtube.com/watch?v=JSBVwCVWfGg>
+
+**maRia and Christian dancing Contact Improvisation:**<https://www.youtube.com/watch?v=vuvbU-S_8XM>
+
 **Contact Improvisation** is a journey into numerous variations of bodily experiences in dance. Two or more partners are enabling each other to experience this vast land of options in motion through physical contact. Sometimes wild and athletic, sometimes calm and meditative, it is a type of dance open to everybody; it simply takes a playful and investigating mind and a human body.
 
 CI is an improvised dance form. It is an exploration of moving weight while dancing, an investigation of touch, bodily communication and interaction. Therefore there is no generally accepted definition of the form neither a universal syllabus.
