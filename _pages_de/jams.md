@@ -3,8 +3,6 @@ permalink: /jams
 title: ROLLINGPOINT-JAMS
 other_lang: ""
 ---
-<div class="imglink"><a target="_blank" href="https://www.youtube.com/watch?v=u9AhpFxfEfs"><img src="https://www.youtube.com/watch?v=u9AhpFxfEfs" alt="" /><div>What happens in a Contact Jam</div></a></div>
-
 **What happens in a Contact Jam?** <https://www.youtube.com/watch?v=u9AhpFxfEfs>
 
 Die rollingpoint-Jams sind ein Ort für fokussiertes Contact Improvisations-Tanzen an dem **CI als zeitgenössische Tanz- und Kunstform** praktiziert wird. Wir achten darauf einen gemeinsamen Raum zu halten, in dem sich alle sicher fühlen und erwarten von den TeilnehmerInnen, dass sie bereits über CI-Kurserfahrungen (im Sinne von Grundkenntnissen) verfügen.
