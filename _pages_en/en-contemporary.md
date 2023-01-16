@@ -9,6 +9,8 @@ language: en
 
 photocredits: He Shao Hui
 
+**Some thoughts about Contemporary Dance:** <https://www.youtube.com/watch?v=6Z7xb51ZIgs>
+
 Contemporary Dance is an artistic form of dance and a wonderful field of development and playing for people from different movement backgrounds.
 
 \-      is to be in contact with oneself and others in movement.
