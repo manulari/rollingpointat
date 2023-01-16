@@ -3,6 +3,10 @@ permalink: /en/jams
 title: ROLLINGPOINT-JAMS
 language: en
 ---
+**What happens in a Contact Jam?** <https://www.youtube.com/watch?v=u9AhpFxfEfs>
+
+
+
 The rollingpoint jams are a place for focused contact improvisation dancing where **CI is practiced as a contemporary dance and art form.** We want to offer a space in which everyone feels safe. Participants are asked to have some CI course experience in the sense of basic knowledge.
 
 The regular rollingpoint Contact Improvisations Jam takes place every Sunday evening from 7pm to 10pm in the Prana Yoga studio 1 (more infos: see below).
