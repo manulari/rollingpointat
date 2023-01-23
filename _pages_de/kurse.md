@@ -14,7 +14,7 @@ title: KURSE UND WORKSHOPS
 \
 &nbsp;
 
-### Unsere neuen Kurse des Sommersemesters 2023 starten vom 27.2.- 2.3.2023
+### Unsere neuen Kurse des Sommersemesters 2023 starten vom 27.2.- 2.3.2023 (Kurstage analog Wintersemester)
 
 <div class="named-anchor" id="mo"></div>
 
@@ -24,6 +24,7 @@ title: KURSE UND WORKSHOPS
 
 mit **maRia Probst -** *open level*\
 **Mo 18.30 - 20.15**; 19.9.2022 – 30.1.2023 (ca.16x)\
+Kurs Sommersemester 2023: 27.2. - 19.6.2023\
 Turnsaal VS Gilgegasse 12, 1090 Wien
 
 In diesem Kurs wollen wir die uns innewohnende körperliche Unmittelbarkeit unseres frühen Seins
@@ -61,6 +62,7 @@ daher sehr erwünscht.
 mit **Christian Apschner**\
 *"Mindfulness, Challenge and Flow" / Fortlaufende Trainingsgruppe für BeginnerInnen*\
 **Di 18.15 – 20.30**, 20.9.2022- 31.1.2022 (ca. 16x)\
+Kurs Sommersemester 2023: 28.2. - 20.6.2023\
 Turnsaal VS Einsiedlergasse 7, 1050 Wien
 
 In diesem aufbauenden Kurs möchte ich bewegungsfreudige BeginnerInnen einladen in die Welt der Contact Improvisation einzutauchen. Mit ausreichend Zeit, Fokus und Kontinuität erlernen und vertiefen wir Grundelemente der Contact Improvisation. Im Fokus stehen die Technik des gegenseitigen Gewichtabgebens und -nehmens unter Berücksichtigung anatomischer Gegebenheiten und das Spiel mit Bewegungsfluss und rollendem Kontaktpunkt. Wir trainieren Kraft und Beweglichkeit, lernen einfache Jumps und Lifts, und üben uns fallen zu lassen und sicher zu landen. Verschiedene Variationen von Roll- und Spiralbewegungen erweitern unsere tänzerischen Fähigkeiten.
@@ -80,6 +82,7 @@ Teilnahmeempfehlungen: Da wir in der Contact Improvisation gegenseitig Körperge
 mit **Christian Apschner und den GastlehrerInnen Ingrid Hörlezeder und Alina Bertha**\
 Fortlaufende Trainingsgruppe, Teilnahme an einzelnen Terminen möglich\
 Mi 17.30 - 20.40, 21.9.2022 – 1.2.2023 (ca.15x)\
+Kurs Sommersemester 2023: 1.3. - 21.6.2023\
 Turnsaal VS Einsiedlergasse 7, 1050 Wien\
 **Trainingsgruppe 17.30-19.00**\
 **Offene Jam 19.10-20.40**
@@ -105,6 +108,7 @@ Die offene Jam im Anschluss an das Training lädt zum freien Contact Improvisati
 mit **maRia Probst und Christian Apschner (abwechselnd)**\
 *open level*\
 **Do 18.30 – 20.30**, 22.9.2022 - 2.2.2023 (ca.15x)\
+Kursstart Sommersemester 2023: 2.3.2023\
 Turnsaal VS Gilgegasse 12, 1090 Wien
 
 <!--StartFragment-->
