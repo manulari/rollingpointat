@@ -60,16 +60,15 @@ daher sehr erwünscht.
 #### 2 Contact Improvisation and -Technique
 
 mit **Christian Apschner**\
-*"Mindfulness, Challenge and Flow" / Fortlaufende Trainingsgruppe für BeginnerInnen*\
-**Di 18.15 – 20.30**, 20.9.2022- 31.1.2022 (ca. 16x)\
-Kurs Sommersemester 2023: 28.2. - 20.6.2023\
+*"Mindfulness, Challenge and Flow" / Fortlaufende Trainingsgruppe für Beginner*innen und leicht Fortgeschrittene*\
+**Di 18.15 – 20.30**, Kurs Sommersemester 2023: 28.2.- 20.6.2023 (ca. 16x)\
 Turnsaal VS Einsiedlergasse 7, 1050 Wien
 
-In diesem aufbauenden Kurs möchte ich bewegungsfreudige BeginnerInnen einladen in die Welt der Contact Improvisation einzutauchen. Mit ausreichend Zeit, Fokus und Kontinuität erlernen und vertiefen wir Grundelemente der Contact Improvisation. Im Fokus stehen die Technik des gegenseitigen Gewichtabgebens und -nehmens unter Berücksichtigung anatomischer Gegebenheiten und das Spiel mit Bewegungsfluss und rollendem Kontaktpunkt. Wir trainieren Kraft und Beweglichkeit, lernen einfache Jumps und Lifts, und üben uns fallen zu lassen und sicher zu landen. Verschiedene Variationen von Roll- und Spiralbewegungen erweitern unsere tänzerischen Fähigkeiten.
+Dieser aufbauende Kurs ist für bewegungsfreudige Beginner\*innen und leicht fortgeschrittene CI-Tänzer\*innen gedacht. Beginner\*innen sind im Rahmen der kontinuierlichen Trainingsgruppe eingeladen immer tiefer in die Welt der Contact Improvisation einzutauchen. Für leicht fortgeschrittene Tänzer\*innen bietet sich die Möglichkeit Basiskenntnisse zu erweitern und neues Bewegungsvokabular kennenzulernen. So lernen wir z.B. wie es leicht geht, Gewicht abzugeben und zu übernehmen oder mit dem rollendem Kontaktpunkt und dem Bewegungsfluss zu spielen. Wir üben uns in der Technik für einfache Jumps und Lifts, uns fallen zu lassen und sicher zu landen. Verschiedene Variationen von Roll- und Spiralbewegungen erweitern unsere tänzerischen Fähigkeiten.
 
 Nicht zuletzt verstehen wir die Contact Improvisation auch als eine Form von nonverbaler Kommunikation und Begegnung, in der wir lernen auf unsere eigenen körperlich-mentalen Bedürfnisse und Grenzen und die unserer TanzpartnerInnen gleichermaßen zu achten. In verbalen Feedback-Runden möchten wir diesen Erfahrungen zusätzlich Raum geben.
 
-Der Kurs wird im Sommersemester 2023 als beginner/intermediate Kurs fortgeführt werden, wobei alle TeilnehmerInnen eingeladen sind mit fortschreitendem Lernprozess an den rollingpoint-Jams teilzunehmen bzw. zusätzlich kostenlos die open level-Termine des Contact-Dojos am Mittwoch zu besuchen. In diesem Sinne kann die Teilnahme am Gesamtpaket als **Ausbildungsprogramm** verstanden werden.
+Die TeilnehmerInnen eingeladen sind mit fortschreitendem Lernprozess an den rollingpoint-Jams teilzunehmen bzw. zusätzlich kostenlos die open level-Termine des Contact-Dojos am Mittwoch zu besuchen.
 
 Teilnahmeempfehlungen: Da wir in der Contact Improvisation gegenseitig Körpergewicht abgeben und übernehmen, sind ein bestimmtes Ausmaß an Bewegungstalent und Sensitivität für den eigenen Körper und die Grenzen anderer erforderlich für die Teilnahme an diesem Kurs. Bewegungsvorerfahrungen aller Art sowie Lust und Freude an körperlichem Einsatz und sich "fallen zu lassen" sind von Vorteil.
 
