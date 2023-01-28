@@ -59,6 +59,10 @@ Di 20.9.2022 - 31.1.2023, 18.15 – 20.30 (ca.16x)**\
 
 **[14./15.1.2023 Contact Flying Skills](/workshops#flying) mit Christian Apschner und Lui Springer**
 
+**13./14.5.2023: Details in Kürze**
+
+**4./5.6.2023: Details in Kürze**
+
 ### **[rollingpoint-Jam: jeden Sonntag 19.00-22.00](/jams)**
 
 \
