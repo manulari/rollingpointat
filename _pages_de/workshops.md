@@ -11,6 +11,8 @@ Fotocredits: He Shao Hui
 > **[1﻿0./11.12.2022 "Liquid Motion" mit maRia Probst](#liquid)**
 >
 > **[14./15.1.2023: "Contact Flying Skills" mit Christian Apschner und Lui Springer](#flying)**
+>
+> **Termine Sommersemester 2023: 13./14.5. mit maRia und 3./4.6.2023 mit Christian, Details in Kürze**
 
 <div class="named-anchor" id="liquid"></div>
 
