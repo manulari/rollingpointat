@@ -7,8 +7,8 @@ title: KURSE UND WORKSHOPS
 | Tag    | Zeit            | Lehrer:in           | Titel                                                                                            | Ort/Turnsaal                 |
 | ------ | --------------- | ------------------- | ------------------------------------------------------------------------------------------------ | ---------------------------- |
 | **Mo** | **18.30-20.15** | **maRia**           | **[ 1 "Energize Through Motion" - Zeitgenössischer Tanz, CI light, Somatics / open level](#mo)** | **Gilgegasse 12 1090 Wien**  |
-| **Di** | **18.15-20.30** | **Christian**       | **[2 Contact Improvisation and -Technique / beginner](#di)**                                     | **Einsiedlerg. 7 1050 Wien** |
-| **Mi** | **17.30-20.40** | **Christian u.a.**  | **[3 CI-Dojo: Contact Improvisation   intermediate/advanced + Jam](#mi)**                        | **Einsiedlerg. 7 1050 Wien** |
+| **Di** | **18.15-20.30** | **Christian**       | **[2 Contact Improvisation and -Technique / beginner/intermediate](#di)**                        | **Einsiedlerg. 7 1050 Wien** |
+| **Mi** | **17.30-20.40** | **Christian u.a.**  | **[3 CI-Dojo: Contact Improvisation + Jam /advanced sowie 4 open level Termine](#mi)**           | **Einsiedlerg. 7 1050 Wien** |
 | **Do** | **18.30-20.30** | **maRia/Christian** | **[4 Zeitgenössiches Körpertraining /open level](#do)**                                          | **Gilgegasse 12 1090 Wien**  |
 
 \
