@@ -2,28 +2,28 @@
 permalink: /kurse
 title: KURSE UND WORKSHOPS
 ---
-**Abendangebote Wintersemester 2022/23**
+**Abendangebote Sommersemester 2023**
 
-| Tag    | Zeit            | Lehrer:in           | Titel                                                                                | Ort/Turnsaal                 |
-| ------ | --------------- | ------------------- | ------------------------------------------------------------------------------------ | ---------------------------- |
-| **Mo** | **18.30-20.15** | **maRia**           | **[ 1 "Energize Through Motion" / Zeitg. Tanz, CI light, Somatics open level](#mo)** | **Gilgegasse 12 1090 Wien**  |
-| **Di** | **18.15-20.30** | **Christian**       | **[2 Contact Improvisation and -Technique / beginner](#di)**                         | **Einsiedlerg. 7 1050 Wien** |
-| **Mi** | **17.30-20.40** | **Christian u.a.**  | **[3 CI-Dojo: Contact Improvisation   intermediate/advanced + Jam](#mi)**            | **Einsiedlerg. 7 1050 Wien** |
-| **Do** | **18.30-20.30** | **maRia/Christian** | **[4 CI Körpertraining + "Bounce and Shake" /open level](#do)**                      | **Gilgegasse 12 1090 Wien**  |
+| Tag    | Zeit            | Lehrer:in           | Titel                                                                                            | Ort/Turnsaal                 |
+| ------ | --------------- | ------------------- | ------------------------------------------------------------------------------------------------ | ---------------------------- |
+| **Mo** | **18.30-20.15** | **maRia**           | **[ 1 "Energize Through Motion" - Zeitgenössischer Tanz, CI light, Somatics / open level](#mo)** | **Gilgegasse 12 1090 Wien**  |
+| **Di** | **18.15-20.30** | **Christian**       | **[2 Contact Improvisation and -Technique / beginner](#di)**                                     | **Einsiedlerg. 7 1050 Wien** |
+| **Mi** | **17.30-20.40** | **Christian u.a.**  | **[3 CI-Dojo: Contact Improvisation   intermediate/advanced + Jam](#mi)**                        | **Einsiedlerg. 7 1050 Wien** |
+| **Do** | **18.30-20.30** | **maRia/Christian** | **[4 Zeitgenössiches Körpertraining /open level](#do)**                                          | **Gilgegasse 12 1090 Wien**  |
 
 \
 &nbsp;
 
-### Unsere neuen Kurse des Sommersemesters 2023 starten vom 27.2.- 2.3.2023 (Kurstage analog Wintersemester)
+### Unsere neuen Kurse des Sommersemesters 2023 starten vom 27.2.- 2.3.2023
 
 <div class="named-anchor" id="mo"></div>
 
-#### Wintersemester 2022/23
+#### Sommersemester 2022/23
 
-#### 1 "Energize Through Motion" Zeitgenössischer Tanz/CI light/ Somatics
+#### 1 "Energize Through Motion" Zeitgenössischer Tanz/CI light/Somatics
 
 mit **maRia Probst -** *open level*\
-**Mo 18.30 - 20.15**; 19.9.2022 – 30.1.2023 (ca.16x)\
+**Mo 18.30 - 20.15**; 27.2. – 19.6.2023 (ca.15x)\
 Kurs Sommersemester 2023: 27.2. - 19.6.2023\
 Turnsaal VS Gilgegasse 12, 1090 Wien
 
@@ -78,47 +78,39 @@ Teilnahmeempfehlungen: Da wir in der Contact Improvisation gegenseitig Körperge
 
 #### **3 Contact Improvisation intermediate/advanced + open Jam (=Contact Dojo)**
 
-mit **Christian Apschner und den GastlehrerInnen Ingrid Hörlezeder und Alina Bertha**\
-Fortlaufende Trainingsgruppe, Teilnahme an einzelnen Terminen möglich\
-Mi 17.30 - 20.40, 21.9.2022 – 1.2.2023 (ca.15x)\
+mit **Christian Apschner und GastlehrerInnen tba**\
+Fortlaufende offene Trainingsgruppe, Teilnahme an einzelnen Terminen möglich\
+Mi 17.30 - 20.40, 1.3. – 21.6.2023 (ca.15x)\
 Kurs Sommersemester 2023: 1.3. - 21.6.2023\
 Turnsaal VS Einsiedlergasse 7, 1050 Wien\
-**Trainingsgruppe 17.30-19.00**\
+**Training 17.30-19.00**\
 **Offene Jam 19.10-20.40**
 
 **BeginnerInnen sind an folgenden Terminen zu einem open level Training inkl. Jam eingeladen:**\
-**19.10., 23.11.2022 und 25.1.2023**
+**22.3., 26.4. und 24.5. und 21.6.2023**
 
 siehe: [Rollingpoint - CI-DOJO (Training+Jam)](/dojo)
 
 Du bringst bereits solide Basiskenntnisse der Contact Improvisation mit und möchtest dein Bewegungsspektrum erweitern und verfeinern?\
-Dann ist diese fortlaufende Trainingsgruppe das richtige für dich. Ein Schwerpunkt des Kurses wird sein, verschiedene Lifts und Jumps in allen Raumebenen zu üben und kopfüber auf den Händen zu tanzen. Wir lernen durch gute Körperausrichtung sowie durch angepassste Körperspannung und Nutzung der Schwungenergie Gewicht schonend aufzunehmen und abzugeben. Im Laufe des Lernprozesses wird es immer leichter uns dem gemeinsamen Bewegungsfluss hinzugeben und gleichzeitig den Tanz so präsent wahrzunehmen, dass wir ihn spielerisch lenken können.
+Dann ist diese offene Trainingsgruppe das richtige für dich. Ein Schwerpunkt des Kurses wird sein, verschiedene Lifts und Jumps in allen Raumebenen zu üben und kopfüber auf den Händen zu tanzen. Wir lernen durch gute Körperausrichtung sowie durch angepassste Körperspannung und Nutzung der Schwungenergie Gewicht schonend aufzunehmen und abzugeben. Im Laufe des Lernprozesses wird es immer leichter uns dem gemeinsamen Bewegungsfluss hinzugeben und gleichzeitig den Tanz so präsent wahrzunehmen, dass wir ihn spielerisch lenken können.
 
-Jeweils 3-4 Termine werden von den GastlehrerInnen **Ingrid Hörlezeder** und **Alina Bertha** gestaltet. Ingrid Hörlezeder wird uns durch Anleihen aus Trager Psychophysicher Integration unterstützen mehr Leichtigkeit im Tanz zu finden und unsere Wahrnehmung weiter zu verfeinern. Alinas Training basiert auf zeitgenössicher Tanztechnik mit dem Fokus auf Bewegungsfluss und Elementen des Breakdance.
-
-Die offene Jam im Anschluss an das Training lädt zum freien Contact Improvisations-Tanzen ein. KursteilnehmerInnen sind eingeladen an den drei offenen open level-Terminen (s.o.) kostenlos FreundInnen zum Kennenlernen der Contact Improvisation in den Contact Dojo mitzubringen.
+Die offene Jam im Anschluss an das Training lädt zum freien Contact Improvisations-Tanzen ein. TeilnehmerInnen des Gesanmtkurses sind eingeladen an den offenen open level-Terminen (s.o.) jeweils eien weitere Persin zum Kennenlernen der Contact Improvisation in den Contact Dojo mitzubringen.
 
 [Kosten](#kosten)
 
 <div class="named-anchor" id="do"></div>
 
-#### 4 CI Körpertraining + „Bounce and Shake"
+#### 4  Zeitgenössiches Körpertraining
 
 mit **maRia Probst und Christian Apschner (abwechselnd)**\
 *open level*\
-**Do 18.30 – 20.30**, 22.9.2022 - 2.2.2023 (ca.15x)\
-Kursstart Sommersemester 2023: 2.3.2023\
+**Do 18.30 – 20.30**, ab 2.3.- 22.6.2023 - 2.2.2023 (ca.14x)\
 Turnsaal VS Gilgegasse 12, 1090 Wien
 
-<!--StartFragment-->
+In diesen offenen Kurs bringen wir unsere gesamte Kompetenz an (30 Jahren) Trainingserfahrung ein und kreieren daraus ein in dieser Form einzigartiges ganzheitliches Trainingserlebnis.
 
-In diesen Kurs bringen wir unser langjähriges Erfahrungs- und Unterrichtswissen, das speziell aus der Praxis und Weitergabe von CI erwächst, ein. In einfachen Übungen bauen wir Kraft auf und verbessern unsere Beweglichkeit und Koordination. Elemente aus Mentastics, Yoga, Qi Gong, Nei Gong, Somatics und dem Zeitgenössischen Tanz fließen ein. Die Übungs-Settings sind auf der Matte, frei im Raum, in Bezug zur Wand oder mit Ball sowie auch mit PartnerInnen. 
-
-Wir wenden in diesem Kurs die Besonderheiten der Contact Improvisation für unser eigenes Körpertraining an. Durch das Zusammenspiel mit unseren Partner*innen und geschicktes Nützen von physikalischen Kräften wie Hebelwirkung, Schwung, oder Fliehkraft trainieren wir frei und leicht, wie im Wasser. Wir lehnen beispielsweise voneinander weg, um elastisch zu dehnen oder setzen Teilgewichte des Partners ein, um dynamisch Kraft aufzubauen. Durch spezifische Berührung erweitern wir unser Körperbewusstsein
-
-Nach den Übungen tanzen wir zu ausgewählter Musik, um unseren Kreislauf anzukurbeln und alles raus zu tanzen, was sich noch verspannt anfühlt. Eine Feedback-Runde zum Erlebten schließt unsere Einheiten ab. Das Training kann für diverse Trainingsanliegen, als CI Neuling, wie auch Erfahrene*r und besonders als Vorbereitung für CI genützt werden.
-
-<!--EndFragment-->
+Elemente aus somatischen Methoden wie Trager, Feldenkrais, Body Mind Centering und Anatomical Release Technique ergänzen sich mit Übungen aus dem Zeitgenössischem Tanz, Moving Yoga, Qi Gong und funktionellem Kraft-, Beweglichkeits- und Koordinationstraining. Die Trainingseinheiten starten mit sanften Aktivierungsübungen zur Sensibilisierung der Körperwahrnehmung auf der Matte liegend am Boden. Zunehmend dynamisch bewegen wir uns durch verschiedene Raumebenen zu mehr Vitalität, Durchlässigkeit und Kraft. Nach dem Übungsteil schütteln wir uns zu ausgewählter Musik so richtig aus und tanzen alles raus was sich noch verspannt anfühlt um am Ende der Sessions nochmals einen Moment mediativer Stille zu genießen.\
+In diesem Kurs werden wir abwechselnd anleiten und bringen dabei uns langjähriges Körperwissen und auch unsere persönlichen Schwerpunkte  ein.
 
 [Kosten](#kosten)
 
@@ -131,14 +123,16 @@ oder SMS/Tel. Christian 0650 8931081, maRia 0650 9510814
 
 **Offene Schnupperstunden in den ersten drei Kurswochen um €10 pro Einheit (max. 1x pro Kurs)**
 
-**Kostenbeitrag Semesterkurse: Normalpreis € 250**\
+**Kostenbeitrag Semesterkurse 1,2 und 4: Normalpreis € 250**\
 Ermäßigungen: € 160 für StudentInnen <=28a, € 200 Sonstige\
+**Kostenbeitrag Semesterkurs 3: Normalpreis € 230**\
+Ermäßigungen: € 150 für StudentInnen <=28y, € 190 Sonstige\
+\
 Bei Buchung von mehr als einem Kurs minus € 30 ab dem 2.Kurs\
-Kursbeitrag einzuzahlen bis spätestens 8.10.2022.\
 Die Reservierung des Kursplatzes erfolgt durch Einzahlung des vollen Kursbeitages.\
 \
 **Einzelstunden € 27 / ermäßigt € 20**\
-**Einzelstunden Mittwochs CI-Training exkl. Jam € 18 / ermäßigt 14, inkl. Jam € 25 / ermäßigt €18**
+**Einzelstunden Kurs 3 (Contact Dojo: CI-Training inkl. Jam) € 14 - 24, Jam € 7 - 10**
 
 **5﻿er Block für CI Körpertraining + Bounce and Shake € 110.- / € 85.-**\
 \
