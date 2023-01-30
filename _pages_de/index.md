@@ -29,28 +29,26 @@ Fotocredit: https://johannes-stolba.net/photography/
 **“Get ready to Fly” (intermediate)**\
 **mit Christian Apschner**
 
-### **Kursbeginn Sommersemester 27.2.- 2.3.2023: Kurstage analog Wintersemester**
-
-### Abendkurse Wintersemester 2022/23:
+### **Kursbeginn Sommersemester 27.2.- 2.3.2023:** 
 
 **[1 "Energize Through Motion" Zeitgenössischer Tanz/CI light/ Somatics](/kurse#mo)**\
 **open level, mit maRia Probst**  \
-**Mo 19.9.2022.– 30.1.2023, 18.30 - 20.15 (ca.16x)**\
+**Mo 27.2.– 19.6.2023, 18.30 - 20.15 (ca.15x)**\
 **Turnsaal VS Gilgegasse 12, 1090 Wien**
 
-**[2 Contact Improvisation and -Technique](/kurse#di) beginner\
+**[2 Contact Improvisation and -Technique](/kurse#di) beginner/intermediate\
 mit Christian Apschner\
-Di 20.9.2022 - 31.1.2023, 18.15 – 20.30 (ca.16x)**\
+Di 28.2.- 20.6.2023, 18.15 – 20.30 (ca.16x)**\
 **Turnsaal VS Einsiedlergasse 7, 1050 Wien**
 
-**[3 Contact Improvisation (Contact Dojo)](/kurse#mi) intermediate/advanced (ca.15x)**\
-**mit Christian Apschner and guest teachers**\
-**Mi 21.9.2022 - 1.2.2023, 17.30 - 19.00 (Training), 19.10-20.40 (Jam)**\
+**[3 Contact Improvisation (Contact Dojo)](/kurse#mi) intermediate/advanced**\
+**mit Christian Apschner und Gastlehrer*innen**\
+**Mi 1.3. - 21.6.2023, 17.30 - 19.00 (Training), 19.10-20.40 (Jam),  (ca.15x)**\
 **Turnsaal VS Einsiedlergasse 7, 1050 Wien**
 
-**[4 CI Körpertraining + „Bounce and Shake"](/kurse#do)**  **open level (ca. 15x)**\
+**[4 Zeitgenössisches Körpertraining](/kurse#do)**  **open level (ca. 14x)**\
 **mit maRia Probst und Christian Apschner (alternierend)**\
-**Do 18.30 – 20.30**\
+**Do 2.2.- 22.6.2023, 18.30 – 20.30**\
 **Turnsaal VS Gilgegasse 12, 1090 Wien**
 
 ### Wochenend-Workshops
