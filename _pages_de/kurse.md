@@ -23,7 +23,7 @@ title: KURSE UND WORKSHOPS
 #### 1 "Energize Through Motion" Zeitgenössischer Tanz/CI light/Somatics
 
 mit **maRia Probst -** *open level*\
-**Mo 18.30 - 20.15**; 27.2. – 19.6.2023 (ca.15x)\
+**Mo 18.30 - 20.15**; 27.2. – 19.6.2023 (ca. 15x)\
 Kurs Sommersemester 2023: 27.2. - 19.6.2023\
 Turnsaal VS Gilgegasse 12, 1090 Wien
 
@@ -126,7 +126,7 @@ oder SMS/Tel. Christian 0650 8931081, maRia 0650 9510814
 **Kostenbeitrag Semesterkurse 1,2 und 4: Normalpreis € 250**\
 Ermäßigungen: € 160 für StudentInnen <=28a, € 200 Sonstige\
 **Kostenbeitrag Semesterkurs 3: Normalpreis € 230**\
-Ermäßigungen: € 150 für StudentInnen <=28y, € 190 Sonstige\
+Ermäßigungen: € 150 für StudentInnen <=28a, € 190 Sonstige\
 \
 Bei Buchung von mehr als einem Kurs minus € 30 ab dem 2.Kurs\
 Die Reservierung des Kursplatzes erfolgt durch Einzahlung des vollen Kursbeitages.\
