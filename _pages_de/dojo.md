@@ -10,9 +10,9 @@ Fotocredits: Laurent Ziegler
 
 **DOJO=Training+Jam**
 
-> `Open level Termine Wintersemester 2022/23 (beginners welcome, bring your friends)`
+> `Open level Termine Wintersemester 2022/23 (beginners welcome)`
 >
->  **19.10., 23.11.2022 und 25.1.2023**
+> **22.3., 26.4. und 24.5. und 21.6.2023**
 >
 > **Training:** 17.30-19.00\
 > **Jam:** 19.10-20.40\
