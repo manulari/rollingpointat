@@ -48,7 +48,7 @@ Group improvisation and Instant Composition
 #### 3 **Contact Improvisation advanced + open Jam (=Contact Dojo)**
 
 with **Christian Apschner and guest teachers**\
-**wed 17.30 - 20.40, 1.3.– 21.6.2023 (ca.15x)**\
+**wed 17.30 - 20.40**, 1.3.– 21.6.2023 (ca.15x)\
 Turnsaal VS Einsiedlergasse 7, 1050 Wien\
 **study group 17.30-19.00**\
 **open jam 19.10-20.40**
