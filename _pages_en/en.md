@@ -22,46 +22,38 @@ other_lang: /
 
 ### Overview Coures/Workshops/Jams/Performances
 
-### Summer-Workshops:
-
-**Contact Improvisation beginner: sun 21.8.2022**, 14.00-18.00h with Christian Apschner\
-\
-**Contemporary Dance/Somatics: sun 4.9.2022**, 15.00-18.00h with maRia Probst
-
 ### Evening courses / study groups
 
-**Start wintersemester 2022/23: 19.-22.9.2022**
+**Start summersemester 2023: 27.2.-2.3.2023**
 
 **[1 mo Contemporary Dance and Somatics](/en/kurse#mo)** - **open level**\
 **with maRia Probst**  \
-**start mo 19.9.2022, 18.30 - 20.30**\
+**start mo 27.2.2023, 18.30 - 20.30**\
 **Turnsaal VS Gilgegasse 12, 1090 Wien**
 
-**[2 tue Contact Improvisation and -Technique ](/en/kurse#di)- beginner**\
+**[2 tue Contact Improvisation and -Technique ](/en/kurse#di)- beginner/intermediate**\
 **with Christian Apschner**\
-**start tue 20.9.2022, 18.15 - 20.30**\
+**start tue 28.2.2023, 18.15 - 20.30**\
 **Turnsaal VS Einsiedlergasse 7, 1050 Wien**
 
-**[3 wed Contact Improvisation (Contact Dojo)](/en/kurse#mi) intermediate/advanced**\
+**[3 wed Contact Improvisation (Contact Dojo)](/en/kurse#mi) advanced**\
 **mit Christian Apschner and guest teachers**\
-**start wed 21.9.2022, 17.30 - 19.00 (training), 19.10-20.40 (jam)**\
+**start wed  1.3.2023, 17.30 - 19.00 (training), 19.10-20.40 (jam)**\
 **Turnsaal VS Einsiedlergasse 7, 1050 Wien**
 
-**[4 thu Holistic training for CI + „Bounce and Shake"](/en/kurse#do)** - **open level**\
+**[4 thu Holistic training + „Bounce and Shake"](/en/kurse#do)** - **open level**\
 **with Ria Probst and Christian Apschner (alternating)**\
-**start thu 22.9.2022, 18.30 – 20.30**\
+**start thu 2.3.2023, 18.30 – 20.30**\
 **Turnsaal VS Gilgegasse 12, 1090 Wien**
 
 ### Weekend-Workshops:
 
-**15./16.10.2022 Energize through Motion**
+**13./14.5.2023 with maRia Probst**
 
-**5./6.11.2022 From Bodywork into Contact Improvisation**
-
-**21./22.1.2023 Contact Flying Skills**
-
-### **rollingpoint-Jam: every sunday**
+**3./4.6.2023 with Christian Apschner**
 
 
+
+### **rollingpoint-Jam: every sunday evening**
 
 &nbsp;
