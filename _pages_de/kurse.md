@@ -100,18 +100,16 @@ Die offene Jam im Anschluss an das Training lädt zum freien Contact Improvisati
 
 <div class="named-anchor" id="do"></div>
 
-#### 4  Zeitgenössiches Körpertraining
+#### 4  Zeitgenössisches Körpertraining
 
 mit **maRia Probst und Christian Apschner (abwechselnd)**\
 *open level*\
 **Do 18.30 – 20.30**, ab 2.3.- 22.6.2023 - 2.2.2023 (ca.14x)\
 Turnsaal VS Gilgegasse 12, 1090 Wien
 
-In diesen offenen Kurs bringen wir unsere gesamte Kompetenz an (30 Jahren) Trainingserfahrung ein und kreieren daraus ein in dieser Form einzigartiges ganzheitliches Trainingserlebnis.
+In diesen offenen Kurs bringen maRia und Christian ihre gesamte Kompetenz an (30 Jahren) Trainingserfahrung ein und kreieren daraus ein in dieser Form einzigartiges ganzheitliches Trainingserlebnis.
 
-Elemente aus somatischen Methoden wie Trager, Feldenkrais, Body Mind Centering und Anatomical Release Technique ergänzen sich mit Übungen aus dem Zeitgenössischem Tanz, Moving Yoga, Qi Gong und funktionellem Kraft-, Beweglichkeits- und Koordinationstraining. Die Trainingseinheiten starten mit sanften Aktivierungsübungen zur Sensibilisierung der Körperwahrnehmung auf der Matte liegend am Boden. Zunehmend dynamisch bewegen wir uns durch verschiedene Raumebenen zu mehr Vitalität, Durchlässigkeit und Kraft. Nach dem Übungsteil schütteln wir uns zu ausgewählter Musik so richtig aus und tanzen alles raus was sich noch verspannt anfühlt um am Ende der Sessions nochmals einen Moment mediativer Stille zu genießen.\
-In diesem Kurs werden wir abwechselnd anleiten und bringen dabei uns langjähriges Körperwissen und auch unsere persönlichen Schwerpunkte  ein.
-
+Elemente aus somatischen Methoden wie Trager, Feldenkrais, Body Mind Centering und Anatomical Release Technique ergänzen sich mit Übungen aus dem Zeitgenössischem Tanz, Moving Yoga, Qi Gong und funktionellem Kraft-, Beweglichkeits- und Koordinationstraining. Die Trainingseinheiten starten mit sanften Aktivierungsübungen zur Sensibilisierung der Körperwahrnehmung auf der Matte liegend am Boden. Zunehmend dynamisch bewegen wir uns durch verschiedene Raumebenen zu mehr Vitalität, Durchlässigkeit und Kraft. Nach dem Übungsteil schütteln wir uns zu ausgewählter Musik so richtig aus und tanzen alles raus was sich noch verspannt anfühlt bevor wir die Einheit gemeinsam in einem Moment derStille nach- und ausklingen lassen. So spazieren wir gefestigt, gelockert und mit mehr Energie aus dem Tanzsaal.\
 [Kosten](#kosten)
 
 <div class="named-anchor" id="kosten"></div>
