@@ -94,7 +94,7 @@ siehe: [Rollingpoint - CI-DOJO (Training+Jam)](/dojo)
 Du bringst bereits solide Basiskenntnisse der Contact Improvisation mit und möchtest dein Bewegungsspektrum erweitern und verfeinern?\
 Dann ist diese offene Trainingsgruppe das richtige für dich. Ein Schwerpunkt des Kurses wird sein, verschiedene Lifts und Jumps in allen Raumebenen zu üben und kopfüber auf den Händen zu tanzen. Wir lernen durch gute Körperausrichtung sowie durch angepassste Körperspannung und Nutzung der Schwungenergie Gewicht schonend aufzunehmen und abzugeben. Im Laufe des Lernprozesses wird es immer leichter uns dem gemeinsamen Bewegungsfluss hinzugeben und gleichzeitig den Tanz so präsent wahrzunehmen, dass wir ihn spielerisch lenken können.
 
-Die offene Jam im Anschluss an das Training lädt zum freien Contact Improvisations-Tanzen ein. TeilnehmerInnen des Gesanmtkurses sind eingeladen an den offenen open level-Terminen (s.o.) jeweils eien weitere Persin zum Kennenlernen der Contact Improvisation in den Contact Dojo mitzubringen.
+Die offene Jam im Anschluss an das Training lädt zum freien Contact Improvisations-Tanzen ein. TeilnehmerInnen des Gesanmtkurses sind eingeladen an den offenen open level-Terminen (s.o.) jeweils eine weitere Person zum Kennenlernen der Contact Improvisation in den Contact Dojo mitzubringen.
 
 [Kosten](#kosten)
 
