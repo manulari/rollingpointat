@@ -18,7 +18,7 @@ title: KURSE UND WORKSHOPS
 
 <div class="named-anchor" id="mo"></div>
 
-#### Sommersemester 2022/23
+#### Sommersemester 2023
 
 #### 1 RELEASZ Tanztraining: Zeitgenössischer Tanz / CI-light / Somatisches Lernen
 
