@@ -20,38 +20,28 @@ title: KURSE UND WORKSHOPS
 
 #### Sommersemester 2022/23
 
-#### 1 "Energize Through Motion" Zeitgenössischer Tanz/CI light/Somatics
+#### 1 RELEASZ Tanztraining: Zeitgenössischer Tanz / CI-light / Somatisches Lernen
 
 mit **maRia Probst -** *open level*\
 **Mo 18.30 - 20.15**; 27.2. – 19.6.2023 (ca. 15x)\
 Kurs Sommersemester 2023: 27.2. - 19.6.2023\
 Turnsaal VS Gilgegasse 12, 1090 Wien
 
-In diesem Kurs wollen wir die uns innewohnende körperliche Unmittelbarkeit unseres frühen Seins
-als Säuglinge und Kinder ansprechen. Durch rollen, gleiten, drücken und ziehen verbinden
-wir uns mit der Welt. Wir erweitern damit fast beiläufig unser Bewegungsspektrum und fühlen uns
-dadurch oft erfrischt und energetisiert.
-
-Elemente aus Somatics, dem zeitgenössischen Tanz und der Contact Improvisation
-lassen uns unsere tänzerischen Möglichkeiten weiter entwickeln. Somatics öffnen unsere Wahrnehmungsfähigkeit und verfeinern unser Körperbild. Sie unterstützen
-uns dabei den eigenen Körper und das Zusammenspiel von Muskeln, Knochen und Organen besser
-zu verstehen. So können wir beispielsweise begreifen, was unsere Zunge mit den Füßen zu tun hat
-oder wie die Beine locker hängen können.
-
-Spezifische Techniken aus dem zeitgenössischen Tanz helfen uns, unsere Körper bewusster
-einzusetzen: Wir lernen in diesem Semester den Rumpf und die Beine zu integrieren, erfahren
-welche Rolle die Füße dabei spielen und können dadurch insgesamt beweglicher und freier werden.
-Basiselemente aus der Contact Improvisation, wie etwa dosierte Gewichtsübertragung,
-ermöglichen uns eine dreidimensionale Bewegungserfahrung auch in Verbindung mit anderen.
-Am Ende jeder Einheit erforschen, erweitern und erproben wir so mit dem neu Erlernten unsere
-nonverbale Dialogfähigkeit.
+RELEASZ verweist auf die Wurzeln dieser Praxis, der Release Technique. Es steht darüber
+hinaus für **RE**enerierendes, **L**ebendiges, **E**nergetisierendes, **A**ffirmatives, **S**omatisches und
+**Z**eitgenössisches Tanzen. maRia verbindet in diesem Kurs Elemente aus
+Somatischem Lernen, Contact Improvisation mit geringer Gewichtsübertragung und
+Zeitgenössischem Tanz. Du kannst deine innewohnende körperliche Unmittelbarkeit des frühen Seins als Säugling und Kind wiederentdecken und das Zusammenspiel von Muskeln, Sehnen, Knochen und
+Organen besser verstehen lernen. Spezifische Techniken aus dem zeitgenössischen Tanz
+helfen dir, deinen Körper bewusster einzusetzen und zu koordinieren.
+Statement Kursteilnehmerin: „Das Kurserlebnis ist vielfältig, befreit gelacht habe ich jedes
+mal.“
 
 Teilnahmeempfehlung: Tanz- und Bewegungs-Freudige und -Neugierige mit und ohne
 Vorerfahrung, Freude an Berührung mit genanntem Fokus; Menschen mit Interesse an
 Kontaktimprovisations-Elementen mit geringer Gewichtsübertragung und sanfter Berührung;
 Menschen, die sich selbst und ihren Körper besser kennen lernen wollen. Eine kontinuierliche
-Teilnahme, auch über diesen Semesterkurs hinaus an weiterführenden Kursen ist von Vorteil und
-daher sehr erwünscht.
+Teilnahme ist von Vorteil und daher sehr erwünscht.
 
 [Kosten](#kosten)
 
@@ -68,7 +58,7 @@ Dieser aufbauende Kurs ist für bewegungsfreudige Beginner\*innen und leicht for
 
 Nicht zuletzt verstehen wir die Contact Improvisation auch als eine Form von nonverbaler Kommunikation und Begegnung, in der wir lernen auf unsere eigenen körperlich-mentalen Bedürfnisse und Grenzen und die unserer TanzpartnerInnen gleichermaßen zu achten. In verbalen Feedback-Runden möchten wir diesen Erfahrungen zusätzlich Raum geben.
 
-Die TeilnehmerInnen eingeladen sind mit fortschreitendem Lernprozess an den rollingpoint-Jams teilzunehmen bzw. zusätzlich kostenlos die open level-Termine des Contact-Dojos am Mittwoch zu besuchen.
+Die Teilnehmer*innen sind eingeladen mit fortschreitendem Lernprozess an den rollingpoint-Jams teilzunehmen bzw. zusätzlich kostenlos die open level-Termine des Mittwoch-Kurses (Kurs 3) zu besuchen.
 
 Teilnahmeempfehlungen: Da wir in der Contact Improvisation gegenseitig Körpergewicht abgeben und übernehmen, sind ein bestimmtes Ausmaß an Bewegungstalent und Sensitivität für den eigenen Körper und die Grenzen anderer erforderlich für die Teilnahme an diesem Kurs. Bewegungsvorerfahrungen aller Art sowie Lust und Freude an körperlichem Einsatz und sich "fallen zu lassen" sind von Vorteil.
 
@@ -76,17 +66,17 @@ Teilnahmeempfehlungen: Da wir in der Contact Improvisation gegenseitig Körperge
 
 <div class="named-anchor" id="mi"></div>
 
-#### **3 Contact Improvisation intermediate/advanced + open Jam (=Contact Dojo)**
+#### **3 Contact Improvisation /advanced + Jam**
 
 mit **Christian Apschner und GastlehrerInnen tba**\
-Fortlaufende offene Trainingsgruppe, Teilnahme an einzelnen Terminen möglich\
+Fortlaufende offene Trainingsgruppe für fortgeschrittene Tänzer*innen mit vier open level Terminen Teilnahme an einzelnen Terminen möglich\
 Mi 17.30 - 20.40, 1.3. – 21.6.2023 (ca.15x)\
 Kurs Sommersemester 2023: 1.3. - 21.6.2023\
 Turnsaal VS Einsiedlergasse 7, 1050 Wien\
 **Training 17.30-19.00**\
 **Offene Jam 19.10-20.40**
 
-**BeginnerInnen sind an folgenden Terminen zu einem open level Training inkl. Jam eingeladen:**\
+**Beginner*innen sind an folgenden Terminen zu einem open level Training inkl. Jam eingeladen:**\
 **22.3., 26.4. und 24.5. und 21.6.2023**
 
 siehe: [Rollingpoint - CI-DOJO (Training+Jam)](/dojo)
@@ -94,13 +84,13 @@ siehe: [Rollingpoint - CI-DOJO (Training+Jam)](/dojo)
 Du bringst bereits solide Basiskenntnisse der Contact Improvisation mit und möchtest dein Bewegungsspektrum erweitern und verfeinern?\
 Dann ist diese offene Trainingsgruppe das richtige für dich. Ein Schwerpunkt des Kurses wird sein, verschiedene Lifts und Jumps in allen Raumebenen zu üben und kopfüber auf den Händen zu tanzen. Wir lernen durch gute Körperausrichtung sowie durch angepassste Körperspannung und Nutzung der Schwungenergie Gewicht schonend aufzunehmen und abzugeben. Im Laufe des Lernprozesses wird es immer leichter uns dem gemeinsamen Bewegungsfluss hinzugeben und gleichzeitig den Tanz so präsent wahrzunehmen, dass wir ihn spielerisch lenken können.
 
-Die offene Jam im Anschluss an das Training lädt zum freien Contact Improvisations-Tanzen ein. TeilnehmerInnen des Gesanmtkurses sind eingeladen an den offenen open level-Terminen (s.o.) jeweils eine weitere Person zum Kennenlernen der Contact Improvisation in den Contact Dojo mitzubringen.
+Die auch für Hinzukommende offene Jam im Anschluss an das Training lädt zum freien Contact Improvisation Tanzen ein. Teilnehmer*innen des Gesamtkurses sind eingeladen an den offenen open level-Terminen (s.o.) jeweils eine weitere Person zum Kennenlernen der Contact Improvisation zu diesen Terminen einzuladen.
 
 [Kosten](#kosten)
 
 <div class="named-anchor" id="do"></div>
 
-#### 4  Sustainable Moves / Zeitgenössisches Körpertraining
+#### 4  GANZ Körpertraining
 
 mit **maRia Probst und Christian Apschner (abwechselnd)**\
 *open level*\
