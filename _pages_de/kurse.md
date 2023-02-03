@@ -8,7 +8,7 @@ title: KURSE UND WORKSHOPS
 | ------ | --------------- | ------------------- | ---------------------------------------------------------------------------------------------------- | ----------------------------- |
 | **Mo** | **18.30-20.15** | **maRia**           | **[ 1 RELEASZE Tanztraining - Zeitgenössischer Tanz/CI-light/Somatisches Lernen / open level](#mo)** | **Gilgegasse 12, 1090 Wien**  |
 | **Di** | **18.15-20.30** | **Christian**       | **[2 Contact Improvisation and -Technique / beginner/intermediate](#di)**                            | **Einsiedlerg. 7, 1050 Wien** |
-| **Mi** | **17.30-20.40** | **Christian u.a.**  | **[3 CI-Dojo: Contact Improvisation + Jam / advanced sowie 4 open level Termine](#mi)**              | **Einsiedlerg. 7, 1050 Wien** |
+| **Mi** | **17.30-20.40** | **Christian u.a.**  | **[3 Contact Improvisation advanced Training + open Jam ](#mi)**                                     | **Einsiedlerg. 7, 1050 Wien** |
 | **Do** | **18.30-20.30** | **maRia/Christian** | **[4 GANZ  Körpertraining & los tanzen / open level](#do)**                                          | **Gilgegasse 12, 1090 Wien**  |
 
 \
