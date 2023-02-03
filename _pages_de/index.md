@@ -29,10 +29,10 @@ Fotocredit: https://johannes-stolba.net/photography/
 **“Get ready to Fly” (intermediate)**\
 **mit Christian Apschner**
 
-### **Kursbeginn Sommersemester 27.2.- 2.3.2023:** 
+### **Kursbeginn Sommersemester 27.2.- 2.3.2023:**
 
-**[1 "Energize Through Motion" Zeitgenössischer Tanz/CI light/ Somatics](/kurse#mo)**\
-**open level, mit maRia Probst**  \
+**[1 RELEASZ Tanztraining: Zeitgenössischer Tanz/CI-light/ Somatisches Lernen](/kurse#mo)**\
+**open level, mit maRia Probst** \
 **Mo 27.2.– 19.6.2023, 18.30 - 20.15 (ca.15x)**\
 **Turnsaal VS Gilgegasse 12, 1090 Wien**
 
@@ -41,12 +41,12 @@ mit Christian Apschner\
 Di 28.2.- 20.6.2023, 18.15 – 20.30 (ca.16x)**\
 **Turnsaal VS Einsiedlergasse 7, 1050 Wien**
 
-**[3 Contact Improvisation (Contact Dojo)](/kurse#mi) intermediate/advanced**\
+**[3 Contact Improvisation ](/kurse#mi) intermediate/advanced**\
 **mit Christian Apschner und Gastlehrer*innen**\
 **Mi 1.3. - 21.6.2023, 17.30 - 19.00 (Training), 19.10-20.40 (Jam),  (ca.15x)**\
 **Turnsaal VS Einsiedlergasse 7, 1050 Wien**
 
-**[4 Zeitgenössisches Körpertraining](/kurse#do)**  **open level (ca. 14x)**\
+**[4 GANZ Körpertraining](/kurse#do)**  **open level (ca. 14x)**\
 **mit maRia Probst und Christian Apschner (alternierend)**\
 **Do 2.2.- 22.6.2023, 18.30 – 20.30**\
 **Turnsaal VS Gilgegasse 12, 1090 Wien**
@@ -61,9 +61,11 @@ Di 28.2.- 20.6.2023, 18.15 – 20.30 (ca.16x)**\
 
 **4./5.6.2023: Details in Kürze**
 
-### **[rollingpoint-Jam: jeden Sonntag 19.00-22.00](/jams)**
+##### **[rollingpoint-Jams:](/jams)**\
+**an Schultagen Mittwoch 19.10-20.40, Turnsaal VS Einsiedlergasse 12, 1090 Wien**\
+**Jeden Sonntag 19.00-22.00, Prana Yoga Studio 1, Mariahilferstr. 82, 1070 Wien**
 
-\
+###### \
 &nbsp;
 
 ![Mehr CI auf der Stiege](/assets/uploads/dsc_1941a.jpg "Mehr CI auf der Stiege")
