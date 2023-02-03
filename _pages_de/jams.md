@@ -5,16 +5,18 @@ other_lang: ""
 ---
 **What happens in a Contact Jam?** <https://www.youtube.com/watch?v=u9AhpFxfEfs>
 
-Die rollingpoint-Jams sind ein Ort für fokussiertes Contact Improvisations-Tanzen an dem **CI als zeitgenössische Tanz- und Kunstform** praktiziert wird. Wir achten darauf einen gemeinsamen Raum zu halten, in dem sich alle sicher fühlen und erwarten von den TeilnehmerInnen, dass sie bereits über CI-Kurserfahrungen (im Sinne von Grundkenntnissen) verfügen (Hinweise zur Sicherheit in den rollingpoint-Jams siehe unten).
+**Die rollingpoint-Jams sind ein Orte für fokussiertes Contact Improvisations-Tanzen an denen CI als zeitgenössische Tanz- und Kunstform praktiziert wird. Wir achten darauf einen gemeinsamen Raum zu halten, in dem sich alle sicher fühlen und erwarten von den TeilnehmerInnen, dass sie bereits über CI-Kurserfahrungen im Sinne von Grundkenntnissen verfügen** (Hinweise zur Sicherheit in den rollingpoint-Jams siehe unten).
 
-Die reguläre rollingpoint Contact Improvisations Jam findet jeden Sonntag Abend von 19.00-22.00 im Prana Yoga-Studio statt (Detailinfos siehe unten). Weiters gibt es an Schultagen jeweils am Mittwoch Abend eine offene Jam in Verbindung mit einem vorangehenen CI-Fortgeschrittenen-Training im Turnsaal der VS Einsiedlergasse.\
-[Info zum **CI-DOJO (Training+Jam)**](/dojo)
+Die reguläre rollingpoint Contact Improvisations Jam findet jeden Sonntag Abend von 19.00-22.00 im Prana Yoga-Studio statt (Detailinfos siehe unten). Weiters gibt es an Schultagen jeweils am Mittwoch Abend eine offene Jam in Verbindung mit einem vorangehenen CI-Fortgeschrittenen-Training im Turnsaal der VS Einsiedlergasse.[](/dojo)
 
 ## rollingpoint-Jam am Mittwoch
 
-**An Schultagen jeden Mittwoch  19.10 - 20.400**\
+**An Schultagen jeden Mittwoch  19.10 - 20.40**\
 Turnsaal VS Einsiedlergasse 7, 1050 Wien\
-Diese Jam findet im Anschluss an die Fortgeschrittenen Trainingsgruppe statt. Die Jam kann auch unabhängig vom Training besucht werden. https://rollingpoint.at/kurse#mi\
+Diese Jam findet im Anschluss an die Fortgeschrittenen-Trainingsgruppe statt. Die Jam kann von erfahrenen TänzerInnen auch unabhängig vom Training besucht werden.\
+BeginnerInnen sind an folgenden Terminen zu einem open level Training inkl. Jam eingeladen:\
+22.3., 26.4., 24.5. und 21.6.2023\
+<https://rollingpoint.at/kurse#mi>\
 Unkostenbeitrag für Jam: 7-10€
 
 ## rollingpoint-Jam am Sonntag
@@ -30,12 +32,12 @@ Teilweise  angeleitete warm ups, ausgewählte Musik und Sound-Scapes in der 2.H
 
 **Bankvbdg.:** IBAN: AT54 3200 0000 1701 2717, BIC: RLNWATWW, Verein rollingpoint
 
-\
-**Hinweise zur Sicherheit in den rollingpoint-Jams:** 
+### \
+**Hinweise zur Sicherheit auf den Jams:**
 
 Wichtigster Grundkonsens einer CI-Jam ist, dass alle TeilnehmerInnen gut **auf die eigene Sicherheit UND die Sicherheit der TanzpartnerInnen achten**: *„Pass auf, dass du niemand verletzt! Pass auf, dass dich niemand verletzt!"*
 
-Es ist Teil des Lernprozesses der Contact Improvisation im Laufe der Zeit immer besser herauszufinden, wo die eigenen Grenzen und die Grenzen der TanzpartnerInnen liegen z.B. im Umgang mit Körpergewichten. Der Lernprozess erlaubt aber vor allem auch „gedachte Grenzen“ zu erweitern und neue Freiheiten im Tanzen zu eröffnen. Für die physische Sicherheit ist es wichtig, einige Grundtechniken zu erlernen, welche gezielt in Kursen vermittelt werden wie Falltechniken, Körpergewicht dosiert abzugeben und gemeinsam zu rollen oder zu gleiten u.v.a.m. In einer Jam gibt es **keine Anleitung** wie in einem Kurs. Erste **Basiskenntnisse** und ein **Grundverständnis der Contact Improvisation werden** daher für die Teilnahme an der rollingpoint-jam **vorausgesetzt**.
+Es ist Teil des Lernprozesses der Contact Improvisation im Laufe der Zeit immer besser herauszufinden, wo die eigenen Grenzen und die Grenzen der TanzpartnerInnen liegen z.B. im Umgang mit Körpergewichten. Der Lernprozess erlaubt aber vor allem auch „gedachte Grenzen“ zu erweitern und neue Freiheiten im Tanzen zu eröffnen. Für die physische Sicherheit ist es wichtig, einige Grundtechniken zu erlernen, welche gezielt in Kursen vermittelt werden wie Falltechniken, Körpergewicht dosiert abzugeben und gemeinsam zu rollen oder zu gleiten u.v.a.m. In einer Jam gibt es **keine Anleitung** wie in einem Kurs. **Basiskenntnisse** und ein **Grundverständnis der Contact Improvisation werden** daher für die Teilnahme an der rollingpoint-jam **vorausgesetzt**.
 
 **Einige wichtige Regeln für die Sicherheit** sind u.a.:
 
@@ -56,22 +58,9 @@ Ein CI-Tanz ist ein gleichberechtigter körperlicher Dialog, in dem wir uns fort
 
 Bei auftauchenden Fragenstellungen in der Jam besteht immer die Möglichkeit  der/die Jam-host anzusprechen.
 
-*Weitere Anmerkungen Contact Improvisation ist auch ein großartiges Empathie-Lerntool um mit anderen Menschen auf einer sinnlich-körperlichen Ebene in Kontakt zu sein und nonverbal zu kommunizieren. Da wir uns im Alltag nicht so selbstverständlich berühren ist Körperkontakt für manche CI-BeginnerInnen mit dem Gedanken an sexuelle Aktivitäten assoziiert. Das Kennenlernen der Bewegungssprache der Contact Improvisation in Kursen ist wichtig um Missverständnisse zu vermeiden. Oft braucht es einige Zeit um sich als BeginnerIn in der Jam-Welt vertraut zu machen und einzuleben. Viele Fragen lösen sich mit der Zeit von selbst.*
+*Weitere Anmerkungen: Contact Improvisation ist auch ein großartiges Empathie-Lerntool um mit anderen Menschen auf einer sinnlich-körperlichen Ebene in Kontakt zu sein und nonverbal zu kommunizieren. Da wir uns im Alltag nicht so selbstverständlich berühren ist Körperkontakt für manche CI-BeginnerInnen mit dem Gedanken an sexuelle Aktivitäten assoziiert. Das Kennenlernen der Bewegungssprache der Contact Improvisation in Kursen ist daher wichtig um Missverständnisse zu vermeiden. Oft braucht es einige Zeit um sich als BeginnerIn in der Jam-Welt vertraut zu machen und einzuleben. Viele Fragen lösen sich mit der Zeit von selbst. CI ist keine Therapie. Für viele CI-Praktizierende ist das gemeinsame Tanzen aber auch ein wichtiger Lernprozess, der in verschiedenste Lebensbereiche integriert werden kann.*
 
-*Je nachdem welche Vorerfahrung wir mit Körperkontakt mitbringen, kann das CI-Tanzen zu Beginn in uns unterschiedliche Gefühle und Gedanken auslösen. CI ist keine Therapie. Für viele CI-Praktizierende ist das gemeinsame Tanzen aber auch ein wichtiger Lernprozess, der in verschiedenste Lebensbereiche integriert werden kann.*
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-**Jam- Specials:** 
-
-**Underscore_Jam nach Nancy Stark Smith:**
-
-**1.3.2020, Einführungsgespräch von 19.00-19.30h**
-
-Der Underscore nach Nancy Stark Smith ist ein sehr hilfreicher zeitlich und räumlich definierter Rahmen, um Contact Improvisation in der Gruppe mit einem hohen Grad an Aufmerksamkeit zu praktizieren. Für alle, die den Underscore noch nicht kennen, gibt es eine Einführung von 19:00 und 19.30h. Die Kenntnis der Underscore-Struktur ist für die Teilnahme wichtig. Wir wünschen uns für ein fokussiertes Tanzen, dass alle TeilnehmerInnen vom Beginn bis zum Ende des Underscores (19.30 - 22.00h) anwesend bleiben.
-
-&nbsp;
-&nbsp;
 
 ![](/assets/uploads/img_0198.jpg)
 
