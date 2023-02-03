@@ -62,7 +62,7 @@ Di 28.2.- 20.6.2023, 18.15 – 20.30 (ca.16x)**\
 **4./5.6.2023: Details in Kürze**
 
 ##### **[rollingpoint-Jams:](/jams)**\
-**an Schultagen Mittwoch 19.10-20.40, Turnsaal VS Einsiedlergasse 12, 1090 Wien**\
+**An Schultagen Mittwoch 19.10-20.40, Turnsaal VS Einsiedlergasse 12, 1090 Wien**\
 **Jeden Sonntag 19.00-22.00, Prana Yoga Studio 1, Mariahilferstr. 82, 1070 Wien**
 
 ###### \
