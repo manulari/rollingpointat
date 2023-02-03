@@ -14,8 +14,7 @@ Die reguläre rollingpoint Jam findet jeden Sonntag Abend von 19.00-22.00 im Pra
 **An Schultagen jeden Mittwoch  19.10 - 20.40**\
 Turnsaal VS Einsiedlergasse 7, 1050 Wien\
 Diese Jam findet im Anschluss an die Fortgeschrittenen-Trainingsgruppe statt. Die Jam kann von Erfahrene TänzerInnen können diese Jam auch unabhängig vom Training besuchen.\
-BeginnerInnen sind an folgenden Terminen zu einem open level Training inkl. Jam eingeladen:\
-22.3., 26.4., 24.5. und 21.6.2023\
+Für Beginner*innen gibt es an folgenden Terminen open level Contact Improvisations-Abende, die auch eine Teilnahme an den Jams inkludiereren: 22.3., 26.4., 24.5. und 21.6.2023\
 <https://rollingpoint.at/kurse#mi>\
 Unkostenbeitrag für Jam: 7-10€
 
