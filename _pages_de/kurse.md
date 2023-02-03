@@ -91,7 +91,7 @@ Die auch für Hinzukommende offene Jam im Anschluss an das Training lädt zum fr
 
 <div class="named-anchor" id="do"></div>
 
-#### 4  GANZ Körpertraining
+#### 4  GANZ Körpertraining & los tanzen
 
 mit **maRia Probst und Christian Apschner (abwechselnd)**\
 *open level*\
