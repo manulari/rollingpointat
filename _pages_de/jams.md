@@ -7,7 +7,7 @@ other_lang: ""
 
 **Die rollingpoint-Jams sind Orte für fokussiertes Contact Improvisation-Tanzen an denen CI als zeitgenössische Tanz- und Kunstform praktiziert wird. Wir achten darauf einen gemeinsamen Raum zu halten, in dem sich alle sicher fühlen und erwarten von den TeilnehmerInnen, dass sie bereits über CI-Kurserfahrungen im Sinne von Grundkenntnissen verfügen** (Hinweise zur Sicherheit in den rollingpoint-Jams siehe unten).
 
-Die reguläre rollingpoint Jam findet jeden Sonntag Abend von 19.00-22.00 im Prana Yoga-Studio statt (Detailinfos siehe unten). Weiters gibt es an Schultagen jeweils am Mittwoch Abend eine offene Jam in Verbindung mit einem vorangehenen CI-Fortgeschrittenen-Training im Turnsaal der VS Einsiedlergasse.[](/dojo)
+Die reguläre rollingpoint Jam findet jeden Sonntag Abend von 19.00-22.00 im Prana Yoga-Studio statt (Detailinfos siehe unten). Weiters gibt es an Schultagen jeweils am Mittwoch Abend eine offene Jam im Anschluss an das CI-Fortgeschrittenen-Training im Turnsaal der VS Einsiedlergasse.[](/dojo)
 
 ## rollingpoint-Jam am Mittwoch
 
