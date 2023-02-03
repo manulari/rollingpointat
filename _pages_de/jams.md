@@ -32,13 +32,11 @@ Teilweise  angeleitete warm ups, ausgewählte Musik und Sound-Scapes in der 2.H
 
 **Bankvbdg.:** IBAN: AT54 3200 0000 1701 2717, BIC: RLNWATWW, Verein rollingpoint
 
-### \
-
-**Hinweise zur Sicherheit auf den Jams:**
+### **Hinweise zur Sicherheit auf den Jams:**
 
 Wichtigster Grundkonsens einer CI-Jam ist, dass alle TeilnehmerInnen gut **auf die eigene Sicherheit UND die Sicherheit der TanzpartnerInnen achten**: *„Pass auf, dass du niemand verletzt! Pass auf, dass dich niemand verletzt!"*
 
-Es ist Teil des Lernprozesses der Contact Improvisation im Laufe der Zeit immer besser herauszufinden, wo die eigenen Grenzen und die Grenzen der TanzpartnerInnen liegen z.B. im Umgang mit Körpergewichten. Der Lernprozess erlaubt aber vor allem auch „gedachte Grenzen“ zu erweitern und neue Freiheiten im Tanzen zu eröffnen. Für die physische Sicherheit ist es wichtig, einige Grundtechniken zu erlernen, welche gezielt in Kursen vermittelt werden wie Falltechniken, Körpergewicht dosiert abzugeben und gemeinsam zu rollen oder zu gleiten u.v.a.m. In einer Jam gibt es **keine Anleitung** wie in einem Kurs. **Basiskenntnisse** und ein **Grundverständnis der Contact Improvisation werden** daher für die Teilnahme an der rollingpoint-jam **vorausgesetzt**.
+Es ist Teil des Lernprozesses der Contact Improvisation im Laufe der Zeit immer besser herauszufinden, wo die eigenen Grenzen und die Grenzen der TanzpartnerInnen liegen z.B. im Umgang mit Körpergewichten. Der Lernprozess erlaubt aber vor allem auch „gedachte Grenzen“ zu erweitern und neue Freiheiten im Tanzen zu eröffnen. Für die physische Sicherheit ist es wichtig, Grundtechniken zu erlernen, welche gezielt in Kursen vermittelt werden wie Falltechniken, Körpergewicht dosiert abzugeben und gemeinsam zu rollen oder zu gleiten u.v.a.m. In einer Jam gibt es **keine Anleitung** wie in einem Kurs. **Basiskenntnisse** und ein **Grundverständnis der Contact Improvisation werden** daher für die Teilnahme an rollingpoint-Jams **vorausgesetzt**.
 
 **Einige wichtige Regeln für die Sicherheit** sind u.a.:
 
