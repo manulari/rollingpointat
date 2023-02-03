@@ -11,7 +11,7 @@ Fotocredit: https://johannes-stolba.net/photography/
 
 ### Willkommen bei rollingpoint!
 
-**Wir laden dich ein, gemeinsam mit uns in die Welt der Contact Improvisation, des Zeitgenössischen Tanzes und des Somatischen Lernens einzutauchen. Wir bewegen uns an der Schnittstelle von Tanz, Kunst, Sport, Lernen und Forschung und bringen mehr als 20 Jahre Erfahrung in unsere Arbeit ein. Gerade jetzt ist es uns besonders wichtig offene Räume für Lebensfreude und Begegnung zu kreieren.**
+**Wir laden dich ein, gemeinsam mit uns in die Welt der Contact Improvisation, des Zeitgenössischen Tanzes und des Somatischen Lernens einzutauchen. In unseren Kursen und Projekten begegnen sich Tanz, Kunst, Sport, Lernen und Forschung. Wir bringen mehr als 20 Jahre Erfahrung in unsere Arbeit ein. Gerade jetzt ist es uns besonders wichtig offene Räume für Lebensfreude und Begegnung zu kreieren.**
 
 ## Videos
 
@@ -26,17 +26,17 @@ Fotocredit: https://johannes-stolba.net/photography/
 **mit maRia Probst und Christian Apschner**\
 \
 **Woche 2 .Mo - Do 20.- 23.2.202**\
-**“Get ready to Fly” (intermediate)**\
+**“Get Ready to Fly” (intermediate)**\
 **mit Christian Apschner**
 
 ### **Kursbeginn Sommersemester 27.2.- 2.3.2023:**
 
-**[1 RELEASZ Tanztraining: Zeitgenössischer Tanz/CI-light/ Somatisches Lernen](/kurse#mo)**\
+**[1 RELEASZ Tanztraining: ](/kurse#mo)****[Zeitgenössischer Tanz / CI-light / Somatisches Lernen](/kurse#mo)**\
 **open level, mit maRia Probst** \
 **Mo 27.2.– 19.6.2023, 18.30 - 20.15 (ca.15x)**\
 **Turnsaal VS Gilgegasse 12, 1090 Wien**
 
-**[2 Contact Improvisation and -Technique](/kurse#di) beginner/intermediate\
+**[2 Contact Improvisation and -Technique](/kurse#di) beginner / intermediate\
 mit Christian Apschner\
 Di 28.2.- 20.6.2023, 18.15 – 20.30 (ca.16x)**\
 **Turnsaal VS Einsiedlergasse 7, 1050 Wien**
@@ -46,25 +46,23 @@ Di 28.2.- 20.6.2023, 18.15 – 20.30 (ca.16x)**\
 **Mi 1.3. - 21.6.2023, 17.30 - 19.00 (Training), 19.10-20.40 (Jam),  (ca.15x)**\
 **Turnsaal VS Einsiedlergasse 7, 1050 Wien**
 
-**[4 GANZ Körpertraining](/kurse#do)**  **open level (ca. 14x)**\
+**[4 GANZ Körpertraining](/kurse#do)** & los tanzen!  **open level (ca. 14x)**\
 **mit maRia Probst und Christian Apschner (alternierend)**\
 **Do 2.2.- 22.6.2023, 18.30 – 20.30**\
 **Turnsaal VS Gilgegasse 12, 1090 Wien**
 
 ### Wochenend-Workshops
 
-[](/workshops#bodywork)**[10./11.12.2022 "Liquid Motion"](workshops) - Zeitgenössischer Tanz und Somatic   Movement mit maRia Probst**
-
-**[14./15.1.2023 Contact Flying Skills](/workshops#flying) mit Christian Apschner und Lui Springer**
-
-**13./14.5.2023: Details in Kürze**
-
-**4./5.6.2023: Details in Kürze**
+* [](/workshops#bodywork)**[](workshops)13./14.5.2023: Details in Kürze**
+* **04./05.6.2023: Details in Kürze**
 
 ##### **[rollingpoint-Jams:](/jams)**
 
-**An Schultagen jeden Mittwoch 19.10-20.40, Turnsaal VS Einsiedlergasse 7, 1050 Wien**\
-**Jeden Sonntag 19.00-22.00, Prana Yoga Studio 1, Mariahilferstr. 82, 1070 Wien**
+**An Schultagen jeden Mittwoch 19.10-20.40, Turnsaal VS Einsiedlergasse 7, 1050 Wien Jeden Sonntag 19.00-22.00, Prana Yoga Studio 1, Mariahilferstraße 82, 1070 Wien**
+
+
+
+
 
 ![Mehr CI auf der Stiege](/assets/uploads/dsc_1941a.jpg "Mehr CI auf der Stiege")
 
