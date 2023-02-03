@@ -5,10 +5,17 @@ other_lang: ""
 ---
 **What happens in a Contact Jam?** <https://www.youtube.com/watch?v=u9AhpFxfEfs>
 
-Die rollingpoint-Jams sind ein Ort für fokussiertes Contact Improvisations-Tanzen an dem **CI als zeitgenössische Tanz- und Kunstform** praktiziert wird. Wir achten darauf einen gemeinsamen Raum zu halten, in dem sich alle sicher fühlen und erwarten von den TeilnehmerInnen, dass sie bereits über CI-Kurserfahrungen (im Sinne von Grundkenntnissen) verfügen.
+Die rollingpoint-Jams sind ein Ort für fokussiertes Contact Improvisations-Tanzen an dem **CI als zeitgenössische Tanz- und Kunstform** praktiziert wird. Wir achten darauf einen gemeinsamen Raum zu halten, in dem sich alle sicher fühlen und erwarten von den TeilnehmerInnen, dass sie bereits über CI-Kurserfahrungen (im Sinne von Grundkenntnissen) verfügen (Hinweise zur Sicherheit in den rollingpoint-Jams siehe unten).
 
-Die reguläre rollingpoint Contact Improvisations Jam findet jeden Sonntag Abend von 19.00-22.00 im Prana Yoga-Studio statt (Detailinfos siehe unten). Weiters gibt es an Schultagen jeweils am Donnerstag Abend eine offene Jam in Verbindung mit einem vorangehenen CI-Training (CI-DOJO) im Turnsaal der VS Einsiedlergasse.\
+Die reguläre rollingpoint Contact Improvisations Jam findet jeden Sonntag Abend von 19.00-22.00 im Prana Yoga-Studio statt (Detailinfos siehe unten). Weiters gibt es an Schultagen jeweils am Mittwoch Abend eine offene Jam in Verbindung mit einem vorangehenen CI-Fortgeschrittenen-Training im Turnsaal der VS Einsiedlergasse.\
 [Info zum **CI-DOJO (Training+Jam)**](/dojo)
+
+## rollingpoint-Jam am Mittwoch
+
+**An Schultagen jeden Mittwoch  19.10 - 20.400**\
+Turnsaal VS Einsiedlergasse 7, 1050 Wien\
+Diese Jam findet im Anschluss an die Fortgeschrittenen Trainingsgruppe statt. Die Jam kann auch unabhängig vom Training besucht werden. https://rollingpoint.at/kurse#mi\
+Unkostenbeitrag für Jam: 7-10€
 
 ## rollingpoint-Jam am Sonntag
 
@@ -19,7 +26,7 @@ Keine Anmeldung erforderich.
 **Ankommen von 19.00 bis 19.30**; vor 19.00 und nach 19:30h aus raumorganisatorischen Gründe kein Einlass möglich\
 Teilweise  angeleitete warm ups, ausgewählte Musik und Sound-Scapes in der 2.Hälfte der Jams.
 
-**Raumbeitrag auf Spendenbasis: ca.10€ (min 6€), bitte um Kontoüberweisung**
+**Raumbeitrag auf Spendenbasis: 10€ (min 6€), bitte um Kontoüberweisung**
 
 **Bankvbdg.:** IBAN: AT54 3200 0000 1701 2717, BIC: RLNWATWW, Verein rollingpoint
 
