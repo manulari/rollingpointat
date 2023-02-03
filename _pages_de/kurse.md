@@ -77,7 +77,7 @@ Turnsaal VS Einsiedlergasse 7, 1050 Wien\
 **Offene Jam 19.10-20.40**
 
 **Beginner*innen sind an folgenden Terminen zu einem open level Training inkl. Jam eingeladen:**\
-**22.3., 26.4. und 24.5. und 21.6.2023**
+**22.3., 26.4., 24.5. und 21.6.2023**
 
 siehe: [Rollingpoint - CI-DOJO (Training+Jam)](/dojo)
 
@@ -97,10 +97,12 @@ mit **maRia Probst und Christian Apschner (abwechselnd)**\
 **Do 18.30 – 20.30**, ab 2.3.- 22.6.2023 - 2.2.2023 (ca.14x)\
 Turnsaal VS Gilgegasse 12, 1090 Wien
 
+**G**anzheitlich, **A**natomie-basiert, **N**achhaltig und **Z**eitgenössisch
+
 Entspannen, Loslassen und Wahrnehmen - Aktivieren und Kräftigen - Bewegungsfluss und Koordination finden - Ausschütteln und los tanzen / Alles in einem? Ja!\
-In diesen offenen Kurs bringen maRia und Christian ihre gesamte Kompetenz an Trainingserfahrung ein und kreieren daraus ein in dieser Form einzigartiges ganzheitliches zeitgemäßes Trainingserlebnis.\
+In diesen offenen Kurs bringen maRia und Christian ihre gesamte Kompetenz als erfahrene Training*innen ein und kreieren daraus ein in dieser Form einzigartiges ganzheitliches und zeitgemäßes Trainingserlebnis.\
 \
-Elemente aus somatischen Methoden wie Trager, Feldenkrais, Body Mind Centering und Anatomical Release Technique ergänzen sich mit Übungen aus dem Zeitgenössischem Tanz, Moving Yoga, Qi Gong und funktionellem Kraft-, Beweglichkeits- und Koordinationstraining. Die Trainingseinheiten starten mit sanften Aktivierungsübungen zur Sensibilisierung der Körperwahrnehmung auf der Matte liegend am Boden. Zunehmend dynamisch bewegen wir uns durch verschiedene Raumebenen zu mehr Vitalität, Durchlässigkeit und Kraft. Nach dem Übungsteil schütteln wir uns zu ausgewählter Musik so richtig aus und tanzen alles raus was sich noch verspannt anfühlt bevor wir die Einheit gemeinsam in einem Moment der Stille nach- und ausklingen lassen. So spazieren wir gefestigt, gelockert und mit mehr Energie aus dem Tanzsaal und nehmen dies in den Alltag mit.\
+Elemente aus somatischen Methoden wie Trager, Feldenkrais, Body Mind Centering und Anatomical Release Technique ergänzen sich mit Übungen aus dem Zeitgenössischem Tanz, Moving Yoga, Qi Gong und funktionellem Kraft-, Beweglichkeits- und Koordinationstraining. Die Trainingseinheiten starten mit sanften Aktivierungsübungen zur Sensibilisierung der Körperwahrnehmung auf der Matte liegend am Boden. Zunehmend dynamisch bewegen wir uns durch verschiedene Raumebenen zu mehr Vitalität, Durchlässigkeit und Kraft. Nach dem Übungsteil schütteln wir uns zu ausgewählter Musik so richtig aus und tanzen alles raus was sich noch verspannt anfühlt bevor wir die Einheit gemeinsam in einem Moment der Stille nach- und ausklingen lassen. So spazieren wir gefestigt, gelockert und mit mehr Energie aus dem Tanzsaal und nehmen diese Ausrichtung in den Alltag mit.\
 [Kosten](#kosten)
 
 <div class="named-anchor" id="kosten"></div>
@@ -120,8 +122,8 @@ Ermäßigungen: € 150 für StudentInnen <=28a, € 190 Sonstige\
 Bei Buchung von mehr als einem Kurs minus € 30 ab dem 2.Kurs\
 Die Reservierung des Kursplatzes erfolgt durch Einzahlung des vollen Kursbeitages.\
 \
-**Einzelstunden € 27 / ermäßigt € 20**\
-**Einzelstunden Kurs 3 (Contact Dojo: CI-Training inkl. Jam) € 14 - 24, Jam € 7 - 10**
+**Einzelstunden: € 27 / ermäßigt € 20**\
+**Einzelstunden Kurs 3 (CI-Training inkl. Jam): € 14 - 24, Jam € 7 - 10**
 
 **5﻿er Block für CI Körpertraining + Bounce and Shake € 110.- / € 85.-**\
 \
