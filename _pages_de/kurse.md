@@ -69,7 +69,8 @@ Teilnahmeempfehlungen: Da wir in der Contact Improvisation gegenseitig Körperge
 #### **3 Contact Improvisation /advanced + Jam**
 
 mit **Christian Apschner und GastlehrerInnen tba**\
-Fortlaufende offene Trainingsgruppe für fortgeschrittene Tänzer*innen mit vier open level Terminen Teilnahme an einzelnen Terminen möglich\
+Fortlaufende offene Trainingsgruppe für fortgeschrittene Tänzer*innen mit vier open level Terminen\
+Teilnahme an einzelnen Terminen möglich\
 Mi 17.30 - 20.40, 1.3. – 21.6.2023 (ca.15x)\
 Kurs Sommersemester 2023: 1.3. - 21.6.2023\
 Turnsaal VS Einsiedlergasse 7, 1050 Wien\
