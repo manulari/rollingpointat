@@ -5,15 +5,15 @@ other_lang: ""
 ---
 **What happens in a Contact Jam?** <https://www.youtube.com/watch?v=u9AhpFxfEfs>
 
-**Die rollingpoint-Jams sind ein Orte für fokussiertes Contact Improvisations-Tanzen an denen CI als zeitgenössische Tanz- und Kunstform praktiziert wird. Wir achten darauf einen gemeinsamen Raum zu halten, in dem sich alle sicher fühlen und erwarten von den TeilnehmerInnen, dass sie bereits über CI-Kurserfahrungen im Sinne von Grundkenntnissen verfügen** (Hinweise zur Sicherheit in den rollingpoint-Jams siehe unten).
+**Die rollingpoint-Jams sind Orte für fokussiertes Contact Improvisation-Tanzen an denen CI als zeitgenössische Tanz- und Kunstform praktiziert wird. Wir achten darauf einen gemeinsamen Raum zu halten, in dem sich alle sicher fühlen und erwarten von den TeilnehmerInnen, dass sie bereits über CI-Kurserfahrungen im Sinne von Grundkenntnissen verfügen** (Hinweise zur Sicherheit in den rollingpoint-Jams siehe unten).
 
-Die reguläre rollingpoint Contact Improvisations Jam findet jeden Sonntag Abend von 19.00-22.00 im Prana Yoga-Studio statt (Detailinfos siehe unten). Weiters gibt es an Schultagen jeweils am Mittwoch Abend eine offene Jam in Verbindung mit einem vorangehenen CI-Fortgeschrittenen-Training im Turnsaal der VS Einsiedlergasse.[](/dojo)
+Die reguläre rollingpoint Jam findet jeden Sonntag Abend von 19.00-22.00 im Prana Yoga-Studio statt (Detailinfos siehe unten). Weiters gibt es an Schultagen jeweils am Mittwoch Abend eine offene Jam in Verbindung mit einem vorangehenen CI-Fortgeschrittenen-Training im Turnsaal der VS Einsiedlergasse.[](/dojo)
 
 ## rollingpoint-Jam am Mittwoch
 
 **An Schultagen jeden Mittwoch  19.10 - 20.40**\
 Turnsaal VS Einsiedlergasse 7, 1050 Wien\
-Diese Jam findet im Anschluss an die Fortgeschrittenen-Trainingsgruppe statt. Die Jam kann von erfahrenen TänzerInnen auch unabhängig vom Training besucht werden.\
+Diese Jam findet im Anschluss an die Fortgeschrittenen-Trainingsgruppe statt. Die Jam kann von Erfahrene TänzerInnen können diese Jam auch unabhängig vom Training besuchen.\
 BeginnerInnen sind an folgenden Terminen zu einem open level Training inkl. Jam eingeladen:\
 22.3., 26.4., 24.5. und 21.6.2023\
 <https://rollingpoint.at/kurse#mi>\
@@ -33,6 +33,7 @@ Teilweise  angeleitete warm ups, ausgewählte Musik und Sound-Scapes in der 2.H
 **Bankvbdg.:** IBAN: AT54 3200 0000 1701 2717, BIC: RLNWATWW, Verein rollingpoint
 
 ### \
+
 **Hinweise zur Sicherheit auf den Jams:**
 
 Wichtigster Grundkonsens einer CI-Jam ist, dass alle TeilnehmerInnen gut **auf die eigene Sicherheit UND die Sicherheit der TanzpartnerInnen achten**: *„Pass auf, dass du niemand verletzt! Pass auf, dass dich niemand verletzt!"*
@@ -59,8 +60,6 @@ Ein CI-Tanz ist ein gleichberechtigter körperlicher Dialog, in dem wir uns fort
 Bei auftauchenden Fragenstellungen in der Jam besteht immer die Möglichkeit  der/die Jam-host anzusprechen.
 
 *Weitere Anmerkungen: Contact Improvisation ist auch ein großartiges Empathie-Lerntool um mit anderen Menschen auf einer sinnlich-körperlichen Ebene in Kontakt zu sein und nonverbal zu kommunizieren. Da wir uns im Alltag nicht so selbstverständlich berühren ist Körperkontakt für manche CI-BeginnerInnen mit dem Gedanken an sexuelle Aktivitäten assoziiert. Das Kennenlernen der Bewegungssprache der Contact Improvisation in Kursen ist daher wichtig um Missverständnisse zu vermeiden. Oft braucht es einige Zeit um sich als BeginnerIn in der Jam-Welt vertraut zu machen und einzuleben. Viele Fragen lösen sich mit der Zeit von selbst. CI ist keine Therapie. Für viele CI-Praktizierende ist das gemeinsame Tanzen aber auch ein wichtiger Lernprozess, der in verschiedenste Lebensbereiche integriert werden kann.*
-
-
 
 ![](/assets/uploads/img_0198.jpg)
 
