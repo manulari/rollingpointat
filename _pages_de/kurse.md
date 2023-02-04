@@ -113,7 +113,7 @@ Elemente aus somatischen Methoden wie Trager, Feldenkrais, Body Mind Centering u
 **Anmeldung: Schreibe uns bitte ein kurzes mail an ci.rollingpoint@gmail.com**\
 oder SMS/Tel. Christian 0650 8931081, maRia 0650 9510814
 
-**Offene Schnupperstunden in den ersten drei Kurswochen um €10 pro Einheit (max. 1x pro Kurs)**
+**Offene Schnupperstunden in den ersten zwei Kurswochen um €10 pro Einheit (max. 1x pro Kurs)**
 
 **Kostenbeitrag Semesterkurse 1,2 und 4: Normalpreis € 250**\
 Ermäßigungen: € 160 für StudentInnen <=28a, € 200 Sonstige\
