@@ -28,12 +28,14 @@ Kurs Sommersemester 2023: 27.2. - 19.6.2023\
 Turnsaal VS Gilgegasse 12, 1090 Wien
 
 RELEASZ verweist auf die Wurzeln dieser Praxis, der Release Technique. Es steht darüber
-hinaus für **RE**enerierendes, **L**ebendiges, **E**nergetisierendes, **A**ffirmatives, **S**omatisches und
+hinaus für **RE**generierendes, **L**ebendiges, **E**nergetisierendes, **A**ffirmatives, **S**omatisches und
 **Z**eitgenössisches Tanzen. maRia verbindet in diesem Kurs Elemente aus
 Somatischem Lernen, Contact Improvisation mit geringer Gewichtsübertragung und
 Zeitgenössischem Tanz. Du kannst deine innewohnende körperliche Unmittelbarkeit des frühen Seins als Säugling und Kind wiederentdecken und das Zusammenspiel von Muskeln, Sehnen, Knochen und
 Organen besser verstehen lernen. Spezifische Techniken aus dem zeitgenössischen Tanz
 helfen dir, deinen Körper bewusster einzusetzen und zu koordinieren. Vom Spüren, Berühren und Bewegen bereichert, improvisieren wir innerhalb vielfältiger Spielformen miteinander und probieren die eine oder andere Bewegungssequenz.
+
+
 Statement Kursteilnehmerin: „Das Kurserlebnis ist vielfältig, befreit gelacht habe ich jedes
 mal.“ 
 
@@ -121,12 +123,12 @@ Ermäßigungen: € 160 für StudentInnen <=28a, € 200 Sonstige\
 Ermäßigungen: € 150 für StudentInnen <=28a, € 190 Sonstige\
 \
 Bei Buchung von mehr als einem Kurs minus € 30 ab dem 2.Kurs\
-Die Reservierung des Kursplatzes erfolgt durch Einzahlung des vollen Kursbeitages.\
+Die Reservierung des Kursplatzes erfolgt durch Einzahlung des vollen Kursbeitrages.\
 \
 **Einzelstunden: € 27 / ermäßigt € 20**\
 **Einzelstunden Kurs 3 (CI-Training inkl. Jam): € 14 - 24, Jam € 7 - 10**
 
-**5﻿er Block für CI Körpertraining + Bounce and Shake € 110.- / € 85.-**\
+**5﻿er Block für GANZ Körpertraining & los tanzen** **€ 110.- / € 85.-**\
 \
 **Bankvbdg.:** IBAN: AT54 3200 0000 1701 2717, BIC: RLNWATWW, Verein rollingpoint
 
