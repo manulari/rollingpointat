@@ -33,15 +33,15 @@ hinaus für **RE**enerierendes, **L**ebendiges, **E**nergetisierendes, **A**ffir
 Somatischem Lernen, Contact Improvisation mit geringer Gewichtsübertragung und
 Zeitgenössischem Tanz. Du kannst deine innewohnende körperliche Unmittelbarkeit des frühen Seins als Säugling und Kind wiederentdecken und das Zusammenspiel von Muskeln, Sehnen, Knochen und
 Organen besser verstehen lernen. Spezifische Techniken aus dem zeitgenössischen Tanz
-helfen dir, deinen Körper bewusster einzusetzen und zu koordinieren.
+helfen dir, deinen Körper bewusster einzusetzen und zu koordinieren. Vom Spüren, Berühren und Bewegen bereichert, improvisieren wir innerhalb vielfältiger Spielformen miteinander und probieren die eine oder andere Bewegungssequenz.
 Statement Kursteilnehmerin: „Das Kurserlebnis ist vielfältig, befreit gelacht habe ich jedes
-mal.“
+mal.“ 
 
-Teilnahmeempfehlung: Tanz- und Bewegungs-Freudige und -Neugierige mit und ohne
-Vorerfahrung, Freude an Berührung mit genanntem Fokus; Menschen mit Interesse an
-Kontaktimprovisations-Elementen mit geringer Gewichtsübertragung und sanfter Berührung;
-Menschen, die sich selbst und ihren Körper besser kennen lernen wollen. Eine kontinuierliche
-Teilnahme ist von Vorteil und daher sehr erwünscht.
+Teilnahmeempfehlung: Tanzfreudige mit Lust an Bewegungsausdruck und -forschung. An Kontaktimprovisations-Elementen mit geringer Gewichtsübertragung und an Berührung für Bewegungsentwicklung Interessierte. Menschen, die sich selbst und ihren Körper besser kennen lernen wollen. Eine kontinuierliche Teilnahme ist von Vorteil und daher sehr erwünscht.
+
+
+
+
 
 [Kosten](#kosten)
 
