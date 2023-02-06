@@ -52,7 +52,8 @@ other_lang: /
 
 **3./4.6.2023 with Christian Apschner**
 
-### **rollingpoint-Jams**\
+### **rollingpoint-Jams**
+
 **[wednesday when schoolday and every sunday evening](https://rollingpoint.at/en/jams)**
 
 &nbsp;
