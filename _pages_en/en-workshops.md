@@ -9,7 +9,8 @@ language: en
 
 Fotocredits: He Shao Hui
 
-> ### New workshops - Save the date!\
+> ### New workshops - Save the date!
+>
 > **13./14.5.2023 with maRia Probst**\
 > **3./4.6.2023 with Christian Apschner**\
 > **details coming soon**
