@@ -80,10 +80,11 @@ Open dancing and shaking to music
 **Registration: Please send us an email to ci.rollingpoint@gmail.com**\
 phone Christian +43 650 8931081, maRia +43 650 9510814
 
-**Costs Course 1-3: € 250 (regular), € 200 (reduced), € 160 (students <28a)**\
-**single class**: **€ 27 (regular), €19 (reduced)**
+**Costs Course 1 ,2 and 4: € 250 (regular), € 200 (reduced), € 160 (students <28a)**\
+**single class**: **€ 27 (regular), € 20 (reduced)**
 
-**Course 4: € 230 (regular), € 190(regular), € 150 (students <28a)**
+**Course 3: € 230 (regular), € 190(regular), € 150 (students <28a)**\
+**single class (CI-Training incl. Jam): € 14 - 24, Jam € 7 - 10**
 
 \
 If you book two courses, you get a discount of €30,- for the second/third course.
@@ -91,6 +92,8 @@ If you book two courses, you get a discount of €30,- for the second/third cour
 **Bankvbdg.:** IBAN: AT54 3200 0000 1701 2717, BIC: RLNWATWW, Verein rollingpoint
 
 No classes on school holiday
+
+**Bankaccoubt.:** IBAN: AT54 3200 0000 1701 2717, BIC: RLNWATWW, Verein rollingpoint
 
 &nbsp;
 
