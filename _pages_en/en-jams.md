@@ -5,7 +5,7 @@ language: en
 ---
 **What happens in a Contact Jam?** <https://www.youtube.com/watch?v=u9AhpFxfEfs>
 
-The rollingpoint jams are a place for focused contact improvisation dancing where **CI is practiced as a contemporary dance and art form.** We want to offer a space in which everyone feels safe. Participants are asked to have CI course experience in the sense of basic knowledge.
+The rollingpoint jams are a place for focused Contact Improvisation dancing where **CI is practiced as contemporary dance and art form.** We want to offer a space in which everyone feels safe. Participants are asked to have CI course experience in the sense of basic knowledge.
 
 The regular rollingpoint Contact Improvisations Jam takes place every Sunday evening from 7pm to 10pm in the Prana Yoga studio 1 (more infos: see below).
 
@@ -17,8 +17,7 @@ Furthermore, there are open jams on wednesday evenings on school days in connect
 Turnsaal VS Einsiedlergasse 7, 1050 Wien\
 This jam takes place after the advanced training. Experienced dancers can also attend this jam independently of the pervious training.\
 \
-We offer open level Contact Improvisation evenings for beginners on the following dates. It also includes participation in the jams: March 22nd, April 26th, May 24th. and 21.6.2023
-
+We offer **open level Contact Improvisation evenings for beginners** on the following dates. It also includes participation in the jams: **March 22nd, April 26th, May 24th. and June 21st 2023**
 
 **[CI-advanded Training +Jam](dojo)**
 Fee for jam: 7-10€, training incl. jam: 14-24€
