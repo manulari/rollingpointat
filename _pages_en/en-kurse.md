@@ -86,11 +86,9 @@ phone Christian +43 650 8931081, maRia +43 650 9510814
 \
 If you book two courses, you get a discount of €30,- for the second/third course.
 
-**Bankvbdg.:** IBAN: AT54 3200 0000 1701 2717, BIC: RLNWATWW, Verein rollingpoint
-
 No classes on school holiday
 
-**Bankaccoubt.:** IBAN: AT54 3200 0000 1701 2717, BIC: RLNWATWW, Verein rollingpoint
+**Bankaccount.:** IBAN: AT54 3200 0000 1701 2717, BIC: RLNWATWW, Verein rollingpoint
 
 &nbsp;
 
