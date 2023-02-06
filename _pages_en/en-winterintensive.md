@@ -27,9 +27,8 @@ tue and wed (14.2., 15.2., 21.2., 22.2.): Turnsaal Einsiedlergasse 7, 5. Bez.
 
 18.15 - 20.30h
 
- 
-
 **Registration via email:**  **ci.rollingpoint@gmail.com**  or Christian 0650/8931081
 
 **Costs:** One week: € 90,- , students < 28a: 60,-\
-Both weeks € 160,- , students: € 110,-
+Both weeks € 160,- , students: € 110,-\
+**Bankaccount.:** IBAN: AT54 3200 0000 1701 2717, BIC: RLNWATWW, Verein rollingpoint
