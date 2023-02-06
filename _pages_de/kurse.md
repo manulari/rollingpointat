@@ -35,15 +35,10 @@ Zeitgenössischem Tanz. Du kannst deine innewohnende körperliche Unmittelbarkei
 Organen besser verstehen lernen. Spezifische Techniken aus dem zeitgenössischen Tanz
 helfen dir, deinen Körper bewusster einzusetzen und zu koordinieren. Vom Spüren, Berühren und Bewegen bereichert, improvisieren wir innerhalb vielfältiger Spielformen miteinander und probieren die eine oder andere Bewegungssequenz.
 
-
 Statement Kursteilnehmerin: „Das Kurserlebnis ist vielfältig, befreit gelacht habe ich jedes
 mal.“ 
 
 Teilnahmeempfehlung: Tanzfreudige mit Lust an Bewegungsausdruck und -forschung. An Kontaktimprovisations-Elementen mit geringer Gewichtsübertragung und an Berührung für Bewegungsentwicklung Interessierte. Menschen, die sich selbst und ihren Körper besser kennen lernen wollen. Eine kontinuierliche Teilnahme ist von Vorteil und daher sehr erwünscht.
-
-
-
-
 
 [Kosten](#kosten)
 
@@ -97,7 +92,7 @@ Die auch für Hinzukommende offene Jam im Anschluss an das Training lädt zum fr
 
 mit **maRia Probst und Christian Apschner (abwechselnd)**\
 *open level*\
-**Do 18.30 – 20.30**, ab 2.3.- 22.6.2023 - 2.2.2023 (ca.14x)\
+**Do 18.30 – 20.30**, ab 2.3.- 22.6.2023 (ca.14x)\
 Turnsaal VS Gilgegasse 12, 1090 Wien
 
 **G**anzheitlich, **A**natomie-basiert, **N**achhaltig und **Z**eitgenössisch
