@@ -58,8 +58,6 @@ Turnsaal VS Einsiedlergasse 7, 1050 Wien\
 
 We create a connection between the athletic and meditative and learn to take weight in a body-friendly way through anatomically good alignment, tonus modulation and the use of momentum. In our learning process we want to find the ability to follow the flow of movement and at the same time to perceive the dance so presently that this flow can directed and redirected in a playful way.
 
-
-
 <div class="named-anchor" id="do"></div>
 
 #### 4 GANZ Holistic Body Training for CI + Dance and Shake
@@ -84,8 +82,7 @@ phone Christian +43 650 8931081, maRia +43 650 9510814
 **single class**: **€ 27 (regular), € 20 (reduced)**
 
 **Course 3: € 230 (regular), € 190(regular), € 150 (students <28a)**\
-**single class (CI-Training incl. Jam): € 14 - 24, Jam € 7 - 10**
-
+**single class (CI-Training incl. Jam): € 14 - 24, Jam € 7 - 10**\
 \
 If you book two courses, you get a discount of €30,- for the second/third course.
 
