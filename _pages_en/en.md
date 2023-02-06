@@ -6,7 +6,7 @@ other_lang: /
 ---
 ### Contact Improvisation and Related  Dance and Movement Practices
 
-### **Website under construction!**
+### **This is a short version of our German website**
 
 ![](/assets/uploads/dsc_1901_klein.jpg)
 
@@ -26,7 +26,7 @@ other_lang: /
 
 **Start summersemester 2023: 27.2.-2.3.2023**
 
-**[1 mo Contemporary Dance and Somatics](/en/kurse#mo)** - **open level**\
+**[1 mo RELEASZ Contemporary Dance and Somatics](/en/kurse#mo)** - **open level**\
 **with maRia Probst**  \
 **start mo 27.2.2023, 18.30 - 20.30**\
 **Turnsaal VS Gilgegasse 12, 1090 Wien**
@@ -36,12 +36,12 @@ other_lang: /
 **start tue 28.2.2023, 18.15 - 20.30**\
 **Turnsaal VS Einsiedlergasse 7, 1050 Wien**
 
-**[3 wed Contact Improvisation (Contact Dojo)](/en/kurse#mi) advanced**\
+**[3 wed Contact Improvisation](/en/kurse#mi) advanced**\
 **mit Christian Apschner and guest teachers**\
 **start wed  1.3.2023, 17.30 - 19.00 (training), 19.10-20.40 (jam)**\
 **Turnsaal VS Einsiedlergasse 7, 1050 Wien**
 
-**[4 thu Holistic training + „Bounce and Shake"](/en/kurse#do)** - **open level**\
+**[4 thu GANZ Holistic training + „Dance and Shake"](/en/kurse#do)** - **open level**\
 **with Ria Probst and Christian Apschner (alternating)**\
 **start thu 2.3.2023, 18.30 – 20.30**\
 **Turnsaal VS Gilgegasse 12, 1090 Wien**
@@ -52,8 +52,7 @@ other_lang: /
 
 **3./4.6.2023 with Christian Apschner**
 
-
-
-### **rollingpoint-Jam: every sunday evening**
+### **rollingpoint-Jams**\
+**[wednesday when schoolday and every sunday evening](https://rollingpoint.at/en/jams)**
 
 &nbsp;
