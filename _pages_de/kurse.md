@@ -24,12 +24,13 @@ title: KURSE UND WORKSHOPS
 
 mit **maRia Probst -** *open level*\
 **Mo 18.30 - 20.15**; 27.2. – 19.6.2023 (ca. 15x)\
-Kurs Sommersemester 2023: 27.2. - 19.6.2023\
 Turnsaal VS Gilgegasse 12, 1090 Wien
 
 RELEASZ verweist auf die Wurzeln dieser Praxis, der Release Technique. Es steht darüber
 hinaus für **RE**generierendes, **L**ebendiges, **E**nergetisierendes, **A**ffirmatives, **S**omatisches und
-**Z**eitgenössisches Tanzen. maRia verbindet in diesem Kurs Elemente aus
+**Z**eitgenössisches Tanzen. 
+
+maRia verbindet in diesem Kurs Elemente aus
 Somatischem Lernen, Contact Improvisation mit geringer Gewichtsübertragung und
 Zeitgenössischem Tanz. Du kannst deine innewohnende körperliche Unmittelbarkeit des frühen Seins als Säugling und Kind wiederentdecken und das Zusammenspiel von Muskeln, Sehnen, Knochen und
 Organen besser verstehen lernen. Spezifische Techniken aus dem zeitgenössischen Tanz
