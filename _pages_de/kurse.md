@@ -101,7 +101,11 @@ Turnsaal VS Gilgegasse 12, 1090 Wien
 Entspannen, Loslassen und Wahrnehmen - Aktivieren und Kräftigen - Bewegungsfluss und Koordination finden - Ausschütteln und los tanzen / Alles in einem? Ja!\
 In diesen offenen Kurs bringen maRia und Christian ihre gesamte Kompetenz als erfahrene Training*innen ein und kreieren daraus ein in dieser Form einzigartiges ganzheitliches und zeitgemäßes Trainingserlebnis.\
 \
-Elemente aus somatischen Methoden wie Trager, Feldenkrais, Body Mind Centering und Anatomical Release Technique ergänzen sich mit Übungen aus dem Zeitgenössischem Tanz, Moving Yoga, Qi Gong und funktionellem Kraft-, Beweglichkeits- und Koordinationstraining. Die Trainingseinheiten starten mit sanften Aktivierungsübungen zur Sensibilisierung der Körperwahrnehmung auf der Matte liegend am Boden. Zunehmend dynamisch bewegen wir uns durch verschiedene Raumebenen zu mehr Vitalität, Durchlässigkeit und Kraft. Nach dem Übungsteil schütteln wir uns zu ausgewählter Musik so richtig aus und tanzen alles raus was sich noch verspannt anfühlt bevor wir die Einheit gemeinsam in einem Moment der Stille nach- und ausklingen lassen. So spazieren wir gefestigt, gelockert und mit mehr Energie aus dem Tanzsaal und nehmen diese Ausrichtung in den Alltag mit.\
+Elemente aus somatischen Methoden wie Trager, Feldenkrais, Body Mind Centering und Anatomical Release Technique ergänzen sich mit Übungen aus dem Zeitgenössischem Tanz, Moving Yoga, Qi Gong, der Contact Improvisation und funktionellem Kraft-, Beweglichkeits- und Koordinationstraining. 
+
+Die Trainingseinheiten starten mit sanften Aktivierungsübungen zur Sensibilisierung der Körperwahrnehmung auf der Matte liegend am Boden, manchmal auch in Kontakt mit Partner*in. Zunehmend dynamisch bewegen wir uns durch verschiedene Raumebenen zu mehr Vitalität, Durchlässigkeit und Kraft. Nach dem Übungsteil schütteln wir uns zu ausgewählter Musik so richtig aus und tanzen alles raus was sich noch verspannt anfühlt bevor wir die Einheit gemeinsam in einem Moment der Stille nach- und ausklingen lassen. So spazieren wir gefestigt, gelockert und mit mehr Energie aus dem Tanzsaal und nehmen diese Ausrichtung in den Alltag mit. 
+
+Teilnahmeempfehlung: Menschen die einen ganzheitlichen Trainingsansatz verfolgen, Berührung für die Erweiterung von Bewegungsmustern begrüßen und Selbstausdruck im freien Tanz durch den Raum als Bereicherung empfinden. \
 [Kosten](#kosten)
 
 <div class="named-anchor" id="kosten"></div>
