@@ -21,6 +21,8 @@ Unkostenbeitrag für Jam: 7-10€, Training inkl. Jam: 14-24€
 
 ## rollingpoint-Jam am Sonntag
 
+> **Jam auch am Ostersonntag 9.4.2023**
+
 **Jeden Sonntag 19.00 - 22.00**\
 Prana Yoga-Studio Nr. 1, 2. Innenhof, 1. Stock, Mariahilferstr. 82, 1070 Wien\
 Keine Anmeldung erforderich.
