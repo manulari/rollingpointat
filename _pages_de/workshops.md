@@ -16,6 +16,8 @@ Fotocredits: He Shao Hui
 
 **Zeitgenössischer Tanz und somatisches Lernen mit maRia Probst 13.+14.Mai 10-17h (inkl. 1,5h Mittagspause)**
 
+<div class="named-anchor" id="cell"></div>
+
 In diesem Workshop sprechen wir mit Elementen aus dem zeitgenössischen Tanz, Qi Gong, Yoga und Contact Improvisation unseren KörperGeist als Einheit an.
 
 Im Mittelpunkt steht Somatisches Lernen. Inspiriert von BodyMindCentering* berühren wir einander, visualisieren unser Körperinneres und lernen über unsere Anatomie. So verstehen wir unsere Zellen und unsere Körpersysteme besser.
@@ -42,8 +44,6 @@ Teilnahmevoraussetzung: Du bewegst dich gerne, bist offen für Körperkontakt un
 IBAN:AT54 3200 0000 1701 2717, BIC: RLNWATWW, Verein rollingpoint, einzahlen.  Zahlungsreferenz: WS Zellquelle
 
 **Stornobedingungen:** Bei Abmeldung bis sieben Tage vor dem Workshop wird der gesamte Betrag abzgl. einer Bearbeitungsgebühr von € 10,- zurückbezahlt. 50% Storno bis zwei Tage vor dem Workshop. Am Vortag und Tag des Workshops kein Storno mehr möglich. Es kann aber eine Ersatzperson nominiert werden.
-
-
 
 ## Workshoptermine (Rückblick):
 
