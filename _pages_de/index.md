@@ -19,22 +19,17 @@ Fotocredit: https://johannes-stolba.net/photography/
 
 <div class="imglink"><a target="_blank" href="https://www.youtube.com/embed/6A5otnVZAg4"><img src="/assets/uploads/video_vorschau_maria.png" alt="" /><div>Ganzheitliches Körpertraining mit maRia Probst</div></a></div>
 
-### **[Winterintensive Contact Improvisation](/winterintensive#winterintensive)**
+#### WOCHENENDWORKSHOP
 
-**Woche 1: Mo - Do 13.- 16.2.2023\
-“CI-Fundamentals and the Art of Listening” (beginner)**\
-**mit maRia Probst und Christian Apschner**\
-\
-**Woche 2 .Mo - Do 20.- 23.2.202**\
-**“Get Ready to Fly” (intermediate)**\
-**mit Christian Apschner**
+#### Die Zelle als Bewegungsquelle
+
+**Zeitgenössischer Tanz und somatisches Lernen mit maRia Probst 13.+14.Mai 10-17h (inkl. 1,5h Mittagspause)**
+
+
 
 ### **Kursbeginn Sommersemester 27.2.- 2.3.2023:**
 
-**[1 RELEASZ Tanztraining: ](/kurse#mo)****[Zeitgenössischer Tanz / CI-light / Somatisches Lernen](/kurse#mo)**\
-**open level, mit maRia Probst** \
-**Mo 27.2.– 19.6.2023, 18.30 - 20.15 (ca.15x)**\
-**Turnsaal VS Gilgegasse 12, 1090 Wien**
+**[1 RELEASZ Tanztraining: ](/kurse#mo)\*\***[Zeitgenössischer Tanz / CI-light / Somatisches Lernen](/kurse#mo)open level, mit maRia Probst** **Mo 27.2.– 19.6.2023, 18.30 - 20.15 (ca.15x)Turnsaal VS Gilgegasse 12, 1090 Wien\*\*
 
 **[2 Contact Improvisation and -Technique](/kurse#di) beginner / intermediate\
 mit Christian Apschner\
@@ -51,18 +46,9 @@ Di 28.2.- 20.6.2023, 18.15 – 20.30 (ca.16x)**\
 **Do 2.2.- 22.6.2023, 18.30 – 20.30**\
 **Turnsaal VS Gilgegasse 12, 1090 Wien**
 
-### Wochenend-Workshops
-
-* [](/workshops#bodywork)**[](workshops)13./14.5.2023: Details in Kürze**
-* **04./05.6.2023: Details in Kürze**
-
 ##### **[rollingpoint-Jams:](/jams)**
 
 **An Schultagen jeden Mittwoch 19.10-20.40, Turnsaal VS Einsiedlergasse 7, 1050 Wien Jeden Sonntag 19.00-22.00, Prana Yoga Studio 1, Mariahilferstraße 82, 1070 Wien**
-
-
-
-
 
 ![Mehr CI auf der Stiege](/assets/uploads/dsc_1941a.jpg "Mehr CI auf der Stiege")
 
