@@ -30,10 +30,9 @@ Teilnahmevoraussetzung: Du bewegst dich gerne, bist offen für Körperkontakt un
 
 ## Organisatorisches:
 
-**Ort:** Prana Yoga-Studio Nr.1, Mariahilferstr. 82, 1070 Wien statt.
+**Ort:** Prana Yoga-Studio Nr.1, Mariahilferstr. 82, 1070 Wien
 
-**Anmeldung:** per email ci.rollingpoint@gmail.com\
-Tel.  maRia 0650 9510814
+**Anmeldung:** per email ci.rollingpoint@gmail.com, Tel.  maRia 0650 9510814
 
 **Kosten:**\
 **Frühbucherpreis € 200/160/120,-** (Supporter/Normalpreis/ermäßigt) bei Einzahlung bis 14 Tage vor Workshopbeginn\
