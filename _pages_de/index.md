@@ -21,7 +21,7 @@ Fotocredit: https://johannes-stolba.net/photography/
 
 #### WOCHENENDWORKSHOP
 
-#### [Die Zelle als Bewegungsquelle](#cell)
+#### [Die Zelle als Bewegungsquelle](/workshops#liquid)
 
 **Zeitgenössischer Tanz und somatisches Lernen mit maRia Probst 13.+14.Mai 10-17h (inkl. 1,5h Mittagspause)**
 
