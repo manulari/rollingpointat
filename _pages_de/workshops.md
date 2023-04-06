@@ -8,7 +8,7 @@ Fotocredits: He Shao Hui
 
 > ### Wochenend-Workshop Sommersemester
 >
-> **[13./14.05.2023 "Die Zelle als Bewegungsquelle" mit maRia Probs](#liquid)**
+> **[13./14.05.2023 "Die Zelle als Bewegungsquelle" mit maRia Probst](#liquid)**
 
 <div class="named-anchor" id="liquid"></div>
 
