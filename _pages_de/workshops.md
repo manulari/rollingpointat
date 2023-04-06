@@ -6,15 +6,40 @@ title: Wochenend-Workshops
 
 Fotocredits: He Shao Hui
 
-> ### Wochenend-Workshops Wintersemester
+> ### Wochenend-Workshop Sommersemester
 >
-> **[1﻿0./11.12.2022 "Liquid Motion" mit maRia Probst](#liquid)**
->
-> **[14./15.1.2023: "Contact Flying Skills" mit Christian Apschner und Lui Springer](#flying)**
->
-> **Termin Sommersemester 2023: 13./14.5. mit maRia, Details in Kürze**
+> **[13./14.05.2023 "Die Zelle als Bewegungsquelle" mit maRia Probs](#liquid)**
 
 <div class="named-anchor" id="liquid"></div>
+
+# Die Zelle als Bewegungsquelle
+
+Zeitgenössischer Tanz und somatisches Lernen mit maRia Probst
+
+13.+14.Mai 10-17h (inkl. 1,5h Mittagspause)
+
+In diesem Workshop sprechen wir mit Elementen aus dem zeitgenössischen Tanz, Qi Gong, Yoga und Contact Improvisation unseren KörperGeist als Einheit an.
+
+Im Mittelpunkt steht Somatisches Lernen. Inspiriert von BodyMindCentering* berühren wir einander, visualisieren unser Körperinneres und lernen über unsere Anatomie. So verstehen wir unsere Zellen und unsere Körpersysteme besser.
+
+An diesem Wochenende begeben wir uns an die Quelle unserer Möglichkeiten. Wir visualisieren die Zelle als Grundeinheit des Lebens und spüren so unsere innere Ruhe und Lebendigkeit. So machen wir uns auf den Weg in die spezifischen Bewegungswelten unserer Körpersysteme. Wir verbinden uns mit der Qualität unserer Organe und werden mithilfe des Flüssigen in uns durchlässig. Ebenso lenken wir unsere Aufmerksamkeit auf das Skelettsystem, um Struktur und Klarheit in unserer Bewegung zu entwickeln. Die Haut als großes Wahrnehmungsorgan antwortet auf unseren Stimulierungsreichtum mit unzähligen Bewegungsimpulsen, denen wir folgen wollen. Manche davon sind uns vertraut, manche sind für uns noch ungewohnt. Sich auf noch ungewohnte Art zu bewegen ermöglicht, sich selbst neu zu erfahren und anderen mit einer breiteren Ausdruckspalette zu begegnen. So entsteht eine freudvolle tänzerische Improvisation.
+
+Somatic Movement Praktiken können für viele verschiedene Anliegen fruchtbar sein. An diesem Wochenende stehen sowohl die Erweiterung des eigenen Bewegungsspektrums im Tanz, als auch Ausdrucksvielfalt, körpergerechtes Bewegen und Tanzimprovisation als poetische Praxis im Vordergrund.
+
+\* Body-Mind Centering ist eine „Somatic Movement“ Disziplin und ein integrativer und leibhafter Zugang zu Bewegung, Körper und Bewusstsein.
+
+
+
+Teilnahmevoraussetzung: Du bewegst dich gerne, bist offen für Körperkontakt und bist dir selbst und anderen gegenüber verantwortungsbewusst, achtsam und aufmerksam.
+
+
+
+
+
+Body-Mind Centering ist eine „Somatic Movement“ Disziplin und ein integrativer und
+leibhafter Zugang zu Bewegung, Körper und Bewusstsein.
+Teilnahmevoraussetzung: Du bewegst dich gerne, bist offen für Körperkontakt und bist dir
+selbst und anderen gegenüber verantwortungsbewusst, achtsam und aufmerksam.
 
 #### „Liquid Motion“ -open level
 
