@@ -12,11 +12,9 @@ Fotocredits: He Shao Hui
 
 <div class="named-anchor" id="liquid"></div>
 
-# Die Zelle als Bewegungsquelle
+#### Die Zelle als Bewegungsquelle
 
-Zeitgenössischer Tanz und somatisches Lernen mit maRia Probst
-
-13.+14.Mai 10-17h (inkl. 1,5h Mittagspause)
+**Zeitgenössischer Tanz und somatisches Lernen mit maRia Probst 13.+14.Mai 10-17h (inkl. 1,5h Mittagspause)**
 
 In diesem Workshop sprechen wir mit Elementen aus dem zeitgenössischen Tanz, Qi Gong, Yoga und Contact Improvisation unseren KörperGeist als Einheit an.
 
@@ -28,18 +26,27 @@ Somatic Movement Praktiken können für viele verschiedene Anliegen fruchtbar se
 
 \* Body-Mind Centering ist eine „Somatic Movement“ Disziplin und ein integrativer und leibhafter Zugang zu Bewegung, Körper und Bewusstsein.
 
-
-
 Teilnahmevoraussetzung: Du bewegst dich gerne, bist offen für Körperkontakt und bist dir selbst und anderen gegenüber verantwortungsbewusst, achtsam und aufmerksam.
 
+## Organisatorisches:
+
+**Ort:** Prana Yoga-Studio Nr.1, Mariahilferstr. 82, 1070 Wien statt.
+
+**Anmeldung:** per email ci.rollingpoint@gmail.com\
+Tel.  maRia 0650 9510814
+
+**Kosten:**\
+**Frühbucherpreis € 200/160/120,-** (Supporter/Normalpreis/ermäßigt) bei Einzahlung bis 14 Tage vor Workshopbeginn\
+**€ 220/180/140,-** (Supporter/Normalpreis/ermäßigt) bei Einzahlung ab 13 Tagen vor Workshopbeginn
+
+**Bezahlung:** Bitte die Kostenbeiträge immer vorab auf unser Konto\
+IBAN:AT54 3200 0000 1701 2717, BIC: RLNWATWW, Verein rollingpoint, einzahlen.  Zahlungsreferenz: WS Zellquelle
+
+**Stornobedingungen:** Bei Abmeldung bis sieben Tage vor dem Workshop wird der gesamte Betrag abzgl. einer Bearbeitungsgebühr von € 10,- zurückbezahlt. 50% Storno bis zwei Tage vor dem Workshop. Am Vortag und Tag des Workshops kein Storno mehr möglich. Es kann aber eine Ersatzperson nominiert werden.
 
 
 
-
-Body-Mind Centering ist eine „Somatic Movement“ Disziplin und ein integrativer und
-leibhafter Zugang zu Bewegung, Körper und Bewusstsein.
-Teilnahmevoraussetzung: Du bewegst dich gerne, bist offen für Körperkontakt und bist dir
-selbst und anderen gegenüber verantwortungsbewusst, achtsam und aufmerksam.
+## Workshoptermine (Rückblick):
 
 #### „Liquid Motion“ -open level
 
@@ -100,8 +107,6 @@ Tel. Christian 0650 8931081, maRia 0650 9510814
 IBAN:AT54 3200 0000 1701 2717, BIC: RLNWATWW, Verein rollingpoint, einzahlen. 
 
 **Stornobedingungen:** Bei Abmeldung bis sieben Tage vor dem Workshop wird der gesamte Betrag abzgl. einer Bearbeitungsgebühr von € 10,- zurückbezahlt. 50% Storno bis zwei Tage vor dem Workshop. Am Vortag und Tag des Workshops kein Storno mehr möglich. Es kann aber eine Ersatzperson nominiert werden.
-
-## Workshoptermine (Rückblick):
 
 #### "From Bodywork into Contact Improvisation" open level
 
