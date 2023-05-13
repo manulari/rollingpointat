@@ -21,7 +21,7 @@ Unkostenbeitrag für Jam: 7-10€, Training inkl. Jam: 14-24€
 
 ## rollingpoint-Jam am Sonntag
 
-> **Jam auch am Ostersonntag 9.4.2023**
+
 
 **Jeden Sonntag 19.00 - 22.00**\
 Prana Yoga-Studio Nr. 1, 2. Innenhof, 1. Stock, Mariahilferstr. 82, 1070 Wien\
@@ -59,7 +59,7 @@ Ein CI-Tanz ist ein gleichberechtigter körperlicher Dialog, in dem wir uns fort
 
 Bei auftauchenden Fragenstellungen in der Jam besteht immer die Möglichkeit  der/die Jam-host anzusprechen.
 
-*Weitere Anmerkungen: Contact Improvisation ist auch ein großartiges Empathie-Lerntool. Da wir uns im Alltag nicht so selbstverständlich berühren ist Körperkontakt für manche CI-BeginnerInnen mit dem Gedanken an sexuelle Aktivitäten assoziiert. Das Kennenlernen der Bewegungssprache der Contact Improvisation in Kursen ist daher wichtig um diese Missverständnisse zu vermeiden. Oft braucht es einige Zeit um sich als BeginnerIn in der Jam-Welt vertraut zu machen und einzuleben. Viele Fragen lösen sich mit der Zeit von selbst. CI ist keine Therapie. Für viele CI-Praktizierende ist das gemeinsame Tanzen aber auch ein wichtiger Lernprozess, der in verschiedenste andere Lebensbereiche integriert werden kann.*
+*Weitere Anmerkungen: Contact Improvisation ist auch ein großartiges Empathie-Lerntool. Da wir uns im Alltag nicht so selbstverständlich berühren ist Körperkontakt für manche CI-BeginnerInnen mit dem Gedanken an sexuelle Aktivitäten assoziiert. Das Kennenlernen der Bewegungssprache der Contact Improvisation in Kursen ist wichtig um Missverständnisse zu vermeiden. Oft braucht es einige Zeit um sich als BeginnerIn in der Jam-Welt vertraut zu machen und einzuleben. Viele Fragen lösen sich mit der Zeit von selbst. CI ist keine Therapie. Für viele CI-Praktizierende ist das gemeinsame Tanzen aber auch ein wichtiger Lernprozess, der in verschiedenste andere Lebensbereiche integriert werden kann.*
 
 ![](/assets/uploads/img_0198.jpg)
 
