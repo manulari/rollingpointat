@@ -19,19 +19,14 @@ Fotocredit: https://johannes-stolba.net/photography/
 
 <div class="imglink"><a target="_blank" href="https://www.youtube.com/embed/6A5otnVZAg4"><img src="/assets/uploads/video_vorschau_maria.png" alt="" /><div>Ganzheitliches Körpertraining mit maRia Probst</div></a></div>
 
-#### WOCHENENDWORKSHOP
+### WOCHENENDWORKSHOP 2.+3.9.2023
 
-#### TUNE IN - Contact Improvisation/Somatics/Release Technique[](/workshops#liquid)
-
-\
-**mit Christian Apschner und maRia Probst 2./3.9.2023** 
+### [TUNE IN - Contact Improvisation/Somatics/Release Technique](#liquid)[](/workshops#liquid)\
+**mit Christian Apschner und maRia Probst**
 
 ### **Kursbeginn Wintersemester 2023/24: 25.- 28.9.2023**
 
-**[1 RELEASZ Tanztraining: ](/kurse#mo)****[Zeitgenössischer Tanz / CI-light / Somatisches Lernen](/kurse#mo) open level**\
-**mit maRia Probst**\
-**Mo 25.9.2023 – 29.1.2024, 18.30 - 20.15 (ca.16x)**\
-**Turnsaal VS Gilgegasse 12, 1090 Wien**
+**[1 RELEASZ Tanztraining: ](/kurse#mo)\*\***[Zeitgenössischer Tanz / CI-light / Somatisches Lernen](/kurse#mo) open levelmit maRia ProbstMo 25.9.2023 – 29.1.2024, 18.30 - 20.15 (ca.16x)Turnsaal VS Gilgegasse 12, 1090 Wien\*\*
 
 **[2 Contact Improvisation Jam](/kurse#di) + Specials\
 Di 19.9.2023  - 30.1.2024, Jam 18.30 – 20.40 (ca.17x), Specials 17.20 - 18.20**\
