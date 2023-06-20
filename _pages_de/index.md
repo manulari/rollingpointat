@@ -51,11 +51,11 @@ Di 19.9.2023  - 30.1.2024, Jam 18.30 – 20.40 (ca.17x), Specials 17.20 - 18.20*
 
 **Ein rollingpoint Mitmach-Contact Improvisation Projekt Sommer/Herbst 2023**
 
-**Mo 10.7.: 18:00 Freie Mitte / Ehemaliges Nordbahnhofgelände**
+**Mo 10.7.: 18:00 Freie Mitte / Ehemaliges Nordbahnhofgelände, 1020 Wien**
 
-[](<>)**So 16.7., 16.30: Mariahilferstraße**
+[](<>)**So 16.7., 16.30: Mariahilferstraße, 1060 Wien**
 
-**Fr 21.7. 18:00: Am Himmel / Baumkreis am Cobenzl**
+**Fr 21.7. 18:00: Am Himmel / Baumkreis am Cobenzl, 1190 Wien**
 
 ![Mehr CI auf der Stiege](/assets/uploads/dsc_1941a.jpg "Mehr CI auf der Stiege")
 
