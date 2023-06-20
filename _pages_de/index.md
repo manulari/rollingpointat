@@ -19,7 +19,7 @@ Fotocredit: https://johannes-stolba.net/photography/
 
 ### WOCHENENDWORKSHOP 2.+3.9.2023
 
-### [TUNE IN - Contact Improvisation/Somatics/Release Technique](workshops#liquid)[](/workshops#liquid)
+### [TUNE IN - Contact Improvisation/Somatics/Release Technique](/workshops#liquid)[](/workshops#liquid)
 
 **mit Christian Apschner und maRia Probst**
 
