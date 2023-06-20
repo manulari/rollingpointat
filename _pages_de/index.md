@@ -17,11 +17,10 @@ Fotocredit: https://johannes-stolba.net/photography/
 
 <div class="imglink"><a target="_blank" href="https://www.youtube.com/embed/kp3DqzN1Ldo"><img src="/assets/uploads/video_vorschau_rollingpoint.png" alt="" /><div>rollingpoint-Video</div></a></div>
 
-
-
 ### WOCHENENDWORKSHOP 2.+3.9.2023
 
-### [TUNE IN - Contact Improvisation/Somatics/Release Technique](workshops#liquid)[](/workshops#liquid)\
+### [TUNE IN - Contact Improvisation/Somatics/Release Technique](workshops#liquid)[](/workshops#liquid)
+
 **mit Christian Apschner und maRia Probst**
 
 ### **KURSBEGINN WINTERSEMESTER 2023/24: 25.- 28.9.2023**
@@ -46,12 +45,8 @@ Di 19.9.2023  - 30.1.2024, Jam 18.30 – 20.40 (ca.17x), Specials 17.20 - 18.20*
 
 **Voraussichtlich jeden Sonntag 19.00-22.00, Prana Yoga Studio 1, Mariahilferstraße 82, 1070 Wien**
 
-
-
-
-
-### „**Seltsamia“ - Dancing Mycelium\
-Exploring Interconnection and Movement Biodiversity**
+### „Seltsamia“ - Dancing Mycelium\
+**Exploring Interconnection and Movement Biodiversity**
 
 **Ein rollingpoint Mitmach-Contact Improvisation Projekt Sommer/Herbst 2023**
 
