@@ -16,11 +16,7 @@ Fotocredits: He Shao Hui\
 > [**"TUNE IN" Contact Improvisation/Somatics/Release Technique**\
 > **mit Christian Apschner und maRia Probst**](#liquid)
 
-<div class="named-anchor" id="liquid"></div>
 
-#### TUNE IN! - Contact Improvisation/Somatics/Release Technique
-
-**mit maRia Probst und Christian Apschner 2.+3.9.2023 10-17h (inkl. 1,5h Mittagspause)**
 
 <div class="named-anchor" id="cell"></div>
 
