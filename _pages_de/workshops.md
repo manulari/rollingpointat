@@ -13,9 +13,8 @@ Fotocredits: He Shao Hui\
 
 <div class="named-anchor" id="liquid"></div>
 
-#### TUNE IN! Wochenend-Workshop  2.+3.9.2023 beginner/open level\
-
-**Contact Improvisation/Somatics/Release Technique**\
+#### **TUNE IN! Contact Improvisation-Somatics-Release Technique**\
+**Wochenend-Workshop  2.+3.9.2023 beginner/open level**\
 **mit Christian Apschner und maRia Probst**
 
 In diesem Wochenend-Workshop möchten wir dich auf eine Entdeckungsreise in die „Dreiwelt“ von rollingpoint einladen. Wir lernen Basics der Contact Improvisation kennen, indem wir z.B. erforschen wie es leicht geht, Gewicht abzugeben und zu übernehmen oder mit dem rollenden Kontaktpunkt zu spielen. Auch einen kleinen Einblick in die Technik von einfachen lifts und jumps möchten wir geben um die sportlich-dynamisch Seite der Contact Improvisation kennenzulernen.
@@ -99,8 +98,6 @@ Bewegung und Berührung sind die Grundlage aller menschlichen Entwicklungsproze
 Mit unseren durch anatomisch-imaginative Vorstellungsbilder unterstützten Anleitungen wird es möglich, kleinste Veränderungen von Muskelanspannungen und andere kinästhetische Empfindungen wahrzunehmen. Zentrale Verbindungen unseres Bewegungssystems wie die Enden unserer Wirbelkette, Schultern-Hüftgelenke oder die Hand- und Fußfesseln werden gezielt angesprochen.
 
 Unser Fokus liegt an diesem Wochenende darin, diesen "Berührungsschatz" im Sinne von Bewegungsvielfalt, Bewegungsqualität und angemessenen Einsatz von Energie und Kraft zu heben, um ihn in unsere tänzerischen Beziehungen sowohl in der Contact Improvisation wie auch in der freien Improvisation einfließen zu lassen.  In der Contact Improvisation begegnen wir unseren TanzpartnerInnen in Form eines nonverbalen Dialogs und in diversen Übungssettings lernen wir, Bewegung im Kontakt körpergerecht und im Zusammenspiel mit den physikalischen Gesetzmäßigkeiten zu gestalten.
-
-
 
 ### Sommer-Workshops:
 
