@@ -14,6 +14,7 @@ Fotocredits: He Shao Hui\
 <div class="named-anchor" id="liquid"></div>
 
 #### **TUNE IN! Contact Improvisation-Somatics-Release Technique**\
+
 **Wochenend-Workshop  2.+3.9.2023 beginner/open level**\
 **mit Christian Apschner und maRia Probst**
 
@@ -38,7 +39,7 @@ Teilnahmevoraussetzung: Du bewegst dich gerne, bist offen für Körperkontakt un
 **€ 220/190/150,-** (Supporter/Normalpreis/ermäßigt) bei Einzahlung ab 13 Tagen vor Workshopbeginn
 
 **Bezahlung:** Bitte die Kostenbeiträge immer vorab auf unser Konto\
-IBAN:AT54 3200 0000 1701 2717, BIC: RLNWATWW, Verein rollingpoint, einzahlen.  Zahlungsreferenz: WS Zellquelle
+IBAN:AT54 3200 0000 1701 2717, BIC: RLNWATWW, Verein rollingpoint, einzahlen.
 
 **Stornobedingungen:** Bei Abmeldung bis sieben Tage vor dem Workshop wird der gesamte Betrag abzgl. einer Bearbeitungsgebühr von € 10,- zurückbezahlt. 50% Storno bis zwei Tage vor dem Workshop. Am Vortag und Tag des Workshops kein Storno mehr möglich. Es kann aber eine Ersatzperson nominiert werden.
 
