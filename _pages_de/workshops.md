@@ -11,13 +11,14 @@ Fotocredits: He Shao Hui\
 **18./19.11.2023 mit maRia Probst**\
 **20.+21.1.2024 Contact Flying Skills mit Christian Apschner und Lui Springer**
 
-> ### Wochenend-Workshop  2.+3.9.2023 beginner/open level\
+> ### Wochenend-Workshop  2.+3.9.2023 beginner/open level
+>
 > [**"TUNE IN" Contact Improvisation/Somatics/Release Technique**\
 > **mit Christian Apschner und maRia Probst**](#liquid)
 
 <div class="named-anchor" id="liquid"></div>
 
-#### TUNE IN! - Contact Improvisation/Somatics/Releasze Technique
+#### TUNE IN! - Contact Improvisation/Somatics/Release Technique
 
 **mit maRia Probst und Christian Apschner 2.+3.9.2023 10-17h (inkl. 1,5h Mittagspause)**
 
