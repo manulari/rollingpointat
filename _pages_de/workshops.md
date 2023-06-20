@@ -11,11 +11,12 @@ Fotocredits: He Shao Hui\
 **18./19.11.2023 mit maRia Probst**\
 **20.+21.1.2024 Contact Flying Skills mit Christian Apschner und Lui Springer**
 
+<div class="named-anchor" id="liquid"></div>
+
 #### TUNE IN! Wochenend-Workshop  2.+3.9.2023 beginner/open level\
+
 **Contact Improvisation/Somatics/Release Technique**\
 **mit Christian Apschner und maRia Probst**
-
-<div class="named-anchor" id="cell"></div>
 
 In diesem Wochenend-Workshop möchten wir dich auf eine Entdeckungsreise in die „Dreiwelt“ von rollingpoint einladen. Wir lernen Basics der Contact Improvisation kennen, indem wir z.B. erforschen wie es leicht geht, Gewicht abzugeben und zu übernehmen oder mit dem rollenden Kontaktpunkt zu spielen. Auch einen kleinen Einblick in die Technik von einfachen lifts und jumps möchten wir geben um die sportlich-dynamisch Seite der Contact Improvisation kennenzulernen.
 
