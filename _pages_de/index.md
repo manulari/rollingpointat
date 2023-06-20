@@ -25,7 +25,7 @@ Fotocredit: https://johannes-stolba.net/photography/
 
 ### **KURSBEGINN WINTERSEMESTER 2023/24: 25.- 28.9.2023**
 
-**[1 RELEASZ Tanztraining: ](/kurse#mo)[Zeitgenössischer Tanz / CI-light / Somatisches Lernen](/kurse#mo)** **open level**\
+**[1 RELEASZ Tanztraining: ](/kurse#mo)****[Zeitgenössischer Tanz / CI-light / Somatisches Lernen](/kurse#mo)** **open level**\
  **mit maRia Probst**\
 **Mo 25.9.2023 – 29.1.2024, 18.30 - 20.15 (ca.16x)**\
 **Turnsaal VS Gilgegasse 12, 1090 Wien**
@@ -56,9 +56,12 @@ Di 19.9.2023  - 30.1.2024, Jam 18.30 – 20.40 (ca.17x), Specials 17.20 - 18.20*
 
 **Mo 10.7.: 18:00 Freie Mitte / Ehemaliges Nordbahnhofgelände, 1020 Wien**
 
-[](<>)**So 16.7., 16.30: Mariahilferstraße, 1060 Wien**
+**Sa 22.7. 18:00: Am Himmel / Baumkreis am Cobenzl, 1190 Wien**
 
-**Fr 21.7. 18:00: Am Himmel / Baumkreis am Cobenzl, 1190 Wien**
+[](<>)**So 27.8., 16.30: Mariahilferstraße, 1060 Wien**\
+**Terminliche Änderungen möglich. Bitte website-Aktualisierungen beachten**
+
+
 
 ![Mehr CI auf der Stiege](/assets/uploads/dsc_1941a.jpg "Mehr CI auf der Stiege")
 
