@@ -26,7 +26,7 @@ Fotocredit: https://johannes-stolba.net/photography/
 \
 **mit Christian Apschner und maRia Probst 2./3.9.2023** 
 
-### **Kursbeginn Wintersemester 2023/24: 25.- 28.9.2023:**
+### **Kursbeginn Wintersemester 2023/24: 25.- 28.9.2023**
 
 **[1 RELEASZ Tanztraining: ](/kurse#mo)[Zeitgenössischer Tanz / CI-light / Somatisches Lernen](/kurse#mo) open level**\
 **mit maRia Probst**\
