@@ -43,7 +43,7 @@ Di 19.9.2023  - 30.1.2024, Jam 18.30 – 20.40 (ca.17x), Specials 17.20 - 18.20*
 **Turnsaal VS Einsiedlergasse 7, 1050 Wien**
 
 **[4 Contact Improvsation and -Technique Basics  ](/kurse#do)beginner (ca.15x)**\
-**mit maRia Probst und Christian Apschner**\
+**mit Christian Apschner**\
 **Do 28.9.2023.- 1.2.2024, 18.20 – 20.30**\
 **Turnsaal VS Gilgegasse 12, 1090 Wien**
 
