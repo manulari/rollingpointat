@@ -21,7 +21,7 @@ Fotocredit: https://johannes-stolba.net/photography/
 
 **TUNE IN! Contact Improvisation/Somatics/Release Technique**
 
-**mit Christian Apschner und maRia Probst**
+**beginner/open level mit Christian Apschner und maRia Probst**
 
 ### **KURSBEGINN WINTERSEMESTER 2023/24: 25.- 28.9.2023**
 
