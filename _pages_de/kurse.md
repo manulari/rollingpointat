@@ -15,8 +15,7 @@ title: KURSE UND WORKSHOPS
 &nbsp;
 
 ### Unsere neuen Kurse des Wintersemesters 2023/24 starten vom 25.- 28.9.2023\
-\
-Neuer Stundenplan und Kursbeschreibungen folgen in Kürze!
+**Neuer Stundenplan und Kursbeschreibungen folgen in Kürze!**
 
 <div class="named-anchor" id="mo"></div>
 
