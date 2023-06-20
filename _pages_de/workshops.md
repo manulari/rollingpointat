@@ -4,29 +4,32 @@ title: Wochenend-Workshops
 ---
 # Wochenend-Workshops
 
-Fotocredits: He Shao Hui
+Fotocredits: He Shao Hui\
+\
+**2.+3.9.2023 mit maRia Probst und Christian Apschner**\
+**14.+15.10.2023 mit Christian Apschner**\
+**18./19.11.2023 mit maRia Probst**\
+**20.+21.1.2024 Contact Flying Skills mit Christian Apschner und Lui Springer**
 
-> ### Wochenend-Workshop Sommersemester
->
-> **[13./14.05.2023 "Die Zelle als Bewegungsquelle" mit maRia Probst](#liquid)**
+> ### Wochenend-Workshop  2.+3.9.2023 beginner/open level\
+> [**"TUNE IN" Contact Improvisation/Somatics/Release Technique**\
+> **mit Christian Apschner und maRia Probst**](#liquid)
 
 <div class="named-anchor" id="liquid"></div>
 
-#### Die Zelle als Bewegungsquelle
+#### TUNE IN! - Contact Improvisation/Somatics/Releasze Technique
 
-**Zeitgenössischer Tanz und somatisches Lernen mit maRia Probst 13.+14.Mai 10-17h (inkl. 1,5h Mittagspause)**
+**mit maRia Probst und Christian Apschner 2.+3.9.2023 10-17h (inkl. 1,5h Mittagspause)**
 
 <div class="named-anchor" id="cell"></div>
 
-In diesem Workshop sprechen wir mit Elementen aus dem zeitgenössischen Tanz, Qi Gong, Yoga und Contact Improvisation unseren KörperGeist als Einheit an.
+In diesem Wochenend-Workshop möchten wir dich auf eine Entdeckungsreise in die „Dreiwelt“ von rollingpoint einladen. Wir lernen Basics der Contact Improvisation kennen, indem wir z.B. erforschen wie es leicht geht, Gewicht abzugeben und zu übernehmen oder mit dem rollenden Kontaktpunkt zu spielen. Auch einen kleinen Einblick in die Technik von einfachen lifts und jumps möchten wir geben um die sportlich-dynamisch Seite der Contact Improvisation kennenzulernen.
 
-Im Mittelpunkt steht Somatisches Lernen. Inspiriert von BodyMindCentering* berühren wir einander, visualisieren unser Körperinneres und lernen über unsere Anatomie. So verstehen wir unsere Zellen und unsere Körpersysteme besser.
+Mittels Somatics, einer auf der Körper-Geist Beziehung beruhende Form des körperlichen Lernens, kannst du deine innewohnende körperliche Unmittelbarkeit des frühen Seins als Säugling und Kind wiederentdecken und das Zusammenspiel von Muskeln, Sehnen, Knochen und Organen besser verstehen lernen. Bewegungen aus der Release Technique, einer speziellen Form des Zeitgenössischen Tanzes, helfen dir, deinen Körper im freien Bewegen und in der Contact Improvisation bewusster einzusetzen und zu koordinieren.
 
-An diesem Wochenende begeben wir uns an die Quelle unserer Möglichkeiten. Wir visualisieren die Zelle als Grundeinheit des Lebens und spüren so unsere innere Ruhe und Lebendigkeit. So machen wir uns auf den Weg in die spezifischen Bewegungswelten unserer Körpersysteme. Wir verbinden uns mit der Qualität unserer Organe und werden mithilfe des Flüssigen in uns durchlässig. Ebenso lenken wir unsere Aufmerksamkeit auf das Skelettsystem, um Struktur und Klarheit in unserer Bewegung zu entwickeln. Die Haut als großes Wahrnehmungsorgan antwortet auf unseren Stimulierungsreichtum mit unzähligen Bewegungsimpulsen, denen wir folgen wollen. Manche davon sind uns vertraut, manche sind für uns noch ungewohnt. Sich auf noch ungewohnte Art zu bewegen ermöglicht, sich selbst neu zu erfahren und anderen mit einer breiteren Ausdruckspalette zu begegnen. So entsteht eine freudvolle tänzerische Improvisation.
+Nicht zuletzt verstehen wir die Contact Improvisation auch als eine Form von nonverbaler Kommunikation und Begegnung, in der wir lernen auf unsere eigenen körperlich-mentalen Bedürfnisse und Grenzen und die unserer TanzpartnerInnen gleichermaßen zu achten. In verbalen Feedback-Runden möchten wir diesen Erfahrungen Raum geben.
 
-Somatic Movement Praktiken können für viele verschiedene Anliegen fruchtbar sein. An diesem Wochenende stehen sowohl die Erweiterung des eigenen Bewegungsspektrums im Tanz, als auch Ausdrucksvielfalt, körpergerechtes Bewegen und Tanzimprovisation als poetische Praxis im Vordergrund.
-
-\* Body-Mind Centering ist eine „Somatic Movement“ Disziplin und ein integrativer und leibhafter Zugang zu Bewegung, Körper und Bewusstsein.
+Zielgruppe: Alle die sich einen ersten tieferen Einblick in die Welt Contact Improvisation und die künstlerisch-pädagogische Arbeit von rollingpoint machen möchten. Auch als **Contact Improvisation Starter-Kit und Orientierungsworkshop** gedacht. Erfahrene Tänzer\*innen sind wie immer ebenfalls gerne willkommen. Hier bietet sich die Möglichkeit den Beginner\*innengeist neu aufzufrischen und bereits Erlerntes neu zu reflektieren und zu verfeinern.
 
 Teilnahmevoraussetzung: Du bewegst dich gerne, bist offen für Körperkontakt und bist dir selbst und anderen gegenüber verantwortungsbewusst, achtsam und aufmerksam.
 
@@ -37,8 +40,8 @@ Teilnahmevoraussetzung: Du bewegst dich gerne, bist offen für Körperkontakt un
 **Anmeldung:** per email ci.rollingpoint@gmail.com, Tel.  maRia 0650 9510814
 
 **Kosten:**\
-**Frühbucherpreis € 200/160/120,-** (Supporter/Normalpreis/ermäßigt) bei Einzahlung bis 14 Tage vor Workshopbeginn\
-**€ 220/180/140,-** (Supporter/Normalpreis/ermäßigt) bei Einzahlung ab 13 Tagen vor Workshopbeginn
+**Frühbucherpreis € 200/170/130,-** (Supporter/Normalpreis/ermäßigt) bei Einzahlung bis 14 Tage vor Workshopbeginn\
+**€ 220/190/150,-** (Supporter/Normalpreis/ermäßigt) bei Einzahlung ab 13 Tagen vor Workshopbeginn
 
 **Bezahlung:** Bitte die Kostenbeiträge immer vorab auf unser Konto\
 IBAN:AT54 3200 0000 1701 2717, BIC: RLNWATWW, Verein rollingpoint, einzahlen.  Zahlungsreferenz: WS Zellquelle
@@ -90,22 +93,6 @@ Wir stellen eine Verbindung von Athletischem und Meditativem her und lernen durc
 Für die Teilnahme an diesem Workshop sind CI-Grund- und Tanzerfahrung sowie gute körperliche und mentale Fitness erforderlich.
 
 Lui Springer: <https://www.freibewegt.at/über/>
-
-## Organisatorisches:
-
-**Ort:** Alle Workshops finden im Prana Yoga-Studio Nr.1, Mariahilferstr. 82, 1070 Wien statt.
-
-**Anmeldung:** per email ci.rollingpoint@gmail.com\
-Tel. Christian 0650 8931081, maRia 0650 9510814
-
-**Kosten:**\
-**Frühbucherpreis € 200/160/120,-** (Supporter/Normalpreis/ermäßigt) bei Einzahlung bis 14 Tage vor Workshopbeginn\
-**€ 220/180/140,-** (Supporter/Normalpreis/ermäßigt) bei Einzahlung ab 13 Tagen vor Workshopbeginn
-
-**Bezahlung:** Bitte die Kostenbeiträge immer vorab auf unser Konto\
-IBAN:AT54 3200 0000 1701 2717, BIC: RLNWATWW, Verein rollingpoint, einzahlen. 
-
-**Stornobedingungen:** Bei Abmeldung bis sieben Tage vor dem Workshop wird der gesamte Betrag abzgl. einer Bearbeitungsgebühr von € 10,- zurückbezahlt. 50% Storno bis zwei Tage vor dem Workshop. Am Vortag und Tag des Workshops kein Storno mehr möglich. Es kann aber eine Ersatzperson nominiert werden.
 
 #### "From Bodywork into Contact Improvisation" open level
 
