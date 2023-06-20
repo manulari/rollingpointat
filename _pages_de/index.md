@@ -21,35 +21,35 @@ Fotocredit: https://johannes-stolba.net/photography/
 
 #### WOCHENENDWORKSHOP
 
-#### TUNE IN - Contact Improvisation/Somatics/Release Technique[](/workshops#liquid)\
+#### TUNE IN - Contact Improvisation/Somatics/Release Technique[](/workshops#liquid)
+
 \
 **mit Christian Apschner und maRia Probst 2./3.9.2023** 
 
-### **Kursbeginn Wintersemester 2023/24 25.- 28.9.2023:**
+### **Kursbeginn Wintersemester 2023/24: 25.- 28.9.2023:**
 
-**[1 RELEASZ Tanztraining: ](/kurse#mo)\*\***[Zeitgenössischer Tanz / CI-light / Somatisches Lernen](/kurse#mo)open level, mit maRia Probst\*\* \*\*Mo 27.2.– 19.6.2023, 18.30 - 20.15 (ca.15x)Turnsaal VS Gilgegasse 12, 1090 Wien\*\*
-
-**[2 Contact Improvisation and -Technique](/kurse#di) beginner / intermediate\
-mit Christian Apschner\
-Di 28.2.- 20.6.2023, 18.15 – 20.30 (ca.16x)**\
-**Turnsaal VS Einsiedlergasse 7, 1050 Wien**
-
-**[3 Contact Improvisation ](/kurse#mi) intermediate/advanced**\
-**mit Christian Apschner und Gastlehrer*innen**\
-**Mi 1.3. - 21.6.2023, 17.30 - 19.00 (Training), 19.10-20.40 (Jam),  (ca.15x)**\
-**Turnsaal VS Einsiedlergasse 7, 1050 Wien**
-
-**[4 GANZ Körpertraining](/kurse#do)** & los tanzen!  **open level (ca. 14x)**\
-**mit maRia Probst und Christian Apschner (alternierend)**\
-**Do 2.2.- 22.6.2023, 18.30 – 20.30**\
+**[1 RELEASZ Tanztraining: ](/kurse#mo)[Zeitgenössischer Tanz / CI-light / Somatisches Lernen](/kurse#mo) open level**\
+**mit maRia Probst**\
+**Mo 25.9.2023 – 29.1.2024, 18.30 - 20.15 (ca.16x)**\
 **Turnsaal VS Gilgegasse 12, 1090 Wien**
 
-##### **[rollingpoint-Jams:](/jams)**
+**[2 Contact Improvisation Jam](/kurse#di) + Specials\
+Di 19.9.2023  - 30.1.2024, Jam 18.30 – 20.40 (ca.17x), Specials 17.20 - 18.20**\
+**Turnsaal VS Einsiedlergasse 7, 1050 Wien**
 
-**An Schultagen jeden Mittwoch 19.10-20.40, Turnsaal VS Einsiedlergasse 7, 1050 Wien**
+**[3 Wild and Soft: Contact Improvisation ](/kurse#mi) intermediate/advanced**\
+**mit Christian Apschner**\
+**Mi 27.9.2023 - 31.1.2024, 18.00 - 20.40 (ca.15x)**\
+**Turnsaal VS Einsiedlergasse 7, 1050 Wien**
 
-**Jeden Sonntag 19.00-22.00, Prana Yoga Studio 1, Mariahilferstraße 82, 1070 Wien**\
-**auch am Ostersonntag!**
+**[4 Contact Improvsation and -Technique Basics  ](/kurse#do)beginner (ca.15x)**\
+**mit maRia Probst und Christian Apschner**\
+**Do 28.9.2023.- 1.2.2024, 18.20 – 20.30**\
+**Turnsaal VS Gilgegasse 12, 1090 Wien**
+
+##### **[rollingpoint-Jams im Sommer 2023:](/jams)**
+
+**Voraussichtlich jeden Sonntag 19.00-22.00, Prana Yoga Studio 1, Mariahilferstraße 82, 1070 Wien**
 
 ![Mehr CI auf der Stiege](/assets/uploads/dsc_1941a.jpg "Mehr CI auf der Stiege")
 
