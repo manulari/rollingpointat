@@ -17,8 +17,9 @@ Fotocredit: https://johannes-stolba.net/photography/
 
 <div class="imglink"><a target="_blank" href="https://www.youtube.com/embed/kp3DqzN1Ldo"><img src="/assets/uploads/video_vorschau_rollingpoint.png" alt="" /><div>rollingpoint-Video</div></a></div>
 
-### [Wochenendworkshop 2.+3.9.2023: TUNE IN!](/workshops#liquid)\
-Contact Improvisation/Somatics/Release Technique
+### [Wochenendworkshop 2.+3.9.2023: TUNE IN!](/workshops#liquid)
+
+**Contact Improvisation/Somatics/Release Technique**
 
 **mit Christian Apschner und maRia Probst**
 
