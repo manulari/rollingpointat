@@ -21,11 +21,11 @@ Fotocredit: https://johannes-stolba.net/photography/
 
 #### WOCHENENDWORKSHOP
 
-#### [Die Zelle als Bewegungsquelle](/workshops#liquid)
+#### TUNE IN - Contact Improvisation/Somatics/Release Technique[](/workshops#liquid)\
+\
+**mit Christian Apschner und maRia Probst 2./3.9.2023** 
 
-**Zeitgenössischer Tanz und somatisches Lernen mit maRia Probst 13.+14.Mai 10-17h (inkl. 1,5h Mittagspause)**
-
-### **Kursbeginn Sommersemester 27.2.- 2.3.2023:**
+### **Kursbeginn Wintersemester 2023/24 25.- 28.9.2023:**
 
 **[1 RELEASZ Tanztraining: ](/kurse#mo)\*\***[Zeitgenössischer Tanz / CI-light / Somatisches Lernen](/kurse#mo)open level, mit maRia Probst\*\* \*\*Mo 27.2.– 19.6.2023, 18.30 - 20.15 (ca.15x)Turnsaal VS Gilgegasse 12, 1090 Wien\*\*
 
