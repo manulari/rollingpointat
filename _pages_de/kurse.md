@@ -4,28 +4,28 @@ title: KURSE UND WORKSHOPS
 ---
 **Stundenplan Abendangebote Wintersemester 2023/24**
 
-| Tag    | Zeit            | Lehrer*in          | Titel                                                                                                | Ort/Turnsaal                  |
-| ------ | --------------- | ------------------ | ---------------------------------------------------------------------------------------------------- | ----------------------------- |
-| **Mo** | **18.30-20.15** | **maRia**          | **[ 1 RELEASZE Tanztraining - Zeitgenössischer Tanz/CI-light/Somatisches Lernen / open level](#mo)** | **Gilgegasse 12, 1090 Wien**  |
-| **Di** | **18.30-20.40** | **Christian u.a.** | **[2 Specials / Contact Improvisation Jam](#di)**                                                    | **Einsiedlerg. 7, 1050 Wien** |
-| **Mi** | **18.00-20.40** | **Christian u.a.** | **[3 "Wild and Soft" Contact Improvisation intermediate/advanced](#mi)**                             | **Einsiedlerg. 7, 1050 Wien** |
-| **Do** | **18.15-20.30** | **Christian**      | **[4 Contact Improvisation and -Technique Basics / beginner ](#do)**                                 | **Gilgegasse 12, 1090 Wien**  |
+| Tag    | Zeit                   | Lehrer*in                | Titel                                                                                        | Ort/Turnsaal                  |
+| ------ | ---------------------- | ------------------------ | -------------------------------------------------------------------------------------------- | ----------------------------- |
+| **Mo** | **18.30-20.15**        | **maRia**                | **[ 1 RELEASZE Tanztraining - Zeitgen. Tanz/CI-light/Somatisches Lernen / open level](#mo)** | **Gilgegasse 12, 1090 Wien**  |
+| **Di** | **(17.15)18.30-20.40** | **Christian maRia u.A.** | **[2 Contact Improvisation Jam + Specials](#di)**                                            | **Einsiedlerg. 7, 1050 Wien** |
+| **Mi** | **18.00-20.40**        | **Christian**            | **[3 "Wild and Soft" Contact Improvisation intermediate / advanced](#mi)**                   | **Einsiedlerg. 7, 1050 Wien** |
+| **Do** | **18.15-20.30**        | **Christian**            | **[4 Contact Improvisation and -Technique Basics / beginner ](#do)**                         | **Gilgegasse 12, 1090 Wien**  |
 
 \
 &nbsp;
 
 ### Die neuen Kurse des Wintersemesters 2023/24 starten vom 25.- 28.9.2023
 
-**Kursbeschreibungen folgen in Kürze!**
+**Kursbeschreibungen in Bearbeitung!**
 
 <div class="named-anchor" id="mo"></div>
 
-#### Sommersemester 2023
+#### Wintersemester 2023/24
 
 #### 1 RELEASZ Tanztraining: Zeitgenössischer Tanz / CI-light / Somatisches Lernen
 
 mit **maRia Probst -** *open level*\
-**Mo 18.30 - 20.15**; 27.2. – 19.6.2023 (ca. 15x)\
+**Mo 18.30 - 20.15**; 25.9.2023 – 29.1.2024 (ca. 16x)\
 Turnsaal VS Gilgegasse 12, 1090 Wien
 
 RELEASZ verweist auf die Wurzeln dieser Praxis, der Release Technique. Es steht darüber
@@ -47,20 +47,17 @@ Teilnahmeempfehlung: Tanzfreudige mit Lust an Bewegungsausdruck und -forschung. 
 
 <div class="named-anchor" id="di"></div>
 
-#### 2 Contact Improvisation and -Technique
+#### 2 Contact Improvisation Jam + Specials
 
-mit **Christian Apschner**\
-*"Mindfulness, Challenge and Flow" / Fortlaufende Trainingsgruppe für Beginner*innen und leicht Fortgeschrittene*\
-**Di 18.15 – 20.30**, Kurs Sommersemester 2023: 28.2.- 20.6.2023 (ca. 16x)\
-Turnsaal VS Einsiedlergasse 7, 1050 Wien
+mit **Christian Apschner, maRia Probst u.A.**\
+**Di 19.9.2023 - 30.1.2024, Jam 18.30 – 20.40 (ca.17x), Specials 17.15 - 18.15**\
+**Turnsaal VS Einsiedlergasse 7, 1050 Wien**
 
-Dieser aufbauende Kurs ist für bewegungsfreudige Beginner\*innen und leicht fortgeschrittene CI-Tänzer\*innen gedacht. Beginner\*innen sind im Rahmen der kontinuierlichen Trainingsgruppe eingeladen immer tiefer in die Welt der Contact Improvisation einzutauchen. Für leicht fortgeschrittene Tänzer\*innen bietet sich die Möglichkeit Basiskenntnisse zu erweitern und neues Bewegungsvokabular kennenzulernen. So lernen wir z.B. wie es leicht geht, Gewicht abzugeben und zu übernehmen oder mit dem rollendem Kontaktpunkt und dem Bewegungsfluss zu spielen. Wir üben uns in der Technik für einfache Jumps und Lifts, uns fallen zu lassen und sicher zu landen. Verschiedene Variationen von Roll- und Spiralbewegungen erweitern unsere tänzerischen Fähigkeiten.
+Die wöchtenliche rollingpoint-Jam übersiedelt mit 19.9.2023 vom Prana Yoga Studio in den schönen großen Turnsaal der VS Einsiedlergasse. 
 
-Nicht zuletzt verstehen wir die Contact Improvisation auch als eine Form von nonverbaler Kommunikation und Begegnung, in der wir lernen auf unsere eigenen körperlich-mentalen Bedürfnisse und Grenzen und die unserer TanzpartnerInnen gleichermaßen zu achten. In verbalen Feedback-Runden möchten wir diesen Erfahrungen zusätzlich Raum geben.
+Unsere Jams sind Orte für fokussiertes Contact Improvisation-Tanzen an denen wir CI als zeitgenössische Tanz- und Kunstform praktizieren. Wir achten darauf einen gemeinsamen Raum zu halten, in dem sich alle sicher fühlen und erwarten von den TeilnehmerInnen CI-Kurserfahrungen im Sinne von Grundkenntnissen.
 
-Die Teilnehmer*innen sind eingeladen mit fortschreitendem Lernprozess an den rollingpoint-Jams teilzunehmen bzw. zusätzlich kostenlos die open level-Termine des Mittwoch-Kurses (Kurs 3) zu besuchen.
-
-Teilnahmeempfehlungen: Da wir in der Contact Improvisation gegenseitig Körpergewicht abgeben und übernehmen, sind ein bestimmtes Ausmaß an Bewegungstalent und Sensitivität für den eigenen Körper und die Grenzen anderer erforderlich für die Teilnahme an diesem Kurs. Bewegungsvorerfahrungen aller Art sowie Lust und Freude an körperlichem Einsatz und sich "fallen zu lassen" sind von Vorteil.
+Die regulären Jams dauern jeweils von 18.30-20.40. Vor den Jams von 17.15-18.15 wird es immer wieder einstündige Specials mit unterschiedlichem Fokus und verschiedenen Lehrer\*innen geben. Geplant sind auch Spezialformate wie Underscore oder Beginner\*innen Jams. Die Ausschreibung dieser Termine erfolgt jeweils zeitnah zu den Terminen.
 
 [Kosten](#kosten)
 
