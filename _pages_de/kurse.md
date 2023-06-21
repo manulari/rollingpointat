@@ -88,7 +88,7 @@ Dieser aufbauende Kurs ist als Grundkurs der Contact Improvisation gedacht. Du b
 
 Nicht zuletzt verstehen wir die Contact Improvisation auch als eine Form von nonverbaler Kommunikation und Begegnung, in der wir lernen auf unsere eigenen körperlich-mentalen Bedürfnisse und Grenzen und die unserer TanzpartnerInnen gleichermaßen zu achten. In verbalen Feedback-Runden möchten wir diesen Erfahrungen zusätzlich Raum geben.
 
-Die Teilnehmer*innen sind eingeladen mit fortschreitendem Lernprozess an den rollingpoint-Jams teilzunehmen.
+Du bist eingeladen mit fortschreitendem Lernprozess an den rollingpoint-Jams teilzunehmen.
 
 Teilnahmeempfehlungen: Da wir in der Contact Improvisation gegenseitig Körpergewicht abgeben und übernehmen, sind ein bestimmtes Ausmaß an Bewegungstalent und Sensitivität für den eigenen Körper und die Grenzen anderer erforderlich für die Teilnahme an diesem Kurs. Bewegungsvorerfahrung aller Art sowie Lust und Freude an körperlichem Einsatz und sich “fallen zu lassen” sind von Vorteil.
 
