@@ -30,7 +30,7 @@ Alle unsere Angebote setzen ein gewisses Maß an Achtsamkeit voraus. Wir begreif
 
 Zielgruppe: Alle die einen ersten tieferen Einblick in die Welt Contact Improvisation, des RELEASZE Tanztrainings und des Somatischen Lernens von rollingpoint machen möchten. Auch als **Contact Improvisation Starter-Kit und Orientierungsworkshop** gedacht. Erfahrene Tänzer\*innen sind wie immer ebenfalls gerne willkommen. Hier bietet sich die Möglichkeit den Beginner\*innengeist neu aufzufrischen und bereits Erlerntes neu zu reflektieren und zu verfeinern.
 
-Teilnahmevoraussetzung: Du bewegst dich gerne, bist offen für Körperkontakt und bist dir selbst und anderen gegenüber verantwortungsbewusst, achtsam und aufmerksam.
+Teilnahmeempfehlung: Du bewegst dich gerne, bist offen für Körperkontakt und bist dir selbst und anderen gegenüber verantwortungsbewusst, achtsam und aufmerksam.
 
 ## Organisatorisches:
 
