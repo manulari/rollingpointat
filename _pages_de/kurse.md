@@ -63,7 +63,7 @@ Die regulären Jams dauern jeweils von 18.30-20.40. Vor den Jams von 17.15-18.15
 #### **3 "Wild and Soft" Contact Improvisation intermediate/advanced**
 
 mit **Christian Apschner *\- intermediate/advanced***\
-**Mi 18.00 - 20.40, 27.9.2023. – 31.1.2024 (ca.15x)**\
+**Mi 18.00 - 20.40, 27.9.2023 – 31.1.2024 (ca.15x)**\
 Turnsaal VS Einsiedlergasse 7, 1050 Wien
 
 Fortlaufende Trainingsgruppe mit drei open level Terminen\
