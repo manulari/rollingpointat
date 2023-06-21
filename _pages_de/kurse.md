@@ -4,19 +4,16 @@ title: KURSE UND WORKSHOPS
 ---
 **Stundenplan Abendangebote Wintersemester 2023/24**
 
-| Tag    | Zeit                   | Lehrer*in                | Titel                                                                                        | Ort/Turnsaal                  |
-| ------ | ---------------------- | ------------------------ | -------------------------------------------------------------------------------------------- | ----------------------------- |
-| **Mo** | **18.30-20.15**        | **maRia**                | **[ 1 RELEASZE Tanztraining - Zeitgen. Tanz/CI-light/Somatisches Lernen / open level](#mo)** | **Gilgegasse 12, 1090 Wien**  |
-| **Di** | **(17.15)18.30-20.40** | **Christian maRia u.A.** | **[2 Contact Improvisation Jam + Specials](#di)**                                            | **Einsiedlerg. 7, 1050 Wien** |
-| **Mi** | **18.00-20.40**        | **Christian**            | **[3 "Wild and Soft" Contact Improvisation intermediate/advanced](#mi)**                     | **Einsiedlerg. 7, 1050 Wien** |
-| **Do** | **18.15-20.30**        | **Christian**            | **[4 Contact Improvisation and -Technique Basics / beginner ](#do)**                         | **Gilgegasse 12, 1090 Wien**  |
+| Tag    | Zeit                   | Lehrer*in                | Titel                                                                         | Ort/Turnsaal                  |
+| ------ | ---------------------- | ------------------------ | ----------------------------------------------------------------------------- | ----------------------------- |
+| **Mo** | **18.30-20.15**        | **maRia**                | **[ 1 RELEASZE Tanztraining: CI-light/Somatisches Lernen / open level](#mo)** | **Gilgegasse 12, 1090 Wien**  |
+| **Di** | **(17.15)18.30-20.40** | **Christian maRia u.A.** | **[2 Contact Improvisation Jam + Specials](#di)**                             | **Einsiedlerg. 7, 1050 Wien** |
+| **Mi** | **18.00-20.40**        | **Christian**            | **[3 "Wild and Soft" Contact Improvisation intermediate/advanced](#mi)**      | **Einsiedlerg. 7, 1050 Wien** |
+| **Do** | **18.15-20.30**        | **Christian**            | **[4 Contact Improvisation and -Technique Basics / beginner ](#do)**          | **Gilgegasse 12, 1090 Wien**  |
 
-\
-&nbsp;
+
 
 ### Die neuen Kurse des Wintersemesters 2023/24 starten vom 25.- 28.9.2023
-
-**Kursbeschreibungen in Bearbeitung!**
 
 <div class="named-anchor" id="mo"></div>
 
