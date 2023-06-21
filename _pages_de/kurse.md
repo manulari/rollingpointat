@@ -8,7 +8,7 @@ title: KURSE UND WORKSHOPS
 | ------ | ---------------------- | ------------------------ | -------------------------------------------------------------------------------------------- | ----------------------------- |
 | **Mo** | **18.30-20.15**        | **maRia**                | **[ 1 RELEASZE Tanztraining - Zeitgen. Tanz/CI-light/Somatisches Lernen / open level](#mo)** | **Gilgegasse 12, 1090 Wien**  |
 | **Di** | **(17.15)18.30-20.40** | **Christian maRia u.A.** | **[2 Contact Improvisation Jam + Specials](#di)**                                            | **Einsiedlerg. 7, 1050 Wien** |
-| **Mi** | **18.00-20.40**        | **Christian**            | **[3 "Wild and Soft" Contact Improvisation intermediate / advanced](#mi)**                   | **Einsiedlerg. 7, 1050 Wien** |
+| **Mi** | **18.00-20.40**        | **Christian**            | **[3 "Wild and Soft" Contact Improvisation intermediate/advanced](#mi)**                     | **Einsiedlerg. 7, 1050 Wien** |
 | **Do** | **18.15-20.30**        | **Christian**            | **[4 Contact Improvisation and -Technique Basics / beginner ](#do)**                         | **Gilgegasse 12, 1090 Wien**  |
 
 \
@@ -24,8 +24,8 @@ title: KURSE UND WORKSHOPS
 
 #### 1 RELEASZ Tanztraining: Zeitgenössischer Tanz / CI-light / Somatisches Lernen
 
-mit **maRia Probst -** *open level*\
-**Mo 18.30 - 20.15**; 25.9.2023 – 29.1.2024 (ca. 16x)\
+mit **maRia Probst - *open level***\
+**Mo 18.30 - 20.15; 25.9.2023 – 29.1.2024 (ca. 16x)**\
 Turnsaal VS Gilgegasse 12, 1090 Wien
 
 RELEASZ verweist auf die Wurzeln dieser Praxis, der Release Technique. Es steht darüber
@@ -51,7 +51,7 @@ Teilnahmeempfehlung: Tanzfreudige mit Lust an Bewegungsausdruck und -forschung. 
 
 mit **Christian Apschner, maRia Probst u.A.**\
 **Di 19.9.2023 - 30.1.2024, Jam 18.30 – 20.40 (ca.17x), Specials 17.15 - 18.15**\
-**Turnsaal VS Einsiedlergasse 7, 1050 Wien**
+Turnsaal VS Einsiedlergasse 7, 1050 Wien
 
 Die wöchtenliche rollingpoint-Jam übersiedelt mit 19.9.2023 vom Prana Yoga Studio in den schönen großen Turnsaal der VS Einsiedlergasse. 
 
@@ -63,46 +63,38 @@ Die regulären Jams dauern jeweils von 18.30-20.40. Vor den Jams von 17.15-18.15
 
 <div class="named-anchor" id="mi"></div>
 
-#### **3 Contact Improvisation /advanced + Jam**
+#### **3 "Wild and Soft" Contact Improvisation intermediate/advanced**
 
-mit **Christian Apschner und GastlehrerInnen tba**\
-Fortlaufende offene Trainingsgruppe für fortgeschrittene Tänzer*innen mit vier open level Terminen\
-Teilnahme an einzelnen Terminen möglich\
-Mi 17.30 - 20.40, 1.3. – 21.6.2023 (ca.15x)\
-Kurs Sommersemester 2023: 1.3. - 21.6.2023\
-Turnsaal VS Einsiedlergasse 7, 1050 Wien\
-**Training 17.30-19.00**\
-**Offene Jam 19.10-20.40**
+mit **Christian Apschner *\- intermediate/advanced***\
+**Mi 18.00 - 20.40, 27.9.2023. – 31.1.2024 (ca.15x)**\
+Turnsaal VS Einsiedlergasse 7, 1050 Wien
 
-**Beginner*innen sind an folgenden Terminen zu einem open level Training inkl. Jam eingeladen:**\
-**22.3., 26.4., 24.5. und 21.6.2023**
+Fortlaufende Trainingsgruppe mit drei open level Terminen\
+Teilnahme auch an einzelnen Terminen und 5er-Blocks möglich\
+\
+Lets get physical! Du bringst gute Basiskenntnisse der Contact Improvisation oder artverwandter Bewegungsformen mit und möchtest dein Bewegungsspektrum erweitern und verfeinern sowie gezielt Kraft, Koordination, Beweglichkeit und Körperreflexe trainieren? Dann ist diese Trainingsgruppe das richtige für dich. In diesem Kurs steht der physische Aspekt der Contact Improvisation im Vordergrund. Ein Schwerpunkt des Kurses wird sein, die Technik verschiedenster Lifts und Jumps in allen Raumebenen zu üben und kopfüber auf den Händen zu tanzen. Ziel ist es uns immer leichter dem gemeinsamen Bewegungsfluss hinzugeben und gleichzeitig den Tanz so präsent wahrzunehmen, dass wir ihn spielerisch lenken können. Jede Einheit endet mit Partner*innen Körperarbeits-Settings mit Elementen aus Nuad und Trager-Körperarbeit und Body Mind Centering.
 
-Du bringst bereits solide Basiskenntnisse der Contact Improvisation mit und möchtest dein Bewegungsspektrum erweitern und verfeinern sowie von spannenden Forschungssettings lernen?\
-Dann ist diese offene Trainingsgruppe das richtige für dich. Ein Schwerpunkt des Kurses wird sein, verschiedene Lifts und Jumps in allen Raumebenen zu üben und kopfüber auf den Händen zu tanzen. Wir lernen durch gute Körperausrichtung sowie durch angepasste Körperspannung und Nutzung der Schwungenergie Gewicht schonend aufzunehmen und abzugeben. Im Laufe des Lernprozesses wird es immer leichter uns dem gemeinsamen Bewegungsfluss hinzugeben und gleichzeitig den Tanz so präsent wahrzunehmen, dass wir ihn spielerisch lenken können.
-
-Die auch für Hinzukommende offene Jam im Anschluss an das Training lädt zum freien Contact Improvisation Tanzen ein. Teilnehmer*innen des Gesamtkurses sind eingeladen an den offenen open level-Terminen (s.o.) jeweils eine weitere Person zum Kennenlernen der Contact Improvisation zu diesen Terminen einzuladen.
+**Beginner*innen sind am Mittwoch zu folgenden Terminen zu einem open level Training inkl. Jam eingeladen:**\
+**25.10., 13.12.2023, 24.1.2024**
 
 [Kosten](#kosten)
 
 <div class="named-anchor" id="do"></div>
 
-#### 4  GANZ Körpertraining & los tanzen
+#### 4  Contact Improvisation and -Technique Basics
 
-mit **maRia Probst und Christian Apschner (abwechselnd)**\
-*open level*\
-**Do 18.30 – 20.30**, ab 2.3.- 22.6.2023 (ca.14x)\
+mit **Christian Apschner - beginner**\
+**Do 18.15 – 20.30**, 27.9.2023.- 1.2.2024 (ca.15x)\
 Turnsaal VS Gilgegasse 12, 1090 Wien
 
-**G**anzheitlich, **A**natomie-basiert, **N**achhaltig und **Z**eitgenössisch
+Dieser aufbauende Kurs ist als Grundkurs der Contact Improvisation gedacht. Du bist im sicheren Rahmen der Trainingsgruppe eingeladen immer tiefer in die Welt der Contact Improvisation einzutauchen. Mit ausreichend Zeit und Kontinuität lernst du Basics der Contact Improvisation kennen und erweiterst dein Bewegungsvokabular und sensorische Fähigkeiten Schritt für Schritt. So lernen wir z.B. wie es leicht und körperschonend geht, Gewicht abzugeben und zu übernehmen oder mit dem rollendem Kontaktpunkt und dem Bewegungsfluss zu spielen. Wir erforschen die Technik für einfache Jumps und Lifts, uns fallen zu lassen und sicher zu landen. Verschiedene Variationen von Roll- und Spiralbewegungen erweitern deine Bewegungsoptionen und unterstützen dich im Tanz geschmeidig und durchlässig zu werden.
 
-Entspannen, Loslassen und Wahrnehmen - Aktivieren und Kräftigen - Bewegungsfluss und Koordination finden - Ausschütteln und los tanzen / Alles in einem? Ja!\
-In diesen offenen Kurs bringen maRia und Christian ihre gesamte Kompetenz als erfahrene Training*innen ein und kreieren daraus ein in dieser Form einzigartiges ganzheitliches und zeitgemäßes Trainingserlebnis.\
-\
-Elemente aus somatischen Methoden wie Trager, Feldenkrais, Body Mind Centering und Anatomical Release Technique ergänzen sich mit Übungen aus dem Zeitgenössischem Tanz, Moving Yoga, Qi Gong, der Contact Improvisation und funktionellem Kraft-, Beweglichkeits- und Koordinationstraining. 
+Nicht zuletzt verstehen wir die Contact Improvisation auch als eine Form von nonverbaler Kommunikation und Begegnung, in der wir lernen auf unsere eigenen körperlich-mentalen Bedürfnisse und Grenzen und die unserer TanzpartnerInnen gleichermaßen zu achten. In verbalen Feedback-Runden möchten wir diesen Erfahrungen zusätzlich Raum geben.
 
-Die Trainingseinheiten starten mit sanften Aktivierungsübungen zur Sensibilisierung der Körperwahrnehmung auf der Matte liegend am Boden, manchmal auch in Kontakt mit Partner*in. Zunehmend dynamisch bewegen wir uns durch verschiedene Raumebenen zu mehr Vitalität, Durchlässigkeit und Kraft. Nach dem Übungsteil schütteln wir uns zu ausgewählter Musik so richtig aus und tanzen alles raus was sich noch verspannt anfühlt bevor wir die Einheit gemeinsam in einem Moment der Stille nach- und ausklingen lassen. So spazieren wir gefestigt, gelockert und mit mehr Energie aus dem Tanzsaal und nehmen diese Ausrichtung in den Alltag mit. 
+Die Teilnehmer*innen sind eingeladen mit fortschreitendem Lernprozess an den rollingpoint-Jams teilzunehmen.
 
-Teilnahmeempfehlung: Menschen die einen ganzheitlichen Trainingsansatz verfolgen, Berührung für die Erweiterung von Bewegungsmustern begrüßen und Selbstausdruck im freien Tanz durch den Raum als Bereicherung empfinden. \
+Teilnahmeempfehlungen: Da wir in der Contact Improvisation gegenseitig Körpergewicht abgeben und übernehmen, sind ein bestimmtes Ausmaß an Bewegungstalent und Sensitivität für den eigenen Körper und die Grenzen anderer erforderlich für die Teilnahme an diesem Kurs. Bewegungsvorerfahrung aller Art sowie Lust und Freude an körperlichem Einsatz und sich “fallen zu lassen” sind von Vorteil.
+
 [Kosten](#kosten)
 
 <div class="named-anchor" id="kosten"></div>
@@ -114,18 +106,17 @@ oder SMS/Tel. Christian 0650 8931081, maRia 0650 9510814
 
 **Offene Schnupperstunden in den ersten zwei Kurswochen um €10 pro Einheit (max. 1x pro Kurs)**
 
-**Kostenbeitrag Semesterkurse 1,2 und 4: Normalpreis € 250**\
-Ermäßigungen: € 160 für StudentInnen <=28a, € 200 Sonstige\
-**Kostenbeitrag Semesterkurs 3: Normalpreis € 230**\
-Ermäßigungen: € 150 für StudentInnen <=28a, € 190 Sonstige\
+**Kostenbeitrag Semesterkurse 1, 3 und 4: Normalpreis € 250**\
+Ermäßigungen: € 170 für StudentInnen <=28a, € 210 Sonstige\
 \
+Auf Anfrage für Kurse 1 und 3: 5﻿er Block € 90 - 120 bzw. Einzelstunden € 20–28
+
+**Semesterbeitrag Contact Improvisation Jam: € 100 - 200**\
+**Jam einzeln: € 7–10**, **Specials: € 7-10**
+
 Bei Buchung von mehr als einem Kurs minus € 30 ab dem 2.Kurs\
 Die Reservierung des Kursplatzes erfolgt durch Einzahlung des vollen Kursbeitrages.\
 \
-**Einzelstunden: € 27 / ermäßigt € 20**\
-**Einzelstunden Kurs 3 (CI-Training inkl. Jam): € 14 - 24, Jam € 7 - 10**
-
-**5﻿er Block für GANZ Körpertraining & los tanzen** **€ 110.- / € 85.-**\
 \
 **Bankvbdg.:** IBAN: AT54 3200 0000 1701 2717, BIC: RLNWATWW, Verein rollingpoint
 
