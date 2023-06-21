@@ -15,7 +15,7 @@ Detailplanung in Arbeit
 
 <div class="named-anchor" id="liquid"></div>
 
-#### **TUNE IN! Contact Improvisation-Somatics-Release Technique**
+#### **TUNE IN! Contact Improvisation/Somatics/Release Technique**
 
 **Wochenend-Workshop  2.+3.9.2023 beginner/open level**\
 **mit Christian Apschner und maRia Probst**
