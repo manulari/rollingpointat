@@ -6,19 +6,21 @@ title: Wochenend-Workshops
 
 Fotocredits: He Shao Hui\
 \
-**2.+3.9.2023 mit maRia Probst und Christian Apschner**\
+**2.+3.9.2023 mit maRia Probst und Christian Apschner (siehe unten)**
+
 **14.+15.10.2023 mit Christian Apschner**\
 **18.+19.11.2023 mit maRia Probst**\
-**20.+21.1.2024 Contact Flying Skills mit Christian Apschner und Lui Springer**
+**20.+21.1.2024 Contact Flying Skills mit Christian Apschner und Lui Springer**\
+Detailplanung in Arbeit
 
 <div class="named-anchor" id="liquid"></div>
 
-#### **TUNE IN! Contact Improvisation-Somatics-Release Technique**\
+#### **TUNE IN! Contact Improvisation-Somatiches Lernen-Release Technique**
 
 **Wochenend-Workshop  2.+3.9.2023 beginner/open level**\
 **mit Christian Apschner und maRia Probst**
 
-In diesem Wochenend-Workshop möchten wir dich auf eine Entdeckungsreise in die „Dreiwelt“ von rollingpoint einladen. Wir lernen Basics der Contact Improvisation kennen, indem wir z.B. erforschen wie es leicht geht, Gewicht abzugeben und zu übernehmen oder mit dem rollenden Kontaktpunkt zu spielen. Auch einen kleinen Einblick in die Technik von einfachen lifts und jumps möchten wir geben um die sportlich-dynamisch Seite der Contact Improvisation kennenzulernen.
+In diesem Wochenend-Workshop möchten wir dich auf eine Entdeckungsreise in die drei Herzstücke rollingpoints einladen. Du lernst Basics der Contact Improvisation kennen und wie es leicht geht, Gewicht abzugeben und zu übernehmen oder mit dem rollenden Kontaktpunkt zu spielen. Du gewinnst einen kleinen Einblick in die Technik einfacher lifts und jumps und damit ind die sportlich-dynamisch Seite der Contact Improvisation.
 
 Mittels Somatics, einer auf der Körper-Geist Beziehung beruhende Form des körperlichen Lernens, kannst du deine innewohnende körperliche Unmittelbarkeit des frühen Seins als Säugling und Kind wiederentdecken und das Zusammenspiel von Muskeln, Sehnen, Knochen und Organen besser verstehen lernen. Bewegungen aus der Release Technique, einer speziellen Form des Zeitgenössischen Tanzes, helfen dir, deinen Körper im freien Bewegen und in der Contact Improvisation bewusster einzusetzen und zu koordinieren.
 
