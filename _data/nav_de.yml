@@ -26,9 +26,9 @@ entries:
   - title: JAMS+PERFORMANCES
     path: /jams
     subentries:
-      - title: JAMS
+      - title: Jams
         path: /jams
-      - title: DANCING MYCELIUM
+      - title: Dancing Mycelium
         path: /mycelium
   - title: KÜNSTLERISCHE FORSCHUNG
     path: /conact1
