@@ -3,12 +3,11 @@ permalink: /mycelium
 title: Dancing Mycelium
 language: de
 ---
-„**Seltsamia“ - Dancing Mycelium\
-Exploring Interconnection and Movement Biodiversity**
+## „**Seltsamia“ - Dancing Mycelium**
 
-**Ein rollingpoint Mitmach-Contact Improvisation Projekt Sommer/Herbst 2023**
+### **Exploring Interconnection and Movement Biodiversity**
 
-
+### **Ein rollingpoint Mitmach-Contact Improvisation Projekt Sommer/Herbst 2023**
 
 **Termine**
 
@@ -18,13 +17,14 @@ Exploring Interconnection and Movement Biodiversity**
 
 [](<>)**So 27.8. 16.30: Mariahilferstraße**
 
-Genaue Ortsangaben: siehe unten
+Genaue Ortsangaben: siehe unten\
+Änderungen möglich, bitte zeitnah webite checken
 
 **Wie läuft das Projekt ab?**
 
-Das Projekt ist als Art flashmob organisiert. Wir treffen uns an an verschiedenen spannenden Orten um gemeinsam zu improvisieren und ein kleines Gesamtkunstwerk zu kreieren - vergleichbar mit dem Aufploppen einer Kollektion von Pilzfruchtkörpern in der Natur. Gedanklich versetzen wir uns in verschiedenste Aspekte der Lebensweise von Pilzen und stellen unsere tänzerisch-sensorischen Fähigkeiten einander zur Verfügung.
+Das Projekt ist als Art flashmob organisiert. Wir treffen uns an an spannenden Orten um gemeinsam zu improvisieren und ein kleines Gesamtkunstwerk zu kreieren - vergleichbar mit dem Aufploppen einer Kollektion von Pilzfruchtkörpern in der Natur. Gedanklich versetzen wir uns in verschiedenste Aspekte der Lebensweise von Pilzen und stellen unsere tänzerisch-sensorischen Fähigkeiten einander zur Verfügung.
 
-Jeder Termin ist einer bestimmten Improvisationsstruktur (Score) gewidmet. Wir orientieren uns dabei an Nancy Topf´s Struktur der „Space Walks“, in denen wir uns in räumlich-physischen Bezug zur Mitwelt setzen. Die jeweiligen Scores werden jeweils zu Beginn des Zusammentreffens gemeinsam besprochen. Es besteht in den Sessions die Möglichkeit mitzumachen oder/und zuzusehen. Ein Hin- und Her-Switchen zwischen Mit-Performen und Beobachten/witnessing ist möglich. Am Ende der Impro-Sessions treffen wir uns nochmals in der Gruppe um das Erlebte gemeinsam zu reflektieren und unsere Eindrücke auszutauschen.
+Jeder Termin ist einer bestimmten Improvisationsstruktur (Score) gewidmet. Wir orientieren uns dabei an Nancy Topf´s Struktur der „Space Walks“, in denen wir uns in räumlich-physischen Bezug zur Mitwelt setzen. Die jeweiligen Scores werden jeweils zu Beginn des Zusammentreffens gemeinsam besprochen. Es besteht in den Sessions die Möglichkeit mitzumachen oder/und zuzusehen. Ein Hin- und Her-Switchen zwischen Mit-Performen und Beobachten/witnessing ist möglich. Durch deine Präsenz im Beobachten untersützt du die Tanzenden. Der Übergang zwischen Performen und Zusehen ist fließend. Am Ende der Impro-Sessions treffen wir uns wieder in der Gruppe um das Erlebte gemeinsam zu reflektieren und unsere Eindrücke auszutauschen.
 
 Dauer der Sessions: Jeweils ca. 2-3 Stunden inkl. Vor- und Nachbesprechung\
 Bitte immer pünktlich zur Vorbesprechung kommen. Die Informationen der Vorbesprechungen sind Voraussetzung für die Teilnahme an den Impro-Sessions.
@@ -36,6 +36,8 @@ Fallweise werden Fotos und Videoaufnahmen gemacht. Im Falle der Veröffentlichun
 Als Zusehende und Beobachtende sind alle Interessierten sehr gerne willkommen. Für das Mitmachen (=Mittanzen und -performen) sind Basiskenntnisse der Contact Improvisation Voraussetzung. Die Teilnahme erfordert geeignetes Schuhwerk und Bekleidung. Trinkwasser nicht vergessen.\
 Jeglicher Haftungsausschluss: Die Teilnahme erfolgt auf eigene Gefahr und auf eigenes Risiko der Teilnehmenden. Wichtig ist ein achtsamer Umgang miteinander sowie Verantwortung für die eigene Sicherheit und Mitverantwortung für unsere Tanzpartner*innen zu übernehmen. Für mögliche Interaktionen mit Passanten/Hunden tragen die Teilnehmenden jeweils selbst persönlich Verantwortung. Entsprechende Instruktionen erfolgen jeweils im Zuge der Vorbesprechung vor Ort.
 
+Bitte lies dir auch den gedanklichen Hintergrund zum Projekt durch! (siehe unten)
+
 Bitte mit dem Fahrrad, öffentlichen Verkehrsmitteln oder zu Fuß anreisen. Wir möchten mit unserem Projekt nicht noch zusätzlich durch Autoverkehr zur Klimaerwärmung und zum Verlust der Biodiversität beitragen.
 
 **Wie kann ich mich anmelden?**
@@ -45,11 +47,12 @@ bzw. SMS/Tel. Christian Apschner 0650 8931081\
 Bitte angeben an welchem Termin du teilnehmen möchtest.\
 Beschränkte TeilnemerInnenzahl, max. 25 Personen
 
-**Die Teilnahme an den Sessions ist kostenlos.** Du trägst mit deiner Präsenz und deinen tänzerisch-improvisatorischen Fähigkeit zum Gelingen des Projektes bei.
+**Die Teilnahme ist kostenlos.** Du trägst mit deiner Präsenz und deinen tänzerisch-improvisatorischen Fähigkeit zum Gelingen des Projektes bei.
 
-Als gemeinnütziger Verein zur Förderung der Contact Improvisation möchten wir den künstlerischen Dialog fördern, die Öffentlichkeit in unsere Arbeit einladen („Aufführung vor Publikum“) und einen positiven Beitrag an der Schnittstelle von Kunst, Naturwissenschaft und Gemeinwesenarbeit leisten.
+Als gemeinnütziger Verein zur Förderung der Contact Improvisation möchten wir den künstlerischen Dialog fördern, die Öffentlichkeit in unsere Arbeit einladen („Aufführung vor Publikum“) und einen positiven Beitrag an der Schnittstelle von Kunst, Naturwissenschaft, Tiefenökologie und Gemeinwesenarbeit leisten.
 
-**Möchtest du unsere Arbeit unterstützen?**Spenden auf unser Vereinskonto IBAN: AT54 3200 0000 1701 2717, BIC: RLNWATWW, Verein rollingpoint, sind gerne willkommen.
+**Möchtest du unsere Arbeit unterstützen?**\
+Spenden auf unser Vereinskonto IBAN: AT54 3200 0000 1701 2717, BIC: RLNWATWW, Verein rollingpoint, sind gerne willkommen.
 
 **Wann und wo?**
 
@@ -58,14 +61,14 @@ Koordinaten: 48.23088, 16.39098\
 Bei der sogenannten Drachenwiese oberhalb der alten Eisenbahnbrücke\
 Von der Innstraße 18 aus über die Leystraße bzw. von der Vorgartenstraße 98 aus in 150m erreichbar.
 
-**Sa 21.7., 18:00: Baumkreis Am Kobenzl, 1190 Wien**Koordinaten: 48.26246, 16.31072
+**Sa 21.7., 18:00: Baumkreis Am Kobenzl, 1190 Wien**\
+Koordinaten: 48.26246, 16.31072
 
-[](<>)**So 27.8., 16.30: Mariahilferstraße / Christian-Broda-Platz, 1060 Wien**Koordinaten: 48.19582, 16.34037\
+[](<>)**So 27.8., 16.30: Mariahilferstraße / Christian-Broda-Platz, 1060 Wien**\
+Koordinaten: 48.19582, 16.34037\
 Am Beginn der Mariahilferstraße vom Westbahnhof aus Richtung Museumsquartier\
 \
 **Änderungen möglich, website bitte zeitnah checken!**
-
-
 
 **Gedanklicher Hintergrund:**
 
@@ -73,7 +76,7 @@ Pilze sind in ihrer Bedeutung für das Leben auf der Erde mindestens so wichtig 
 
 Die Pilze sind in ihrem Wesen also in erster Linie ein unsichtbares Netzwerk gigantischer Dimensionen in dem verschiedenste Stoffe und Informationen transportiert und ausgetauscht werden. Die Fruchtkörper der Pilze selbst erscheinen meist nur für ein paar Tage im Jahre für den Menschen sichtbar an der Oberfläche. Wann und wo lässt sich nie voraussagen.
 
-Allein in Österreich existieren weit mehr als 10.000 verschiedene Pilzarten in allen Größenordnungen und mit einer faszinierenden Formenvielfalt. Um Pilze in der Natur zu finden müssen wir uns bewegen und alle Sinne einsetzen. Pilze zu suchen kann als eine Form von Kontaktimprovisation mit der Natur gesehen werden, ein gemeinsamer Tanz indem wir die Pilze als „Companion Species“ erleben. Vergleich hierzu: Anna Tsing Unruly Edges: Mushrooms as Companion Species (for Donna Haraway).
+Allein in Österreich existieren weit mehr als 10.000 verschiedene Pilzarten in allen Größenordnungen und mit einer faszinierenden Formenvielfalt. Viele davon stehen auf der Roten Liste der gefährdeten Arten. Um Pilze in der Natur zu finden müssen wir uns bewegen und alle Sinne einsetzen. Pilze zu suchen kann als eine Form von Kontaktimprovisation mit der Natur gesehen werden, ein gemeinsamer Tanz indem wir die Pilze als „Companion Species“ erleben. Vergleich hierzu: Anna Tsing Unruly Edges: Mushrooms as Companion Species (for Donna Haraway). <https://www.researchgate.net/publication/302967622_Unruly_Edges_Mushrooms_as_Companion_Species>
 
 Pilze galten immer schon als etwas Mysteriöses, Anrüchiges und Unberechenbares. Im Vergleich zu anderen Organismen ist das Reich der Pilze noch wenig erforscht. Auch in Österreich werden immer noch laufend neue Arten entdeckt und beschrieben, wie etwa die Pilzgattung Seltsamia (s.u.) Je mehr wir über Pilze lernen, desto mehr fordern sie uns heraus, unsere Annahmen über das Leben auf unserem Planeten zu überdenken. Als Netzwerk organisiert und ohne zentrales Gehirn ausgestattet verfügen sie über eine erstaunliche Intelligenz. Im anthropozänen Zeitalter bedrohlichen Biodiversitätsverlustes und Klimaerwärmung könnten wir einiges von ihnen lernen um den Fortbestand unserer Species zu gewährleisten.
 
