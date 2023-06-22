@@ -25,6 +25,11 @@ entries:
         path: /Kursanmeldung
   - title: JAMS+PERFORMANCES
     path: /jams
+    subentries:
+      - title: JAMS
+        path: /jams
+      - title: DANCING MYCELIUM
+        path: /mycelium
   - title: KÜNSTLERISCHE FORSCHUNG
     path: /conact1
     subentries:
