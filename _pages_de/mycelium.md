@@ -3,6 +3,8 @@ permalink: /mycelium
 title: Dancing Mycelium
 language: de
 ---
+![](/assets/uploads/64229417_2288914457866260_1127163696674504704_n.jpg)
+
 ## „**Seltsamia“ - Dancing Mycelium**
 
 ### **Exploring Interconnection and Movement Biodiversity**
@@ -79,6 +81,8 @@ Die Pilze sind in ihrem Wesen also in erster Linie ein unsichtbares Netzwerk gig
 Allein in Österreich existieren weit mehr als 10.000 verschiedene Pilzarten in allen Größenordnungen und mit einer faszinierenden Formenvielfalt. Viele davon stehen auf der Roten Liste der gefährdeten Arten. Um Pilze in der Natur zu finden müssen wir uns bewegen und alle Sinne einsetzen. Pilze zu suchen kann als eine Form von Kontaktimprovisation mit der Natur gesehen werden, ein gemeinsamer Tanz indem wir die Pilze als „Companion Species“ erleben. Vergleich hierzu: Anna Tsing Unruly Edges: Mushrooms as Companion Species (for Donna Haraway). <https://www.researchgate.net/publication/302967622_Unruly_Edges_Mushrooms_as_Companion_Species>
 
 Pilze galten immer schon als etwas Mysteriöses, Anrüchiges und Unberechenbares. Im Vergleich zu anderen Organismen ist das Reich der Pilze noch wenig erforscht. Auch in Österreich werden immer noch laufend neue Arten entdeckt und beschrieben, wie etwa die Pilzgattung Seltsamia (s.u.) Je mehr wir über Pilze lernen, desto mehr fordern sie uns heraus, unsere Annahmen über das Leben auf unserem Planeten zu überdenken. Als Netzwerk organisiert und ohne zentrales Gehirn ausgestattet verfügen sie über eine erstaunliche Intelligenz. Im anthropozänen Zeitalter bedrohlichen Biodiversitätsverlustes und Klimaerwärmung könnten wir einiges von ihnen lernen um den Fortbestand unserer Species zu gewährleisten.
+
+![](/assets/uploads/10428163_666135826810806_5709185538764895315_o.jpg)
 
 [](<>)***Seltsamia*** Jaklitsch & Voglmayr, gen. nov., MycoBank MB 823020
 
