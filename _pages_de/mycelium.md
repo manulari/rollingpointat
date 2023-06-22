@@ -3,7 +3,7 @@ permalink: /mycelium
 title: Dancing Mycelium
 language: de
 ---
-„**Seltsamia“ - Dancing Mycelium**
+## „**Seltsamia“ - Dancing Mycelium**
 
 **Exploring Interconnection and Movement Biodiversity**
 
