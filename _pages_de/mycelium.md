@@ -92,5 +92,3 @@ Pilze galten immer schon als etwas Mysteriöses, Anrüchiges und Unberechenbares
 *Asexual morph* unknown.\
 *Habitat*: Fungicolous, e.g., on *Hapalocystis bicaudata* on *Ulmus glabra*.\
 *Type species*: *Seltsamia ulmi* Jaklitsch & Voglmayr.
-
-![](/assets/uploads/img_20170312_134905.jpg)
