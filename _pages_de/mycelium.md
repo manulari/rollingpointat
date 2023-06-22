@@ -3,13 +3,13 @@ permalink: /mycelium
 title: Dancing Mycelium
 language: de
 ---
-![](/assets/uploads/64229417_2288914457866260_1127163696674504704_n.jpg)
-
 ## „**Seltsamia“ - Dancing Mycelium**
 
 ### **Exploring Interconnection and Movement Biodiversity**
 
 ### **Ein rollingpoint Mitmach-Contact Improvisation Projekt Sommer/Herbst 2023**
+
+![](/assets/uploads/64229417_2288914457866260_1127163696674504704_n.jpg)
 
 **Termine**
 
