@@ -7,7 +7,7 @@ other_lang: ""
 
 **Die rollingpoint-Jams sind Orte für fokussiertes Contact Improvisation-Tanzen an denen CI als zeitgenössische Tanz- und Kunstform praktiziert wird. Wir achten darauf einen gemeinsamen Raum zu halten, in dem sich alle sicher fühlen und erwarten von den TeilnehmerInnen, dass sie bereits über CI-Kurserfahrungen im Sinne von Grundkenntnissen verfügen** (Hinweise zur Sicherheit in den rollingpoint-Jams siehe unten).
 
-Die reguläre rollingpoint Jam findet jeden Sonntag Abend von 19.00-22.00 im Prana Yoga-Studio statt (Detailinfos siehe unten). Ab 19.9.2023 findet die wöchentliche Jam im Turnsaal der VS Einsiedlergasse 7, 1050 Wien statt. 
+Die reguläre rollingpoint Jam findet jeden Sonntag Abend von 19.00-22.00 im Prana Yoga-Studio statt (Detailinfos siehe unten). Ab 19.9.2023 findet die wöchentliche Jam immer Dienstag 18.30-20.40 im Turnsaal der VS Einsiedlergasse 7, 1050 Wien statt. 
 
 ## rollingpoint-Jam am Sonntag
 
