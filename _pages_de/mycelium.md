@@ -28,7 +28,7 @@ Genaue Ortsangaben: siehe unten\
 
 Das Projekt ist als Art flashmob organisiert. Wir treffen uns an an spannenden Orten um gemeinsam zu improvisieren und ein kleines Gesamtkunstwerk zu kreieren - vergleichbar mit dem Aufploppen einer Kollektion von Pilzfruchtkörpern in der Natur. Gedanklich versetzen wir uns in verschiedenste Aspekte der Lebensweise von Pilzen und stellen unsere tänzerisch-sensorischen Fähigkeiten einander zur Verfügung.
 
-Jeder Termin ist einer bestimmten Improvisationsstruktur (Score) gewidmet. Wir orientieren uns dabei an Nancy Topf´s Struktur der „Space Walks“, in denen wir uns in räumlich-physischen Bezug zur Mitwelt setzen. Die jeweiligen Scores werden jeweils zu Beginn des Zusammentreffens gemeinsam besprochen. Es besteht in den Sessions die Möglichkeit mitzutanzen oder/und zuzusehen. Ein Hin- und Her-Switchen zwischen Mit-Tanzen/Performen und Beobachten/witnessing ist möglich. Durch deine Präsenz im Beobachten unterstützt du die Tanzenden. Der Übergang zwischen Performen und Zusehen ist fließend. Am Ende der Impro-Sessions treffen wir uns wieder in der Gruppe um das Erlebte gemeinsam zu reflektieren und unsere Eindrücke auszutauschen.
+Jeder Termin ist einer bestimmten Improvisationsstruktur (Score) gewidmet. Wir orientieren uns dabei an Nancy Topf´s Struktur der „Space Walks“, in denen wir uns in räumlich-physischen Bezug zur Mitwelt setzen. Die jeweiligen Scores werden jeweils zu Beginn des Zusammentreffens gemeinsam besprochen. Es besteht in den Sessions die Möglichkeit mitzutanzen oder/und zuzusehen. Ein Hin- und Her-Switchen zwischen Mit-Tanzen und Beobachten/witnessing ist möglich. Durch deine Präsenz im Beobachten unterstützt du die Tanzenden. Der Übergang zwischen Tanzen und Zusehen ist fließend. Am Ende der Impro-Sessions treffen wir uns wieder in der Gruppe um das Erlebte gemeinsam zu reflektieren und unsere Eindrücke auszutauschen.
 
 Dauer der Sessions: Jeweils ca. 2-3 Stunden inkl. Vor- und Nachbesprechung\
 Bitte immer pünktlich zur Vorbesprechung kommen. Die Informationen der Vorbesprechungen sind wichtig und  Voraussetzung für die Teilnahme an den Impro-Sessions.
@@ -37,7 +37,7 @@ Fallweise werden Fotos und Videoaufnahmen gemacht. Im Falle der Veröffentlichun
 
 **Wie kann ich teilnehmen?**
 
-Als Zusehende und Beobachtende sind alle Interessierten sehr gerne willkommen. Für das Mitmachen (=Mittanzen und -performen) sind Basiskenntnisse der Contact Improvisation Voraussetzung. Die Teilnahme erfordert geeignetes Schuhwerk und Bekleidung. Trinkwasser nicht vergessen.\
+Als Zusehende und Beobachtende sind alle Interessierten sehr gerne willkommen. Für das Mitmachen (=Mittanzen) sind Basiskenntnisse der Contact Improvisation Voraussetzung. Die Teilnahme erfordert geeignetes Schuhwerk und Bekleidung. Trinkwasser nicht vergessen.\
 Jeglicher Haftungsausschluss: Die Teilnahme erfolgt auf eigene Gefahr und auf eigenes Risiko der Teilnehmenden. Wichtig ist ein achtsamer Umgang miteinander sowie Verantwortung für die eigene Sicherheit und Mitverantwortung für unsere Tanzpartner*innen zu übernehmen. Für mögliche Interaktionen mit Passanten/Hunden tragen die Teilnehmenden jeweils selbst persönlich Verantwortung. Entsprechende Instruktionen erfolgen jeweils im Zuge der Vorbesprechung vor Ort.
 
 Bitte lies dir auch den gedanklichen Hintergrund zum Projekt durch! (siehe unten)
