@@ -80,11 +80,14 @@ Die Pilze sind in ihrem Wesen also in erster Linie ein Netzwerk gigantischer Dim
 
 Allein in Österreich existieren weit mehr als 10.000 verschiedene Pilzarten in allen Größenordnungen und mit einer faszinierenden Formenvielfalt. Viele davon stehen auf der Roten Liste der gefährdeten Arten. Um Pilze in der Natur zu finden müssen wir uns bewegen und alle Sinne einsetzen.
 
- Pilze zu suchen kann als eine Form von Kontaktimprovisation mit der Natur gesehen werden, ein gemeinsamer Tanz indem wir die Pilze als „Companion Species“ erleben. Vergleich hierzu: Anna Tsing Unruly Edges: Mushrooms as Companion Species (for Donna Haraway). <https://www.researchgate.net/publication/302967622_Unruly_Edges_Mushrooms_as_Companion_Species>\
+Pilze zu suchen kann als eine Form von Kontaktimprovisation mit der Natur gesehen werden, ein gemeinsamer Tanz indem wir die Pilze als „Companion Species“ erleben. Vergleich hierzu: Anna Tsing Unruly Edges: Mushrooms as Companion Species (for Donna Haraway). <https://www.researchgate.net/publication/302967622_Unruly_Edges_Mushrooms_as_Companion_Species>\
 \
-Sowohl beim Pilzesuchen als auch in der Contact Improvisation sind wir in jedem Moment mit einer Auswahlmöglichkeit an Fortsetzungswegen konfrontiert. James Gibsons "Affordance Theory" [https://cs.brown.edu/courses/cs137/2017/readings/Gibson-AFF.pdf ](https://cs.brown.edu/courses/cs137/2017/readings/Gibson-AFF.pdf)kann sowohl auf das Pilzesuchen als auch auf die Contact Improvisation übertragen werden. \
+Auch aus Sicht der kognitiven Prozesse können viele Parallelen gezogen werden. Sowohl beim Pilzesuchen als auch in der Contact Improvisation sind wir in jedem Moment mit einer Auswahlmöglichkeit an Fortsetzungswegen konfrontiert. James Gibsons "Affordance Theory" [https://cs.brown.edu/courses/cs137/2017/readings/Gibson-AFF.pdf ](https://cs.brown.edu/courses/cs137/2017/readings/Gibson-AFF.pdf)kann sowohl auf das Pilzesuchen als auch auf die Contact Improvisation übertragen werden. \
 "The affordances of the environment are what it offers the animal/human beiing, what it provides\
-or furnishes, either for good or ill".
+or furnishes, either for good or ill".\
+Die erst in den letzten Jahren populär gewordene Theorie der "4E Cognition" beschreibt sehr gut wie wir in unserem Denken und Handeln wie ein Netzwerk mit der Umwelt=Mitwelt interagieren.\
+Siehe auch: <https://www.teachthought.com/learning/what-is-4e-cognition-a-framework-for-how-the-mind-makes-meaning/>\
+<https://brainlenses.substack.com/p/4e-cognition>
 
 Pilze galten immer schon als etwas Mysteriöses, Anrüchiges und Unberechenbares. Im Vergleich zu anderen Organismen ist das Reich der Pilze noch wenig erforscht. Auch in Österreich werden immer noch laufend neue Arten entdeckt und beschrieben, wie etwa die Pilzgattung Seltsamia (s.u.) Je mehr wir über Pilze lernen, desto mehr fordern sie uns heraus, unsere Annahmen über das Leben auf unserem Planeten zu überdenken. Als Netzwerk organisiert und ohne zentrales Gehirn ausgestattet verfügen sie über eine erstaunliche Intelligenz. Im anthropozänen Zeitalter bedrohlichen Biodiversitätsverlustes und Klimaerwärmung könnten wir einiges von ihnen lernen.
 
