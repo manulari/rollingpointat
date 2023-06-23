@@ -11,8 +11,6 @@ title: KURSE UND WORKSHOPS
 | **Mi** | **18.00-20.40**        | **Christian**            | **[3 "Wild and Soft" Contact Improvisation intermediate/advanced](#mi)**      | **Einsiedlerg. 7, 1050 Wien** |
 | **Do** | **18.15-20.30**        | **Christian**            | **[4 Contact Improvisation and -Technique Basics / beginner ](#do)**          | **Gilgegasse 12, 1090 Wien**  |
 
-
-
 ### Die neuen Kurse des Wintersemesters 2023/24 starten vom 25.- 28.9.2023
 
 <div class="named-anchor" id="mo"></div>
@@ -108,7 +106,7 @@ Ermäßigungen: € 170 für StudentInnen <=28a, € 210 Sonstige\
 \
 Auf Anfrage für Kurse 1 und 3: 5﻿er Block € 90 - 120 bzw. Einzelstunden € 20–28
 
-**Semesterbeitrag Contact Improvisation Jam: € 100 - 200**\
+**Semesterbeitrag Contact Improvisation Jam: € 100 - 160**\
 **Jam einzeln: € 7–10**, **Specials: € 7-10**
 
 Bei Buchung von mehr als einem Kurs minus € 30 ab dem 2.Kurs\
