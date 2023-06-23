@@ -33,7 +33,7 @@ Jeder Termin ist einer bestimmten Improvisationsstruktur (Score) gewidmet. Wir o
 Dauer der Sessions: Jeweils ca. 2-3 Stunden inkl. Vor- und Nachbesprechung\
 Bitte immer pünktlich zur Vorbesprechung kommen. Die Informationen der Vorbesprechungen sind wichtig und  Voraussetzung für die Teilnahme an den Impro-Sessions.
 
-Zur künstlerischen Dokumentation des Projektes werden gelegentlich Fotos und Videoaufnahmen gemacht. Im Falle der Veröffentlichung von Fotos oder Videoausschnitten wird vorab die Zustimmung der Tänzer*innen für die Veröffentlichung in diversen sozialen Medien bzw. auf unserer webseite <rollingpoint.at> eingeholt.
+Fallweise werden Fotos und Videoaufnahmen gemacht. Für die Veröffentlichung dieser in diversen sozialen Medien bzw. auf unserer webseite <rollingpoint.at> wird die Zustimmung der Tänzer*innen  eingeholt.
 
 **Wie kann ich teilnehmen?**
 
