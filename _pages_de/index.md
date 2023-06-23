@@ -48,11 +48,11 @@ Di 19.9.2023  - 30.1.2024, Jam 18.30 – 20.40 (ca.17x), Specials 17.15 - 18.15*
 
 **Voraussichtlich jeden Sonntag 19.00-22.00, Prana Yoga Studio 1, Mariahilferstraße 82, 1070 Wien**
 
-### „Seltsamia“ - Dancing Mycelium
+### [„Seltsamia“ - Dancing Mycelium](/mycelium#dancemyc)
 
 **Exploring Interconnection and Movement Biodiversity**
 
-**Ein rollingpoint Mitmach-Contact Improvisation Projekt Sommer/Herbst 2023**
+**Ein experimentelles rollingpoint Mitmach-Contact Improvisation Outdoor-Projekt Sommer/Herbst 2023**
 
 **Mo 10.7.: 18:00 Freie Mitte / Ehemaliges Nordbahnhofgelände, 1020 Wien**
 
