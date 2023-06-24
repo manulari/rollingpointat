@@ -89,7 +89,7 @@ Die in den letzten Jahren populär gewordene Theorie der "4E Cognition" beschrei
 Siehe auch: <https://www.teachthought.com/learning/what-is-4e-cognition-a-framework-for-how-the-mind-makes-meaning/>\
 <https://brainlenses.substack.com/p/4e-cognition>
 
-Pilze galten immer schon als etwas Mysteriöses, Anrüchiges und Unberechenbares. Im Vergleich zu anderen Organismen ist das Reich der Pilze immer noch wenig erforscht. Auch in Österreich werden noch laufend neue Arten entdeckt und beschrieben, wie etwa die Pilzgattung Seltsamia (s.u.) Je mehr wir über Pilze lernen, desto mehr fordern sie uns heraus, unsere Annahmen über das Leben auf der Erde zu überdenken. Als Netzwerk organisiert und ohne zentrales Gehirn ausgestattet verfügen sie über eine erstaunliche Intelligenz. Im anthropozänen Zeitalter bedrohlichen Biodiversitätsverlustes und Klimaerwärmung könnten wir einiges von ihnen lernen.
+Pilze galten immer schon als etwas Mysteriöses, Anrüchiges und Unberechenbares. Im Vergleich zu anderen Organismen ist das Reich der Pilze immer noch wenig erforscht. Auch in Österreich werden noch laufend neue Arten entdeckt und beschrieben, wie etwa die Pilzgattung Seltsamia (s.u.) Je mehr wir über Pilze lernen, desto mehr fordern sie uns heraus, unsere Annahmen über das Leben auf der Erde zu überdenken. Als Netzwerk organisiert und ohne zentrales Gehirn ausgestattet verfügen sie über eine erstaunliche Intelligenz. Im anthropozänen Zeitalter bedrohlichen Biodiversitätsverlustes und von Klimaerwärmung könnten wir einiges von ihnen lernen.
 
 ![](/assets/uploads/10428163_666135826810806_5709185538764895315_o.jpg)
 
