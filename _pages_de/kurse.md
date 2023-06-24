@@ -65,9 +65,11 @@ mit **Christian Apschner *\- intermediate/advanced***\
 Turnsaal VS Einsiedlergasse 7, 1050 Wien
 
 Fortlaufende Trainingsgruppe mit drei open level Terminen\
-Teilnahme auch an einzelnen Terminen und 5er-Blocks möglich\
+Für Tänzer*innen mit entsprechenden Vorerfahrungen sind die Teilnahme auch an einzelnen Terminen und 5er-Blocks möglich.\
 \
-Lets get physical! Du bringst gute Basiskenntnisse der Contact Improvisation oder artverwandter Bewegungsformen mit und möchtest dein Bewegungsspektrum erweitern und verfeinern sowie gezielt Kraft, Koordination, Beweglichkeit und Körperreflexe trainieren? Dann ist diese Trainingsgruppe das richtige für dich. In diesem Kurs steht der physische Aspekt der Contact Improvisation im Vordergrund. Ein Schwerpunkt des Kurses wird sein, die Technik verschiedenster Lifts und Jumps in allen Raumebenen zu üben und kopfüber auf den Händen zu tanzen. Ziel ist es uns immer leichter dem gemeinsamen Bewegungsfluss hinzugeben und gleichzeitig den Tanz so präsent wahrzunehmen, dass wir ihn spielerisch lenken können. Jede Einheit endet mit Partner*innen Körperarbeits-Settings mit Elementen aus Nuad und Trager-Körperarbeit und Body Mind Centering.
+Lets get physical! Du bringst gute Basiskenntnisse der Contact Improvisation oder artverwandter Bewegungsformen mit und möchtest dein Bewegungsspektrum erweitern und verfeinern sowie gezielt Kraft, Koordination, Beweglichkeit und Körperreflexe trainieren? Dann ist diese Trainingsgruppe das richtige für dich. In diesem Kurs steht der physische Aspekt der Contact Improvisation im Vordergrund. Ein Schwerpunkt des Kurses wird sein, die Technik verschiedenster Lifts und Jumps in allen Raumebenen zu üben und kopfüber auf den Händen zu tanzen. Ziel ist es uns immer leichter dem gemeinsamen Bewegungsfluss hinzugeben und gleichzeitig den Tanz so präsent wahrzunehmen, dass wir ihn spielerisch lenken können. 
+
+Wir beenden die Tanzeinheiten immer mit Partner*innen Körperarbeits-Settings mit Elementen aus Trager-Körperarbeit, Nuad und sowie Body Mind Centering.  Anatomische Bilder unterstützen deine Vorstellungskraft und du kannst dir im Zeitverlauf praktische Grundkenntnisse in miteinander kompatiblen Körperarbeitsmethoden aneignen oder diese vertiefen.
 
 **Beginner*innen sind am Mittwoch zu folgenden Terminen zu einem open level Training inkl. Jam eingeladen:**\
 **25.10., 13.12.2023, 24.1.2024**
