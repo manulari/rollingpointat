@@ -62,15 +62,15 @@ Spenden auf unser Vereinskonto IBAN: AT54 3200 0000 1701 2717, BIC: RLNWATWW, Ve
 **Wann und wo?**
 
 **Mo 10.7.: 18:00: Parkanlage Freie Mitte / Ehemaliges Nordbahnhofgelände, 1020 Wien**\
-Koordinaten: 48.23088, 16.39098\
+Koordinaten: 48.2304, 16.3914\
 Bei der Lagerwiese oberhalb der alten Eisenbahnbrücke\
 Von der Innstraße 18 aus über die Leystraße bzw. von der Vorgartenstraße 98 aus in 150m erreichbar.
 
 **Sa 21.7., 18:00: Baumkreis Am Kobenzl, 1190 Wien**\
-Koordinaten: 48.26246, 16.31072
+Koordinaten: 48.2625, 16.3107
 
 [](<>)**So 27.8., 16.30: Mariahilferstraße / Christian-Broda-Platz, 1060 Wien**\
-Koordinaten: 48.19582, 16.34037\
+Koordinaten: 48.1958, 16.3404\
 Am Beginn der Mariahilferstraße vom Westbahnhof aus Richtung Museumsquartier\
 \
 **Änderungen möglich, website bitte zeitnah checken!**
