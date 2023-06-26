@@ -54,7 +54,7 @@ Beschränkte Teilnehmer*innenzahl
 
 **Die Teilnahme ist kostenlos.** Du trägst mit deiner Präsenz und deinen tänzerisch-improvisatorischen Fähigkeit zum Gelingen des Projektes bei.
 
-Als gemeinnütziger Verein zur Förderung der Contact Improvisation möchten wir den künstlerischen Dialog fördern, die Öffentlichkeit in unsere Arbeit einladen („Aufführung vor Publikum“) und einen positiven Beitrag an der Schnittstelle von Kunst, Naturwissenschaft, Tiefenökologie und Gemeinwesenarbeit leisten.
+Wir möchten mit dem Projekt wir den künstlerischen Dialog fördern, die Öffentlichkeit in unsere Arbeit einladen („Aufführung vor Publikum“) und einen positiven Beitrag an der Schnittstelle von Kunst, Naturwissenschaft, Tiefenökologie und Gemeinwesenarbeit leisten.
 
 **Möchtest du unsere Arbeit unterstützen?**\
 Spenden auf unser Vereinskonto IBAN: AT54 3200 0000 1701 2717, BIC: RLNWATWW, Verein rollingpoint, sind gerne willkommen.
