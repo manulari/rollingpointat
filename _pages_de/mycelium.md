@@ -48,8 +48,7 @@ Bitte mit Fahrrad, öffentlichen Verkehrsmitteln oder zu Fuß anreisen. Wir möc
 **Wie kann ich mich anmelden?**
 
 Bitte schreibe ein email an *[ci.rollingpoint@gmail.com](mailto:ci.rollingpoint@gmail.com)*\
-bzw. SMS/Tel. Christian Apschner 0650 8931081\
-Bitte angeben an welchem Termin du teilnehmen möchtest.
+bzw. SMS/Tel. Christian Apschner 0650 8931081
 
 **Die Teilnahme ist kostenlos.** Du trägst mit deiner Präsenz und deinen tänzerisch-improvisatorischen Fähigkeit zum Gelingen des Projektes bei.
 
