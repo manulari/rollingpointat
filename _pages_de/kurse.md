@@ -29,7 +29,7 @@ hinaus für **RE**generierendes, **L**ebendiges, **E**nergetisierendes, **A**ffi
 
 maRia verbindet in diesem Kurs Elemente aus
 Somatischem Lernen, Contact Improvisation mit geringer Gewichtsübertragung und
-Zeitgenössischem Tanz. Du kannst deine innewohnende körperliche Unmittelbarkeit des frühen Seins als Säugling und Kind wiederentdecken und das Zusammenspiel von Muskeln, Sehnen, Knochen und
+Zeitgenössischem Tanz. Du kannst deine innewohnende körperliche Unmittelbarkeit des frühen Seins als  Kind wiederentdecken und das Zusammenspiel von Muskeln, Sehnen, Knochen und
 Organen besser verstehen lernen. Spezifische Techniken aus dem zeitgenössischen Tanz
 helfen dir, deinen Körper bewusster einzusetzen und zu koordinieren. Vom Spüren, Berühren und Bewegen bereichert, improvisieren wir innerhalb vielfältiger Spielformen miteinander und probieren die eine oder andere Bewegungssequenz.
 
@@ -67,9 +67,9 @@ Turnsaal VS Einsiedlergasse 7, 1050 Wien
 Fortlaufende Trainingsgruppe mit drei open level Terminen\
 Für Tänzer*innen mit entsprechenden Vorerfahrungen sind die Teilnahme auch an einzelnen Terminen und 5er-Blocks möglich.\
 \
-Lets get physical! Du bringst gute Basiskenntnisse der Contact Improvisation oder artverwandter Bewegungsformen mit und möchtest dein Bewegungsspektrum erweitern und verfeinern sowie gezielt Kraft, Koordination, Beweglichkeit und Körperreflexe trainieren? Dann ist diese Trainingsgruppe das richtige für dich. In diesem Kurs steht der physische Aspekt der Contact Improvisation im Vordergrund. Ein Schwerpunkt des Kurses wird sein, die Technik verschiedenster Lifts und Jumps in allen Raumebenen zu üben und kopfüber auf den Händen zu tanzen. Ziel ist es uns immer leichter dem gemeinsamen Bewegungsfluss hinzugeben und gleichzeitig den Tanz so präsent wahrzunehmen, dass wir ihn spielerisch lenken können. 
+Lets get physical! Du bringst gute Basiskenntnisse der Contact Improvisation oder artverwandter Bewegungsformen mit und möchtest dein Bewegungsspektrum erweitern und verfeinern sowie gezielt Kraft, Koordination, Beweglichkeit und Körperreflexe trainieren? Dann werde Teil unserer motivierten Trainingsgruppe Gleichgesinnter! Ein Schwerpunkt des Kurses wird sein, die Technik verschiedenster Lifts und Jumps in allen Raumebenen zu üben und kopfüber auf den Händen zu tanzen. Ziel ist es uns immer leichter dem gemeinsamen Bewegungsfluss hinzugeben und gleichzeitig den Tanz so präsent wahrzunehmen, dass wir ihn spielerisch lenken können. 
 
-Wir beenden die Tanzeinheiten immer mit Partner*innen Körperarbeits-Settings mit Elementen aus Trager-Körperarbeit, Nuad und sowie Body Mind Centering.  Anatomische Bilder unterstützen deine Vorstellungskraft und du kannst dir im Zeitverlauf praktische Grundkenntnisse in miteinander kompatiblen Körperarbeitsmethoden aneignen oder diese vertiefen.
+Wir beenden die Tanzeinheiten immer mit Partner*innen Körperarbeits-Settings mit Elementen aus Trager-Körperarbeit, Nuad und sowie Body Mind Centering.  Anatomische Bilder unterstützen deine Vorstellungskraft und du kannst dir im Zeitverlauf praktische Grundkenntnisse in miteinander kompatiblen Körperarbeitsmethoden aneignen/vertiefen.
 
 **Beginner*innen sind am Mittwoch zu folgenden Terminen zu einem open level Training inkl. Jam eingeladen:**\
 **25.10., 13.12.2023, 24.1.2024**
@@ -84,13 +84,13 @@ mit **Christian Apschner - beginner**\
 **Do 18.15 – 20.30**, 27.9.2023.- 1.2.2024 (ca.15x)\
 Turnsaal VS Gilgegasse 12, 1090 Wien
 
-Dieser aufbauende Kurs ist als Grundkurs der Contact Improvisation gedacht. Du bist im sicheren Rahmen der Trainingsgruppe eingeladen immer tiefer in die Welt der Contact Improvisation einzutauchen. Mit ausreichend Zeit und Kontinuität lernst du Basics der Contact Improvisation kennen und erweiterst dein Bewegungsvokabular und sensorische Fähigkeiten Schritt für Schritt. So lernen wir z.B. wie es leicht und körperschonend geht, Gewicht abzugeben und zu übernehmen oder mit dem rollendem Kontaktpunkt und dem Bewegungsfluss zu spielen. Wir erforschen die Technik für einfache Jumps und Lifts, uns fallen zu lassen und sicher zu landen. Verschiedene Variationen von Roll- und Spiralbewegungen erweitern deine Bewegungsoptionen und unterstützen dich im Tanz geschmeidig und durchlässig zu werden.
+Dieser aufbauende Kurs ist als Grundkurs der Contact Improvisation (CI) gedacht. Du bist im sicheren Rahmen der Trainingsgruppe eingeladen immer tiefer in die Welt der CI einzutauchen. Mit ausreichend Zeit und Kontinuität lernst du Basics der CI kennen und erweiterst dein Bewegungsvokabular und sensorische Fähigkeiten Schritt für Schritt. So lernen wir z.B. wie es leicht und körperschonend geht, Gewicht abzugeben und zu übernehmen oder mit dem rollendem Kontaktpunkt und dem Bewegungsfluss zu spielen. Wir erforschen die Technik für einfache Jumps und Lifts, uns fallen zu lassen und sicher zu landen. Verschiedene Variationen von Roll- und Spiralbewegungen erweitern deine Bewegungsoptionen und unterstützen dich im Tanz geschmeidig und durchlässig zu werden.
 
 Nicht zuletzt verstehen wir die Contact Improvisation auch als eine Form von nonverbaler Kommunikation und Begegnung, in der wir lernen auf unsere eigenen körperlich-mentalen Bedürfnisse und Grenzen und die unserer TanzpartnerInnen gleichermaßen zu achten. In verbalen Feedback-Runden möchten wir diesen Erfahrungen zusätzlich Raum geben.
 
 Du bist eingeladen mit fortschreitendem Lernprozess an den rollingpoint-Jams teilzunehmen.
 
-Teilnahmeempfehlungen: Da wir in der Contact Improvisation gegenseitig Körpergewicht abgeben und übernehmen, sind ein bestimmtes Ausmaß an Bewegungstalent und Sensitivität für den eigenen Körper und die Grenzen anderer erforderlich für die Teilnahme an diesem Kurs. Bewegungsvorerfahrung aller Art sowie Lust und Freude an körperlichem Einsatz und sich “fallen zu lassen” sind von Vorteil.
+Teilnahmeempfehlungen: Da wir in der Contact Improvisation gegenseitig Körpergewicht abgeben und übernehmen, sind ein bestimmtes Ausmaß an Bewegungstalent und Sensitivität für den eigenen Körper und die Grenzen anderer erforderlich für die Teilnahme an diesem Kurs. Bewegungsvorerfahrung aller Art sowie Freude an Körperkontakt und sich “fallen zu lassen” sind von Vorteil.
 
 [Kosten](#kosten)
 
@@ -105,13 +105,14 @@ oder SMS/Tel. Christian 0650 8931081, maRia 0650 9510814
 
 **Kostenbeitrag Semesterkurse 1, 3 und 4: Normalpreis € 250**\
 Ermäßigungen: € 170 für StudentInnen <=28a, € 210 Sonstige\
+Bei Buchung von mehr als einem Kurs minus € 30 ab dem 2.Ku\
 \
 Auf Anfrage für Kurse 1 und 3: 5﻿er Block € 90 - 120 bzw. Einzelstunden € 20–28
 
-**Semesterbeitrag Contact Improvisation Jam: € 100 - 160**\
+**Semesterbeitrag Contact Improvisation Jam: € 100 - 170**\
 **Jam einzeln: € 7–10**, **Specials: € 7-10**
 
-Bei Buchung von mehr als einem Kurs minus € 30 ab dem 2.Kurs\
+\
 Die Reservierung des Kursplatzes erfolgt durch Einzahlung des vollen Kursbeitrages.\
 \
 \
