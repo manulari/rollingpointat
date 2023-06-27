@@ -20,17 +20,15 @@ Detailplanung in Arbeit
 **Wochenend-Workshop  2.+3.9.2023 beginner/open level**\
 **mit Christian Apschner und maRia Probst**
 
-In diesem Wochenend-Workshop möchten wir dich auf eine Entdeckungsreise in die drei Herzstücke rollingpoints einladen. Du lernst Basics der Contact Improvisation kennen und wie es leicht geht, Gewicht abzugeben und zu übernehmen oder mit dem rollenden Kontaktpunkt zu spielen. Du gewinnst einen kleinen Einblick in die Technik einfacher lifts und jumps und damit in die sportlich-dynamisch Seite der Contact Improvisation.
+In diesem Wochenend-Workshop möchten wir dich auf eine Entdeckungsreise in die drei Herzstücke rollingpoints einladen. Du lernst Basics der Contact Improvisation kennen und wie es leicht geht, Gewicht abzugeben und zu übernehmen oder mit dem rollenden Kontaktpunkt zu spielen. Du gewinnst einen Einblick in die Technik einfacher lifts und jumps und damit in die sportlich-dynamisch Seite der Contact Improvisation.
 
 Mittels Somatics, einer Form des körperlichen Lernens, kannst du deine innewohnende körperliche Unmittelbarkeit des frühen Seins als Kind in Bewegung wiederentdecken und das Zusammenspiel von Muskeln, Sehnen, Knochen und Organen besser verstehen lernen. Du wirst in einer speziellen Form des Zeitgenössischen Tanzes der "Anatomical Release Technique" erfahren, wie es sich anfühlt unnötige Spannung loszulassen und direkt in Bewegung freizusetzen. Diese Bewegungserfahrungen werden dir helfen im freien Tanzen und in der Contact Improvisation Leichtigkeit, Effizienz und Bewegungsvielfalt zu finden.
 
 Contact Improvisation verstehen wir auch als eine Form von nonverbaler Kommunikation und Begegnung, in der wir lernen auf unsere eigenen körperlich-mentalen Bedürfnisse und Grenzen und die unserer TanzpartnerInnen gleichermaßen zu achten. In verbalen Feedback-Runden möchten wir diesen Erfahrungen Raum geben.
 
-Alle unsere Angebote setzen ein gewisses Maß an Achtsamkeit voraus. Wir begreifen Bewegung als ein Zusammenspiel von Körper und Geist . Der gesamte Mensch tanzt.
-
 Zielgruppe: Alle die einen ersten tieferen Einblick in die Welt Contact Improvisation, des RELEASZE Tanztrainings und des Somatischen Lernens von rollingpoint machen möchten. Auch als **Contact Improvisation Starter-Kit und Orientierungsworkshop** gedacht. Erfahrene Tänzer\*innen sind wie immer ebenfalls gerne willkommen. Hier bietet sich die Möglichkeit den Beginner\*innengeist neu aufzufrischen und bereits Erlerntes neu zu reflektieren und zu verfeinern.
 
-Teilnahmeempfehlung: Du bewegst dich gerne, bist offen für Körperkontakt und bist dir selbst und anderen gegenüber verantwortungsbewusst, achtsam und aufmerksam.
+Teilnahmeempfehlung: Du bewegst dich gerne, bist offen für Körperkontakt und bist dir selbst und anderen gegenüber verantwortungsbewusst, achtsam und aufmerksam. Wir begreifen Bewegung als ein Zusammenspiel von Körper und Geist. Der gesamte Mensch tanzt.
 
 ## Organisatorisches:
 
