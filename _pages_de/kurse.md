@@ -110,7 +110,7 @@ Bei Buchung von mehr als einem Kurs minus € 30 ab dem 2.Ku\
 Auf Anfrage für Kurse 1 und 3: 5﻿er Block € 90 - 120 bzw. Einzelstunden € 20–28
 
 **Semesterbeitrag Contact Improvisation Jam: € 100 - 170**\
-**Jam einzeln: € 7–10**, **Specials: € 7-10**
+**Jam einzeln: € 7–11**, **Specials: € 7-11**
 
 \
 Die Reservierung des Kursplatzes erfolgt durch Einzahlung des vollen Kursbeitrages.\
