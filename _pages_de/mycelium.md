@@ -15,7 +15,7 @@ language: de
 
 **Termine**
 
-**Mo 10.7.: 18:00 Freie Mitte / Ehemaliges Nordbahnhofgelände**
+**Mo 10.7. 18:00: Freie Mitte / Ehemaliges Nordbahnhofgelände**
 
 **Sa 22.7. 18:00: Am Himmel / Baumkreis am Cobenzl**
 
