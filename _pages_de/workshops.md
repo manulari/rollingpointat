@@ -17,7 +17,7 @@ Detailplanung in Arbeit
 
 #### **TUNE IN! Contact Improvisation/Somatics/Release Technique**
 
-**Wochenend-Workshop  2.+3.9.2023 beginner/open level**\
+**Wochenend-Workshop  2.+3.9.2023, 10.00-17.00, beginner/open level**\
 **mit Christian Apschner und maRia Probst**
 
 In diesem Wochenend-Workshop möchten wir dich auf eine Entdeckungsreise in die drei Herzstücke rollingpoints einladen. Du lernst Basics der Contact Improvisation kennen und wie es leicht geht, Gewicht abzugeben und zu übernehmen oder mit dem rollenden Kontaktpunkt zu spielen. Du gewinnst einen Einblick in die Technik einfacher lifts und jumps und damit in die sportlich-dynamisch Seite der Contact Improvisation.
