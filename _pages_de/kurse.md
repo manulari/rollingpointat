@@ -90,7 +90,7 @@ Nicht zuletzt verstehen wir die Contact Improvisation auch als eine Form von non
 
 Du bist eingeladen mit fortschreitendem Lernprozess an den rollingpoint-Jams teilzunehmen.
 
-Teilnahmeempfehlungen: Da wir in der Contact Improvisation gegenseitig Körpergewicht abgeben und übernehmen, sind Sensitivität für den eigenen Körper und die Grenzen anderer erforderlich für die Teilnahme an diesem Kurs. Bewegungsvorerfahrung aller Art sowie Freude an Körperkontakt und sich “fallen zu lassen” sind von Vorteil.
+Teilnahmeempfehlungen: Da wir in der Contact Improvisation gegenseitig Körpergewicht abgeben und übernehmen, sind ein Grundausmaß an Sensitivität für den eigenen Körper und die Grenzen anderer erforderlich für die Teilnahme an diesem Kurs. Bewegungsvorerfahrung aller Art sowie Freude an Körperkontakt und sich “fallen zu lassen” sind von Vorteil.
 
 [Kosten](#kosten)
 
