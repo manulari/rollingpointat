@@ -50,7 +50,7 @@ Turnsaal VS Einsiedlergasse 7, 1050 Wien
 
 Die wöchtenliche rollingpoint-Jam übersiedelt mit 19.9.2023 vom Prana Yoga Studio in den schönen großen Turnsaal der VS Einsiedlergasse. 
 
-Unsere Jams sind Orte für fokussiertes Contact Improvisation-Tanzen an denen wir CI als zeitgenössische Tanz- und Kunstform praktizieren. Wir achten darauf einen gemeinsamen Raum zu halten, in dem sich alle sicher fühlen und erwarten von den TeilnehmerInnen CI-Kurserfahrungen im Sinne von Grundkenntnissen.
+Unsere Jams sind Orte für fokussiertes Contact Improvisation-Tanzen. Wir achten darauf einen gemeinsamen Raum zu halten, in dem sich alle sicher fühlen und erwarten von den TeilnehmerInnen CI-Kurserfahrungen im Sinne von Grundkenntnissen.
 
 Die regulären Jams dauern jeweils von 18.30-20.40. Vor den Jams von 17.15-18.15 wird es immer wieder einstündige Specials mit unterschiedlichem Fokus und verschiedenen Lehrer\*innen geben. Geplant sind auch Spezialformate wie Underscore oder Beginner\*innen Jams. Die Ausschreibung dieser Termine erfolgt jeweils zeitnah zu den Terminen.
 
@@ -67,7 +67,7 @@ Turnsaal VS Einsiedlergasse 7, 1050 Wien
 Fortlaufende Trainingsgruppe mit drei open level Terminen\
 Für Tänzer*innen mit entsprechenden Vorerfahrungen sind die Teilnahme auch an einzelnen Terminen und 5er-Blocks möglich.\
 \
-Lets get physical! Du bringst gute Basiskenntnisse der Contact Improvisation oder artverwandter Bewegungsformen mit und möchtest dein Bewegungsspektrum erweitern und verfeinern sowie gezielt Kraft, Koordination, Beweglichkeit und Körperreflexe trainieren? Dann werde Teil unserer motivierten Trainingsgruppe Gleichgesinnter! Ein Schwerpunkt des Kurses wird sein, die Technik verschiedenster Lifts und Jumps in allen Raumebenen zu üben und kopfüber auf den Händen zu tanzen. Ziel ist es uns immer leichter dem gemeinsamen Bewegungsfluss hinzugeben und gleichzeitig den Tanz so präsent wahrzunehmen, dass wir ihn spielerisch lenken können. 
+Lets get physical! Du bringst gute Basiskenntnisse der Contact Improvisation oder artverwandter Bewegungsformen mit und möchtest dein Bewegungsspektrum erweitern und verfeinern sowie gezielt Kraft, Koordination, Beweglichkeit und Körperreflexe trainieren? Dann werde Teil unserer motivierten Trainingsgruppe! Ein Schwerpunkt des Kurses wird sein, die Technik verschiedenster Lifts und Jumps in allen Raumebenen zu üben und kopfüber auf den Händen zu tanzen. Ziel ist es uns immer leichter dem gemeinsamen Bewegungsfluss hinzugeben und gleichzeitig den Tanz so präsent wahrzunehmen, dass wir ihn spielerisch lenken können. 
 
 Wir beenden die Tanzeinheiten immer mit Partner*innen Körperarbeits-Settings mit Elementen aus Trager-Körperarbeit, Nuad und sowie Body Mind Centering.  Anatomische Bilder unterstützen deine Vorstellungskraft und du kannst dir im Zeitverlauf praktische Grundkenntnisse in miteinander kompatiblen Körperarbeitsmethoden aneignen/vertiefen.
 
@@ -84,7 +84,7 @@ mit **Christian Apschner - beginner**\
 **Do 18.15 – 20.30**, 27.9.2023.- 1.2.2024 (ca.15x)\
 Turnsaal VS Gilgegasse 12, 1090 Wien
 
-Dieser aufbauende Kurs ist als Grundkurs der Contact Improvisation (CI) gedacht. Du bist im sicheren Rahmen der Trainingsgruppe eingeladen immer tiefer in die Welt der CI einzutauchen. Mit ausreichend Zeit und Kontinuität lernst du Basics der CI kennen und erweiterst dein Bewegungsvokabular und sensorische Fähigkeiten Schritt für Schritt. So lernen wir z.B. wie es leicht und körperschonend geht, Gewicht abzugeben und zu übernehmen oder mit dem rollendem Kontaktpunkt und dem Bewegungsfluss zu spielen. Wir erforschen die Technik für einfache Jumps und Lifts, uns fallen zu lassen und sicher zu landen. Verschiedene Variationen von Roll- und Spiralbewegungen erweitern deine Bewegungsoptionen und unterstützen dich im Tanz geschmeidig und durchlässig zu werden.
+Dieser aufbauende Kurs ist als Grundkurs der Contact Improvisation (CI) gedacht. Du bist im sicheren Rahmen der Trainingsgruppe eingeladen immer tiefer in die Welt der CI einzutauchen. Mit ausreichend Zeit und Kontinuität lernst du Basics der CI kennen und erweiterst dein Bewegungsvokabular und sensorische Fähigkeiten Schritt für Schritt. So lernen wir z.B. wie es leicht und körperschonend geht, Gewicht abzugeben und zu übernehmen oder mit dem rollenden Kontaktpunkt und dem Bewegungsfluss zu spielen. Wir erforschen die Technik für einfache Jumps und Lifts, uns fallen zu lassen und sicher zu landen. Verschiedene Variationen von Roll- und Spiralbewegungen erweitern deine Bewegungsoptionen und unterstützen dich im Tanz geschmeidig und durchlässig zu werden.
 
 Nicht zuletzt verstehen wir die Contact Improvisation auch als eine Form von nonverbaler Kommunikation und Begegnung, in der wir lernen auf unsere eigenen körperlich-mentalen Bedürfnisse und Grenzen und die unserer TanzpartnerInnen gleichermaßen zu achten. In verbalen Feedback-Runden möchten wir diesen Erfahrungen zusätzlich Raum geben.
 
