@@ -11,16 +11,8 @@ The regular rollingpoint Contact Improvisations Jam takes place every Sunday eve
 
 Furthermore, there are open jams on wednesday evenings on school days in connection with a previous CI training in the gym of VS Einsiedlergasse 7.
 
-## rollingpoint-Jam on Wednesday
-
-**on schooldays Wednesday  19.10 - 20.40**\
-Turnsaal VS Einsiedlergasse 7, 1050 Wien\
-This jam takes place after the advanced training. Experienced dancers can also attend this jam independently of the pervious training.\
-\
-We offer **open level Contact Improvisation evenings for beginners** on the following dates. It also includes participation in the jams: **March 22nd, April 26th, May 24th. and June 21st 2023**
-
-**[CI-advanded Training +Jam](dojo)**
-Fee for jam: 7-10€, training incl. jam: 14-24€
+## From 19.9.2023 our Jam will take place on tuesdays:\
+18.30 - 20.40 Einsiedlergasse 7, 1050 Wien
 
 ## rollingpoint-Jam on Sunday
 
