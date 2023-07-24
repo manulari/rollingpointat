@@ -6,83 +6,81 @@ other_lang: /kurse
 ---
 Semester courses 
 
-| day     | time            | teacher             | course                                                                            | place                         |
-| ------- | --------------- | ------------------- | --------------------------------------------------------------------------------- | ----------------------------- |
-| **mo**  | **18.30-20.30** | **maRia**           | **[1 RELEASZ - Contempory Dance and Somatics / open level](#mo)**                 | **Gilgegasse 12, 1090 Wien**  |
-| **tue** | **18.15-20.30** | **Christian**       | [](#mie)**[2 Contact Improvisation and -Technique / beginner/intermediate](#di)** | **Einsiedlerg. 7, 1050 Wien** |
-| **wed** | **17.30-20.40** | **Christian u.a.**  | **[3 Contact Dojo: Contact Improvisation advanced open Jam](#mi)**                | **Einsiedlerg. 7, 1050 Wien** |
-| **thu** | **18.30-20.30** | **maRia/Christian** | **[4 GANZ Holistic body training + Dance and Shake / open level](#do)**           | **Gilgegasse 12, 1090 Wien**  |
+| day     | time                    | teacher             | course                                                                   | place                         |
+| ------- | ----------------------- | ------------------- | ------------------------------------------------------------------------ | ----------------------------- |
+| **mo**  | **18.30-20.30**         | **maRia**           | **[1 RELEASZ - Contempory Dance and Somatics / open level](#mo)**        | **Gilgegasse 12, 1090 Wien**  |
+| **tue** | **(17.15) 18.15-20.40** | **maRia/Christian** | [](#mie)**[2 Contact Improvisation Jam + Specials](#di)**                | **Einsiedlerg. 7, 1050 Wien** |
+| **wed** | **18.00-20.40**         | **Christian u.a.**  | **[3 Wild and Soft - Contact Improvisation intermediate/advanced](#mi)** | **Einsiedlerg. 7, 1050 Wien** |
+| **thu** | **18.15-20.30**         | **maRia/Christian** | **[4 Contact Improvisation and -Technique Basics  / beginner](#do)**     | **Gilgegasse 12, 1090 Wien**  |
 
 &nbsp;
 
-### New courses (Summer semester 2023) will be starting from 27.2.- 2.3.2023
+### New courses (Winter semester 2023/24) will be starting from 25.- 28.9.2023
 
 <div class="named-anchor" id="mo"></div>
 
-#### 1 RELEASZ Contempory Dance and Somatics“
+#### 1 RELEASZ - Contempory Dance and Somatics
 
 with **maRia Probst**\
 *Contemporary Dance* - *open level*\
-**mo 18.30 - 20.30**, 27.2.– 19.6.2023 (ca.15x)\
+**mo 18.30 - 20.30**, 25.9.2023 – 29.1.2024 (ca.15x)\
 Turnsaal VS Gilgegasse 12, 1090 Wien
 
 Release technique into momentum. Improvisation, dance sequences, somatics and embodiment
 
 <div class="named-anchor" id="di"></div>
 
-#### 2 Contact Improvisation and - Technique
+#### 2 Contact Improvisation Jam + Specials
 
-with **Christian Apschner**\
-*“Mindfulness, Challenge and Flow” / ongoing study group - beginner/intermediate*\
-**tue 18.15 – 20.30**, 28.2.- 20.6..2023 (ca. 16x)\
+Christian Apschner, maRia Probst and guest teachers\
+**tue Jam 18.30 – 20.40, Specials 17.15 - 18.15 , 19.9.2023 - 30.1.2024 (ca.17x)**\
 Turnsaal VS Einsiedlergasse 7, 1050 Wien
 
-Exploring Contact basis such as rolling, falling, landing, spiraling\
-Giving and taking weight, rollingpoint of contact\
-Strenght, mobility and coordination training\
-Easy jumps and lifts\
-Group improvisation and Instant Composition
+Our jams are a place for focused Contact Improvisation dancing where CI is practiced as contemporary dance and art form. We want to offer a space in which everyone feels safe. Participants are asked to have CI course experience in the sense of basic knowledge.\
+\
+Specials will be announced just before the dates\
+no registration needed
+
+
 
 <div class="named-anchor" id="mi"></div>
 
-#### 3 **Contact Improvisation advanced + open Jam (=Contact Dojo)**
+#### 3 "Wild and Soft" - **Contact Improvisation  intermediate/advanced** 
 
-with **Christian Apschner and guest teachers**\
-**wed 17.30 - 20.40**, 1.3.– 21.6.2023 (ca.15x)\
+with **Christian Apschner**\
+**wed 18.00 - 20.40, 27.9.2023 – 31.1.2024 (ca.15x)**\
 Turnsaal VS Einsiedlergasse 7, 1050 Wien\
-**study group 17.30-19.00**\
-**open jam 19.10-20.40**
-
 **Beginners are invited to participate in open level trainings and jams on**\
-**22.3., 26.4. und 24.5. and 21.6.2023**
+**25.10., 13.12.2023, 24.1.2024**
 
-We create a connection between the athletic and meditative and learn to take weight in a body-friendly way through anatomically good alignment, tonus modulation and the use of momentum. In our learning process we want to find the ability to follow the flow of movement and at the same time to perceive the dance so presently that this flow can directed and redirected in a playful way.
+Lets get physical! We create a connection between the athletic and meditative and learn to take weight in a body-friendly way through anatomically good alignment, tonus modulation and the use of momentum. In our learning process we want to find the ability to follow the flow of movement and at the same time to perceive the dance so presently that this flow can directed and redirected in a playful way.
 
 <div class="named-anchor" id="do"></div>
 
-#### 4 GANZ Holistic Body Training for CI + Dance and Shake
+#### 4 Contact Improvisation and -Technique Basics (beginner)
 
-with **maRia Probst and Christian Apschner (alternating)**\
-*open level*\
-**Do 18.30 – 20.30**, 2.3.- 23.6.2023 (ca. 14x)\
-Turnsaal VS Gilgegasse 12, 1090 Wien
+with **Christian Apschner**\
+**thu 18.15 – 20.30**, 27.9.2023.- 1.2.2024 (ca.15x)
 
-Anatomical Release Training, Feldenkrais, Trager\
-3-D coordination for Contact Improvisation\
-Elements of Yoga, Qi Gong, Mentastics and Contemporary Dance\
+*ongoing study group*
+
+Exploring Contact basics such as rolling, falling, landing, spiraling\
+Giving and taking weight, rolling point of contact\
 Core strenght, mobility and coordination training\
-Open dancing and shaking to music
+Easy jumps and lifts\
+Group improvisation and Instant Composition\
+Anatomical Release Technique, 3-D coordination for Contact Improvisation\
+Verbal feedback rounds
 
-### Registration and Costs:
+### **Registration and Costs:**
 
 **Registration: Please send us an email to ci.rollingpoint@gmail.com**\
 phone Christian +43 650 8931081, maRia +43 650 9510814
 
-**Costs Course 1 ,2 and 4: € 250 (regular), € 200 (reduced), € 160 (students <28a)**\
+**Costs Course 1 ,3 and 4: € 250 (regular), € 210 (reduced), € 170 (students <28a)**\
 **single class**: **€ 27 (regular), € 20 (reduced)**
 
-**Course 3: € 230 (regular), € 190(regular), € 150 (students <28a)**\
-**single class (CI-Training incl. Jam): € 14 - 24, Jam € 7 - 10**\
+**Jam € 7 - 11, Specials € 7 - 11**\
 \
 If you book two courses, you get a discount of €30,- for the second/third course.
 
