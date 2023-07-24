@@ -24,7 +24,7 @@ Fotocredit: https://johannes-stolba.net/photography/
 
 ### **KURSBEGINN WINTERSEMESTER 2023/24: 25.- 28.9.2023**
 
-**[1 RELEASZ Tanztraining: ](/kurse#mo)[Zeitgenössischer Tanz / CI-light / Somatisches Lernen](/kurse#mo)** **open level**\
+**[1 RELEASZ Tanztraining: ](/kurse#mo)****[Zeitgenössischer Tanz / CI-light / Somatisches Lernen](/kurse#mo)** **open level**\
  **mit maRia Probst**\
 **Mo 25.9.2023 – 29.1.2024, 18.30 - 20.15 (ca.16x)**\
 **Turnsaal VS Gilgegasse 12, 1090 Wien**
@@ -45,7 +45,7 @@ Di 19.9.2023  - 30.1.2024, Jam 18.30 – 20.40 (ca.17x), Specials 17.15 - 18.15*
 
 ##### **[rollingpoint-Jams im Sommer 2023:](/jams)**
 
-**Voraussichtlich jeden Sonntag 19.00-22.00, Prana Yoga Studio 1, Mariahilferstraße 82, 1070 Wien**
+**Auch im Sommer jeden Sonntag 19.00-22.00, Prana Yoga Studio 1, Mariahilferstraße 82, 1070 Wien**
 
 ### [„Seltsamia“ - Dancing Mycelium](/mycelium#dancemyc)
 
