@@ -13,7 +13,7 @@ Die reguläre rollingpoint Jam findet jeden Sonntag Abend von 19.00-22.00 im Pra
 
 ## rollingpoint-Jam am Sonntag
 
-**Jeden Sonntag 19.00 - 22.00**\
+**Jeden Sonntag 19.00 - 22.00 (auch im Sommer)**\
 Prana Yoga-Studio Nr. 1, 2. Innenhof, 1. Stock, Mariahilferstr. 82, 1070 Wien\
 Keine Anmeldung erforderich.
 
