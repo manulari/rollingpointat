@@ -54,8 +54,8 @@ A solid basic CI and dance experience as well as good physical and mental fitnes
 Phone Christian +43650 8931081, maRia +43650 9510814
 
 **Costs:**\
-**€ 200/160/120,-** (supporter/regular/reduced) if payment is made up to 14 days before the start of the workshop\
-**€ 220/180/140,-** (supporter/regular/reduced)
+**€ 200/170/130,-** (supporter/regular/reduced) if payment is made up to 14 days before the start of the workshop\
+**€ 220/190/150,-** (supporter/regular/reduced)
 
 Payment should be made on our bankaccount\
 IBAN:AT54 3200 0000 1701 2717, BIC: RLNWATWW, Verein rollingpoint, einzahlen. 
