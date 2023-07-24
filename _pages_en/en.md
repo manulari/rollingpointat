@@ -24,36 +24,39 @@ other_lang: /
 
 ### Evening courses / study groups
 
-**Start summersemester 2023: 27.2.-2.3.2023**
+**Start Wintersemester 2023/24: 25.9.-28.9.2023**
 
 **[1 mo RELEASZ Contemporary Dance and Somatics](/en/kurse#mo)** - **open level**\
 **with maRia Probst**  \
-**start mo 27.2.2023, 18.30 - 20.30**\
+**start mo 25.9.2023, 18.30 - 20.30**\
 **Turnsaal VS Gilgegasse 12, 1090 Wien**
 
-**[2 tue Contact Improvisation and -Technique ](/en/kurse#di)- beginner/intermediate**\
+**[2 tue Contact Improvisation Jam + Specials](/en/kurse#di)**\
+**with maRia Probst, Christian Apschner and guest teachers**\
+**start tue 19.9.2023, Specials 17.15 - 18.15, Jam 18.30 - 20.40**\
+**Turnsaal VS Einsiedlergasse 7, 1050 Wien**
+
+**[3 wed Wild and Soft . Contact Improvisation](/en/kurse#mi) intermediate/advanced**\
 **with Christian Apschner**\
-**start tue 28.2.2023, 18.15 - 20.30**\
+**start wed  27.9.2023, 18.00 - 20.40**\
 **Turnsaal VS Einsiedlergasse 7, 1050 Wien**
 
-**[3 wed Contact Improvisation](/en/kurse#mi) advanced**\
-**mit Christian Apschner and guest teachers**\
-**start wed  1.3.2023, 17.30 - 19.00 (training), 19.10-20.40 (jam)**\
-**Turnsaal VS Einsiedlergasse 7, 1050 Wien**
-
-**[4 thu GANZ Holistic training + „Dance and Shake"](/en/kurse#do)** - **open level**\
-**with Ria Probst and Christian Apschner (alternating)**\
-**start thu 2.3.2023, 18.30 – 20.30**\
+**[4 thu Contact Improvisations and - Technique Basics](/en/kurse#do)** - **beginner**\
+**with  Christian Apschner**\
+**start thu 28.9.2023, 18.15 – 20.30**\
 **Turnsaal VS Gilgegasse 12, 1090 Wien**
 
 ### Weekend-Workshops:
 
-**13./14.5.2023 with maRia Probst**
+### \
+**2.+3.9.2023 with maRia Probst und Christian Apschner**
 
-**3./4.6.2023 with Christian Apschner**
+**14.+15.10.2023 with Christian Apschner**\
+**18.+19.11.2023 with maRia Probst**\
+**20.+21.1.2024 Contact Flying Skills mit Christian Apschner and Lui Springer**
 
 ### **rollingpoint-Jams**
 
-**[wednesday when schoolday and every sunday evening](https://rollingpoint.at/en/jams)**
+**[Every sunday evening](https://rollingpoint.at/en/jams)**
 
 &nbsp;
