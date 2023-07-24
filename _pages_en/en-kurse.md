@@ -41,11 +41,9 @@ Our jams are a place for focused Contact Improvisation dancing where CI is prac
 Specials will be announced just before the dates\
 no registration needed
 
-
-
 <div class="named-anchor" id="mi"></div>
 
-#### 3 "Wild and Soft" - **Contact Improvisation  intermediate/advanced** 
+#### 3 "Wild and Soft" - **Contact Improvisation  intermediate/advanced**
 
 with **Christian Apschner**\
 **wed 18.00 - 20.40, 27.9.2023 – 31.1.2024 (ca.15x)**\
@@ -60,7 +58,8 @@ Lets get physical! We create a connection between the athletic and meditative an
 #### 4 Contact Improvisation and -Technique Basics (beginner)
 
 with **Christian Apschner**\
-**thu 18.15 – 20.30**, 27.9.2023.- 1.2.2024 (ca.15x)
+**thu 18.15 – 20.30**, 27.9.2023.- 1.2.2024 (ca.15x)\
+Turnsaal VS Gilgegasse 12, 1090 Wien
 
 *ongoing study group*
 
