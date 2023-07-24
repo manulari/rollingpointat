@@ -17,7 +17,7 @@ Fotocredits: He Shao Hui
 **18.+19.11.2023 mit maRia Probst**\
 **20.+21.1.2024 Contact Flying Skills mit Christian Apschner und Lui Springer**
 
-more detaiks coming soon\
+more details coming soon\
 &nbsp;
 
 #### **TUNE IN! Contact Improvisation/Somatics/Release Technique**
