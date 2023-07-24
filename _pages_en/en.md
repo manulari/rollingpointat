@@ -4,7 +4,7 @@ title: rollingpoint - Contact Improvisation und artverwandte Tanz- und Bewegungs
 language: en
 other_lang: /
 ---
-### Contact Improvisation - Somatics - Contemporary Dance 
+### Contact Improvisation - Somatics - Contemporary Dance
 
 ### **This is a short version of our German website**
 
@@ -17,8 +17,6 @@ other_lang: /
 #### &nbsp;
 
 <div class="imglink"><a target="_blank" href="https://www.youtube.com/embed/kp3DqzN1Ldo"><img src="/assets/uploads/video_vorschau_rollingpoint.png" alt="" /><div>rollingpoint film</div></a></div>
-
-
 
 ### Overview Coures/Workshops/Jams/Performances
 
@@ -41,12 +39,13 @@ other_lang: /
 **start wed  27.9.2023, 18.00 - 20.40**\
 **Turnsaal VS Einsiedlergasse 7, 1050 Wien**
 
-**[4 thu Contact Improvisations and - Technique Basics](/en/kurse#do)** - **beginner**\
+**[4 thu Contact Improvisation and -Technique Basics](/en/kurse#do)** - **beginner**\
 **with  Christian Apschner**\
 **start thu 28.9.2023, 18.15 – 20.30**\
 **Turnsaal VS Gilgegasse 12, 1090 Wien**
 
-### Weekend-Workshops:\
+### Weekend-Workshops:
+
 **2.+3.9.2023 with maRia Probst und Christian Apschner**
 
 **14.+15.10.2023 with Christian Apschner**\
