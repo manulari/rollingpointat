@@ -11,7 +11,8 @@ The regular rollingpoint Contact Improvisations Jam takes place every Sunday eve
 
 Furthermore, there are open jams on wednesday evenings on school days in connection with a previous CI training in the gym of VS Einsiedlergasse 7.
 
-## From 19.9.2023 our Jam will take place on tuesdays:\
+## From 19.9.2023 our Jam will take place on tuesdays:
+
 18.30 - 20.40 Einsiedlergasse 7, 1050 Wien
 
 ## rollingpoint-Jam on Sunday
