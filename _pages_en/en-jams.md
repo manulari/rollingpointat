@@ -24,7 +24,7 @@ No registration needed.
 **Arrival time 19.00 bis 19.30**; Before 19.00 and after 19.30 no entry is possible.\
 Sometimes with guided warm-ups, selected music and soundscapes in the second half of the jams.
 
-**Costs donation based:  10€ (min 6€),** should be paid on our bank account IBAN: AT54 3200 0000 1701 2717, BIC: RLNWATWW, Verein rollingpoint
+**Costs donation based:  10€ (min 7€),** should be paid on our bank account IBAN: AT54 3200 0000 1701 2717, BIC: RLNWATWW, Verein rollingpoint
 
 **Notes about safety in the CI jam:**
 
