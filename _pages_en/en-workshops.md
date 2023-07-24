@@ -9,19 +9,33 @@ language: en
 
 Fotocredits: He Shao Hui
 
-> ### New workshops - Save the date!
->
-> **13./14.5.2023 with maRia Probst**\
-> **3./4.6.2023 with Christian Apschner**\
-> **details coming soon**
+## Upcoming Weekend Workshops
 
-## Weekend Workshops  01/2023
+**2.+3.9.2023 mit maRia Probst und Christian Apschner (siehe unten)**
 
+**14.+15.10.2023 mit Christian Apschner**\
+**18.+19.11.2023 mit maRia Probst**\
+**20.+21.1.2024 Contact Flying Skills mit Christian Apschner und Lui Springer**
+
+more detaiks coming soon\
 &nbsp;
+
+#### **TUNE IN! Contact Improvisation/Somatics/Release Technique**
+
+**Weekend-Workshop 2.+3.9.2023, 10.00-17.00, beginner/open level**\
+**with Christian Apschner and maRia Probst**
+
+We invite you on a journey into the three core elements of our approach to dance. You will learn the basics of **Contact Improvisation** how to give and take weight and to play with the rolling point of contact. With **Somatics** you can rediscover your inherent physical immediacy of being a child in motion and learn to better understand the interaction of muscles, tendons, bones and organs. In **Anatomical Release Technique** you will experience what it feels like to let go of unnecessary tension and release it directly in movement. These movement experiences will help you to find ease, efficiency in free dancing and Contact Improvisation.
+
+We also understand Contact Improvisation as a form of non-verbal communication and encounter, in which we learn to pay equal attention to our own physical and mental needs and limits and those of our dance partners. We would like to give space to these experiences in verbal feedback rounds.
+
+Target group: Anyone who would like to get a first, deeper insight into the world of Contact Improvisation, RELEASZE dance training and Somatics. Also intended as a Contact Improvisation starter kit and orientation workshop. As always, experienced dancers are welcome.
+
+
 
 #### **"Contact Flying Skills"** - advanced
 
-**sat/sun 14./15.1.2023, 10.00-17.00  (ca 1,5h lunch break)**\
+**sat/sun 20.+21.1.2024, 10.00-17.00  (ca 1,5h lunch break)**\
 **with Christian Apschner and Lui Springer (support)**
 
 The rollingpoint workshop classic for all CI dancers with sporting ambitions!
