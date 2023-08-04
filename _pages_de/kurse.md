@@ -81,7 +81,7 @@ Wir beenden die Tanzeinheiten immer mit Partner*innen Körperarbeits-Settings mi
 #### 4  Contact Improvisation and -Technique Basics
 
 mit **Christian Apschner - beginner**\
-**Do 18.15 – 20.30**, 27.9.2023.- 1.2.2024 (ca.15x)\
+**Do 18.15 – 20.30, 28.9.2023.- 1.2.2024 (ca.15x)**\
 Turnsaal VS Gilgegasse 12, 1090 Wien
 
 Dieser aufbauende Kurs ist als Grundkurs der Contact Improvisation (CI) gedacht. Du bist im sicheren Rahmen der Trainingsgruppe eingeladen immer tiefer in die Welt der CI einzutauchen. Mit ausreichend Zeit und Kontinuität lernst du Basics der CI kennen und erweiterst dein Bewegungsvokabular und sensorische Fähigkeiten Schritt für Schritt. So lernen wir z.B. wie es leicht und körperschonend geht, Gewicht abzugeben und zu übernehmen oder mit dem rollenden Kontaktpunkt und dem Bewegungsfluss zu spielen. Wir erforschen die Technik für einfache Jumps und Lifts, uns fallen zu lassen und sicher zu landen. Verschiedene Variationen von Roll- und Spiralbewegungen erweitern deine Bewegungsoptionen und unterstützen dich im Tanz geschmeidig und durchlässig zu werden.
