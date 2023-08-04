@@ -23,7 +23,7 @@ Semester courses
 
 with **maRia Probst**\
 *Contemporary Dance* - *open level*\
-**mo 18.30 - 20.30**, 25.9.2023 – 29.1.2024 (ca.15x)\
+**mo 18.30 - 20.30, 25.9.2023 – 29.1.2024 (ca.15x)**\
 Turnsaal VS Gilgegasse 12, 1090 Wien
 
 Release technique into momentum. Improvisation, dance sequences, somatics and embodiment
@@ -58,7 +58,7 @@ Lets get physical! We create a connection between the athletic and meditative an
 #### 4 Contact Improvisation and -Technique Basics (beginner)
 
 with **Christian Apschner**\
-**thu 18.15 – 20.30**, 27.9.2023.- 1.2.2024 (ca.15x)\
+**thu 18.15 – 20.30, 28.9.2023.- 1.2.2024 (ca.15x)**\
 Turnsaal VS Gilgegasse 12, 1090 Wien
 
 *ongoing study group*
