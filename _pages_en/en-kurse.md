@@ -79,7 +79,7 @@ phone Christian +43 650 8931081, maRia +43 650 9510814
 **Costs Course 1 ,3 and 4: € 250 (regular), € 210 (reduced), € 170 (students <28a)**\
 **single class**: **€ 27 (regular), € 20 (reduced)**
 
-**Jam € 7 - 11, Specials € 7 - 11**\
+**Jam € 7 - 12, Specials € 7 - 12**\
 \
 If you book two courses, you get a discount of €30,- for the second/third course.
 
