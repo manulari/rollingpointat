@@ -8,7 +8,7 @@ Fotocredits: He Shao Hui\
 \
 **2.+3.9.2023 mit maRia Probst und Christian Apschner (siehe unten)**
 
-**14.+15.10.2023 mit Christian Apschner**\
+**4.+5.11.2023 mit Christian Apschner**\
 **18.+19.11.2023 mit maRia Probst**\
 **20.+21.1.2024 Contact Flying Skills mit Christian Apschner und Lui Springer**\
 Detailplanung in Arbeit
