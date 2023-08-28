@@ -21,7 +21,7 @@ language: de
 
 [](<>)**So 27.8. 16.30: Mariahilferstraße**
 
-Es gibt Fotos vom Termin Am Himmel. Vielen Dank an Michael Waldeck für die tolle Fotodokumentation. Fotocredits: Michael Waldeck
+News vom 28.8.2023: Es gibt Fotos vom Termin Am Himmel. Vielen Dank an Michael Waldeck für die tolle Fotodokumentation. Fotocredits: Michael Waldeck
 
 
 
