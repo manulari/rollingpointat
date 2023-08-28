@@ -21,8 +21,29 @@ language: de
 
 [](<>)**So 27.8. 16.30: Mariahilferstraße**
 
-Genaue Ortsangaben: siehe unten\
-Änderungen möglich, bitte zeitnah webite checken
+Es gibt Fotos vom Termin Am Himmel. Vielen Dank an Michael Waldeck für die tolle Fotodokumentation. Fotocredits: Michael Waldeck
+
+
+
+![](/assets/uploads/sdim0844.jpg)
+
+![](/assets/uploads/dsc00566-2-.jpg)
+
+![](/assets/uploads/dsc00576.jpg)
+
+![](/assets/uploads/dsc00560.jpg)
+
+![](/assets/uploads/dsc00581-2-.jpg)
+
+![](/assets/uploads/dsc00580.jpg)
+
+
+
+![](/assets/uploads/dsc00600.jpg)
+
+![](/assets/uploads/dsc00604-2-2.jpg)
+
+![](/assets/uploads/dsc00604-2-2.jpg)
 
 **Wie läuft das Projekt ab?**
 
