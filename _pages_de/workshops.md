@@ -6,11 +6,11 @@ title: Wochenend-Workshops
 
 Fotocredits: He Shao Hui\
 \
-**2.+3.9.2023 mit maRia Probst und Christian Apschner (siehe unten)**
+**2.+3.9.2023 "TUNE IN" mit maRia Probst und Christian Apschner (siehe unten)**
 
-**4.+5.11.2023 mit Christian Apschner**\
+**4.+5.11.2023 Contact Improvisation open level mit Christian Apschner**\
 **18.+19.11.2023 mit maRia Probst**\
-**20.+21.1.2024 Contact Flying Skills mit Christian Apschner und Lui Springer**\
+**20.+21.1.2024 Contact Flying Skills (advances) mit Christian Apschner und Lui Springer**\
 Detailplanung in Arbeit
 
 <div class="named-anchor" id="liquid"></div>
