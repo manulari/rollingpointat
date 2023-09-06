@@ -13,7 +13,7 @@ Fotocredits: He Shao Hui
 
 **2.+3.9.2023 mit maRia Probst und Christian Apschner (siehe unten)**
 
-**14.+15.10.2023 mit Christian Apschner**\
+**4.+5.11.2023 Contact Improvisation open level mit Christian Apschner**\
 **18.+19.11.2023 mit maRia Probst**\
 **20.+21.1.2024 Contact Flying Skills mit Christian Apschner und Lui Springer**
 
@@ -31,12 +31,10 @@ We also understand Contact Improvisation as a form of non-verbal communication a
 
 Target group: Anyone who would like to get a first, deeper insight into the world of Contact Improvisation, RELEASZE dance training and Somatics. Also intended as a Contact Improvisation starter kit and orientation workshop. As always, experienced dancers are welcome.
 
-
-
 #### **"Contact Flying Skills"** - advanced
 
-**sat/sun 20.+21.1.2024, 10.00-17.00  (ca 1,5h lunch break)**\
-**with Christian Apschner and Lui Springer (support)**
+**20.+21.1.2024, 10.00-17.00**\
+**with Christian Apschner and Lui Springer**
 
 The rollingpoint workshop classic for all CI dancers with sporting ambitions!
 
@@ -48,7 +46,7 @@ A solid basic CI and dance experience as well as good physical and mental fitnes
 
 ## Further Information:
 
-**Place:** All Workshops will take place in the Prana Yoga-Studio Nr.1, Mariahilferstr. 82, 1070 Wien.
+**Place:** All weekend Workshops will take place in the Prana Yoga-Studio Nr.1, Mariahilferstr. 82, 1070 Wien.
 
 **Registration:** please write us an email to [ci.rollingpoint@gmail.com](mailto:ci.rollingpoint@gmail.com)\
 Phone Christian +43650 8931081, maRia +43650 9510814
@@ -57,8 +55,8 @@ Phone Christian +43650 8931081, maRia +43650 9510814
 **€ 200/170/130,-** (supporter/regular/reduced) if payment is made up to 14 days before the start of the workshop\
 **€ 220/190/150,-** (supporter/regular/reduced)
 
-Payment should be made on our bankaccount\
-IBAN:AT54 3200 0000 1701 2717, BIC: RLNWATWW, Verein rollingpoint, einzahlen. 
+Please pay on our bankaccount\
+IBAN:AT54 3200 0000 1701 2717, BIC: RLNWATWW, Verein rollingpoint
 
 **Cancellation conditions:** If you cancel up to seven days before the workshop, the entire amount minus a processing fee of €10 will be refunded. 50% cancellation up to two days before the workshop. Cancellation is no longer possible on the day before and on the day of the workshop. However, a substitute can be nominated.
 
