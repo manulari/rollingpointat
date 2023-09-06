@@ -17,8 +17,6 @@ Fotocredit: https://johannes-stolba.net/photography/
 
 <div class="imglink"><a target="_blank" href="https://www.youtube.com/embed/kp3DqzN1Ldo"><img src="/assets/uploads/video_vorschau_rollingpoint.png" alt="" /><div>rollingpoint-Video</div></a></div>
 
-
-
 ### **KURSBEGINN WINTERSEMESTER 2023/24: 25.- 28.9.2023**
 
 **[1 RELEASZ Tanztraining: ](/kurse#mo)**[Zeitgenössischer Tanz / CI-light / Somatisches Lernen](/kurse#mo)\*\* **open level**\
@@ -40,11 +38,7 @@ Di 19.9.2023  - 30.1.2024, Jam 18.30 – 20.40 (ca.17x), Specials 17.15 - 18.15*
 **Do 28.9.2023.- 1.2.2024, 18.15 – 20.30 (ca.15x)**\
 **Turnsaal VS Gilgegasse 12, 1090 Wien**
 
-**Achtung: Die wöchentliche rollingpoint [Contact Improvisation Jam ](https://rollingpoint.at/jams)findet ab Di 19.9. im Zeitraum von 18.30 -  20.40 im geräumigen Turnsaal der VS Einsiedlergasse statt. Vor der Jam von 17.15 - 18.15 laden einstündige [Spezialformate](https://rollingpoint.at/jams) rund um die  CI mit verschiedenen Gastlehrer*innen zum Mitmachen ein.**
-
- 
-
-
+**Achtung: Die wöchentliche rollingpoint [Contact Improvisation Jam ](https://rollingpoint.at/jams)findet ab Di 19.9. im Zeitraum von 18.30 -  20.40 im geräumigen Turnsaal der VS Einsiedlergasse statt. Vor der Jam von 17.15 - 18.15 laden einstündige [Spezialformate](https://rollingpoint.at/jams#special) rund um die  CI mit verschiedenen Gastlehrer*innen zum Mitmachen ein.**
 
 ![Mehr CI auf der Stiege](/assets/uploads/dsc_1941a.jpg "Mehr CI auf der Stiege")
 
