@@ -52,7 +52,7 @@ Die wöchtenliche rollingpoint-Jam übersiedelt mit 19.9.2023 vom Prana Yoga Stu
 
 Unsere Jams sind Orte für fokussiertes Contact Improvisation-Tanzen. Wir achten darauf einen gemeinsamen Raum zu halten, in dem sich alle sicher fühlen und erwarten von den TeilnehmerInnen CI-Kurserfahrungen im Sinne von Grundkenntnissen.
 
-Die regulären Jams dauern jeweils von 18.30-20.40. Vor den Jams von 17.15-18.15 wird es immer wieder einstündige Specials mit unterschiedlichem Fokus und verschiedenen Lehrer\*innen geben. Geplant sind auch Spezialformate wie Underscore oder Beginner\*innen Jams. Die Ausschreibung dieser Termine erfolgt jeweils zeitnah zu den Terminen.
+Die regulären Jams dauern jeweils von 18.30-20.40. Vor den Jams von 17.15-18.15 gibt es eine bunte Mischung von Specials rund um die CI mit unterschiedlichem Fokus und Gastlehrer\*innen. Geplant sind auch Spezialformate wie Underscore oder Beginner\*innen Jams. [Hier findest du das akutelle Programm.](/jams#special)
 
 [Kosten](#kosten)
 
