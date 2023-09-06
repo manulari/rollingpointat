@@ -26,29 +26,29 @@ Teilweise  angeleitete warm ups, ausgewählte Musik und Sound-Scapes in der 2.H
 \
 Wir freuen uns eine bunte Mischung einstündiger Spezialformate mit verschiedenen Gastlehrer*innen vor den Jams anbieten zu können (Änderungen möglich):
 
-> \
 > **19.9.2023  Alina Bertha: *Contemporary Floorwork + Upside Down Moves***\
 > **26.9.2023 Alina Bertha: *Contemporary Floorwork + Upside Down Moves***\
 > \
-> **3.10.2023   maRia Probst**\
+> **03.10.2023   maRia Probst**\
 > \
 > **10.10.2023 Christian Apschner: *Contact Improvisation Intro + open level (beginner) Jam***\
 > \
 > **17.10.2023 Manu Eder: *"No" Games***\
 > **24.10.2023 Manu Eder: *Dreamy Drops***\
 > \
-> **7.11.2023    maRia Probst**\
+> **o7.11.2023    maRia Probst**\
 > \
 > **14.11.2023 Sabine Müller: *Ease and Simplicity***\
 > \
 > **21.11.2023 Ines Ingerle: *Moving into Connection (CI Intro) + open level (beginner) Jam***\
 > \
 > **28.11.2023 Paulina Cebula: *Being permeable, soft and adaptable***\
-> **5.12.2023 Paulina Cebula: *Surfing the Gaps***\
+> **05.12.2023 Paulina Cebula: *Surfing the Gaps***\
 > \
 > **12.12.2023 maRia Probst**\
 > \
-> **19.12.2023 Sabine Müller: *Floor - across, into, up***
+> **19.12.2023 Sabine Müller: *Floor - across, into, up***\
+> ***Fortsetzung folgt!***
 
 **Kostenbeitrag für Specials: Einzeln € 7 - 12€, Semesterbeitrag: € 100 - 170**
 
