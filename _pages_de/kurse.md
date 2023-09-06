@@ -49,7 +49,7 @@ Teilnahmeempfehlung: Tanzfreudige mit Lust an Bewegungsausdruck und -forschung. 
 **ab Di 19.9.2023 - 30.1.2024, Specials 17.15 - 18.15, Jam 18.30 – 20.40 (ca.17x)**\
 Turnsaal VS Einsiedlergasse 7, 1050 Wien
 
-Die wöchtenliche rollingpoint-Jam findet ab 19.9.2023 im schönen großen Turnsaal der VS Einsiedlergasse statt. Unsere Jams sind Orte für fokussiertes Contact Improvisation-Tanzen. Wir achten darauf einen gemeinsamen Raum zu halten, in dem sich alle sicher fühlen und erwarten von den TeilnehmerInnen CI-Kurserfahrungen im Sinne von Grundkenntnissen (ausgenommen open level Jams).
+Die wöchtenliche rollingpoint-Jam findet ab 19.9.2023 im schönen großen Turnsaal der VS Einsiedlergasse statt. Unsere Jams sind Orte für fokussiertes Contact Improvisation-Tanzen. Wir achten einen gemeinsamen Raum zu halten, in dem sich alle sicher fühlen und erwarten von den TeilnehmerInnen CI-Kurserfahrungen im Sinne von Grundkenntnissen (ausgenommen open level Jams).
 
 Die regulären Jams dauern jeweils von 18.30-20.40. In der Special-Hour vor den Jams von 17.15-18.15 lädt eine bunte Mischung von Specials rund um die CI mit unterschiedlichem Fokus und Gastlehrer\*innen zum Mitmachen ein. Geplant sind auch Spezialformate wie für Beginner\*innen offene open level Jams und Underscore. [Hier findest du das akutelle Programm.](/jams#special)
 
