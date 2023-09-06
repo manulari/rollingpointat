@@ -26,7 +26,7 @@ Teilweise  angeleitete warm ups, ausgewählte Musik und Sound-Scapes in der 2.H
 
 **Jeden Dienstag (wenn Schultag) 17.15 - 18.15**\
 \
-Wir freuen uns eine bunte Mischung einstündiger Spezialformate mit verschiedenen Gastlehrer*innen vor den Jams anbieten zu können (Änderungen möglich):
+Wir freuen uns, eine bunte Mischung einstündiger Spezialformate mit verschiedenen Gastlehrer*innen vor den Jams anbieten zu können (Änderungen möglich):
 
 > **19.9.2023  Alina Bertha: *Contemporary Floorwork + Upside Down Moves***\
 > **26.9.2023 Alina Bertha: *Contemporary Floorwork + Upside Down Moves***\
