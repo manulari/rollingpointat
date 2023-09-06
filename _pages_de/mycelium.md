@@ -1,6 +1,6 @@
 ---
 permalink: /mycelium
-title: Dancing Mycelium
+title: '"Seltsamia" Dancing Mycelium'
 language: de
 ---
 <div class="named-anchor" id="dancemyc"></div>
