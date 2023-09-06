@@ -34,12 +34,12 @@ Fotocredit: https://johannes-stolba.net/photography/
 **Mi 27.9.2023 - 31.1.2024, 18.00 - 20.40 (ca.15x)**\
 **Turnsaal VS Einsiedlergasse 7, 1050 Wien**
 
-**[4 Contact Improvsation and -Technique Basics  ](/kurse#do)beginner**\
+**[4 Contact Improvisation and -Technique Basics  ](/kurse#do)beginner**\
 **mit Christian Apschner**\
 **Do 28.9.2023.- 1.2.2024, 18.15 – 20.30 (ca.15x)**\
 **Turnsaal VS Gilgegasse 12, 1090 Wien**
 
-**Achtung: Die wöchentliche rollingpoint [Contact Improvisation Jam ](https://rollingpoint.at/jams)findet ab Di 19.9. im Zeitraum von 18.30 -  20.40 im geräumigen Turnsaal der VS Einsiedlergasse statt. Vor der Jam von 17.15 - 18.15 laden einstündige [Spezialformate](https://rollingpoint.at/jams#special) rund um die  CI mit verschiedenen Gastlehrer*innen zum Mitmachen ein.**
+**Achtung: Die wöchentliche rollingpoint [Contact Improvisation Jam ](https://rollingpoint.at/jams)findet ab Di 19.9. von 18.30 -  20.40 im geräumigen Turnsaal der VS Einsiedlergasse statt. Vor der Jam von 17.15 - 18.15 laden einstündige [Spezialformate](https://rollingpoint.at/jams#special) rund um die  CI mit verschiedenen Gastlehrer*innen zum Mitmachen ein.**
 
 ![Mehr CI auf der Stiege](/assets/uploads/dsc_1941a.jpg "Mehr CI auf der Stiege")
 
