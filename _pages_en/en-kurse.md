@@ -38,8 +38,7 @@ Turnsaal VS Einsiedlergasse 7, 1050 Wien
 
 Our jams are a place for focused Contact Improvisation dancing where CI is practiced as contemporary dance and art form. We want to offer a space in which everyone feels safe. Participants are asked to have CI course experience in the sense of basic knowledge.\
 \
-Specials will be announced just before the dates\
-no registration needed
+Before the Jam from 17.15 to 18.15 we offer an one hour training focusing on different aspects of CI with guest teachers.
 
 <div class="named-anchor" id="mi"></div>
 
