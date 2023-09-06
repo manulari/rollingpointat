@@ -26,7 +26,7 @@ entries:
   - title: JAMS+PERFORMANCES
     path: /jams
     subentries:
-      - title: Jams
+      - title: rollingpoint-Jam
         path: /jams
       - title: Dancing Mycelium
         path: /mycelium
