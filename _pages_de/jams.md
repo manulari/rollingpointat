@@ -1,6 +1,6 @@
 ---
 permalink: /jams
-title: ROLLINGPOINT-JAMS
+title: ROLLINGPOINT-JAM
 other_lang: ""
 ---
 **What happens in a Contact Jam?** <https://www.youtube.com/watch?v=u9AhpFxfEfs>
@@ -51,14 +51,6 @@ Wir freuen uns eine bunte Mischung einstündiger Spezialformate mit verschiedene
 
 **Kostenbeitrag für Specials: Einzeln € 7 - 12€, Semesterbeitrag: € 100 - 170**
 
-
-
-
-
-
-
-
-
 ### **Hinweise zur Sicherheit auf den Jams**
 
 Wichtigster Grundkonsens einer CI-Jam ist, dass alle TeilnehmerInnen gut auf die eigene Sicherheit UND die Sicherheit der TanzpartnerInnen achten: *„Achte, dass du niemand verletzt und achte darauf, dass dich niemand verletzt!"*
@@ -84,7 +76,7 @@ Ein CI-Tanz ist ein gleichberechtigter körperlicher Dialog, in dem wir uns fort
 
 Bei auftauchenden Fragenstellungen in der Jam besteht immer die Möglichkeit  der/die Jam-host anzusprechen.
 
-*Weitere Anmerkungen: Contact Improvisation ist auch ein großartiges Empathie-Lerntool. Da wir uns im Alltag nicht so selbstverständlich berühren, ist Körperkontakt für manche CI-BeginnerInnen mit dem Gedanken an sexuelle Aktivitäten assoziiert. Das Kennenlernen der Bewegungssprache der Contact Improvisation in Kursen ist wichtig um derartige Missverständnisse zu vermeiden. Oft braucht es einige Zeit um sich als BeginnerIn in der Jam-Welt vertraut zu machen und einzuleben. Viele Fragen lösen sich mit der Zeit von selbst. CI ist keine Therapie. Für viele CI-Praktizierende ist das gemeinsame Tanzen aber auch ein wichtiger Lernprozess, der in verschiedenste andere Lebensbereiche integriert werden kann.*
+*Weitere Anmerkungen: Contact Improvisation ist auch ein großartiges Empathie-Lerntool. Da wir uns im Alltag nicht so selbstverständlich berühren, ist Körperkontakt für manche CI-BeginnerInnen mit dem Gedanken an sexuelle Aktivitäten assoziiert. Das Kennenlernen der Bewegungssprache der Contact Improvisation in Kursen ist wichtig um Missverständnisse in dieser Richtung zu vermeiden. Oft braucht es einige Zeit um sich als BeginnerIn in der Jam-Welt vertraut zu machen und einzuleben. Viele Fragen lösen sich mit der Zeit von selbst. CI ist keine Therapie. Für viele CI-Praktizierende ist das gemeinsame Tanzen aber auch ein wichtiger Lernprozess, der in verschiedenste andere Lebensbereiche integriert werden kann.*
 
 ![](/assets/uploads/img_0198.jpg)
 
