@@ -1,32 +1,51 @@
 ---
 permalink: /en/jams
-title: ROLLINGPOINT-JAMS
+title: ROLLINGPOINT-JAM
 language: en
 ---
 **What happens in a Contact Jam?** <https://www.youtube.com/watch?v=u9AhpFxfEfs>
 
-The rollingpoint jams are a place for focused Contact Improvisation dancing where **CI is practiced as contemporary dance and art form.** We want to offer a space in which everyone feels safe. Participants are asked to have CI course experience in the sense of basic knowledge.
+The rollingpoint jams are a place for focused Contact Improvisation dancing where CI is practiced as contemporary dance and art form. We want to take care to offer a space in which everyone feels safe. Participants are asked to have CI course experience in the sense of basic knowledge.
 
-The regular rollingpoint Contact Improvisations Jam takes place every Sunday evening from 7pm to 10pm in the Prana Yoga studio 1 (more infos: see below).
+The regular rollingpoint Contact Improvisation Jam takes place\
+**every Tuesday when schoolday 18.30 - 20.40**\
+in the nice gym of the school **VS Einsiedlergasse 7, 1050 Wien.**
 
-Furthermore, there are open jams on wednesday evenings on school days in connection with a previous CI training in the gym of VS Einsiedlergasse 7.
+**Costs donation based:  € 7 - 12€**\
+Please pay on our bank account IBAN: AT54 3200 0000 1701 2717, BIC: RLNWATWW, Verein rollingpoint
 
-## From 19.9.2023 our Jam will take place on tuesdays:
+**Pre-Jam Special:**  Before the Jam from **17.15 - 18.15** we offer an one hour training focusing on different aspects of Contact Improvisation with guest teachers: 
 
-18.30 - 20.40 Einsiedlergasse 7, 1050 Wien
 
-## rollingpoint-Jam on Sunday
 
-**every  Sunday 19.00 - 22.00**\
-Prana Yoga-Studio Nr. 1, 2nd inner courtyard, 1st floor, Mariahilferstr. 82, 1070 Wien\
-No registration needed.
+> **19.9.2023 Alina Bertha: *Contemporary Floorwork + Upside Down Moves***\
+> **26.9.2023 Alina Bertha: *Contemporary Floorwork + Upside Down Moves***\
+> \
+> **03.10.2023 maRia Probst**\
+> \
+> **10.10.2023 Christian Apschner: *Contact Improvisation Intro + open level (beginner) Jam***\
+> \
+> **17.10.2023 Manu Eder: *"No" Games***\
+> **24.10.2023 Manu Eder: *Dreamy Drops***\
+> \
+> **o7.11.2023 maRia Probst**\
+> \
+> **14.11.2023 Sabine Müller: *Ease and Simplicity***\
+> \
+> **21.11.2023 Ines Ingerle: *Moving into Connection (CI Intro) + open level (beginner) Jam***\
+> \
+> **28.11.2023 Paulina Cebula: *Being permeable, soft and adaptable***\
+> **05.12.2023 Paulina Cebula: *Surfing the Gaps***\
+> \
+> **12.12.2023 maRia Probst**\
+> \
+> **19.12.2023 Sabine Müller: *Floor - across, into, up***
 
-**Arrival time 19.00 bis 19.30**; Before 19.00 and after 19.30 no entry is possible.\
-Sometimes with guided warm-ups, selected music and soundscapes in the second half of the jams.
+**Costs € 7 - 12 / Special**
 
-**Costs donation based:  10€ (min 7€),** should be paid on our bank account IBAN: AT54 3200 0000 1701 2717, BIC: RLNWATWW, Verein rollingpoint
 
-**Notes about safety in the CI jam:**
+
+### **Notes about safety in the CI jam:**
 
 At a CI jam, we share the basic agreement that all participants mind their own safety AND the safety of their dance partners. “Take care not to hurt anyone. Take care not to get hurt.” Knowing your own physical and emotional limits and learning to read those of your dance partners is part of the learning process in CI. Knowing our limits offers safety and opens up the freedom to move and experiment in close proximity to these limits.
 
