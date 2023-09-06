@@ -34,7 +34,7 @@ other_lang: /
 **start tue 19.9.2023, Specials 17.15 - 18.15, Jam 18.30 - 20.40**\
 **Turnsaal VS Einsiedlergasse 7, 1050 Wien**
 
-**[3 wed Wild and Soft . Contact Improvisation](/en/kurse#mi) intermediate/advanced**\
+**[3 wed Wild and Soft - Contact Improvisation](/en/kurse#mi) intermediate/advanced**\
 **with Christian Apschner**\
 **start wed  27.9.2023, 18.00 - 20.40**\
 **Turnsaal VS Einsiedlergasse 7, 1050 Wien**
