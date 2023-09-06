@@ -17,14 +17,11 @@ Fotocredit: https://johannes-stolba.net/photography/
 
 <div class="imglink"><a target="_blank" href="https://www.youtube.com/embed/kp3DqzN1Ldo"><img src="/assets/uploads/video_vorschau_rollingpoint.png" alt="" /><div>rollingpoint-Video</div></a></div>
 
-### [Wochenendworkshop 2.+3.9.2023](/workshops#liquid)
 
-**TUNE IN! Contact Improvisation/Somatics/Release Technique**\
-**beginner/open level mit Christian Apschner und maRia Probst**
 
 ### **KURSBEGINN WINTERSEMESTER 2023/24: 25.- 28.9.2023**
 
-**[1 RELEASZ Tanztraining: ](/kurse#mo)****[Zeitgenössischer Tanz / CI-light / Somatisches Lernen](/kurse#mo)** **open level**\
+**[1 RELEASZ Tanztraining: ](/kurse#mo)\*\***[Zeitgenössischer Tanz / CI-light / Somatisches Lernen](/kurse#mo)\*\* **open level**\
  **mit maRia Probst**\
 **Mo 25.9.2023 – 29.1.2024, 18.30 - 20.15 (ca.16x)**\
 **Turnsaal VS Gilgegasse 12, 1090 Wien**
@@ -43,22 +40,7 @@ Di 19.9.2023  - 30.1.2024, Jam 18.30 – 20.40 (ca.17x), Specials 17.15 - 18.15*
 **Do 28.9.2023.- 1.2.2024, 18.15 – 20.30 (ca.15x)**\
 **Turnsaal VS Gilgegasse 12, 1090 Wien**
 
-##### **[rollingpoint-Jams im Sommer 2023:](/jams)**
 
-**Auch im Sommer jeden Sonntag 19.00-22.00, Prana Yoga Studio 1, Mariahilferstraße 82, 1070 Wien**
-
-### [„Seltsamia“ - Dancing Mycelium](/mycelium#dancemyc)
-
-**Exploring Interconnection and Movement Biodiversity**
-
-**Ein experimentelles rollingpoint Mitmach-Contact Improvisation Outdoor-Projekt Sommer/Herbst 2023**
-
-**Mo 10.7.: 18:00 Freie Mitte / Ehemaliges Nordbahnhofgelände, 1020 Wien**
-
-**Sa 22.7. 18:00: Am Himmel / Baumkreis am Cobenzl, 1190 Wien**
-
-[](<>)**So 27.8., 16.30: Mariahilferstraße, 1060 Wien**\
-**Terminliche Änderungen möglich. Bitte website-Aktualisierungen beachten**
 
 ![Mehr CI auf der Stiege](/assets/uploads/dsc_1941a.jpg "Mehr CI auf der Stiege")
 
