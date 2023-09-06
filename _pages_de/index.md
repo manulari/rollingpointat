@@ -4,7 +4,7 @@ title: rollingpoint - Contact Improvisation - Zeitgenössischer Tanz -
   Somatisches Lernen
 other_lang: /en/
 ---
-# rollingpoint: Contact Improvisation - Zeitgenössicher Tanz - Somatisches Lernen
+# Contact Improvisation - Zeitgenössicher Tanz - Somatisches Lernen
 
 ![Christian und maRia tanzen Contact Improvisation auf einer Stiege](/assets/uploads/dsc_1901_klein.jpg "Contact Improvisation")
 
