@@ -26,8 +26,8 @@ Teilweise  angeleitete warm ups, ausgewählte Musik und Sound-Scapes in der 2.H
 \
 Wir freuen uns eine bunte Mischung einstündiger Spezialformate mit verschiedenen Gastlehrer*innen vor den Jams anbieten zu können:\
 \
-**19.9.2023   Alina Bertha: Contemporary Floorwork ans Upside Down Moves**\
-**26.9.2023  Alina Bertha: Contemporary Floorwork ans Upside Down Moves**\
+**19.9.2023   Alina Bertha: Contemporary Floorwork + Upside Down Moves**\
+**26.9.2023  Alina Bertha: Contemporary Floorwork + Upside Down Moves**\
 \
 **3.10.2023   maRia Probst**\
 \
@@ -42,7 +42,7 @@ Wir freuen uns eine bunte Mischung einstündiger Spezialformate mit verschiedene
 \
 **21.11.2023 Ines Ingerle: Moving into Connection (CI Intro) + open level (beginner) Jam**\
 \
-**28.11.2023 Paulina Cebula: Being Permeable, soft and adaptable**\
+**28.11.2023 Paulina Cebula: Being permeable, soft and adaptable**\
 **5.12.2023 Paulina Cebula: Surfing the Gaps**\
 \
 **12.12.2023 maRia Probst**\
