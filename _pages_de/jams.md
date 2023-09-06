@@ -20,9 +20,46 @@ Teilweise  angeleitete warm ups, ausgewählte Musik und Sound-Scapes in der 2.H
 **Kostenbeitrag: Einzeln € 7 - 12€, Semesterbeitrag: € 100 - 170**\
 **Bitte um Kontoüberweisung Bankvbdg.:** IBAN: AT54 3200 0000 1701 2717, BIC: RLNWATWW, Verein rollingpoint
 
+### **Special-Hour vor der Jam und open level Jams**
+
+**Jeden Dienstag (wenn Schultag) 17.15 - 18.15**\
+\
+Wir freuen uns eine bunte Mischung einstündiger Spezialformate mit verschiedenen Gastlehrer*innen vor den Jams anbieten zu können:\
+\
+**19.9.2023   Alina Bertha: Contemporary Floorwork ans Upside Down Moves**\
+**26.9.2023  Alina Bertha: Contemporary Floorwork ans Upside Down Moves**\
+\
+**3.10.2023   maRia Probst**\
+\
+**10.10.2023 Christian Apschner: Contact Improvisation Intro + open level (beginner) Jam**\
+\
+**17.10.2023 Manu Eder: "No" Games**\
+**24.10.2023 Manu Eder: Dreamy Drops**\
+\
+**7.11.2023    maRia Probst**\
+\
+**14.11.2023 Sabine Müller: Ease and Simplicity**\
+\
+**21.11.2023 Ines Ingerle: Moving into Connection (CI Intro) + open level (beginner) Jam**\
+\
+**28.11.2023 Paulina Cebula: Being Permeable, soft and adaptable**\
+**5.12.2023 Paulina Cebula: Surfing the Gaps**\
+\
+**12.12.2023 maRia Probst**\
+\
+**19.12.2023 Sabine Müller: Floor - across, into, up**
+
+**Kostenbeitrag für Specials: Einzeln € 7 - 12€, Semesterbeitrag: € 100 - 170**
 
 
-### **Hinweise zur Sicherheit auf den Jams:**
+
+
+
+
+
+
+
+### **Hinweise zur Sicherheit auf den Jams**
 
 Wichtigster Grundkonsens einer CI-Jam ist, dass alle TeilnehmerInnen gut **auf die eigene Sicherheit UND die Sicherheit der TanzpartnerInnen achten**: *„Pass auf, dass du niemand verletzt! Pass auf, dass dich niemand verletzt!"*
 
