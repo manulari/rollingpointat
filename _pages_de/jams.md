@@ -20,7 +20,7 @@ Teilweise  angeleitete warm ups, ausgewählte Musik und Sound-Scapes in der 2.H
 **Kostenbeitrag: Einzeln € 7 - 12€, Semesterbeitrag: € 100 - 170**\
 **Bitte um Kontoüberweisung Bankvbdg.:** IBAN: AT54 3200 0000 1701 2717, BIC: RLNWATWW, Verein rollingpoint
 
-<div class="named-anchor" id="#special"></div>
+<div class="named-anchor" id="special"></div>
 
 ### **Special-Hour vor der Jam und open level Jams**
 
