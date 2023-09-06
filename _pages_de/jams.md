@@ -61,7 +61,7 @@ Wir freuen uns eine bunte Mischung einstündiger Spezialformate mit verschiedene
 
 ### **Hinweise zur Sicherheit auf den Jams**
 
-Wichtigster Grundkonsens einer CI-Jam ist, dass alle TeilnehmerInnen gut **auf die eigene Sicherheit UND die Sicherheit der TanzpartnerInnen achten**: *„Pass auf, dass du niemand verletzt! Pass auf, dass dich niemand verletzt!"*
+Wichtigster Grundkonsens einer CI-Jam ist, dass alle TeilnehmerInnen gut auf die eigene Sicherheit UND die Sicherheit der TanzpartnerInnen achten: *„Achte, dass du niemand verletzt und achte darauf, dass dich niemand verletzt!"*
 
 Es ist Teil des Lernprozesses der Contact Improvisation im Laufe der Zeit immer besser herauszufinden, wo die eigenen Grenzen und die Grenzen der TanzpartnerInnen liegen z.B. im Umgang mit Körpergewichten. Der Lernprozess erlaubt aber vor allem auch „gedachte Grenzen“ zu erweitern und neue Freiheiten im Tanzen zu eröffnen. Für die physische Sicherheit ist es wichtig, Grundtechniken zu erlernen, welche gezielt in Kursen vermittelt werden wie Falltechniken, Körpergewicht dosiert abzugeben und gemeinsam zu rollen oder zu gleiten u.v.a.m. In einer Jam gibt es **keine Anleitung** wie in einem Kurs. **Basiskenntnisse** und ein **Grundverständnis der Contact Improvisation werden** daher für die Teilnahme an rollingpoint-Jams **vorausgesetzt**.
 
@@ -84,7 +84,7 @@ Ein CI-Tanz ist ein gleichberechtigter körperlicher Dialog, in dem wir uns fort
 
 Bei auftauchenden Fragenstellungen in der Jam besteht immer die Möglichkeit  der/die Jam-host anzusprechen.
 
-*Weitere Anmerkungen: Contact Improvisation ist auch ein großartiges Empathie-Lerntool. Da wir uns im Alltag nicht so selbstverständlich berühren ist Körperkontakt für manche CI-BeginnerInnen mit dem Gedanken an sexuelle Aktivitäten assoziiert. Das Kennenlernen der Bewegungssprache der Contact Improvisation in Kursen ist wichtig um Missverständnisse zu vermeiden. Oft braucht es einige Zeit um sich als BeginnerIn in der Jam-Welt vertraut zu machen und einzuleben. Viele Fragen lösen sich mit der Zeit von selbst. CI ist keine Therapie. Für viele CI-Praktizierende ist das gemeinsame Tanzen aber auch ein wichtiger Lernprozess, der in verschiedenste andere Lebensbereiche integriert werden kann.*
+*Weitere Anmerkungen: Contact Improvisation ist auch ein großartiges Empathie-Lerntool. Da wir uns im Alltag nicht so selbstverständlich berühren, ist Körperkontakt für manche CI-BeginnerInnen mit dem Gedanken an sexuelle Aktivitäten assoziiert. Das Kennenlernen der Bewegungssprache der Contact Improvisation in Kursen ist wichtig um derartige Missverständnisse zu vermeiden. Oft braucht es einige Zeit um sich als BeginnerIn in der Jam-Welt vertraut zu machen und einzuleben. Viele Fragen lösen sich mit der Zeit von selbst. CI ist keine Therapie. Für viele CI-Praktizierende ist das gemeinsame Tanzen aber auch ein wichtiger Lernprozess, der in verschiedenste andere Lebensbereiche integriert werden kann.*
 
 ![](/assets/uploads/img_0198.jpg)
 
