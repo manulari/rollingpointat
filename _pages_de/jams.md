@@ -50,7 +50,7 @@ Wir freuen uns eine bunte Mischung einstündiger Spezialformate mit verschiedene
 > **19.12.2023 Sabine Müller: *Floor - across, into, up***\
 > ***Fortsetzung folgt!***
 
-**Kostenbeitrag für Specials: Einzeln € 7 - 12€, Semesterbeitrag: € 100 - 170**
+**Kostenbeitrag für Specials: Einzeln € 7 - 12€**
 
 ### **Hinweise zur Sicherheit auf den Jams**
 
