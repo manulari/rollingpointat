@@ -40,7 +40,7 @@ Di 19.9.2023  - 30.1.2024, Jam 18.30 – 20.40 (ca.17x), Specials 17.15 - 18.15*
 **Do 28.9.2023.- 1.2.2024, 18.15 – 20.30 (ca.15x)**\
 **Turnsaal VS Gilgegasse 12, 1090 Wien**
 
-Achtung: Die wöchentliche rollingpoint [Contact Improvisation Jam ](https://rollingpoint.at/jams)findet ab Di 19.9. im Zeitraum von 18.30 -  20.40 im Turnsaal der VS Einsiedlergasse statt. Vor der Jam gibt es von 17.15 - 18.15 einstündige [Spezialformate](https://rollingpoint.at/jams) rund um die  CI mit verschiedenen Gastlehrer*innen.
+**Achtung: Die wöchentliche rollingpoint [Contact Improvisation Jam ](https://rollingpoint.at/jams)findet ab Di 19.9. im Zeitraum von 18.30 -  20.40 im geräumigen Turnsaal der VS Einsiedlergasse statt. Vor der Jam von 17.15 - 18.15 laden einstündige [Spezialformate](https://rollingpoint.at/jams) rund um die  CI mit verschiedenen Gastlehrer*innen zum Mitmachen ein.**
 
  
 
