@@ -44,15 +44,14 @@ Teilnahmeempfehlung: Tanzfreudige mit Lust an Bewegungsausdruck und -forschung. 
 
 #### 2 Contact Improvisation Jam + Specials
 
-mit **Christian Apschner, maRia Probst u.A.**\
-**Di 19.9.2023 - 30.1.2024, Jam 18.30 – 20.40 (ca.17x), Specials 17.15 - 18.15**\
+**Jam-hosts: Christian Apschner, maRia Probst** \
+**Specials mit Alina Bertha, Manu Eder, Paulina Cebula, Sabine Müller, Ines Ingerle u.a.**\
+**ab Di 19.9.2023 - 30.1.2024, Specials 17.15 - 18.15, Jam 18.30 – 20.40 (ca.17x)**\
 Turnsaal VS Einsiedlergasse 7, 1050 Wien
 
-Die wöchtenliche rollingpoint-Jam übersiedelt mit 19.9.2023 vom Prana Yoga Studio in den schönen großen Turnsaal der VS Einsiedlergasse. 
+Die wöchtenliche rollingpoint-Jam findet ab 19.9.2023 im schönen großen Turnsaal der VS Einsiedlergasse statt. Unsere Jams sind Orte für fokussiertes Contact Improvisation-Tanzen. Wir achten darauf einen gemeinsamen Raum zu halten, in dem sich alle sicher fühlen und erwarten von den TeilnehmerInnen CI-Kurserfahrungen im Sinne von Grundkenntnissen (ausgenommen open level Jams).
 
-Unsere Jams sind Orte für fokussiertes Contact Improvisation-Tanzen. Wir achten darauf einen gemeinsamen Raum zu halten, in dem sich alle sicher fühlen und erwarten von den TeilnehmerInnen CI-Kurserfahrungen im Sinne von Grundkenntnissen.
-
-Die regulären Jams dauern jeweils von 18.30-20.40. Vor den Jams von 17.15-18.15 gibt es eine bunte Mischung von Specials rund um die CI mit unterschiedlichem Fokus und Gastlehrer\*innen. Geplant sind auch Spezialformate wie Underscore oder Beginner\*innen Jams. [Hier findest du das akutelle Programm.](/jams#special)
+Die regulären Jams dauern jeweils von 18.30-20.40. In der Special-Hour vor den Jams von 17.15-18.15 lädt eine bunte Mischung von Specials rund um die CI mit unterschiedlichem Fokus und Gastlehrer\*innen zum Mitmachen ein. Geplant sind auch Spezialformate wie für Beginner\*innen offene open level Jams und Underscore. [Hier findest du das akutelle Programm.](/jams#special)
 
 [Kosten](#kosten)
 
