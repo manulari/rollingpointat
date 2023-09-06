@@ -5,24 +5,22 @@ other_lang: ""
 ---
 **What happens in a Contact Jam?** <https://www.youtube.com/watch?v=u9AhpFxfEfs>
 
-**Die rollingpoint-Jams sind Orte für fokussiertes Contact Improvisation-Tanzen an denen CI als zeitgenössische Tanz- und Kunstform praktiziert wird. Wir achten darauf einen gemeinsamen Raum zu halten, in dem sich alle sicher fühlen und erwarten von den TeilnehmerInnen, dass sie bereits über CI-Kurserfahrungen im Sinne von Grundkenntnissen verfügen** (Hinweise zur Sicherheit in den rollingpoint-Jams siehe unten).
-
-Die reguläre rollingpoint Jam findet jeden Sonntag Abend von 19.00-22.00 im Prana Yoga-Studio statt (Detailinfos siehe unten). 
+**Die rollingpoint-Jams sind Orte für fokussiertes Contact Improvisation-Tanzen. Wir achten  einen gemeinsamen Raum zu halten, in dem sich alle sicher fühlen und erwarten von den TeilnehmerInnen, dass sie bereits über CI-Kurserfahrungen im Sinne von Grundkenntnissen verfügen** (Hinweise zur Sicherheit in den rollingpoint-Jams siehe unten).
 
 **Ab 19.9.2023 findet die wöchentliche Jam immer Dienstag 18.30-20.40 im Turnsaal der VS Einsiedlergasse 7, 1050 Wien statt.** 
 
-## rollingpoint-Jam am Sonntag
+## rollingpoint-Jam am Dienstag
 
-**Jeden Sonntag 19.00 - 22.00 (auch im Sommer)**\
-Prana Yoga-Studio Nr. 1, 2. Innenhof, 1. Stock, Mariahilferstr. 82, 1070 Wien\
-Keine Anmeldung erforderich.
+**Jeden Dienstag (wenn Schultag) 18.30 - 20.40** \
+Turnsaal Einsiedlergasse 7, 1050 Wien. Der schöne geräumige Turnsaal befindet sich im 1.Stock des Schulgebäudes. Keine Anmeldung erforderlich.
 
-**Ankommen von 19.00 bis 19.30**; vor 19.00 und nach 19:30h aus raumorganisatorischen Gründe kein Einlass möglich\
+Ankommen ab 18.15, Eröffnungskreis um 18.30, Verlassen des Turnsaal spätestens um 21.00\
 Teilweise  angeleitete warm ups, ausgewählte Musik und Sound-Scapes in der 2.Hälfte der Jams.
 
-**Raumbeitrag auf Spendenbasis: 10€ (min 6€), bitte um Kontoüberweisung**
+**Kostenbeitrag: Einzeln € 7 - 12€, Semesterbeitrag: € 100 - 170**\
+**Bitte um Kontoüberweisung Bankvbdg.:** IBAN: AT54 3200 0000 1701 2717, BIC: RLNWATWW, Verein rollingpoint
 
-**Bankvbdg.:** IBAN: AT54 3200 0000 1701 2717, BIC: RLNWATWW, Verein rollingpoint
+
 
 ### **Hinweise zur Sicherheit auf den Jams:**
 
