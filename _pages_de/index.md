@@ -24,8 +24,7 @@ Fotocredit: https://johannes-stolba.net/photography/
 **Mo 25.9.2023 – 29.1.2024, 18.30 - 20.15 (ca.16x)**\
 **Turnsaal VS Gilgegasse 12, 1090 Wien**
 
-**[2 Contact Improvisation Jam](/kurse#di) + Specials\
-Di 19.9.2023  - 30.1.2024, Jam 18.30 – 20.40 (ca.17x), Specials 17.15 - 18.15**\
+[**2 Contact Improvisation Jam + Specials**](/kurse#di)**Di 19.9.2023  - 30.1.2024, Jam 18.30 – 20.40 (ca.17x), Specials 17.15 - 18.15**\
 **Turnsaal VS Einsiedlergasse 7, 1050 Wien**
 
 **[3 Wild and Soft: Contact Improvisation ](/kurse#mi) intermediate/advanced**\
