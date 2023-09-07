@@ -78,7 +78,7 @@ Ein CI-Tanz ist ein gleichberechtigter körperlicher Dialog, in dem wir uns fort
 „In welche Richtung bewegt sich der Kontaktpunkt?“\
 „Wieviel Unterstützung braucht meine TanzpartnerInnen in diesem Moment?“ u.a.
 
-*Contact Improvisation ist auch ein großartiges Empathie-Lerntool. Da wir uns im Alltag nicht so selbstverständlich berühren, ist Körperkontakt für manche CI-BeginnerInnen mit dem Gedanken an sexuelle Aktivitäten assoziiert. Das Kennenlernen der Bewegungssprache der Contact Improvisation in Kursen ist wichtig um Missverständnisse in dieser Richtung zu vermeiden. Oft braucht es einige Zeit um sich als BeginnerIn in der Jam-Welt vertraut zu machen und einzuleben. CI ist keine Therapie. Für viele CI-Praktizierende ist das gemeinsame Tanzen aber auch ein wichtiger Lernprozess, der in verschiedenste andere Lebensbereiche integriert werden kann.*
+*Contact Improvisation ist auch ein großartiges Empathie-Lerntool. Da wir uns im Alltag nicht so selbstverständlich berühren, könnte Körperkontakt für manche CI-BeginnerInnen mit Gedanken an sexuelle Aktivitäten assoziiert werden. Das Kennenlernen der Bewegungssprache der Contact Improvisation in Kursen ist wichtig um Missverständnisse in dieser Richtung zu vermeiden. Oft braucht es einige Zeit um sich als Beginner*in in der Jam-Welt vertraut zu machen und einzuleben. CI ist keine Therapie. Für viele CI-Praktizierende ist das gemeinsame Tanzen aber auch ein wichtiger Lernprozess, der in verschiedenste andere Lebensbereiche integriert werden kann.*
 
 ![](/assets/uploads/img_0198.jpg)
 
