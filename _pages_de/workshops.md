@@ -4,16 +4,16 @@ title: Wochenend-Workshops
 ---
 # Wochenend-Workshops
 
-Fotocredits: He Shao Hui\
-\
-**2.+3.9.2023 "TUNE IN" mit maRia Probst und Christian Apschner (siehe unten)**
+Fotocredits: He Shao Hui
 
 **4.+5.11.2023 Contact Improvisation open level mit Christian Apschner**\
-**18.+19.11.2023 mit maRia Probst**\
+**18.+19.11.2023 "Moving From The Source" Zeitgenössischer Tanz, Körperausdruck und somatisches Lernen mit maRia Probst**\
 **20.+21.1.2024 Contact Flying Skills (advances) mit Christian Apschner und Lui Springer**\
 Detailplanung in Arbeit
 
 <div class="named-anchor" id="liquid"></div>
+
+## Workshoptermine (Rückblick):
 
 #### **TUNE IN! Contact Improvisation/Somatics/Release Technique**
 
@@ -44,8 +44,6 @@ Teilnahmeempfehlung: Du bewegst dich gerne, bist offen für Körperkontakt und b
 IBAN:AT54 3200 0000 1701 2717, BIC: RLNWATWW, Verein rollingpoint, einzahlen.
 
 **Stornobedingungen:** Bei Abmeldung bis sieben Tage vor dem Workshop wird der gesamte Betrag abzgl. einer Bearbeitungsgebühr von € 10,- zurückbezahlt. 50% Storno bis zwei Tage vor dem Workshop. Am Vortag und Tag des Workshops kein Storno mehr möglich. Es kann aber eine Ersatzperson nominiert werden.
-
-## Workshoptermine (Rückblick):
 
 #### „Liquid Motion“ -open level
 
