@@ -19,14 +19,14 @@ Please pay on our bank account IBAN: AT54 3200 0000 1701 2717, BIC: RLNWATWW,�
 > **19.9.2023 Alina Bertha: *Contemporary Floorwork + Upside Down Moves***\
 > **26.9.2023 Alina Bertha: *Contemporary Floorwork + Upside Down Moves***\
 > \
-> **03.10.2023 maRia Probst**\
+> **03.10.2023 maRia Probst: Easy Riding**\
 > \
 > **10.10.2023 Christian Apschner: *Contact Improvisation Intro + open level (beginner) Jam***\
 > \
 > **17.10.2023 Manu Eder: *"No" Games***\
 > **24.10.2023 Manu Eder: *Dreamy Drops***\
 > \
-> **o7.11.2023 maRia Probst**\
+> **07.11.2023 maRia Probst: Moving From the Source**\
 > \
 > **14.11.2023 Sabine Müller: *Ease and Simplicity***\
 > \
@@ -35,7 +35,7 @@ Please pay on our bank account IBAN: AT54 3200 0000 1701 2717, BIC: RLNWATWW,�
 > **28.11.2023 Paulina Cebula: *Being permeable, soft and adaptable***\
 > **05.12.2023 Paulina Cebula: *Surfing the Gaps***\
 > \
-> **12.12.2023 maRia Probst**\
+> **12.12.2023 maRia Probst: Happy Landings**\
 > \
 > **19.12.2023 Sabine Müller: *Floor - across, into, up***
 
