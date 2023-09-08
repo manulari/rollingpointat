@@ -38,7 +38,7 @@ Wir freuen uns, eine bunte Mischung einstündiger Spezialformate mit verschieden
 > **17.10.2023 Manu Eder: *"No" Games***\
 > **24.10.2023 Manu Eder: *Dreamy Drops***\
 > \
-> **o7.11.2023    maRia Probst: Die Zelle als Bewegungsquelle**\
+> **o7.11.2023    maRia Probst: Moving From the Source**\
 > \
 > **14.11.2023 Sabine Müller: *Ease and Simplicity***\
 > \
