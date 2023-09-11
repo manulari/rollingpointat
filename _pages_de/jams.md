@@ -40,7 +40,7 @@ Wir freuen uns, eine bunte Mischung einstündiger Spezialformate mit verschieden
 > \
 > **o7.11.2023    maRia Probst: Moving From the Source**\
 > \
-> **14.11.2023 Sabine Müller: *Ease and Simplicity***\
+> **14.11.2023 Sabine Müller: *Floor - across, into, up***\
 > \
 > **21.11.2023 Ines Ingerle: *Moving into Connection (CI Intro) + open level (beginner) Jam***\
 > \
@@ -49,7 +49,7 @@ Wir freuen uns, eine bunte Mischung einstündiger Spezialformate mit verschieden
 > \
 > **12.12.2023 maRia Probst: Happy Landings**\
 > \
-> **19.12.2023 Sabine Müller: *Floor - across, into, up***\
+> **19.12.2023 Sabine Müller: *Ease and Simplicity***\
 > ***Fortsetzung folgt!***
 
 **Kostenbeitrag: € 7 - 12 je Special**
