@@ -28,7 +28,7 @@ Please pay on our bank account IBAN: AT54 3200 0000 1701 2717, BIC: RLNWATWW,�
 > \
 > **07.11.2023 maRia Probst: Moving From the Source**\
 > \
-> **14.11.2023 Sabine Müller: *Ease and Simplicity***\
+> **14.11.2023 Sabine Müller: *Floor - across, into, up***\
 > \
 > **21.11.2023 Ines Ingerle: *Moving into Connection (CI Intro) + open level (beginner) Jam***\
 > \
@@ -37,7 +37,7 @@ Please pay on our bank account IBAN: AT54 3200 0000 1701 2717, BIC: RLNWATWW,�
 > \
 > **12.12.2023 maRia Probst: Happy Landings**\
 > \
-> **19.12.2023 Sabine Müller: *Floor - across, into, up***
+> **19.12.2023 Sabine Müller: *Ease and Simplicity***
 
 **Costs € 7 - 12 / Special**
 
