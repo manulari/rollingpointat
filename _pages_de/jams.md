@@ -17,7 +17,11 @@ Turnsaal VS Einsiedlergasse 7, 1050 Wien. Der schöne geräumige Turnsaal befind
 Ankommen ab 18.15, Eröffnungskreis um 18.30, Verlassen des Turnsaal spätestens um 21.00\
 Teilweise  angeleitete warm ups, ausgewählte Musik und Sound-Scapes in der 2.Hälfte der Jams.
 
-**Kostenbeitrag: Einzeln € 7 - 12€, Semesterbeitrag: € 100 - 170**\
+**Kostenbeitrag: Jam einzeln € 7 - 12€, Semesterbeitrag: € 100 - 170**\
+**Specials: € 7-12 je Termin**\
+**Jam+Special: € 14-24 je Abend**\
+**Semesterbeitrag Specials + Jam: € 200 - 300**\
+\
 **Bitte um Kontoüberweisung Bankvbdg.:** IBAN: AT54 3200 0000 1701 2717, BIC: RLNWATWW, Verein rollingpoint
 
 <div class="named-anchor" id="special"></div>
