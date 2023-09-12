@@ -79,6 +79,10 @@ phone Christian +43 650 8931081, maRia +43 650 9510814
 **single class**: **€ 27 (regular), € 20 (reduced)**
 
 **Jam € 7 - 12, Specials € 7 - 12**\
+**Jam + Special: € 14 - 24**\
+**Semester Contact Improvisation Jam: € 100 - 170**\
+**Semester Special + Jam: € 200 - 300**\
+\
 \
 If you book two courses, you get a discount of €30,- for the second/third course.
 
