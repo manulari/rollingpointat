@@ -106,15 +106,17 @@ oder SMS/Tel. Christian 0650 8931081, maRia 0650 9510814
 **Offene Schnupperstunden in den ersten zwei Kurswochen um €10 pro Einheit (max. 1x pro Kurs)**
 
 **Kostenbeitrag Semesterkurse 1, 3 und 4: Normalpreis € 250**\
-Ermäßigungen: € 170 für StudentInnen <=28a, € 210 Sonstige\
-Bei Buchung von mehr als einem Kurs minus € 30 ab dem 2.Ku\
+**Ermäßigungen: € 170 für StudentInnen <=28a, € 210 Sonstige**\
+\
+Bei Buchung von mehr als einem Kurs minus € 30 ab dem 2.Kurs\
 \
 Auf Anfrage für Kurse 1 und 3: 5﻿er Block € 90 - 120 bzw. Einzelstunden € 20–28
 
-**Semesterbeitrag Contact Improvisation Jam: € 100 - 170**\
 **Jam einzeln: € 7–12**\
-**Specials: € 7-12 je Termin**
-
+**Specials: € 7-12 je Termin**\
+**Jam+Special: € 14-24 je Abend**\
+**Semesterbeitrag Contact Improvisation Jam: € 100 - 170**\
+**Semesterbeitrag Special + Jam: € 200 - 300 ermäßigt** \
 \
 Die Reservierung des Kursplatzes erfolgt durch Einzahlung des vollen Kursbeitrages.\
 \
