@@ -6,14 +6,14 @@ title: Wochenend-Workshops
 
 Fotocredits: He Shao Hui
 
-**4.+5.11.2023 Contact Improvisation open level mit Christian Apschner**\
+**4.+5.11.2023 "Unfolding Embodied Creativity" Contact Improvisation open level mit Christian Apschner**\
 **18.+19.11.2023 "Moving From The Source" Zeitgenössischer Tanz, Körperausdruck und somatisches Lernen mit maRia Probst**\
 **20.+21.1.2024 Contact Flying Skills (advances) mit Christian Apschner und Lui Springer**\
 Detailplanung in Arbeit
 
 <div class="named-anchor" id="liquid"></div>
 
-## Workshoptermine (Rückblick):
+## Workshoptermine:
 
 #### **TUNE IN! Contact Improvisation/Somatics/Release Technique**
 
@@ -30,7 +30,52 @@ Zielgruppe: Alle die einen ersten tieferen Einblick in die Welt Contact Improvis
 
 Teilnahmeempfehlung: Du bewegst dich gerne, bist offen für Körperkontakt und bist dir selbst und anderen gegenüber verantwortungsbewusst, achtsam und aufmerksam. Wir begreifen Bewegung als ein Zusammenspiel von Körper und Geist. Der gesamte Mensch tanzt.
 
-## Organisatorisches:
+Anmeldung,Kosten, Kursort: siehe unten
+
+####  **"Moving From The Source"**\
+**18.+19.11.2023**\
+ **Zeitgenössischer Tanz, Körperausdruck und somatisches Lernen / open level**\
+ **mit maRia Probst**
+
+#### Unfolding Embodied Creativity\
+**4./5.11.2023**\
+**Contact Improvisation - Somatics - Real Time Composition - Consent Building / open level**\
+\
+Dieser Workshop lädt Beginner\*innen und erfahrene Tänzer\*innen gleichermaßen zum Mitmachen ein. Wir nutzen den somatischen Zugang von Trager Körperarbeit um Sensitivität, Leichtigkeit und Präsenz in unserem Bewegen zu finden. Durch das Erforschen frühkindlicher Bewegungsmuster (Developmental Movements Patterns) aus dem Body Mind Centering (BMC) lernst du deine tänzerischen Bewegungen organisch und funktionell zu gestalten. Ziel des somatischen Einstiegs ist es, dich gut mit deinem Körper zu verbinden und einen offenen, mitfühlenden und visionären Geist für unsere Contact Improvisation Tänze zu schaffen.
+
+Der Contact Improvisation Schwerpunkt dieses Workshops liegt nicht nur im Erlernen der Technik sondern vielmehr in der Entfaltung des kreativen Potenzials der Contact Improvisation als Individium und als gemeinsame Gruppe. Mittels Visualisierungstechniken und Elementen aus Lisa Nelson Tuning Scores\*) fordern wir unsere Kreativität heraus und finden einen assoziativen „Mind Flow“, den wir in unsere Körperlichkeit übertragen. Consent Building Übungen und Elemente aus Gewaltfreier Kommunikation helfen dir dabei auf deine eigenen Grenzen und Bedürfnisse und die deiner Tanzpartner\*innen zu achten.
+
+Mit diesen Grundlagen ausgestattet kreieren wir immer wieder neue Kompositionen unterschiedlicher Klangfarbe und lassen Körperlandschaften, Geschichten und Filme entstehen. Während wir unsere Tanzphasen als „Silent Space“ verstehen, möchten wir inverbalen Feedback-Runden unsere Erfahrungen sprachlich austauschen.
+
+**Keeping things whole:**\
+In a field I am the absence of field.\
+This is always the case.\
+Wherever I am I am what is missing.\
+When I walk I part the air\
+and always the air moves in\
+to fill the spaces where my body’s been.
+
+
+
+We all have reasons for moving.\
+I move to keep things whole.
+
+
+
+Mark Strand, "Keeping Things Whole" from \
+*Selected Poems*. Copyright © 1979, 1980 by Mark Strand.  
+
+
+
+
+
+
+
+
+
+
+
+## Organisatorisches  zu den Wochenend-Workshops:
 
 **Ort:** Prana Yoga-Studio Nr.1, Mariahilferstr. 82, 1070 Wien
 
@@ -44,6 +89,14 @@ Teilnahmeempfehlung: Du bewegst dich gerne, bist offen für Körperkontakt und b
 IBAN:AT54 3200 0000 1701 2717, BIC: RLNWATWW, Verein rollingpoint, einzahlen.
 
 **Stornobedingungen:** Bei Abmeldung bis sieben Tage vor dem Workshop wird der gesamte Betrag abzgl. einer Bearbeitungsgebühr von € 10,- zurückbezahlt. 50% Storno bis zwei Tage vor dem Workshop. Am Vortag und Tag des Workshops kein Storno mehr möglich. Es kann aber eine Ersatzperson nominiert werden.
+
+
+
+
+
+
+
+## RÜCKBLICK:
 
 #### „Liquid Motion“ -open level
 
