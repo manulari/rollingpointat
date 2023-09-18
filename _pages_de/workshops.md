@@ -10,7 +10,7 @@ Fotocredits: He Shao Hui
 \
 **[18.+19.11.2023 "Moving From The Source" Zeitgenössischer Tanz, Körperausdruck und somatisches Lernen mit maRia Probst](#source)**\
 \
-[[**20.+21.1.2024 Contact Flying Skills (advanced) mit Christian Apschner und Lui Springer[](#flying)**](#flying)](#flying)[[](#flying)](#flying)[](#flying)
+**[20.+21.1.2024 Contact Flying Skills (advanced) mit Christian Apschner und Lui Springer](#flying)**
 
 ## Workshoptermine:
 
