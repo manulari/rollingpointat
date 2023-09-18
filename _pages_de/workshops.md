@@ -41,7 +41,8 @@ Anmeldung,Kosten, Kursort: siehe unten
 #### Unfolding Embodied Creativity
 
 **4./5.11.2023**\
-**Contact Improvisation - Somatics - Real Time Composition - Consent Building / open level**
+**Contact Improvisation - Somatics - Real Time Composition - Consent Building / open level**\
+**mit Christian Apschner**
 
 Dieser Workshop lädt Beginner\*innen und erfahrene Tänzer\*innen gleichermaßen zum Mitmachen ein. Wir nutzen den somatischen Zugang von Trager Körperarbeit um Sensitivität, Leichtigkeit und Präsenz in unserem Bewegen zu finden. Durch das Erforschen frühkindlicher Bewegungsmuster (Developmental Movements Patterns) aus dem Body Mind Centering (BMC) lernst du deine tänzerischen Bewegungen organisch und funktionell zu gestalten. Ziel des somatischen Einstiegs ist es,uns gut mit unserem Körper zu verbinden und einen offenen, mitfühlenden und visionären Geist für unsere Contact Improvisation Tänze zu schaffen.
 
