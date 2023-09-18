@@ -6,37 +6,17 @@ title: Wochenend-Workshops
 
 Fotocredits: He Shao Hui
 
-**4.+5.11.2023 "Unfolding Embodied Creativity" Contact Improvisation open level mit Christian Apschner**\
-**18.+19.11.2023 "Moving From The Source" Zeitgenössischer Tanz, Körperausdruck und somatisches Lernen mit maRia Probst**\
-**20.+21.1.2024 Contact Flying Skills (advances) mit Christian Apschner und Lui Springer**\
-Detailplanung in Arbeit
+**[4.+5.11.2023 "Unfolding Embodied Creativity" Contact Improvisation open level mit Christian Apschner](#creativity)**\
+\
+**[18.+19.11.2023 "Moving From The Source" Zeitgenössischer Tanz, Körperausdruck und somatisches Lernen mit maRia Probst](#source)**\
+\
+[**20.+21.1.2024 Contact Flying Skills (advanced) mit Christian Apschner und Lui Springer**[](#flying)](#flying)[](#flying)
 
 <div class="named-anchor" id="liquid"></div>
 
 ## Workshoptermine:
 
-#### **TUNE IN! Contact Improvisation/Somatics/Release Technique**
-
-**Wochenend-Workshop  2.+3.9.2023, 10.00-17.00, beginner/open level**\
-**mit Christian Apschner und maRia Probst**
-
-In diesem Wochenend-Workshop möchten wir dich auf eine Entdeckungsreise in die drei Herzstücke rollingpoints einladen. Du lernst Basics der Contact Improvisation kennen und wie es leicht geht, Gewicht abzugeben und zu übernehmen oder mit dem rollenden Kontaktpunkt zu spielen. Du gewinnst einen Einblick in die Technik einfacher lifts und jumps und damit in die sportlich-dynamisch Seite der Contact Improvisation.
-
-Mittels Somatics, einer Form des körperlichen Lernens, kannst du deine innewohnende körperliche Unmittelbarkeit des frühen Seins als Kind in Bewegung wiederentdecken und das Zusammenspiel von Muskeln, Sehnen, Knochen und Organen besser verstehen lernen. Du wirst in einer speziellen Form des Zeitgenössischen Tanzes der "Anatomical Release Technique" erfahren, wie es sich anfühlt unnötige Spannung loszulassen und direkt in Bewegung freizusetzen. Diese Bewegungserfahrungen werden dir helfen im freien Tanzen und in der Contact Improvisation Leichtigkeit, Effizienz und Bewegungsvielfalt zu finden.
-
-Contact Improvisation verstehen wir auch als eine Form von nonverbaler Kommunikation und Begegnung, in der wir lernen auf unsere eigenen körperlich-mentalen Bedürfnisse und Grenzen und die unserer TanzpartnerInnen gleichermaßen zu achten. In verbalen Feedback-Runden möchten wir diesen Erfahrungen Raum geben.
-
-Zielgruppe: Alle die einen ersten tieferen Einblick in die Welt Contact Improvisation, des RELEASZE Tanztrainings und des Somatischen Lernens von rollingpoint machen möchten. Auch als **Contact Improvisation Starter-Kit und Orientierungsworkshop** gedacht. Erfahrene Tänzer\*innen sind wie immer ebenfalls gerne willkommen. Hier bietet sich die Möglichkeit den Beginner\*innengeist neu aufzufrischen und bereits Erlerntes neu zu reflektieren und zu verfeinern.
-
-Teilnahmeempfehlung: Du bewegst dich gerne, bist offen für Körperkontakt und bist dir selbst und anderen gegenüber verantwortungsbewusst, achtsam und aufmerksam. Wir begreifen Bewegung als ein Zusammenspiel von Körper und Geist. Der gesamte Mensch tanzt.
-
-Anmeldung,Kosten, Kursort: siehe unten
-
-#### **"Moving From The Source" - open level**
-
-**18.+19.11.2023**\
- **Zeitgenössischer Tanz, Körperausdruck und somatisches Lernen**\
- **mit maRia Probst**
+<div class="named-anchor" id="#creativity"></div>
 
 #### "Unfolding Embodied Creativity - open level
 
@@ -50,7 +30,8 @@ Der Contact Improvisation Schwerpunkt dieses Workshops liegt nicht nur im Erlern
 
 Mit diesen Grundlagen ausgestattet kreieren wir immer wieder neue Kompositionen unterschiedlicher Klangfarbe und lassen Körperlandschaften, Geschichten und Filme entstehen. Während wir unsere Tanzphasen als „Silent Space“ verstehen, möchten wir inverbalen Feedback-Runden unsere Erfahrungen sprachlich austauschen.
 
-**Keeping things whole:**\
+**Keeping things whole:**
+
 In a field I am the absence of field.\
 This is always the case.\
 Wherever I am I am what is missing.\
@@ -58,13 +39,33 @@ When I walk I part the air\
 and always the air moves in\
 to fill the spaces where my body’s been.
 
-We all have reasons for moving.\
-I move to keep things whole.
+**We all have reasons for moving.**\
+**I move to keep things whole.**
 
 Mark Strand, "Keeping Things Whole" from \
 *Selected Poems*. Copyright © 1979, 1980 by Mark Strand.  
 
 \*)Tuning Scores, developed by dance-maker Lisa Nelson, is an improvisational composition practice that is a performance in itself. It offers tools and a framework for communication and a model of collaboration that is constructed by the players in the act of doing.  The research focuses on the action of the senses – the physical base of the imagination. How does composition arise in the body and its environment? Focusing on vision, touch, and hearing, the scores provoke spontaneous compositions that make evident our opinions about who/where we are, how each of us senses and makes sense of movement. 
+
+Teilnahmeempfehlung: Du bewegst dich gerne, bist offen für Körperkontakt und bist dir selbst und anderen gegenüber verantwortungsbewusst, achtsam und aufmerksam. Wir begreifen Bewegung als ein Zusammenspiel von Körper und Geist. Der gesamte Mensch tanzt.
+
+[Kosten, Ort und Anmeldung](#creativity)
+
+
+
+<div class="named-anchor" id="#source"></div>
+
+#### **"Moving From The Source" - open level**
+
+**18.+19.11.2023**\
+ **Zeitgenössischer Tanz, Körperausdruck und somatisches Lernen**\
+ **mit maRia Probst**
+
+[Kosten, Ort und Anmeldung](#orga)
+
+
+
+<div class="named-anchor" id="flying"></div>
 
 #### **"Contact Flying Skills"** - advanced
 
@@ -81,7 +82,7 @@ Für die Teilnahme an diesem Workshop sind CI-Grund- und Tanzerfahrung sowie gut
 
 Lui Springer: <https://www.freibewegt.at/über/>
 
-
+<div class="named-anchor" id="#orga"></div>
 
 ## Organisatorisches  zu den Wochenend-Workshops:
 
@@ -99,6 +100,21 @@ IBAN:AT54 3200 0000 1701 2717, BIC: RLNWATWW, Verein rollingpoint, einzahlen.
 **Stornobedingungen:** Bei Abmeldung bis sieben Tage vor dem Workshop wird der gesamte Betrag abzgl. einer Bearbeitungsgebühr von € 10,- zurückbezahlt. 50% Storno bis zwei Tage vor dem Workshop. Am Vortag und Tag des Workshops kein Storno mehr möglich. Es kann aber eine Ersatzperson nominiert werden.
 
 ## RÜCKBLICK:
+
+#### **TUNE IN! Contact Improvisation/Somatics/Release Technique**
+
+**Wochenend-Workshop  2.+3.9.2023, 10.00-17.00, beginner/open level**\
+**mit Christian Apschner und maRia Probst**
+
+In diesem Wochenend-Workshop möchten wir dich auf eine Entdeckungsreise in die drei Herzstücke rollingpoints einladen. Du lernst Basics der Contact Improvisation kennen und wie es leicht geht, Gewicht abzugeben und zu übernehmen oder mit dem rollenden Kontaktpunkt zu spielen. Du gewinnst einen Einblick in die Technik einfacher lifts und jumps und damit in die sportlich-dynamisch Seite der Contact Improvisation.
+
+Mittels Somatics, einer Form des körperlichen Lernens, kannst du deine innewohnende körperliche Unmittelbarkeit des frühen Seins als Kind in Bewegung wiederentdecken und das Zusammenspiel von Muskeln, Sehnen, Knochen und Organen besser verstehen lernen. Du wirst in einer speziellen Form des Zeitgenössischen Tanzes der "Anatomical Release Technique" erfahren, wie es sich anfühlt unnötige Spannung loszulassen und direkt in Bewegung freizusetzen. Diese Bewegungserfahrungen werden dir helfen im freien Tanzen und in der Contact Improvisation Leichtigkeit, Effizienz und Bewegungsvielfalt zu finden.
+
+Contact Improvisation verstehen wir auch als eine Form von nonverbaler Kommunikation und Begegnung, in der wir lernen auf unsere eigenen körperlich-mentalen Bedürfnisse und Grenzen und die unserer TanzpartnerInnen gleichermaßen zu achten. In verbalen Feedback-Runden möchten wir diesen Erfahrungen Raum geben.
+
+Zielgruppe: Alle die einen ersten tieferen Einblick in die Welt Contact Improvisation, des RELEASZE Tanztrainings und des Somatischen Lernens von rollingpoint machen möchten. Auch als **Contact Improvisation Starter-Kit und Orientierungsworkshop** gedacht. Erfahrene Tänzer\*innen sind wie immer ebenfalls gerne willkommen. Hier bietet sich die Möglichkeit den Beginner\*innengeist neu aufzufrischen und bereits Erlerntes neu zu reflektieren und zu verfeinern.
+
+Teilnahmeempfehlung: Du bewegst dich gerne, bist offen für Körperkontakt und bist dir selbst und anderen gegenüber verantwortungsbewusst, achtsam und aufmerksam. Wir begreifen Bewegung als ein Zusammenspiel von Körper und Geist. Der gesamte Mensch tanzt.
 
 #### „Liquid Motion“ -open level
 
