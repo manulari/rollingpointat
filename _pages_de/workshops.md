@@ -14,7 +14,7 @@ Fotocredits: He Shao Hui
 
 ## Workshoptermine:
 
-<div class="named-anchor" id="#creativity"></div>
+<div class="named-anchor" id="creativity"></div>
 
 #### "Unfolding Embodied Creativity - open level
 
@@ -51,7 +51,7 @@ Teilnahmeempfehlung: Du bewegst dich gerne, bist offen für Körperkontakt und b
 
 
 
-<div class="named-anchor" id="#source"></div>
+<div class="named-anchor" id="source"></div>
 
 #### **"Moving From The Source" - open level**
 
@@ -63,7 +63,7 @@ Teilnahmeempfehlung: Du bewegst dich gerne, bist offen für Körperkontakt und b
 
 
 
-<div class="named-anchor" id="#flying"></div>
+<div class="named-anchor" id="flying"></div>
 
 #### **"Contact Flying Skills"** - advanced
 
@@ -80,7 +80,7 @@ Für die Teilnahme an diesem Workshop sind CI-Grund- und Tanzerfahrung sowie gut
 
 Lui Springer: <https://www.freibewegt.at/über/>
 
-<div class="named-anchor" id="#orga"></div>
+<div class="named-anchor" id="orga"></div>
 
 ## Organisatorisches  zu den Wochenend-Workshops:
 
