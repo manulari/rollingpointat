@@ -32,16 +32,18 @@ Teilnahmeempfehlung: Du bewegst dich gerne, bist offen für Körperkontakt und b
 
 Anmeldung,Kosten, Kursort: siehe unten
 
-####  **"Moving From The Source"**\
+#### **"Moving From The Source"**
+
 **18.+19.11.2023**\
  **Zeitgenössischer Tanz, Körperausdruck und somatisches Lernen / open level**\
  **mit maRia Probst**
 
-#### Unfolding Embodied Creativity\
+#### Unfolding Embodied Creativity
+
 **4./5.11.2023**\
-**Contact Improvisation - Somatics - Real Time Composition - Consent Building / open level**\
-\
-Dieser Workshop lädt Beginner\*innen und erfahrene Tänzer\*innen gleichermaßen zum Mitmachen ein. Wir nutzen den somatischen Zugang von Trager Körperarbeit um Sensitivität, Leichtigkeit und Präsenz in unserem Bewegen zu finden. Durch das Erforschen frühkindlicher Bewegungsmuster (Developmental Movements Patterns) aus dem Body Mind Centering (BMC) lernst du deine tänzerischen Bewegungen organisch und funktionell zu gestalten. Ziel des somatischen Einstiegs ist es, dich gut mit deinem Körper zu verbinden und einen offenen, mitfühlenden und visionären Geist für unsere Contact Improvisation Tänze zu schaffen.
+**Contact Improvisation - Somatics - Real Time Composition - Consent Building / open level**
+
+Dieser Workshop lädt Beginner\*innen und erfahrene Tänzer\*innen gleichermaßen zum Mitmachen ein. Wir nutzen den somatischen Zugang von Trager Körperarbeit um Sensitivität, Leichtigkeit und Präsenz in unserem Bewegen zu finden. Durch das Erforschen frühkindlicher Bewegungsmuster (Developmental Movements Patterns) aus dem Body Mind Centering (BMC) lernst du deine tänzerischen Bewegungen organisch und funktionell zu gestalten. Ziel des somatischen Einstiegs ist es,uns gut mit unserem Körper zu verbinden und einen offenen, mitfühlenden und visionären Geist für unsere Contact Improvisation Tänze zu schaffen.
 
 Der Contact Improvisation Schwerpunkt dieses Workshops liegt nicht nur im Erlernen der Technik sondern vielmehr in der Entfaltung des kreativen Potenzials der Contact Improvisation als Individium und als gemeinsame Gruppe. Mittels Visualisierungstechniken und Elementen aus Lisa Nelson Tuning Scores\*) fordern wir unsere Kreativität heraus und finden einen assoziativen „Mind Flow“, den wir in unsere Körperlichkeit übertragen. Consent Building Übungen und Elemente aus Gewaltfreier Kommunikation helfen dir dabei auf deine eigenen Grenzen und Bedürfnisse und die deiner Tanzpartner\*innen zu achten.
 
@@ -55,23 +57,30 @@ When I walk I part the air\
 and always the air moves in\
 to fill the spaces where my body’s been.
 
-
-
 We all have reasons for moving.\
 I move to keep things whole.
-
-
 
 Mark Strand, "Keeping Things Whole" from \
 *Selected Poems*. Copyright © 1979, 1980 by Mark Strand.  
 
+\*)Tuning Scores, developed by dance-maker Lisa Nelson, is an improvisational composition practice that is a performance in itself. It offers tools and a framework for communication and a model of collaboration that is constructed by the players in the act of doing.  The research focuses on the action of the senses – the physical base of the imagination. How does composition arise in the body and its environment? Focusing on vision, touch, and hearing, the scores provoke spontaneous compositions that make evident our opinions about who/where we are, how each of us senses and makes sense of movement. 
 
+#### **"Contact Flying Skills"** - advanced
 
+**Sa/So 20./ 21.01.2024, 10.00-17.00  (ca 1,5h Mittagspause)**\
+**mit Christian Apschner und Lui Springer**
 
+Prana-Yoga Studio 1, Mariahilferstraße 82, 1070 Wien
 
+Der rollingpoint Workshop-Klassiker für alle CI-TänzerInnen mit sportlichen Ambitionen!
 
+Dieser technikorientierte Workshop lädt dich ein, dein Bewegungsspektrum zu erweitern und dich aufs Fliegen, Fallen und auf akrobatische Elemente einzulassen. Ein Schwerpunkt des Wochenendes wird sein, verschiedene Lifts und Jumps in allen Raumebenen zu üben und kopfüber auf den Händen zu tanzen.
 
+Wir stellen eine Verbindung von Athletischem und Meditativem her und lernen durch eine anatomisch gute Körperausrichtung sowie durch Modulation der Körperspannung und Nutzung der Schwungenergie Gewicht schonend aufzunehmen und abzugeben. Im Laufe des Lernprozesses wird es immer leichter sich dem Bewegungsfluss hinzugeben und gleichzeitig den Tanz so präsent wahrzunehmen, dass wir ihn spielerisch lenken können.
 
+Für die Teilnahme an diesem Workshop sind CI-Grund- und Tanzerfahrung sowie gute körperliche und mentale Fitness erforderlich.
+
+Lui Springer: <https://www.freibewegt.at/über/>
 
 
 
@@ -89,12 +98,6 @@ Mark Strand, "Keeping Things Whole" from \
 IBAN:AT54 3200 0000 1701 2717, BIC: RLNWATWW, Verein rollingpoint, einzahlen.
 
 **Stornobedingungen:** Bei Abmeldung bis sieben Tage vor dem Workshop wird der gesamte Betrag abzgl. einer Bearbeitungsgebühr von € 10,- zurückbezahlt. 50% Storno bis zwei Tage vor dem Workshop. Am Vortag und Tag des Workshops kein Storno mehr möglich. Es kann aber eine Ersatzperson nominiert werden.
-
-
-
-
-
-
 
 ## RÜCKBLICK:
 
