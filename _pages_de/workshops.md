@@ -10,9 +10,7 @@ Fotocredits: He Shao Hui
 \
 **[18.+19.11.2023 "Moving From The Source" Zeitgenössischer Tanz, Körperausdruck und somatisches Lernen mit maRia Probst](#source)**\
 \
-[**20.+21.1.2024 Contact Flying Skills (advanced) mit Christian Apschner und Lui Springer**[](#flying)](#flying)[](#flying)
-
-<div class="named-anchor" id="liquid"></div>
+[[**20.+21.1.2024 Contact Flying Skills (advanced) mit Christian Apschner und Lui Springer[](#flying)**](#flying)](#flying)[[](#flying)](#flying)[](#flying)
 
 ## Workshoptermine:
 
@@ -49,7 +47,7 @@ Mark Strand, "Keeping Things Whole" from \
 
 Teilnahmeempfehlung: Du bewegst dich gerne, bist offen für Körperkontakt und bist dir selbst und anderen gegenüber verantwortungsbewusst, achtsam und aufmerksam. Wir begreifen Bewegung als ein Zusammenspiel von Körper und Geist. Der gesamte Mensch tanzt.
 
-[Kosten, Ort und Anmeldung](#creativity)
+[Kosten, Ort und Anmeldung](#orga)
 
 
 
@@ -65,7 +63,7 @@ Teilnahmeempfehlung: Du bewegst dich gerne, bist offen für Körperkontakt und b
 
 
 
-<div class="named-anchor" id="flying"></div>
+<div class="named-anchor" id="#flying"></div>
 
 #### **"Contact Flying Skills"** - advanced
 
