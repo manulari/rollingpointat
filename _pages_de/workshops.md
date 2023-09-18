@@ -32,16 +32,16 @@ Teilnahmeempfehlung: Du bewegst dich gerne, bist offen für Körperkontakt und b
 
 Anmeldung,Kosten, Kursort: siehe unten
 
-#### **"Moving From The Source"**
+#### **"Moving From The Source" - open level**
 
 **18.+19.11.2023**\
- **Zeitgenössischer Tanz, Körperausdruck und somatisches Lernen / open level**\
+ **Zeitgenössischer Tanz, Körperausdruck und somatisches Lernen**\
  **mit maRia Probst**
 
-#### Unfolding Embodied Creativity
+#### "Unfolding Embodied Creativity - open level
 
 **4./5.11.2023**\
-**Contact Improvisation - Somatics - Real Time Composition - Consent Building / open level**\
+**Contact Improvisation - Somatics - Real Time Composition - Consent Building**\
 **mit Christian Apschner**
 
 Dieser Workshop lädt Beginner\*innen und erfahrene Tänzer\*innen gleichermaßen zum Mitmachen ein. Wir nutzen den somatischen Zugang von Trager Körperarbeit um Sensitivität, Leichtigkeit und Präsenz in unserem Bewegen zu finden. Durch das Erforschen frühkindlicher Bewegungsmuster (Developmental Movements Patterns) aus dem Body Mind Centering (BMC) lernst du deine tänzerischen Bewegungen organisch und funktionell zu gestalten. Ziel des somatischen Einstiegs ist es,uns gut mit unserem Körper zu verbinden und einen offenen, mitfühlenden und visionären Geist für unsere Contact Improvisation Tänze zu schaffen.
@@ -70,8 +70,6 @@ Mark Strand, "Keeping Things Whole" from \
 
 **Sa/So 20./ 21.01.2024, 10.00-17.00  (ca 1,5h Mittagspause)**\
 **mit Christian Apschner und Lui Springer**
-
-Prana-Yoga Studio 1, Mariahilferstraße 82, 1070 Wien
 
 Der rollingpoint Workshop-Klassiker für alle CI-TänzerInnen mit sportlichen Ambitionen!
 
