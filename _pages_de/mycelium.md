@@ -55,7 +55,7 @@ Gelegentlich können Fotos und Videoaufnahmen gemacht werden. Für die Veröffen
 **Wie kann ich teilnehmen?**
 
 Als Zusehende und Beobachtende sind alle Interessierten sehr gerne willkommen. Für das Mitmachen (=Mittanzen) sind Basiskenntnisse der Contact Improvisation wichtig (um Verletzungsgefahr zu vermeiden). Bitte an geeignetes Schuhwerk und Bekleidung denken.\
-Die Teilnahme erfolgt auf eigene Gefahr und auf eigenes Risiko der Teilnehmenden. Wichtig ist ein achtsamer Umgang miteinander. 
+Die Teilnahme erfolgt auf eigene Gefahr und auf eigenes Risiko der Teilnehmenden. Wichtig ist ein achtsamer Umgang miteinander und mit Passant*innen.
 
 Bitte lies dir auch den gedanklichen Hintergrund zum Projekt durch! (siehe unten)
 
