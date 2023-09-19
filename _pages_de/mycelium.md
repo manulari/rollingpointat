@@ -39,8 +39,6 @@ News vom 28.8.2023: Es gibt Fotos vom Termin Am Himmel. Vielen Dank an Michael W
 
 ![](/assets/uploads/dsc00600.jpg)
 
-
-
 ![](/assets/uploads/dsc00604-2-2.jpg)
 
 **Wie läuft das Projekt ab?**
@@ -57,7 +55,7 @@ Gelegentlich können Fotos und Videoaufnahmen gemacht werden. Für die Veröffen
 **Wie kann ich teilnehmen?**
 
 Als Zusehende und Beobachtende sind alle Interessierten sehr gerne willkommen. Für das Mitmachen (=Mittanzen) sind Basiskenntnisse der Contact Improvisation wichtig (um Verletzungsgefahr zu vermeiden). Bitte an geeignetes Schuhwerk und Bekleidung denken.\
-Die Teilnahme erfolgt auf eigene Gefahr und auf eigenes Risiko der Teilnehmenden. Wichtig ist ein achtsamer Umgang miteinander. Für mögliche Interaktionen mit Passanten/Hunden tragen die Teilnehmenden jeweils selbst persönlich Verantwortung.
+Die Teilnahme erfolgt auf eigene Gefahr und auf eigenes Risiko der Teilnehmenden. Wichtig ist ein achtsamer Umgang miteinander. 
 
 Bitte lies dir auch den gedanklichen Hintergrund zum Projekt durch! (siehe unten)
 
