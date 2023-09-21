@@ -38,7 +38,7 @@ mal.“
 
 Teilnahmeempfehlung: Tanzfreudige mit Lust an Bewegungsausdruck und -forschung. An Kontaktimprovisations-Elementen mit geringer Gewichtsübertragung und an Berührung für Bewegungsentwicklung Interessierte. Menschen, die sich selbst und ihren Körper besser kennen lernen wollen. Eine kontinuierliche Teilnahme ist von Vorteil und daher sehr erwünscht.
 
-[Kosten](#kosten)
+[Kosten und Anmeldung](#kosten)
 
 <div class="named-anchor" id="di"></div>
 
@@ -56,7 +56,7 @@ Die wöchtenliche rollingpoint-Jam findet ab 19.9.2023 im schönen großen Turns
 
 In der Special-Hour vor den Jams von 17.15-18.15 lädt eine bunte Mischung von Specials rund um die CI mit unterschiedlichem Fokus und Gastlehrer\*innen zum Mitmachen ein. Geplant sind auch Spezialformate wie für Beginner\*innen offene open level Jams und Underscore. [Hier findest du das akutelle Programm.](/jams#special)
 
-[Kosten](#kosten)
+[Kosten und Anmeldung](#kosten)
 
 <div class="named-anchor" id="mi"></div>
 
@@ -76,7 +76,7 @@ Wir beenden die Tanzeinheiten immer mit Partner*innen Körperarbeits-Settings mi
 Beginner*innen sind am Mittwoch zu folgenden Terminen zu einem open level Training gemeinsam mit der fortlaufenden intermediate/advanced Trainingsgruppe eingeladen.\
 25.10., 13.12.2023, 24.1.2024
 
-[Kosten](#kosten)
+[Kosten und Anmeldung](#kosten)
 
 <div class="named-anchor" id="do"></div>
 
@@ -94,7 +94,7 @@ Du bist eingeladen mit fortschreitendem Lernprozess an den rollingpoint-Jams tei
 
 Teilnahmeempfehlungen: Da wir in der Contact Improvisation gegenseitig Körpergewicht abgeben und übernehmen, sind ein Grundausmaß an Sensitivität für den eigenen Körper und die Grenzen anderer wichtig für die Teilnahme an diesem Kurs. Bewegungsvorerfahrung aller Art sowie Freude an Körperkontakt und sich “fallen zu lassen” sind von Vorteil.
 
-[Kosten](#kosten)
+[Kosten und Anmeldung](#kosten)
 
 <div class="named-anchor" id="kosten"></div>
 
@@ -102,11 +102,14 @@ Teilnahmeempfehlungen: Da wir in der Contact Improvisation gegenseitig Körperge
 
 ***ANMELDUNG:*** 
 
-**Verwende folgendes Anmeldeformular**\
+**Schreibe uns ein kurzes mail an ci.rollingpoint@gmail.com**\
+\
+**oder verwende folgendes Anmeldeformular**\
 <https://docs.google.com/forms/d/1jZMz5Vbw9GPKJOt8n8ezVATS5FUkqGH577JzEoFm6fE/edit>
 
-**oder noch besser schreibe uns ein kurzes mail an ci.rollingpoint@gmail.com**\
-oder SMS/Tel. Christian 0650 8931081, maRia 0650 9510814
+Für weitere Fragen stehen wir gerne per \
+SMS/Tel. Christian 0650 8931081, maRia 0650 9510814\
+zur Verfügung.
 
 ***KOSTEN:***\
 \
