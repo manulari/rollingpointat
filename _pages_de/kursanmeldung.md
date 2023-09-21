@@ -5,6 +5,8 @@ language: de
 ---
 Aus verschiedensten Gründen verfügen wir leider noch über kein Anmeldeformular oder automatisches Bezahlsystem.
 
+<https://docs.google.com/forms/d/1jZMz5Vbw9GPKJOt8n8ezVATS5FUkqGH577JzEoFm6fE/edit>
+
 **Zur Anmeldung für einen der Kurse oder für eine Schnupperstunde schreibe uns bitte ein kurzes mail an ci.rollingpoint@gmail.com oder nimm direkt Kontakt per SMS/Tel. mit**\
 **maRia (0650 9510814)**\
 **bzw. Christian (0650 8931081) auf.**
