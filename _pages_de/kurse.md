@@ -100,9 +100,16 @@ Teilnahmeempfehlungen: Da wir in der Contact Improvisation gegenseitig Körperge
 
 ### Schnupperstunden, Kursanmeldung und Kosten
 
-**Anmeldung: Schreibe uns bitte ein kurzes mail an ci.rollingpoint@gmail.com**\
+***ANMELDUNG:*** 
+
+**Verwende folgendes Anmeldeformular**\
+<https://docs.google.com/forms/d/1jZMz5Vbw9GPKJOt8n8ezVATS5FUkqGH577JzEoFm6fE/edit>
+
+**oder noch besser schreibe uns ein kurzes mail an ci.rollingpoint@gmail.com**\
 oder SMS/Tel. Christian 0650 8931081, maRia 0650 9510814
 
+***KOSTEN:***\
+\
 **Offene Schnupperstunden in den ersten zwei Kurswochen um €10 pro Einheit (max. 1x pro Kurs)**
 
 **Kostenbeitrag Semesterkurse 1, 3 und 4: Normalpreis € 250**\
@@ -118,10 +125,14 @@ Auf Anfrage für Kurse 1 und 3: 5﻿er Block € 90 - 120 bzw. Einzelstunden �
 **Semesterbeitrag Contact Improvisation Jam: € 100 - 170**\
 **Semesterbeitrag Specials + Jam: € 200 - 300**\
 \
-Die Reservierung des Kursplatzes erfolgt durch Einzahlung des vollen Kursbeitrages.\
+Die Reservierung des Kursplatzes erfolgt durch Einzahlung des vollen Kursbeitrages.
+
+***BEZAHLUNG:***\
 \
-**Bezahlung: Bitte um Kontoüberweisung der Kursbeiträge**\
+**Bitte um Kontoüberweisung der Kursbeiträge**\
 **Bankvbdg.:** IBAN: AT54 3200 0000 1701 2717, BIC: RLNWATWW, Verein rollingpoint
+
+***ORGANISATORISCHES:***
 
 An schulautonomen Tagen und Feiertagen finden keine Kurse statt, konkrete Kalendertage werden zeitgerecht bekannt gegeben.
 
