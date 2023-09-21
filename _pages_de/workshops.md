@@ -49,8 +49,6 @@ Teilnahmeempfehlung: Du bewegst dich gerne, bist offen für Körperkontakt und b
 
 [Kosten, Ort und Anmeldung](#orga)
 
-
-
 <div class="named-anchor" id="source"></div>
 
 #### **"Moving From The Source" - open level**
@@ -60,8 +58,6 @@ Teilnahmeempfehlung: Du bewegst dich gerne, bist offen für Körperkontakt und b
  **mit maRia Probst**
 
 [Kosten, Ort und Anmeldung](#orga)
-
-
 
 <div class="named-anchor" id="flying"></div>
 
@@ -84,18 +80,26 @@ Lui Springer: <https://www.freibewegt.at/über/>
 
 ## Organisatorisches  zu den Wochenend-Workshops:
 
-**Ort:** Prana Yoga-Studio Nr.1, Mariahilferstr. 82, 1070 Wien
+**ORT:** Prana Yoga-Studio Nr.1, Mariahilferstr. 82, 1070 Wien
 
-**Anmeldung:** per email ci.rollingpoint@gmail.com, Tel. maRia 0650 9510814, Christian 0650 8931081
+**ANMELDUNG:**\
+bitte per email ci.rollingpoint@gmail.com, Tel. maRia 0650 9510814, Christian 0650 8931081\
+bwz. folgendes Anmeldeformular verwenden:
 
-**Kosten:**\
+<https://docs.google.com/forms/d/1jZMz5Vbw9GPKJOt8n8ezVATS5FUkqGH577JzEoFm6fE/edit>
+
+**KOSTEN JE WORKSHOP:**\
+\
 **Frühbucherpreis € 200/170/130,-** (Supporter/Normalpreis/ermäßigt) bei Einzahlung bis 14 Tage vor Workshopbeginn\
 **€ 220/190/150,-** (Supporter/Normalpreis/ermäßigt) bei Einzahlung ab 13 Tagen vor Workshopbeginn
 
-**Bezahlung:** Bitte die Kostenbeiträge immer vorab auf unser Konto\
+**BEZAHLUNG:**\
+Bitte die Kostenbeiträge immer vorab auf unser Konto\
 IBAN:AT54 3200 0000 1701 2717, BIC: RLNWATWW, Verein rollingpoint, einzahlen.
 
 **Stornobedingungen:** Bei Abmeldung bis sieben Tage vor dem Workshop wird der gesamte Betrag abzgl. einer Bearbeitungsgebühr von € 10,- zurückbezahlt. 50% Storno bis zwei Tage vor dem Workshop. Am Vortag und Tag des Workshops kein Storno mehr möglich. Es kann aber eine Ersatzperson nominiert werden.
+
+
 
 ## RÜCKBLICK:
 
