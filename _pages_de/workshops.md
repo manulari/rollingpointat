@@ -8,7 +8,7 @@ Fotocredits: He Shao Hui
 
 **[4.+5.11.2023 "Unfolding Embodied Creativity" Contact Improvisation open level mit Christian Apschner](#creativity)**\
 \
-**[18.+19.11.2023 "Moving From The Source" Zeitgenössischer Tanz, Körperausdruck und somatisches Lernen mit maRia Probst](#source)**\
+**[18.+19.11.2023 "Dancing From The Source" Zeitgenössischer Tanz, Körperausdruck und somatisches Lernen mit maRia Probst](#source)**\
 \
 **[20.+21.1.2024 Contact Flying Skills (advanced) mit Christian Apschner und Lui Springer](#flying)**
 
@@ -16,7 +16,7 @@ Fotocredits: He Shao Hui
 
 <div class="named-anchor" id="creativity"></div>
 
-#### "Unfolding Embodied Creativity - open level
+#### "Unfolding Embodied Creativity" - open level
 
 **4./5.11.2023**\
 **Contact Improvisation - Somatics - Real Time Composition - Consent Building**\
@@ -51,11 +51,25 @@ Teilnahmeempfehlung: Du bewegst dich gerne, bist offen für Körperkontakt und b
 
 <div class="named-anchor" id="source"></div>
 
-#### **"Moving From The Source" - open level**
+#### **"Dancing From The Source" - open level**
 
 **18.+19.11.2023**\
  **Zeitgenössischer Tanz, Körperausdruck und somatisches Lernen**\
  **mit maRia Probst**
+
+An diesem Workshop sprechen wir mit Elementen aus dem zeitgenössischen Tanz, Qi Gong, Yoga und Contact Improvisation unseren KörperGeist als Einheit an.
+
+Im Mittelpunkt steht Somatisches Lernen. Inspiriert von BodyMindCentering* berühren wir einander, visualisieren unser Körperinneres und lernen über unsere Anatomie. So verstehen wir unsere Zellen und unsere Körpersysteme besser.
+
+**Unsere Zellen als Bewegungs-, Ausdrucks- und Kraftquelle** sind die Hauptressource an diesen dem Tanz gewidmeten zwei Tagen. Wir visualisieren sie als Grundeinheit des Lebens und spüren unsere innere Ruhe und Lebendigkeit. Von da aus machen wir uns auf den Weg in die spezifischen Bewegungswelten unserer Körpersysteme, verbinden uns mit der Qualität unserer Organe und werden mithilfe des Flüssigen in uns durchlässig. Ebenso lenken wir unsere Aufmerksamkeit auf das Skelettsystem, um Struktur und Klarheit in unserer Bewegung zu entwickeln. Die Haut als großes Wahrnehmungsorgan antwortet auf unseren Stimulierungsreichtum mit unzähligen Bewegungsimpulsen, denen wir folgen wollen. Manche davon sind uns vertraut, andere ungewohnt.
+
+Sich auf Neuland einzulassen ermöglicht, sich selbst anders zu erfahren und den Partner*innen mit einer breiteren Ausdruckspalette zu begegnen. So entsteht eine fruchtbare tänzerische Improvisation.
+
+Somatic Movement Praktiken können für viele verschiedene Anliegen fruchtbar sein. An diesem Wochenende stehen sowohl die Erweiterung des eigenen Bewegungsspektrums im Tanz, als auch Ausdrucksvielfalt für alle Lebenslagen, körpergerechtes Bewegen und Tanzimprovisation als poetische Praxis im Vordergrund.
+
+\* Body-Mind Centering ist eine „Somatic Movement“ Disziplin und ein integrativer und leibhafter Zugang zu Bewegung, Körper und Bewusstsein.
+
+Teilnahmevoraussetzung: Du bewegst dich gerne, bist offen für Körperkontakt und bist dir selbst und anderen gegenüber verantwortungsbewusst, achtsam und aufmerksam.
 
 [Kosten, Ort und Anmeldung](#orga)
 
@@ -98,8 +112,6 @@ Bitte die Kostenbeiträge immer vorab auf unser Konto\
 IBAN:AT54 3200 0000 1701 2717, BIC: RLNWATWW, Verein rollingpoint, einzahlen.
 
 **Stornobedingungen:** Bei Abmeldung bis sieben Tage vor dem Workshop wird der gesamte Betrag abzgl. einer Bearbeitungsgebühr von € 10,- zurückbezahlt. 50% Storno bis zwei Tage vor dem Workshop. Am Vortag und Tag des Workshops kein Storno mehr möglich. Es kann aber eine Ersatzperson nominiert werden.
-
-
 
 ## RÜCKBLICK:
 
