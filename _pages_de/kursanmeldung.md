@@ -7,7 +7,7 @@ language: de
 
 **oder fülle folgendes Anmeldeformular aus:**
 
-<https://docs.google.com/forms/d/1jZMz5Vbw9GPKJOt8n8ezVATS5FUkqGH577JzEoFm6fE/edit>\
+<https://forms.gle/D5bwoQwoeueLpRCw7>\
 \
 **Hast du Fragen zu unseren Angeboten nimm gerne auch direkt Kontakt per SMS/Tel. mit**\
 **maRia (0650 9510814)**\
