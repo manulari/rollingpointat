@@ -6,7 +6,7 @@ title: Wochenend-Workshops
 
 Fotocredits: He Shao Hui
 
-**[4.+5.11.2023 "Unfolding Embodied Creativity" Contact Improvisation open level mit Christian Apschner](#creativity)**\
+**[4.+5.11.2023 "Embodied Creativity" Contact Improvisation open level mit Christian Apschner](#creativity)**\
 \
 **[18.+19.11.2023 "Dancing From The Source" Zeitgenössischer Tanz, Körperausdruck und somatisches Lernen mit maRia Probst](#source)**\
 \
@@ -16,7 +16,7 @@ Fotocredits: He Shao Hui
 
 <div class="named-anchor" id="creativity"></div>
 
-#### "Unfolding Embodied Creativity" - open level
+#### "Embodied Creativity" - open level
 
 **4./5.11.2023**\
 **Contact Improvisation - Somatics - Real Time Composition - Consent Building**\
