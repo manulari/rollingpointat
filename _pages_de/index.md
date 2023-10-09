@@ -47,7 +47,7 @@ Fotocredit: https://johannes-stolba.net/photography/
 
 ### **Wochenend-Workshops:**
 
-**[4.+5.11.2023 “Embodied Creativity” Contact Improvisation open level mit Christian Apschner](/workshop#creativity)**\
+**[4.+5.11.2023 “Embodied Creativity” Contact Improvisation open level mit Christian Apschner](/workshops#creativity)**\
 \
 **[18.+19.11.2023 “Dancing From The Source” Zeitgenössischer Tanz, Körperausdruck und somatisches Lernen mit maRia Probst](workshops#source)**\
 \
