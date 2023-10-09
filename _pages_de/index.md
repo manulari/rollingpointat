@@ -47,11 +47,11 @@ Fotocredit: https://johannes-stolba.net/photography/
 
 ### **Wochenend-Workshops:**
 
-**[4.+5.11.2023 “Embodied Creativity” Contact Improvisation open level mit Christian Apschner](#creativity)**\
+**[4.+5.11.2023 “Embodied Creativity” Contact Improvisation open level mit Christian Apschner](/workshop#creativity)**\
 \
-**[18.+19.11.2023 “Dancing From The Source” Zeitgenössischer Tanz, Körperausdruck und somatisches Lernen mit maRia Probst](#source)**\
+**[18.+19.11.2023 “Dancing From The Source” Zeitgenössischer Tanz, Körperausdruck und somatisches Lernen mit maRia Probst](workshops#source)**\
 \
-**[20.+21.1.2024 Contact Flying Skills (advanced) mit Christian Apschner und Lui Springer](#flying)**
+**[20.+21.1.2024 Contact Flying Skills (advanced) mit Christian Apschner und Lui Springer](workshops#flying)**
 
 ![Mehr CI auf der Stiege](/assets/uploads/dsc_1941a.jpg "Mehr CI auf der Stiege")
 
