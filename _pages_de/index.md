@@ -18,9 +18,9 @@ Fotocredit: https://johannes-stolba.net/photography/
 
 <div class="imglink"><a target="_blank" href="https://www.youtube.com/embed/kp3DqzN1Ldo"><img src="/assets/uploads/video_vorschau_rollingpoint.png" alt="" /><div>rollingpoint-Video</div></a></div>
 
-## **KURSBEGINN WINTERSEMESTER 2023/24: 25.- 28.9.2023**
+### **KURSBEGINN WINTERSEMESTER 2023/24: 25.- 28.9.2023**
 
-## **Schnuppermöglichkeit um 10€/Termin noch bis 12.10.2023**
+**Schnuppermöglichkeit um 10€/Termin noch bis 12.10.2023**
 
 **[1 RELEASZ Tanztraining: ](/kurse#mo)**[Zeitgenössischer Tanz / CI-light / Somatisches Lernen](/kurse#mo)\*\* **open level**\
  **mit maRia Probst**\
@@ -45,16 +45,13 @@ Fotocredit: https://johannes-stolba.net/photography/
 \
 **Contact Improvisation Intro Workshop + Open level Jam am 10.10.2023, 17.15 - 20.40**
 
-### \
-**Wochenend-Workshops:**
+### **Wochenend-Workshops:**
 
 **[4.+5.11.2023 “Embodied Creativity” Contact Improvisation open level mit Christian Apschner](#creativity)**\
 \
 **[18.+19.11.2023 “Dancing From The Source” Zeitgenössischer Tanz, Körperausdruck und somatisches Lernen mit maRia Probst](#source)**\
 \
 **[20.+21.1.2024 Contact Flying Skills (advanced) mit Christian Apschner und Lui Springer](#flying)**
-
-
 
 ![Mehr CI auf der Stiege](/assets/uploads/dsc_1941a.jpg "Mehr CI auf der Stiege")
 
