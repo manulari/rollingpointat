@@ -18,9 +18,9 @@ Fotocredit: https://johannes-stolba.net/photography/
 
 <div class="imglink"><a target="_blank" href="https://www.youtube.com/embed/kp3DqzN1Ldo"><img src="/assets/uploads/video_vorschau_rollingpoint.png" alt="" /><div>rollingpoint-Video</div></a></div>
 
-## **KURSBEGINN WINTERSEMESTER 2023/24: 25.- 28.9.2023**\
-\
-**Schnuppermöglichkeit um 10€/Termin noch bis 12.10.2023**
+## **KURSBEGINN WINTERSEMESTER 2023/24: 25.- 28.9.2023**
+
+## **Schnuppermöglichkeit um 10€/Termin noch bis 12.10.2023**
 
 **[1 RELEASZ Tanztraining: ](/kurse#mo)**[Zeitgenössischer Tanz / CI-light / Somatisches Lernen](/kurse#mo)\*\* **open level**\
  **mit maRia Probst**\
