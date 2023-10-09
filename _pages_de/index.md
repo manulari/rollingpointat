@@ -18,7 +18,9 @@ Fotocredit: https://johannes-stolba.net/photography/
 
 <div class="imglink"><a target="_blank" href="https://www.youtube.com/embed/kp3DqzN1Ldo"><img src="/assets/uploads/video_vorschau_rollingpoint.png" alt="" /><div>rollingpoint-Video</div></a></div>
 
-### **KURSBEGINN WINTERSEMESTER 2023/24: 25.- 28.9.2023**
+## **KURSBEGINN WINTERSEMESTER 2023/24: 25.- 28.9.2023**\
+\
+**Schnuppermöglichkeit um 10€/Termin noch bis 12.10.2023**
 
 **[1 RELEASZ Tanztraining: ](/kurse#mo)**[Zeitgenössischer Tanz / CI-light / Somatisches Lernen](/kurse#mo)\*\* **open level**\
  **mit maRia Probst**\
@@ -39,7 +41,20 @@ Fotocredit: https://johannes-stolba.net/photography/
 **Do 28.9.2023.- 1.2.2024, 18.15 – 20.30 (ca.15x)**\
 **Turnsaal VS Gilgegasse 12, 1090 Wien**
 
-**Achtung: Die wöchentliche rollingpoint [Contact Improvisation Jam ](https://rollingpoint.at/jams)findet ab Di 19.9. von 18.30 -  20.40 im geräumigen Turnsaal der VS Einsiedlergasse statt. Vor der Jam von 17.15 - 18.15 laden einstündige [Spezialformate](https://rollingpoint.at/jams#special) rund um die  CI mit verschiedenen Gastlehrer*innen zum Mitmachen ein.**
+**Die wöchentliche rollingpoint [Contact Improvisation Jam ](https://rollingpoint.at/jams)findet immer am Dienstag wenn Schultag von 18.30 -  20.40 im geräumigen Turnsaal der VS Einsiedlergasse statt. Vor der Jam von 17.15 - 18.15 laden einstündige [Spezialformate](https://rollingpoint.at/jams#special) rund um die  CI mit verschiedenen Gastlehrer*innen zum Mitmachen ein.**\
+\
+**Contact Improvisation Intro Workshop + Open level Jam am 10.10.2023, 17.15 - 20.40**
+
+### \
+**Wochenend-Workshops:**
+
+**[4.+5.11.2023 “Embodied Creativity” Contact Improvisation open level mit Christian Apschner](#creativity)**\
+\
+**[18.+19.11.2023 “Dancing From The Source” Zeitgenössischer Tanz, Körperausdruck und somatisches Lernen mit maRia Probst](#source)**\
+\
+**[20.+21.1.2024 Contact Flying Skills (advanced) mit Christian Apschner und Lui Springer](#flying)**
+
+
 
 ![Mehr CI auf der Stiege](/assets/uploads/dsc_1941a.jpg "Mehr CI auf der Stiege")
 
