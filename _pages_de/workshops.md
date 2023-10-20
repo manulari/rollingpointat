@@ -20,13 +20,13 @@ Fotocredits: He Shao Hui
 
 **4./5.11.2023**\
 **Contact Improvisation - Somatics - Real Time Composition - Consent Building**\
-**mit Christian Apschner**
+**mit Christian Apschner  und Ines Ingerle (Assistenz)**
 
-Dieser Workshop lädt Beginner\*innen und erfahrene Tänzer\*innen gleichermaßen zum Mitmachen ein. Wir nutzen den somatischen Zugang von Trager Körperarbeit um Sensitivität, Leichtigkeit und Präsenz in unserem Bewegen zu finden. Durch das Erforschen frühkindlicher Bewegungsmuster (Developmental Movements Patterns) aus dem Body Mind Centering (BMC) lernst du deine tänzerischen Bewegungen organisch und funktionell zu gestalten. Ziel des somatischen Einstiegs ist es,uns gut mit unserem Körper zu verbinden und einen offenen, mitfühlenden und visionären Geist für unsere Contact Improvisation Tänze zu schaffen.
+Dieser Workshop lädt Beginner\*innen und erfahrene Tänzer\*innen zum Mitmachen ein. Wir nutzen Trager Körperarbeit um Sensitivität, Leichtigkeit und Präsenz in unserem Bewegen zu finden. Durch das Erforschen frühkindlicher Bewegungsmuster (Developmental Movements Patterns) aus Body Mind Centering (BMC) lernst du deine tänzerischen Bewegungen organisch und funktionell zu gestalten. Ziel des somatischen Einstiegs ist es, uns gut mit unserem Körper zu verbinden und einen offenen, mitfühlenden und visionären Geist für die Contact Improvisation Tänze zu schaffen.
 
-Der Contact Improvisation Schwerpunkt dieses Workshops liegt nicht nur im Erlernen der Technik sondern vielmehr in der Entfaltung des kreativen Potenzials der Contact Improvisation als Individium und als gemeinsame Gruppe. Mittels Visualisierungstechniken und Elementen aus Lisa Nelson Tuning Scores\*) fordern wir unsere Kreativität heraus und finden einen assoziativen „Mind Flow“, den wir in unsere Körperlichkeit übertragen. Consent Building Übungen und Elemente aus Gewaltfreier Kommunikation helfen dir dabei auf deine eigenen Grenzen und Bedürfnisse und die deiner Tanzpartner\*innen zu achten.
+Der Contact Improvisation Schwerpunkt dieses Workshops liegt in der Entfaltung des kreativen Potenzials der Contact Improvisation als Individium und als gemeinsame Gruppe. Mittels Visualisierungstechniken und Elementen aus Lisa Nelson Tuning Scores\*) fordern wir unsere Kreativität heraus und finden einen assoziativen „Mind Flow“, den wir in unsere Körperlichkeit übertragen. Consent Building Übungen helfen dir dabei auf deine eigenen Grenzen und Bedürfnisse und die deiner Tanzpartner\*innen zu achten.
 
-Mit diesen Grundlagen ausgestattet kreieren wir immer wieder neue Kompositionen unterschiedlicher Klangfarbe und lassen Körperlandschaften, Geschichten und Filme entstehen. Während wir unsere Tanzphasen als „Silent Space“ verstehen, möchten wir inverbalen Feedback-Runden unsere Erfahrungen sprachlich austauschen.
+Mit diesen Grundlagen ausgestattet kreieren wir immer wieder neue Kompositionen unterschiedlicher Klangfarbe und lassen Körperlandschaften, Geschichten und Filme entstehen. Während wir unsere Tanzphasen als „Silent Space“ verstehen, möchten wir in verbalen Feedback-Runden unsere Erfahrungen sprachlich austauschen.
 
 **Keeping things whole:**
 
