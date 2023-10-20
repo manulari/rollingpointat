@@ -40,8 +40,8 @@ to fill the spaces where my body’s been.
 **We all have reasons for moving.**\
 **I move to keep things whole.**
 
-Mark Strand, "Keeping Things Whole" from \
-*Selected Poems*. Copyright © 1979, 1980 by Mark Strand.  
+(Mark Strand, "Keeping Things Whole" from \
+*Selected Poems)*
 
 \*)Tuning Scores, developed by dance-maker Lisa Nelson, is an improvisational composition practice that is a performance in itself. It offers tools and a framework for communication and a model of collaboration that is constructed by the players in the act of doing.  The research focuses on the action of the senses – the physical base of the imagination. How does composition arise in the body and its environment? Focusing on vision, touch, and hearing, the scores provoke spontaneous compositions that make evident our opinions about who/where we are, how each of us senses and makes sense of movement. 
 
