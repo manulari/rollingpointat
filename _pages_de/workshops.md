@@ -43,7 +43,7 @@ to fill the spaces where my body’s been.
 (Mark Strand, "Keeping Things Whole" from \
 *Selected Poems)*
 
-\*)Tuning Scores, developed by dance-maker Lisa Nelson, is an improvisational composition practice that is a performance in itself. It offers tools and a framework for communication and a model of collaboration that is constructed by the players in the act of doing.  The research focuses on the action of the senses – the physical base of the imagination. How does composition arise in the body and its environment? Focusing on vision, touch, and hearing, the scores provoke spontaneous compositions that make evident our opinions about who/where we are, how each of us senses and makes sense of movement. 
+\*)Tuning Scores, developed by dance-maker Lisa Nelson, is an improvisational composition practice that is a performance in itself. It offers tools and a framework for communication and a model of collaboration that is constructed by the players in the act of doing. The research focuses on the action of the senses – the physical base of the imagination. How does composition arise in the body and its environment? Focusing on vision, touch, and hearing, the scores provoke spontaneous compositions that make evident our opinions about who/where we are, how each of us senses and makes sense of movement. 
 
 Teilnahmeempfehlung: Du bewegst dich gerne, bist offen für Körperkontakt und bist dir selbst und anderen gegenüber verantwortungsbewusst, achtsam und aufmerksam. Wir begreifen Bewegung als ein Zusammenspiel von Körper und Geist. Der gesamte Mensch tanzt.
 
