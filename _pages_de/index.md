@@ -45,9 +45,7 @@ Fotocredit: https://johannes-stolba.net/photography/
 \
 **Contact Improvisation Intro Workshop + Open level Jam am 10.10.2023, 17.15 - 20.40**
 
-### **Wochenend-Workshops:**
-
-**[4.+5.11.2023 “Embodied Creativity” Contact Improvisation open level mit Christian Apschner](workshops#creativity)**\
+### **Wochenend-Workshops:**\
 \
 **[18.+19.11.2023 “Dancing From The Source” Zeitgenössischer Tanz, Körperausdruck und somatisches Lernen mit maRia Probst](workshops#source)**\
 \
