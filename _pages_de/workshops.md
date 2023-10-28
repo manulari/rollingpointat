@@ -80,9 +80,10 @@ IBAN:AT54 3200 0000 1701 2717, BIC: RLNWATWW, Verein rollingpoint, einzahlen.
 
 ## RÜCKBLICK:
 
-#### "Embodied Creativity" - open level\
+#### "Embodied Creativity" - open level
+
 **Contact Improvisation - Somatics - Real Time Composition - Consent Building**\
-**mit Christian Apschner  und Ines Ingerle (Assistenz)**
+**mit Christian Apschner**
 
 Dieser Workshop lädt Beginner\*innen und erfahrene Tänzer\*innen zum Mitmachen ein. Wir nutzen Trager Körperarbeit um Sensitivität, Leichtigkeit und Präsenz in unserem Bewegen zu finden. Durch das Erforschen frühkindlicher Bewegungsmuster (Developmental Movements Patterns) aus Body Mind Centering (BMC) lernst du deine tänzerischen Bewegungen organisch und funktionell zu gestalten. Ziel des somatischen Einstiegs ist es, uns gut mit unserem Körper zu verbinden und einen offenen, mitfühlenden und visionären Geist für die Contact Improvisation Tänze zu schaffen.
 
@@ -108,10 +109,6 @@ to fill the spaces where my body’s been.
 \*)Tuning Scores, developed by dance-maker Lisa Nelson, is an improvisational composition practice that is a performance in itself. It offers tools and a framework for communication and a model of collaboration that is constructed by the players in the act of doing. The research focuses on the action of the senses – the physical base of the imagination. How does composition arise in the body and its environment? Focusing on vision, touch, and hearing, the scores provoke spontaneous compositions that make evident our opinions about who/where we are, how each of us senses and makes sense of movement. 
 
 Teilnahmeempfehlung: Du bewegst dich gerne, bist offen für Körperkontakt und bist dir selbst und anderen gegenüber verantwortungsbewusst, achtsam und aufmerksam. Wir begreifen Bewegung als ein Zusammenspiel von Körper und Geist. Der gesamte Mensch tanzt.
-
-
-
-
 
 #### **TUNE IN! Contact Improvisation/Somatics/Release Technique**
 
