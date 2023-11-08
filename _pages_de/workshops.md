@@ -18,7 +18,8 @@ Fotocredits: He Shao Hui\
 
 #### **"Dancing From The Source" - open level**
 
-**18.+19.11.2023**\
+**18.+19.11.2023 10.00-17.00  (ca 1,5h Mittagspause)**\
+\
  **Zeitgenössischer Tanz, Körperausdruck und somatisches Lernen**\
  **mit maRia Probst**
 
