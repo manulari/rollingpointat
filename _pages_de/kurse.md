@@ -73,9 +73,6 @@ Lets get physical! Du bringst gute Basiskenntnisse der Contact Improvisation ode
 
 Wir beenden die Tanzeinheiten immer mit Partner*innen Körperarbeits-Settings mit Elementen aus Trager-Körperarbeit, Nuad und sowie Body Mind Centering.  Anatomische Bilder unterstützen dabei deine Vorstellungskraft und du kannst dir im Zeitverlauf praktische Grundkenntnisse in miteinander kompatiblen Körperarbeitsmethoden aneignen/vertiefen.
 
-Beginner*innen sind am Mittwoch zu folgenden Terminen zu einem open level Training gemeinsam mit der fortlaufenden intermediate/advanced Trainingsgruppe eingeladen.\
-13.12.2023, 24.1.2024
-
 [Kosten und Anmeldung](#kosten)
 
 <div class="named-anchor" id="do"></div>
