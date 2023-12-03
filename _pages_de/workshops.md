@@ -10,9 +10,7 @@ Fotocredits: He Shao Hui\
 \
 **[20.+21.1.2024 Contact Flying Skills (advanced) mit Christian Apschner und Lui Springer](#flying)**
 
-<div class="imglink"><a target="_blank" href="https://www.youtube.com/watch?v=6tbJKhYSShk"><img src="/assets/uploads/bildschirmfoto-2023-12-03-um-21.32.38.png" alt="" /><div>Contact Flying Skills</div></a></div>
-
-
+<div class="imglink"><a target="_blank" href="https://www.youtube.com/watch?v=6tbJKhYSShk"><img src="/assets/uploads/bildschirmfoto-2023-12-03-um-21.32.38.png" alt="" /><div>Video Contact Flying Skills</div></a></div>
 
 ## Workshoptermine:
 
