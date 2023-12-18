@@ -11,7 +11,7 @@ title: KURSE UND WORKSHOPS
 | **Mi** | **18.00-20.40**        | **Christian**            | **[3 "Wild and Soft" Contact Improvisation intermediate/advanced](#mi)**      | **Einsiedlerg. 7, 1050 Wien** |
 | **Do** | **18.15-20.30**        | **Christian**            | **[4 Contact Improvisation and -Technique Basics / beginner ](#do)**          | **Gilgegasse 12, 1090 Wien**  |
 
-### Die neuen Kurse des Wintersemesters 2023/24 starten vom 25.- 28.9.2023
+### Die neuen Kurse des Sommersemesters 2024 starten vom 26.- 29.2.2024
 
 <div class="named-anchor" id="mo"></div>
 
