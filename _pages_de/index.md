@@ -18,9 +18,9 @@ Fotocredit: https://johannes-stolba.net/photography/
 
 <div class="imglink"><a target="_blank" href="https://www.youtube.com/embed/kp3DqzN1Ldo"><img src="/assets/uploads/video_vorschau_rollingpoint.png" alt="" /><div>rollingpoint-Video</div></a></div>
 
-### **KURSBEGINN WINTERSEMESTER: 25.- 28.9.2023**
+### **KURSE WINTERSEMESTER 2023/24**
 
-**Schnuppermöglichkeit um 10€/Termin noch bis 12.10.2023**
+**Die neuen Kurse des Sommersemsters 2024 starten vom 26.-29.2.2024**
 
 **[1 RELEASZ Tanztraining: ](/kurse#mo)**[Zeitgenössischer Tanz / CI-light / Somatisches Lernen](/kurse#mo) **open level**\
  **mit maRia Probst**\
@@ -44,29 +44,16 @@ Fotocredit: https://johannes-stolba.net/photography/
 **Die wöchentliche rollingpoint [Contact Improvisation Jam ](https://rollingpoint.at/jams)findet immer am Dienstag wenn Schultag von 18.30 -  20.40 im geräumigen Turnsaal der VS Einsiedlergasse statt. Vor der Jam von 17.15 - 18.15 laden einstündige [Spezialformate](https://rollingpoint.at/jams#special) rund um die  CI mit verschiedenen Gastlehrer*innen zum Mitmachen ein.**
 
 ### **Wochenend-Workshops:**\
+
 \
 **[20.+21.1.2024 Contact Flying Skills (advanced) mit Christian Apschner und Lui Springer](workshops#flying)**
-
-
 
 ### **rollingpoint Winterintensive Woche 1: 12.-15.2.2024 RELEASZE Tanztraining/CI-light**
 
 ### **rollingpoint Winterintensive Woche 2: 19..-22.2.2024 Skillfull Contact Dance**
 
-
-
 ### Kursbeginn Sommersemester 2024: 26.-29.2.2024
 
-
-
-
-
 ![Mehr CI auf der Stiege](/assets/uploads/dsc_1941a.jpg "Mehr CI auf der Stiege")
-
-
-
-
-
-
 
 Fotocredit: Johannes Stolba
