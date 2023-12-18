@@ -33,10 +33,10 @@ jeweils  18.15 - 20.30h
 
 **Teilnahmeempfehlung Woche 2:** Siehe Woche 1, darüberhinaus Bereitschaft dich auf Körperkontakt mit gegenseitiger Gewichtsübertragung einzulassen.
 
-**Anmeldeformular:** 
+**Anmeldeformular:** <https://forms.gle/D5bwoQwoeueLpRCw7>
 
-**Anmeldung bitte per email:**  **ci.rollingpoint@gmail.com**\
-**maRia 0650 951 0814Christian 0650 8931081**
+**oder per email:**  **ci.rollingpoint@gmail.com**\
+maRia 0650 951 0814, Christian 0650 8931081
 
 **Kosten:** Eine Woche: € 104 , StudentenInnen unter 28: € 72\
 Beide Wochen: € 176, StudentenInnen unter 28: € 128\
