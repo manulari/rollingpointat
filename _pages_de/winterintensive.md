@@ -10,23 +10,21 @@ Fotocredits: He Shao Hui
 
 <div class="named-anchor" id="winterintensive"></div>
 
-#### **Winter-Intensive 2024**
+#### **Winter-Intensive 2024: "Share your Dances. Be in Touch!"**
 
 Text in Bearbeitung!
 
 \
 **Woche 1: Mo - Do 12.- 15.2.2024\
-"RELEASZE Tanztraining": Zeitgenössischer Tanz/Somatics/CI-light (open level)**\
+RELEASZE Tanztraining / Organic Contact (open level)**\
 **mit maRia Probst (und Christian Apschner)**\
 \
 **Woche 2: Mo - Do 19.- 22.2.2024**\
- **"Skillfull Contact Dance" (open level)**\
+**Contact Dance / Physical Skills (beginner-intermediate)**\
 **mit Christian Apschner (und maRia Probst)**
 
-Mo und Do (12.2., 15.2., 19.2., 22.2): Turnsaal Gilgegasse 12, 9. Bez.
-
-Di und Mi (13.2., 14.2., 20.2, 21.2.): Turnsaal Einsiedlergasse 7, 5. Bez.
-
+Mo und Do (12.2., 15.2., 19.2., 22.2): Turnsaal Gilgegasse 12, 9. Bez.\
+Di und Mi (13.2., 14.2., 20.2, 21.2.): Turnsaal Einsiedlergasse 7, 5. Bez.\
 jeweils  18.15 - 20.30h
 
 **Teilnahmeempfehlung Woche 1:**  Du bewegst dich gerne, bist offen für Körperkontakt und bist dir selbst und anderen gegenüber verantwortungsbewusst, achtsam und aufmerksam.
