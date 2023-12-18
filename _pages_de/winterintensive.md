@@ -10,7 +10,49 @@ Fotocredits: He Shao Hui
 
 <div class="named-anchor" id="winterintensive"></div>
 
-#### **Contact Improvisation Winter-Intensive 2023**
+#### **Winter-Intensive 2024**
+
+Text in Bearbeitung!
+
+\
+**Woche 1: Mo - Do 12.- 15.2.2024\
+"RELEASZE Tanztraining": Zeitgenössischer Tanz/Somatics/CI-light (open level)**\
+**mit maRia Probst (und Christian Apschner)**\
+\
+**Woche 2: Mo - Do 19.- 22.2.2024**\
+ **"Skillfull Contact Dance" (open level)**\
+**mit Christian Apschner (und maRia Probst)**
+
+Mo und Do (12.2., 15.2., 19.2., 22.2): Turnsaal Gilgegasse 12, 9. Bez.
+
+Di und Mi (13.2., 14.2., 20.2, 21.2.): Turnsaal Einsiedlergasse 7, 5. Bez.
+
+jeweils  18.15 - 20.30h
+
+**Teilnahmeempfehlung Woche 1:**  Du bewegst dich gerne, bist offen für Körperkontakt und bist dir selbst und anderen gegenüber verantwortungsbewusst, achtsam und aufmerksam.
+
+**Teilnahmeempfehlung Woche 2:** Siehe Woche 1, darüberhinaus Bereitschaft dich auf Körperkontakt mit gegenseitiger Gewichtsübertragung einzulassen.
+
+**Anmeldeformular:** 
+
+**Anmeldung bitte per email:**  **ci.rollingpoint@gmail.com**\
+**maRia 0650 951 0814Christian 0650 8931081**
+
+**Kosten:** Eine Woche: € 104 , StudentenInnen unter 28: € 72\
+Beide Wochen: € 176, StudentenInnen unter 28: € 128\
+Sonstige Ermäßigungen auf Anfrage
+
+Die Reservierung eines Kursplatzes erfolgt durch Überweisung des Kostenbetrages.\
+Bitte den Kostenbeitrag vorab auf unser Konto\
+IBAN: AT54 3200 0000 1701 2717, BIC: RLNWATWW, Verein rollingpoint, einzahlen. 
+
+Stornobedingungen: Bis drei Tage vor Beginn der Intensive wird der volle Betrag abzüglich einer Bearbeitungsgebühr von € 10,- rückerstattet. Danach keine Stornomöglichkeit. Es kann aber eine Ersatzperson nominiert werden.
+
+\--------------------------------------------------------------------------------------------------------
+
+## **RÜCKBLICK:**
+
+**Contact Improvisation Winter-Intensive 2023**
 
 \
 **Woche 1: Mo - Do 13.- 16.2.2023\
