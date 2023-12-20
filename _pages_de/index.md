@@ -41,17 +41,16 @@ Fotocredit: https://johannes-stolba.net/photography/
 **Do 28.9.2023.- 1.2.2024, 18.15 – 20.30 (ca.15x)**\
 **Turnsaal VS Gilgegasse 12, 1090 Wien**
 
-**Die wöchentliche rollingpoint [Contact Improvisation Jam ](https://rollingpoint.at/jams)findet immer am Dienstag wenn Schultag von 18.30 -  20.40 im geräumigen Turnsaal der VS Einsiedlergasse statt. Vor der Jam von 17.15 - 18.15 laden einstündige [Spezialformate](https://rollingpoint.at/jams#special) rund um die  CI mit verschiedenen Gastlehrer*innen zum Mitmachen ein.**
+**Die wöchentliche rollingpoint [Contact Improvisation Jam ](https://rollingpoint.at/jams)findet immer am Dienstag wenn Schultag von 18.30 -  20.40 im einladenden Turnsaal der VS Einsiedlergasse statt. Vor der Jam von 17.15 - 18.15 laden einstündige [Spezialformate](https://rollingpoint.at/jams#special) rund um die  CI mit verschiedenen Gastlehrer*innen zum Mitmachen ein.**
 
 ### **Wochenend-Workshops:**
 
-\
 **[20.+21.1.2024 Contact Flying Skills (advanced) mit Christian Apschner und Lui Springer](workshops#flying)**
 
-### **"Share your Dances. Be in Touch" rollingpoint Winterintensive**
+### **Winterintensive "Share your Dances. Be in Touch":**
 
-**Woche 1: 12.-15.2.2024 RELEASZE Tanztraining / Organic Contact**\
-**Woche 2: 19..-22.2.2024 Contact Moves and Physical Skills**
+[**Woche 1: 12.-15.2.2024 RELEASZE Tanztraining / Organic Contact**\
+**Woche 2: 19..-22.2.2024 Contact Moves and Physical Skills**](https://rollingpoint.at/winterintensive)
 
 ### Kursbeginn Sommersemester 2024: 26.-29.2.2024
 
