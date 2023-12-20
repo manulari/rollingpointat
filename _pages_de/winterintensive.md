@@ -21,7 +21,7 @@ RELEASZE Tanztraining / Organic Contact (open level)**\
 
 maRia verbindet Elemente aus Somatischem Lernen, Contact Improvisation mit geringer Gewichtsübertragung und Zeitgenössischem Tanz. Wir verwenden verschiedende Berührungsqualitäten um das Zusammenspiel von Muskeln, Sehnen, Knochen und Organen besser verstehen zu lernen. Techniken aus dem zeitgenössischen Tanz helfen dir, deinen Körper bewusster und organischer einzusetzen und zu koordinieren. In verschiedenen Spielformen der Improvisation kannst du erfahren, wie du ein Teil eines größeren Organismus wirst und wie wir uns untereinander koordinieren.\
 \
-Teilnahmeempfehlung Woche 1:  Du bewegst dich gerne, bist offen für Körperkontakt und bist dir selbst und anderen gegenüber verantwortungsbewusst, achtsam und aufmerksam.
+Teilnahmeempfehlung Woche 1:  Du bewegst dich gerne, bist offen für Körperkontakt und bist dir selbst und anderen gegenüber achtsam und aufmerksam.
 
 **Woche 2: Mo - Do 19.- 22.2.2024**\
 **Contact Moves and Physical Skills (beginner-intermediate)**\
