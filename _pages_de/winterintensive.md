@@ -12,24 +12,33 @@ Fotocredits: He Shao Hui
 
 #### **Winter-Intensive 2024: "Share your Dances. Be in Touch!"**
 
-Text in Bearbeitung!
+Zwei Wochen lang jeweils vier Abende gemeinsam loslassen, spüren, bewegen, mit sich selbst und anderen in Kontakt kommen und Contact Improvisation tanzen. Die beiden Wochen bilden eine Einheit mit unterschiedlichem Schwerpunkt, können aber auch getrennt besucht werden.
 
 \
 **Woche 1: Mo - Do 12.- 15.2.2024\
 RELEASZE Tanztraining / Organic Contact (open level)**\
-**mit maRia Probst (und Christian Apschner)**\
+**mit maRia Probst (und Christian Apschner)**
+
+maRia verbindet Elemente aus Somatischem Lernen, Contact Improvisation mit geringer Gewichtsübertragung und Zeitgenössischem Tanz. Wir verwenden verschiedende Berührungsqualitäten um das Zusammenspiel von Muskeln, Sehnen, Knochen und Organen besser verstehen zu lernen. Techniken aus dem zeitgenössischen Tanz helfen dir, deinen Körper bewusster und organischer einzusetzen und zu koordinieren. In verschiedenen Spielformen der Improvisation kannst du erfahren, wie du ein Teil eines größeren Organismus wirst und wie wir uns untereinander koordinieren.\
 \
+Teilnahmeempfehlung Woche 1:  Du bewegst dich gerne, bist offen für Körperkontakt und bist dir selbst und anderen gegenüber verantwortungsbewusst, achtsam und aufmerksam.
+
+
+
 **Woche 2: Mo - Do 19.- 22.2.2024**\
-**Contact Dance / Physical Skills (beginner-intermediate)**\
+**Contact Moves and Physical Skills (beginner-intermediate)**\
 **mit Christian Apschner (und maRia Probst)**
 
-Mo und Do (12.2., 15.2., 19.2., 22.2): Turnsaal Gilgegasse 12, 9. Bez.\
-Di und Mi (13.2., 14.2., 20.2, 21.2.): Turnsaal Einsiedlergasse 7, 5. Bez.\
-jeweils  18.15 - 20.30h
+Die zweite Woche der Winterintensive ist als Kompaktkurs der Contact Improvisation (CI) gedacht. So lernen wir, wie es leicht und körperschonend geht, Gewicht abzugeben und zu übernehmen oder uns gemeinsam entlang des rollenden Kontaktpunktes und im Bewegungsfluss zu bewegen. Wir erforschen die Technik für einfache Lifts, Sich-Fallenlassen und sanfte Landungen. Verschiedene Variationen von Roll- und Spiralbewegungen unterstützen dich, im Tanz geschmeidig und durchlässig zu werden.\
 
-**Teilnahmeempfehlung Woche 1:**  Du bewegst dich gerne, bist offen für Körperkontakt und bist dir selbst und anderen gegenüber verantwortungsbewusst, achtsam und aufmerksam.
+Teilnahmeempfehlung Woche 2: Siehe Woche 1, darüberhinaus Bereitschaft dich aufs Fallen und Körperkontakt mit gegenseitiger Gewichtsübertragung einzulassen.
 
-**Teilnahmeempfehlung Woche 2:** Siehe Woche 1, darüberhinaus Bereitschaft dich auf Körperkontakt mit gegenseitiger Gewichtsübertragung einzulassen.
+**Ort und Zeit:**\
+**Mo und Do (12.2., 15.2., 19.2., 22.2): Turnsaal Gilgegasse 12, 9. Bez.**\
+**Di und Mi (13.2., 14.2., 20.2, 21.2.): Turnsaal Einsiedlergasse 7, 5. Bez.**\
+**jeweils  18.15 - 20.30h**
+
+
 
 **Anmeldeformular:** <https://forms.gle/D5bwoQwoeueLpRCw7>
 
@@ -38,7 +47,8 @@ maRia 0650 951 0814, Christian 0650 8931081
 
 **Kosten:** Eine Woche: € 104 , StudentenInnen unter 28: € 72\
 Beide Wochen: € 176, StudentenInnen unter 28: € 128\
-Sonstige Ermäßigungen auf Anfrage
+Sonstige Ermäßigungen auf Anfrage\
+Winterintensive-Special: **Meldet euch als Gruppe zu viert an und zahlt für drei!**
 
 Die Reservierung eines Kursplatzes erfolgt durch Überweisung des Kostenbetrages.\
 Bitte den Kostenbeitrag vorab auf unser Konto\
