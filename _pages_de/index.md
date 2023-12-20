@@ -51,7 +51,7 @@ Fotocredit: https://johannes-stolba.net/photography/
 ### **"Share your Dances. Be in Touch" rollingpoint Winterintensive**
 
 **Woche 1: 12.-15.2.2024 RELEASZE Tanztraining / Organic Contact**\
-**Woche 2: 19..-22.2.2024 Contact Dance / Physical Skills**
+**Woche 2: 19..-22.2.2024 Contact Moves and Physical Skills**
 
 ### Kursbeginn Sommersemester 2024: 26.-29.2.2024
 
