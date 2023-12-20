@@ -48,11 +48,10 @@ Fotocredit: https://johannes-stolba.net/photography/
 \
 **[20.+21.1.2024 Contact Flying Skills (advanced) mit Christian Apschner und Lui Springer](workshops#flying)**
 
-### **"Share your Dances. Be in Touch" rollingpoint Winterintensive**\
+### **"Share your Dances. Be in Touch" rollingpoint Winterintensive**
+
 **Woche 1: 12.-15.2.2024 RELEASZE Tanztraining / Organic Contact**\
 **Woche 2: 19..-22.2.2024 Contact Dance / Physical Skills**
-
-
 
 ### Kursbeginn Sommersemester 2024: 26.-29.2.2024
 
