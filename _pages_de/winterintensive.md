@@ -86,17 +86,6 @@ In **Woche 2** beginnen wir unsere Tänze mit Schwung und Leichtigkeit in alle
 **Teilnahmeempfehlungen:** Tanz- und Bewegungsvorerfahrung aller Art sowie Offenheit und Lust sich auf Berührung und Körperkontakt mit gegenseitiger Gewichtsübertragung einzulassen.\
 Teilnahme an Woche 2: Teilnahme an Woche 1 bzw. sonstige CI-Kursvorerfahrungen 
 
-**Anmeldung bitte per email:**  **ci.rollingpoint@gmail.com** bzw. Christian 0650/8931081
-
-**Kosten:** Eine Woche: € 90,- , StudentenInnen unter 28: 60,-\
-Beide Wochen: € 160,- , ermäßigt: € 110,-
-
-Die Reservierung eines Kursplatzes erfolgt durch Überweisung des Kostenbetrages.\
-Bitte den Kostenbeitrag vorab auf unser Konto\
-IBAN: AT54 3200 0000 1701 2717, BIC: RLNWATWW, Verein rollingpoint, einzahlen. 
-
-Stornobedingungen: Bis drei Tage vor Beginn der Intensive wird der volle Betrag abzüglich einer Bearbeitungsgebühr von € 10,- rückerstattet. Danach keine Stornomöglichkeit. Es kann aber eine Ersatzperson nominiert werden.
-
 \
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
@@ -116,14 +105,6 @@ In **Woche 2** beginnen wir unsere Tänze mit Schwung und Leichtigkeit in alle
 
 Teilnahmeempfehlungen: Tanz- und Bewegungsvorerfahrung aller Art,  sowie Bereitschaft sich auf Körperkontakt einzulassen.\
 Teilnahme an Woche 2: Teilnahme an Woche 1 bzw. sonstige CI-Kursvorerfahrungen 
-
-**Kosten:** 1 Woche: € 90,- , StudentenInnen unter 27: 60,-\
-Beide Wochen: € 160,- , ermäßigt: € 110,-
-
-Anmeldung: Christian 0650/8931081 oder ci.rollingpoint@gmail.com
-
-Bitte den Kostenbeitrag vorab auf unser Konto\
-IBAN: AT54 3200 0000 1701 2717, BIC: RLNWATWW, Verein rollingpoint, einzahlen.
 
 &nbsp;
 
