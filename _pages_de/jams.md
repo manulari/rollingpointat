@@ -67,7 +67,7 @@ Wir freuen uns, eine bunte Mischung einstündiger Spezialformate mit verschieden
 
 ### **Hinweise zur Sicherheit auf den Jams**
 
-Grundkonsens einer CI-Jam ist, dass alle Teilnehmenden gut auf sich selbst und die TanzpartnerInnen achten: *„Achte, dass du niemand verletzt und achte darauf, dass dich niemand verletzt!"*
+Wichtigster Grundkonsens einer CI-Jam ist, dass alle Teilnehmenden gut auf sich selbst und die TanzpartnerInnen achten: *„Achte, dass du niemand verletzt und achte darauf, dass dich niemand verletzt!"*
 
 Es ist Teil des Lernprozesses der Contact Improvisation immer besser herauszufinden, wo die eigenen Grenzen und die Grenzen der TanzpartnerInnen liegen z.B. im Umgang mit Körpergewichten. Dieser Lernprozess erlaubt auch „gedachte Grenzen“ zu erweitern und neue Freiheiten im Tanzen zu eröffnen. Für die physische Sicherheit ist es wichtig, Grundtechniken zu erlernen, welche gezielt in Kursen vermittelt werden wie Falltechniken, Körpergewicht dosiert abzugeben und gemeinsam zu rollen oder zu gleiten u.v.a.m. In einer Jam gibt es **keine Anleitung** wie in einem Kurs. **Basiskenntnisse** **und ein** **Grundverständnis der Contact Improvisation werden** daher **vorausgesetzt**; ausgenommen open level Jams, wo auch Beginner*innen eingeladen sind mitzutanzen.
 
