@@ -55,17 +55,13 @@ Wir freuen uns, eine bunte Mischung einstündiger Spezialformate mit verschieden
 > \
 > **19.12.2023 Sabine Müller: *Ease and Simplicity***
 >
-> **09.01.2024 Christian Apschner: *Floorwork, Strenght, Mobility and Coordination***
+> **09.01.2024 Christian Apschner: *Floating Floorwork*** *\- Strenght, Mobility and Coordination*
 >
 > **16.01.2024 Ingrid Hörlezeder:**  ***I am here - Was heißt es, präsent zu sein?***
 >
 > **23.01.2024 Ingrid Hörlezeder: *No doubts -* *Der Raum gestaltet den Tanz***
 >
 > **30.01.2024  *Contact Improvisation Intro + open level (beginner) Jam***
->
->
->
->
 
 **Kostenbeitrag: € 7 - 12 je Special**
 
