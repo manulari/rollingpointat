@@ -42,7 +42,7 @@ Wir freuen uns, eine bunte Mischung einstündiger Spezialformate mit verschieden
 > **17.10.2023 Manu Eder: *"No" Games***\
 > **24.10.2023 Manu Eder: *Dreamy Drops***\
 > \
-> **o7.11.2023    maRia Probst: Moving From the Source**\
+> **07.11.2023   maRia Probst: Moving From the Source**\
 > \
 > **14.11.2023 Sabine Müller: *Floor - across, into, up***\
 > \
@@ -53,8 +53,19 @@ Wir freuen uns, eine bunte Mischung einstündiger Spezialformate mit verschieden
 > \
 > **12.12.2023 maRia Probst: Happy Landings**\
 > \
-> **19.12.2023 Sabine Müller: *Ease and Simplicity***\
-> ***Fortsetzung folgt!***
+> **19.12.2023 Sabine Müller: *Ease and Simplicity***
+>
+> **09.01.2024 Christian Apschner: *Floorwork, Strenght, Mobility and Coordination***
+>
+> **16.01.2024 Ingrid Hörlezeder:**  ***I am here - Was heißt es, präsent zu sein?***
+>
+> **23.01.2024 Ingrid Hörlezeder: *No doubts -* *Der Raum gestaltet den Tanz***
+>
+> **30.01.2024  *Contact Improvisation Intro + open level (beginner) Jam***
+>
+>
+>
+>
 
 **Kostenbeitrag: € 7 - 12 je Special**
 
