@@ -18,6 +18,15 @@ Fotocredit: https://johannes-stolba.net/photography/
 
 <div class="imglink"><a target="_blank" href="https://www.youtube.com/embed/kp3DqzN1Ldo"><img src="/assets/uploads/video_vorschau_rollingpoint.png" alt="" /><div>rollingpoint-Video</div></a></div>
 
+### **WOCHENEND-Workshops:**
+
+**[20.+21.1.2024 Contact Flying Skills (advanced) mit Christian Apschner und Lui Springer](workshops#flying)**
+
+### **WINTERINTENSIVE "Share your Dances. Be in Touch":**
+
+[**Woche 1: 12.-15.2.2024 RELEASZE Tanztraining / Organic Contact**\
+**Woche 2: 19..-22.2.2024 Contact Moves and Physical Skills**](https://rollingpoint.at/winterintensive)
+
 ### **KURSE WINTERSEMESTER 2023/24**
 
 **Die neuen Kurse des Sommersemsters 2024 starten vom 26.-29.2.2024**
@@ -42,15 +51,6 @@ Fotocredit: https://johannes-stolba.net/photography/
 **Turnsaal VS Gilgegasse 12, 1090 Wien**
 
 **Die wöchentliche rollingpoint [Contact Improvisation Jam ](https://rollingpoint.at/jams)findet immer am Dienstag wenn Schultag von 18.30 -  20.40 im einladenden Turnsaal der VS Einsiedlergasse statt. Vor der Jam von 17.15 - 18.15 laden einstündige [Spezialformate](https://rollingpoint.at/jams#special) rund um die  CI mit verschiedenen Gastlehrer*innen zum Mitmachen ein.**
-
-### **Wochenend-Workshops:**
-
-**[20.+21.1.2024 Contact Flying Skills (advanced) mit Christian Apschner und Lui Springer](workshops#flying)**
-
-### **Winterintensive "Share your Dances. Be in Touch":**
-
-[**Woche 1: 12.-15.2.2024 RELEASZE Tanztraining / Organic Contact**\
-**Woche 2: 19..-22.2.2024 Contact Moves and Physical Skills**](https://rollingpoint.at/winterintensive)
 
 ### Kursbeginn Sommersemester 2024: 26.-29.2.2024
 
