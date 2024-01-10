@@ -27,9 +27,13 @@ Fotocredit: https://johannes-stolba.net/photography/
 [**Woche 1: 12.-15.2.2024 RELEASZE Tanztraining / Organic Contact**\
 **Woche 2: 19..-22.2.2024 Contact Moves and Physical Skills**](https://rollingpoint.at/winterintensive)
 
+### **KURSE SOMMERSEMESTER 2024**
+
+**Die neuen Kurse des [Sommersemsters 2024](https://rollingpoint.at/somsem24) starten vom 26.-29.2.2024** 
+
 ### **KURSE WINTERSEMESTER 2023/24**
 
-**Die neuen Kurse des Sommersemsters 2024 starten vom 26.-29.2.2024**
+
 
 **[1 RELEASZ Tanztraining: ](/kurse#mo)**[Zeitgenössischer Tanz / CI-light / Somatisches Lernen](/kurse#mo) **open level**\
  **mit maRia Probst**\
@@ -51,8 +55,6 @@ Fotocredit: https://johannes-stolba.net/photography/
 **Turnsaal VS Gilgegasse 12, 1090 Wien**
 
 **Die wöchentliche rollingpoint [Contact Improvisation Jam ](https://rollingpoint.at/jams)findet immer am Dienstag wenn Schultag von 18.30 -  20.40 im einladenden Turnsaal der VS Einsiedlergasse statt. Vor der Jam von 17.15 - 18.15 laden einstündige [Spezialformate](https://rollingpoint.at/jams#special) rund um die  CI mit verschiedenen Gastlehrer*innen zum Mitmachen ein.**
-
-### Kursbeginn Sommersemester 2024: 26.-29.2.2024
 
 ![Mehr CI auf der Stiege](/assets/uploads/dsc_1941a.jpg "Mehr CI auf der Stiege")
 
