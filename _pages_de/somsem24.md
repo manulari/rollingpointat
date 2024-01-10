@@ -3,7 +3,7 @@ permalink: /somsem24
 title: Semesterkurse Sommersemester 2024
 language: de
 ---
-**Stundenplan Abendangebote Wintersemester 2023/24**
+**Stundenplan Abendangebote Sommersemester 2024**
 
 | Tag    | Zeit            | Lehrer*in                | Titel                                                                         | Ort/Turnsaal                  |
 | ------ | --------------- | ------------------------ | ----------------------------------------------------------------------------- | ----------------------------- |
@@ -15,8 +15,6 @@ language: de
 ### Die neuen Kurse des Sommersemesters 2024 starten vom 26.- 29.2.2024
 
 Schnuppermöglichkeit zu Kursbeginn!
-
-
 
 <div class="named-anchor" id="mo"></div>
 
@@ -61,7 +59,7 @@ Keine Anmeldung erforderlich.
 An folgenden drei Terminen sind auch Beginner*innen zur Teilnahme an der Jams eingeladen:\
 **19.3.2024**\
 **23.4.2024**\
-**28.5.2024****\
+**28.5.2024\*\***\
 Für alle Beginner*innen gibt es dazu eine einstündige Einführung in die Welt der Contact Improvisations-Jams im Zeitraum 17.30 - 18.30.
 
 <div class="named-anchor" id="mi"></div>
