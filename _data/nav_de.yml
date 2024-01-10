@@ -13,7 +13,7 @@ entries:
   - title: KURSE UND WORKSHOPS
     path: /kurse
     subentries:
-      - title: Semesterkurse Wintersemester 2023/24
+      - title: Kurse WS 2023/24
         path: /kurse
       - title: Wochenend-Workshops
         path: /workshops
@@ -23,7 +23,7 @@ entries:
         path: /sommerintensive
       - title: Kursanmeldung
         path: /Kursanmeldung
-      - title: Semesterkurse Sommersemester 2024
+      - title: Kurse SS 2024
         path: /somsem24
   - title: JAMS+PERFORMANCES
     path: /jams
