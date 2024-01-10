@@ -15,6 +15,8 @@ entries:
     subentries:
       - title: Kurse WS 2023/24
         path: /kurse
+      - title: Kurse SS 2024
+        path: /somsem24
       - title: Wochenend-Workshops
         path: /workshops
       - title: Winter-Intensive
@@ -23,8 +25,6 @@ entries:
         path: /sommerintensive
       - title: Kursanmeldung
         path: /Kursanmeldung
-      - title: Kurse SS 2024
-        path: /somsem24
   - title: JAMS+PERFORMANCES
     path: /jams
     subentries:
