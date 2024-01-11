@@ -49,8 +49,8 @@ Teilnahmeempfehlung: Tanzfreudige mit Lust an Bewegungsausdruck und -forschung. 
 
 **Jam-hosts: Christian Apschner, maRia Probst** **u.a.**\
 **Di 18.00 - 20.45, 27.2. – 18.6.2024 (ca. 16x)**\
-Turnsaal VS Einsiedlergasse 7, 1050 Wien\
-\
+Turnsaal VS Einsiedlergasse 7, 1050 Wien
+
 Unsere Jams sind Orte für fokussiertes Contact Improvisation-Tanzen. Wir achten einen gemeinsamen Raum zu halten, in dem sich alle sicher fühlen und erwarten von den TeilnehmerInnen CI-Kurserfahrungen im Sinne von Grundkenntnissen (ausgenommen open level Jams). \
 Das Aufwämen erfolgt eigenverantwortlich. Fallweise wird es aber auch angeleitete warm ups geben. Ausgewählte soundscapes im zweiten Teil der Jams. Zum Abschluss der Jams bilden wir immer einen Abschlusskreis um uns über das Erlebte auszutauschen.
 
