@@ -24,7 +24,7 @@ maRia verbindet Elemente aus Somatischem Lernen, Contact Improvisation mit gerin
 Teilnahmeempfehlung Woche 1:  Du bewegst dich gerne, bist offen für Körperkontakt und bist dir selbst und anderen gegenüber achtsam und aufmerksam.
 
 **Woche 2: Mo - Do 19.- 22.2.2024**\
-**Contact Moves and Physical Skills (beginner-intermediate)**\
+**Contact Moves and Physical Skills (beginner)**\
 **mit Christian Apschner (und maRia Probst)**
 
 Die zweite Woche der Winterintensive ist als Kompaktkurs der Contact Improvisation (CI) gedacht. So lernen wir, wie es leicht und körperschonend geht, Gewicht abzugeben und zu übernehmen oder uns gemeinsam entlang des rollenden Kontaktpunktes und im Bewegungsfluss zu bewegen. Wir erforschen die Technik für einfache Lifts, uns fallen zu lassen und sanft zu landen. Verschiedene Variationen von Roll- und Spiralbewegungen unterstützen dich, im Tanz geschmeidig und durchlässig zu sein.
