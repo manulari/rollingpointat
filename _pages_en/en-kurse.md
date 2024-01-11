@@ -15,7 +15,11 @@ Semester courses
 
 &nbsp;
 
-### New courses (Winter semester 2023/24) will be starting from 25.- 28.9.2023
+### New courses (summer semester 2024) will be starting from 26.- 29.2.2024
+
+Same scedule als wintersemester 2023/24 (see below)
+
+
 
 <div class="named-anchor" id="mo"></div>
 
