@@ -52,8 +52,11 @@ Teilnahmeempfehlung: Tanzfreudige mit Lust an Bewegungsausdruck und -forschung. 
 Turnsaal VS Einsiedlergasse 7, 1050 Wien
 
 Unsere Jams sind Orte für fokussiertes Contact Improvisation-Tanzen. Wir achten einen gemeinsamen Raum zu halten, in dem sich alle sicher fühlen und erwarten von den TeilnehmerInnen CI-Kurserfahrungen im Sinne von Grundkenntnissen (ausgenommen open level Jams). \
-Das Aufwärmen erfolgt selbständig. Fallweise wird es aber auch angeleitete warm ups geben. Ausgewählte soundscapes im zweiten Teil der Jams. Zum Abschluss der Jams bilden wir immer einen Abschlusskreis um uns über das Erlebte auszutauschen.
+Das Aufwärmen erfolgt selbständig. Fallweise wird es aber auch angeleitete warm ups geben. Ausgewählte soundscapes im zweiten Teil der Jams.\
+Ankommen zwischen 18.00 und 18.30.\
+Zum Abschluss der Jams bilden wir immer einen Abschlusskreis um uns über das Erlebte auszutauschen.
 
+**Offen für alle Tänzer*innen mit CI-Basiskenntnissen/Kurserfahrung.**\
 Keine Anmeldung erforderlich.
 
 An folgenden drei Terminen sind auch Beginner*innen zur Teilnahme an der Jams eingeladen:*\
