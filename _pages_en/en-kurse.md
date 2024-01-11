@@ -6,12 +6,12 @@ other_lang: /kurse
 ---
 Semester courses 
 
-| day     | time                    | teacher             | course                                                                   | place                         |
-| ------- | ----------------------- | ------------------- | ------------------------------------------------------------------------ | ----------------------------- |
-| **mo**  | **18.30-20.30**         | **maRia**           | **[1 RELEASZ - Contempory Dance and Somatics / open level](#mo)**        | **Gilgegasse 12, 1090 Wien**  |
-| **tue** | **(17.15) 18.15-20.40** | **maRia/Christian** | [](#mie)**[2 Contact Improvisation Jam + Specials](#di)**                | **Einsiedlerg. 7, 1050 Wien** |
-| **wed** | **18.00-20.40**         | **Christian u.a.**  | **[3 Wild and Soft - Contact Improvisation intermediate/advanced](#mi)** | **Einsiedlerg. 7, 1050 Wien** |
-| **thu** | **18.15-20.30**         | **maRia/Christian** | **[4 Contact Improvisation and -Technique Basics  / beginner](#do)**     | **Gilgegasse 12, 1090 Wien**  |
+| day     | time                    | teacher             | course                                                               | place                         |
+| ------- | ----------------------- | ------------------- | -------------------------------------------------------------------- | ----------------------------- |
+| **mo**  | **18.30-20.30**         | **maRia**           | **[1 RELEASZ - Contempory Dance and Somatics / open level](#mo)**    | **Gilgegasse 12, 1090 Wien**  |
+| **tue** | **(17.15) 18.15-20.40** | **maRia/Christian** | [](#mie)**[2 Contact Improvisation Jam + Specials](#di)**            | **Einsiedlerg. 7, 1050 Wien** |
+| **wed** | **18.00-20.40**         | **Christian u.a.**  | **[3 Wild and Soft - Contact Improvisation / advanced](#mi)**        | **Einsiedlerg. 7, 1050 Wien** |
+| **thu** | **18.15-20.30**         | **maRia/Christian** | **[4 Contact Improvisation and -Technique Basics  / beginner](#do)** | **Gilgegasse 12, 1090 Wien**  |
 
 &nbsp;
 
@@ -46,13 +46,11 @@ Before the Jam from 17.15 to 18.15 we offer an one hour training focusing on dif
 
 <div class="named-anchor" id="mi"></div>
 
-#### 3 "Wild and Soft" - **Contact Improvisation  intermediate/advanced**
+#### 3 "Wild and Soft" - **Contact Improvisation  advanced**
 
 with **Christian Apschner**\
 **wed 18.00 - 20.40, 27.9.2023 – 31.1.2024 (ca.15x)**\
-Turnsaal VS Einsiedlergasse 7, 1050 Wien\
-**Beginners are invited to participate in open level trainings and jams on**\
-**25.10., 13.12.2023, 24.1.2024**
+Turnsaal VS Einsiedlergasse 7, 1050 Wien
 
 Lets get physical! We create a connection between the athletic and meditative and learn to take weight in a body-friendly way through anatomically good alignment, tonus modulation and the use of momentum. In our learning process we want to find the ability to follow the flow of movement and at the same time to perceive the dance so presently that this flow can directed and redirected in a playful way.
 
