@@ -20,9 +20,22 @@ other_lang: /
 
 ### Overview Coures/Workshops/Jams/Performances
 
+### **WINTERINTENSIVE “Share your Dances. Be in Touch”:**
+
+[**week 1: 12.-15.2.2024 RELEASZE Training / Organic Contact**\
+**week 2: 19..-22.2.2024 Contact Moves and Physical Skills**](https://rollingpoint.at/winterintensive)
+
+**mon, thu (12.2., 15.2., 19.2., 22.2):  Gilgegasse 12, 9. Bez.**\
+**tue, wed (13.2., 14.2., 20.2, 21.2.): Einsiedlergasse 7, 5. Bez.**\
+**18.15 - 20.30**
+
+registration form**:** <https://forms.gle/D5bwoQwoeueLpRCw7>
+
 ### Evening courses / study groups
 
-**Start Wintersemester 2023/24: 25.9.-28.9.2023**
+**Start winter semester 2023: 25.-28.9.2023**
+
+**Start summer semester 2024: 26.-29.2.2024**
 
 **[1 mo RELEASZ Contemporary Dance and Somatics](/en/kurse#mo)** - **open level**\
 **with maRia Probst**  \
@@ -46,10 +59,6 @@ other_lang: /
 
 ### Weekend-Workshops:
 
-**2.+3.9.2023 with maRia Probst und Christian Apschner**
-
-**4.+5.11.2023 Contact Improvisation open level with Christian Apschner**\
-**18.+19.11.2023 with maRia Probst**\
 **20.+21.1.2024 Contact Flying Skills with Christian Apschner and Lui Springer**
 
 ### **rollingpoint-Jam**
