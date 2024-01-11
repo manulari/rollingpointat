@@ -52,11 +52,11 @@ Teilnahmeempfehlung: Tanzfreudige mit Lust an Bewegungsausdruck und -forschung. 
 Turnsaal VS Einsiedlergasse 7, 1050 Wien
 
 Unsere Jams sind Orte für fokussiertes Contact Improvisation-Tanzen. Wir achten einen gemeinsamen Raum zu halten, in dem sich alle sicher fühlen und erwarten von den TeilnehmerInnen CI-Kurserfahrungen im Sinne von Grundkenntnissen (ausgenommen open level Jams). \
-Das Aufwämen erfolgt eigenverantwortlich. Fallweise wird es aber auch angeleitete warm ups geben. Ausgewählte soundscapes im zweiten Teil der Jams. Zum Abschluss der Jams bilden wir immer einen Abschlusskreis um uns über das Erlebte auszutauschen.
+Das Aufwärmen erfolgt selbständig. Fallweise wird es aber auch angeleitete warm ups geben. Ausgewählte soundscapes im zweiten Teil der Jams. Zum Abschluss der Jams bilden wir immer einen Abschlusskreis um uns über das Erlebte auszutauschen.
 
 Keine Anmeldung erforderlich.
 
-An folgenden drei Terminen sind auch Beginner*innen zur Teilnahme an der Jams eingeladen:\
+An folgenden drei Terminen sind auch Beginner*innen zur Teilnahme an der Jams eingeladen:*\
 **19.3.2024**\
 **23.4.2024**\
 **28.5.2024**\
@@ -75,7 +75,7 @@ Für Tänzer*innen mit guten Vorerfahrungen ist die Teilnahme auch an einzelnen 
 \
 Lets get physical! Du bringst gute Basiskenntnisse der Contact Improvisation oder artverwandter Bewegungsformen mit und möchtest dein Bewegungsspektrum erweitern und verfeinern sowie gezielt Kraft, Koordination, Beweglichkeit und Körperreflexe trainieren? Dann werde Teil unserer motivierten Trainingsgruppe! Ein Schwerpunkt des Kurses wird sein, die Technik verschiedenster Lifts und Jumps in allen Raumebenen zu üben und kopfüber auf den Händen zu tanzen. Ziel ist es uns immer leichter dem gemeinsamen Bewegungsfluss hinzugeben und gleichzeitig den Tanz so präsent wahrzunehmen, dass wir ihn spielerisch lenken können. 
 
-Wir beenden die Tanzeinheiten immer mit Partner*innen Körperarbeits-Settings mit Elementen aus Trager-Körperarbeit, Nuad und sowie Body Mind Centering.  Anatomische Bilder unterstützen dabei deine Vorstellungskraft und du kannst dir im Zeitverlauf praktische Grundkenntnisse in miteinander kompatiblen Körperarbeitsmethoden aneignen/vertiefen.
+Wir beenden die Tanzeinheiten immer mit Körperarbeits-Settings mit Elementen aus Trager-Körperarbeit, Nuad und sowie Body Mind Centering.  Anatomische Bilder unterstützen dabei deine Vorstellungskraft und du kannst dir im Zeitverlauf praktische Grundkenntnisse in miteinander kompatiblen Körperarbeitsmethoden aneignen/vertiefen.
 
 [Kosten und Anmeldung](#kosten)
 
