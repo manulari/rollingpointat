@@ -8,7 +8,7 @@ title: KURSE UND WORKSHOPS
 | ------ | ---------------------- | ------------------------ | ----------------------------------------------------------------------------- | ----------------------------- |
 | **Mo** | **18.30-20.15**        | **maRia**                | **[ 1 RELEASZE Tanztraining: CI-light/Somatisches Lernen / open level](#mo)** | **Gilgegasse 12, 1090 Wien**  |
 | **Di** | **(17.15)18.30-20.40** | **Christian maRia u.A.** | **[2 Contact Improvisation Jam + Specials](#di)**                             | **Einsiedlerg. 7, 1050 Wien** |
-| **Mi** | **18.00-20.40**        | **Christian**            | **[3 "Wild and Soft" Contact Improvisation intermediate/advanced](#mi)**      | **Einsiedlerg. 7, 1050 Wien** |
+| **Mi** | **18.00-20.40**        | **Christian**            | **[3 "Wild and Soft" Contact Improvisation / advanced](#mi)**                 | **Einsiedlerg. 7, 1050 Wien** |
 | **Do** | **18.15-20.30**        | **Christian**            | **[4 Contact Improvisation and -Technique Basics / beginner ](#do)**          | **Gilgegasse 12, 1090 Wien**  |
 
 ### Die neuen [Kurse des Sommersemesters 2024](https://rollingpoint.at/somsem24) starten vom 26.- 29.2.2024
@@ -60,9 +60,9 @@ In der Special-Hour vor den Jams von 17.15-18.15 lädt eine bunte Mischung von S
 
 <div class="named-anchor" id="mi"></div>
 
-#### **3 "Wild and Soft" Contact Improvisation intermediate/advanced**
+#### **3 "Wild and Soft" Contact Improvisation advanced**
 
-mit **Christian Apschner *\- intermediate/advanced***\
+mit **Christian Apschner *\- advanced***\
 **Mi 18.00 - 20.40, 27.9.2023 – 31.1.2024 (ca.15x)**\
 Turnsaal VS Einsiedlergasse 7, 1050 Wien
 
