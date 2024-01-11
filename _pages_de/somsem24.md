@@ -103,7 +103,7 @@ Teilnahmeempfehlungen: Da wir in der Contact Improvisation gegenseitig Körperge
 
 ***ANMELDUNG:*** 
 
-**Schreibe uns ein kurzes mail an ci.rollingpoint@gmail.com**\
+**Schreibe uns bitte ein kurzes mail an ci.rollingpoint@gmail.com**\
 \
 **oder verwende folgendes Anmeldeformular**\
 <https://forms.gle/D5bwoQwoeueLpRCw7>
