@@ -15,11 +15,11 @@ Semester courses
 
 &nbsp;
 
+**Non-German speakers very welcome. We teach bilingual German and English.**
+
 ### New courses (summer semester 2024) will be starting from 26.- 29.2.2024
 
 Same scedule als wintersemester 2023/24 (see below)
-
-
 
 <div class="named-anchor" id="mo"></div>
 
