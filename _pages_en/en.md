@@ -18,6 +18,8 @@ other_lang: /
 
 <div class="imglink"><a target="_blank" href="https://www.youtube.com/embed/kp3DqzN1Ldo"><img src="/assets/uploads/video_vorschau_rollingpoint.png" alt="" /><div>rollingpoint film</div></a></div>
 
+**Non-German speakers very welcome. We teach bilingual German and English.**
+
 ### Overview Coures/Workshops/Jams/Performances
 
 ### **WINTERINTENSIVE “Share your Dances. Be in Touch”:**
