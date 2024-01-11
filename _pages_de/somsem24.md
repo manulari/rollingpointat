@@ -59,7 +59,7 @@ Keine Anmeldung erforderlich.
 An folgenden drei Terminen sind auch Beginner*innen zur Teilnahme an der Jams eingeladen:\
 **19.3.2024**\
 **23.4.2024**\
-**28.5.2024\*\***\
+**28.5.2024**\
 Für alle Beginner*innen gibt es dazu eine einstündige Einführung in die Welt der Contact Improvisations-Jams im Zeitraum 17.30 - 18.30.
 
 <div class="named-anchor" id="mi"></div>
