@@ -7,63 +7,22 @@ other_lang: ""
 
 Die rollingpoint-Jams sind Orte für fokussiertes und freudvolles Contact Improvisation-Tanzen. Wir achten einen gemeinsamen Raum zu halten, in dem sich alle sicher fühlen und erwarten von den Teilnehmenden, CI-Kurserfahrungen im Sinne von Grundkenntnissen. (Hinweise zur Sicherheit in den rollingpoint-Jams siehe unten).
 
-**Ab 19.9.2023 findet die wöchentliche Jam immer Dienstag 18.30-20.40 im Turnsaal der VS Einsiedlergasse 7, 1050 Wien statt.** 
+#### **Die rollingpoint-Jam macht drei Wochen Semesterferien. Wir starten wieder am 27.2.2024.**
 
 ## rollingpoint-Jam am Dienstag
 
-**Jeden Dienstag (an Schultagen) 18.30 - 20.40** \
+**Immer am Dienstag (wenn Schultagen) 18.00 - 20.30** \
 Turnsaal VS Einsiedlergasse 7, 1050 Wien. Der schöne geräumige Turnsaal befindet sich im 1.Stock des Schulgebäudes. Keine Anmeldung erforderlich.
 
-Ankommen ab 18.15, Eröffnungskreis um 18.30, Verlassen des Turnsaal spätestens um 21.00\
-Teilweise  angeleitete warm ups, ausgewählte Musik und Sound-Scapes in der 2.Hälfte der Jams.
+Ankommen ab 18.00, Eröffnungskreis um 18.30, Verlassen des Turnsaal spätestens um 21.00\
+Teilweise angeleitete warm ups.\
+Ausgewählte Musik und Sound-Scapes in der 2.Hälfte der Jams.
 
-**Kostenbeitrag: Jam einzeln € 7 - 12€, Semesterbeitrag: € 100 - 170**\
-**Specials: € 7-12 je Termin**\
-**Jam+Special: € 14-24 je Abend**\
-**Semesterbeitrag Specials + Jam: € 200 - 300**\
+**Kostenbeitrag: Jam einzeln € 7 - 12€, Semesterbeitrag: € 100 - 150**\
 \
 **Bitte um Kontoüberweisung Bankvbdg.:** IBAN: AT54 3200 0000 1701 2717, BIC: RLNWATWW, Verein rollingpoint
 
 <div class="named-anchor" id="special"></div>
-
-### **Special-Hour vor der Jam und open level Jams**
-
-**Jeden Dienstag (wenn Schultag) 17.15 - 18.15**\
-\
-Wir freuen uns, eine bunte Mischung einstündiger Spezialformate mit verschiedenen Gastlehrer*innen vor den Jams anbieten zu können (Änderungen möglich):
-
-> **19.9.2023  Alina Bertha: *Contemporary Floorwork + Upside Down Moves***\
-> **26.9.2023 Alina Bertha: *Contemporary Floorwork + Upside Down Moves***\
-> \
-> **03.10.2023   maRia Probst: Easy Riding**\
-> \
-> **10.10.2023 Christian Apschner: *Contact Improvisation Intro + open level (beginner) Jam***\
-> \
-> **17.10.2023 Manu Eder: *"No" Games***\
-> **24.10.2023 Manu Eder: *Dreamy Drops***\
-> \
-> **07.11.2023   maRia Probst: Moving From the Source**\
-> \
-> **14.11.2023 Sabine Müller: *Floor - across, into, up***\
-> \
-> **21.11.2023 Ines Ingerle: *Moving into Connection (CI Intro) + open level (beginner) Jam***\
-> \
-> **28.11.2023 Paulina Cebula: *Being permeable, soft and adaptable***\
-> **05.12.2023 Paulina Cebula: *Surfing the Gaps***\
-> \
-> **12.12.2023 maRia Probst: Happy Landings**\
-> \
-> **19.12.2023 Sabine Müller: *Ease and Simplicity***
->
-> **09.01.2024 Christian Apschner: *Floating Floorwork*** *\- Strenght, Mobility and Coordination*
->
-> **16.01.2024 Ingrid Hörlezeder:**  ***I am here - Was heißt es, präsent zu sein?***
->
-> **23.01.2024 Ingrid Hörlezeder: *No doubts -* *Der Raum gestaltet den Tanz***
->
-> **30.01.2024  *Contact Improvisation Intro + open level (beginner) Jam***
-
-**Kostenbeitrag: € 7 - 12 je Special**
 
 ### **Hinweise zur Sicherheit auf den Jams**
 
