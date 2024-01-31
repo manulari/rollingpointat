@@ -7,7 +7,7 @@ other_lang: ""
 
 Die rollingpoint-Jams sind Orte für fokussiertes und freudvolles Contact Improvisation-Tanzen. Wir achten einen gemeinsamen Raum zu halten, in dem sich alle sicher fühlen und erwarten von den Teilnehmenden, CI-Kurserfahrungen im Sinne von Grundkenntnissen. (Hinweise zur Sicherheit in den rollingpoint-Jams siehe unten).
 
-#### **Die rollingpoint-Jam macht drei Wochen Semesterferien. Wir starten wieder am 27.2.2024.**
+#### **Achtung: Keine Jam am 6.2., 13.2. und 20.2. Wir starten wieder am 27.2.2024.**
 
 ## rollingpoint-Jam am Dienstag
 
