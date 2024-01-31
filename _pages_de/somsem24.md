@@ -48,7 +48,7 @@ Teilnahmeempfehlung: Tanzfreudige mit Lust an Bewegungsausdruck und -forschung. 
 #### 2 Contact Improvisation Jam
 
 **Jam-hosts: Christian Apschner, maRia Probst** **u.a.**\
-**Di 18.00 - 20.45, 27.2. – 18.6.2024 (ca. 16x)**\
+**Di 18.00 - 20.30, 27.2. – 18.6.2024 (ca. 16x)**\
 Turnsaal VS Einsiedlergasse 7, 1050 Wien
 
 Unsere Jams sind Orte für fokussiertes Contact Improvisation-Tanzen. Wir achten einen gemeinsamen Raum zu halten, in dem sich alle sicher fühlen und erwarten von den TeilnehmerInnen CI-Kurserfahrungen im Sinne von Grundkenntnissen (ausgenommen open level Jams). \
