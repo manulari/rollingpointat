@@ -14,7 +14,7 @@ Die rollingpoint-Jams sind Orte für fokussiertes und freudvolles Contact Impro
 **Immer am Dienstag (wenn Schultagen) 18.00 - 20.30** \
 Turnsaal VS Einsiedlergasse 7, 1050 Wien. Der schöne geräumige Turnsaal befindet sich im 1.Stock des Schulgebäudes. Keine Anmeldung erforderlich.
 
-Ankommen ab 18.00, Eröffnungskreis um 18.30, Verlassen des Turnsaal spätestens um 21.00\
+Ankommen ab 18.00, Eröffnungskreis um 18.30\
 Teilweise angeleitete warm ups.\
 Ausgewählte Musik und Sound-Scapes in der 2.Hälfte der Jams.
 
@@ -40,7 +40,7 @@ Es ist Teil des Lernprozesses der Contact Improvisation immer besser herauszufin
 * **Frage nach**, wenn du das Gefühl hast, dein/e Tanzpartner/in könnte sich nicht sicher fühlen
 * **Wende dich jederzeit an die Jam-hosts** wenn du ein Anliegen hast oder Fragestellungen auftauchen. Jam-hosts achten auf einen respektvollen Umgang im Tanzraum und stehen als Vertrauensperson zur Verfügung.
 
-Körperkontakt in der CI dient der taktilen und sensomotorischen Wahrnehmung und der Gewichtsübertragung. **Körperkontakt oder Berührung mit dem Ziel sexueller Annäherung ist nicht Contact Improvisation.**
+Körperkontakt in der CI dient der sensomotorischen Wahrnehmung und der Gewichtsübertragung. **Körperkontakt oder Berührung mit dem Ziel sexueller Annäherung ist nicht Contact Improvisation.**
 
 Ein CI-Tanz ist ein gleichberechtigter körperlicher Dialog, in dem wir uns fortlaufend somatische Fragen stellen wie z.B. 
 
