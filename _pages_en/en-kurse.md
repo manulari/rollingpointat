@@ -6,12 +6,12 @@ other_lang: /kurse
 ---
 Semester courses 
 
-| day     | time                    | teacher             | course                                                               | place                         |
-| ------- | ----------------------- | ------------------- | -------------------------------------------------------------------- | ----------------------------- |
-| **mo**  | **18.30-20.30**         | **maRia**           | **[1 RELEASZ - Contempory Dance and Somatics / open level](#mo)**    | **Gilgegasse 12, 1090 Wien**  |
-| **tue** | **(17.15) 18.15-20.40** | **maRia/Christian** | [](#mie)**[2 Contact Improvisation Jam + Specials](#di)**            | **Einsiedlerg. 7, 1050 Wien** |
-| **wed** | **18.00-20.40**         | **Christian u.a.**  | **[3 Wild and Soft - Contact Improvisation / advanced](#mi)**        | **Einsiedlerg. 7, 1050 Wien** |
-| **thu** | **18.15-20.30**         | **maRia/Christian** | **[4 Contact Improvisation and -Technique Basics  / beginner](#do)** | **Gilgegasse 12, 1090 Wien**  |
+| day     | time            | teacher             | course                                                               | place                         |
+| ------- | --------------- | ------------------- | -------------------------------------------------------------------- | ----------------------------- |
+| **mo**  | **18.30-20.30** | **maRia**           | **[1 RELEASZ - Contempory Dance and Somatics / open level](#mo)**    | **Gilgegasse 12, 1090 Wien**  |
+| **tue** | **18.00-20.30** | **maRia/Christian** | [](#mie)**[2 Contact Improvisation Jam](#di)**                       | **Einsiedlerg. 7, 1050 Wien** |
+| **wed** | **18.00-20.40** | **Christian u.a.**  | **[3 Wild and Soft - Contact Improvisation / advanced](#mi)**        | **Einsiedlerg. 7, 1050 Wien** |
+| **thu** | **18.15-20.30** | **maRia/Christian** | **[4 Contact Improvisation and -Technique Basics  / beginner](#do)** | **Gilgegasse 12, 1090 Wien**  |
 
 &nbsp;
 
@@ -19,7 +19,7 @@ Semester courses
 
 ### New courses (summer semester 2024) will be starting from 26.- 29.2.2024
 
-Same scedule als wintersemester 2023/24 (see below)
+
 
 <div class="named-anchor" id="mo"></div>
 
@@ -27,7 +27,7 @@ Same scedule als wintersemester 2023/24 (see below)
 
 with **maRia Probst**\
 *Contemporary Dance* - *open level*\
-**mo 18.30 - 20.30, 25.9.2023 – 29.1.2024 (ca.15x)**\
+**mo 18.30 - 20.30**\
 Turnsaal VS Gilgegasse 12, 1090 Wien
 
 Release technique into momentum. Improvisation, dance sequences, somatics and embodiment
@@ -37,7 +37,7 @@ Release technique into momentum. Improvisation, dance sequences, somatics and em
 #### 2 Contact Improvisation Jam + Specials
 
 Christian Apschner, maRia Probst and guest teachers\
-**tue Jam 18.30 – 20.40, Specials 17.15 - 18.15 , 19.9.2023 - 30.1.2024 (ca.17x)**\
+**tue Jam 18.00 – 20.30**\
 Turnsaal VS Einsiedlergasse 7, 1050 Wien
 
 Our jams are a place for focused Contact Improvisation dancing where CI is practiced as contemporary dance and art form. We want to offer a space in which everyone feels safe. Participants are asked to have CI course experience in the sense of basic knowledge.\
@@ -49,7 +49,7 @@ Before the Jam from 17.15 to 18.15 we offer an one hour training focusing on dif
 #### 3 "Wild and Soft" - **Contact Improvisation  advanced**
 
 with **Christian Apschner**\
-**wed 18.00 - 20.40, 27.9.2023 – 31.1.2024 (ca.15x)**\
+**wed 18.00 - 20.40**\
 Turnsaal VS Einsiedlergasse 7, 1050 Wien
 
 Lets get physical! We create a connection between the athletic and meditative and learn to take weight in a body-friendly way through anatomically good alignment, tonus modulation and the use of momentum. In our learning process we want to find the ability to follow the flow of movement and at the same time to perceive the dance so presently that this flow can directed and redirected in a playful way.
@@ -59,7 +59,7 @@ Lets get physical! We create a connection between the athletic and meditative an
 #### 4 Contact Improvisation and -Technique Basics (beginner)
 
 with **Christian Apschner**\
-**thu 18.15 – 20.30, 28.9.2023.- 1.2.2024 (ca.15x)**\
+**thu 18.15 – 20.30**\
 Turnsaal VS Gilgegasse 12, 1090 Wien
 
 *ongoing study group*
