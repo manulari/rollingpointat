@@ -41,8 +41,8 @@ Teilnahmeempfehlung Woche 2: Siehe Woche 1, darüberhinaus Bereitschaft dich auf
 **oder per email:**  **ci.rollingpoint@gmail.com**\
 maRia 0650 951 0814, Christian 0650 8931081
 
-**Kosten:** Eine Woche: € 104 , StudentenInnen unter 28: € 72\
-Beide Wochen: € 176, StudentenInnen unter 28: € 128\
+**Kosten:** Eine Woche: € 104 , Student*innen unter 28: € 72\
+Beide Wochen: € 176, Student*innen unter 28: € 128\
 Sonstige Ermäßigungen auf Anfrage\
 Winterintensive-Special: **Meldet euch als Gruppe zu viert an und zahlt für drei!**
 
