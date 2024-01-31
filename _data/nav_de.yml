@@ -11,7 +11,7 @@ entries:
       - title: Somatisches Lernen
         path: /somatics
   - title: KURSE UND WORKSHOPS
-    path: /kurse
+    path: /somsem24
     subentries:
       - title: Kurse SoSe 2024
         path: /somsem24
