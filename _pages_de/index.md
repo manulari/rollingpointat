@@ -31,28 +31,26 @@ Fotocredit: https://johannes-stolba.net/photography/
 
 **Die neuen Kurse des [Sommersemsters 2024](https://rollingpoint.at/somsem24) starten vom 26.-29.2.2024** 
 
-### **KURSE WINTERSEMESTER 2023/24**
-
-**[1 RELEASZ Tanztraining: ](/kurse#mo)[Zeitgenössischer Tanz / CI-light / Somatisches Lernen](/kurse#mo)** **open level**\
+**[1 RELEASZ Tanztraining: ](/kurse#mo)****[Zeitgenössischer Tanz / CI-light / Somatisches Lernen](/kurse#mo)** **open level**\
  **mit maRia Probst**\
-**Mo 25.9.2023 – 29.1.2024, 18.30 - 20.15 (ca.16x)**\
+**Mo 26.2.- 17.6.2024, 18.30 - 20.15 (ca.14x)**\
 **Turnsaal VS Gilgegasse 12, 1090 Wien**
 
-**[2 Contact Improvisation Jam + Specials](/kurse#di)**\
-**Di 19.9.2023  - 30.1.2024, Jam 18.30 – 20.40 (ca.17x), Specials 17.15 - 18.15**\
+**[2 Contact Improvisation Jam ](/kurse#di)**(kein Kurs, keine Anmeldung erforderlich)\
+**Di 27.2.- 18.6.2024, Jam 18.00 – 20.30 (ca.16x)**\
 **Turnsaal VS Einsiedlergasse 7, 1050 Wien**
 
 **[3 Wild and Soft: Contact Improvisation ](/kurse#mi) intermediate/advanced**\
 **mit Christian Apschner**\
-**Mi 27.9.2023 - 31.1.2024, 18.00 - 20.40 (ca.15x)**\
+**Mi 28.2.- 19.6.2024, 18.00 - 20.30 (ca.15x)**\
 **Turnsaal VS Einsiedlergasse 7, 1050 Wien**
 
 **[4 Contact Improvisation and -Technique Basics  ](/kurse#do)beginner**\
 **mit Christian Apschner**\
-**Do 28.9.2023.- 1.2.2024, 18.15 – 20.30 (ca.15x)**\
+**Do 29.2. - 20.6.2024, 18.15 – 20.30 (ca.14x)**\
 **Turnsaal VS Gilgegasse 12, 1090 Wien**
 
-**Die wöchentliche rollingpoint [Contact Improvisation Jam ](https://rollingpoint.at/jams)findet immer am Dienstag wenn Schultag von 18.30 -  20.40 im einladenden Turnsaal der VS Einsiedlergasse statt. Vor der Jam von 17.15 - 18.15 laden einstündige [Spezialformate](https://rollingpoint.at/jams#special) rund um die  CI mit verschiedenen Gastlehrer*innen zum Mitmachen ein.**
+
 
 ![Mehr CI auf der Stiege](/assets/uploads/dsc_1941a.jpg "Mehr CI auf der Stiege")
 
