@@ -7,39 +7,16 @@ language: en
 
 The rollingpoint jams are a place for focused Contact Improvisation dancing where CI is practiced as contemporary dance and art form. We want to take care to offer a space in which everyone feels safe. Participants are asked to have CI course experience in the sense of basic knowledge.
 
+### **No Jam on 7.2., 14.2. amd 21.2.2024 (holidays)**
+
 The regular rollingpoint Contact Improvisation Jam takes place\
-**every Tuesday when schoolday 18.30 - 20.40** **(start 19.9.2023)**\
+**every Tuesday when schoolday 18.00 - 20.30, opening circle 18.30**\
 in the nice gym of the school **VS Einsiedlergasse 7, 1050 Wien.**
 
 **Costs donation based:  € 7 - 12€**\
 Please pay on our bank account IBAN: AT54 3200 0000 1701 2717, BIC: RLNWATWW, Verein rollingpoint
 
-**Pre-Jam Special:**  Before the Jam from **17.15 - 18.15** we offer an one hour training focusing on different aspects of Contact Improvisation with guest teachers: 
 
-> **19.9.2023 Alina Bertha: *Contemporary Floorwork + Upside Down Moves***\
-> **26.9.2023 Alina Bertha: *Contemporary Floorwork + Upside Down Moves***\
-> \
-> **03.10.2023 maRia Probst: Easy Riding**\
-> \
-> **10.10.2023 Christian Apschner: *Contact Improvisation Intro + open level (beginner) Jam***\
-> \
-> **17.10.2023 Manu Eder: *"No" Games***\
-> **24.10.2023 Manu Eder: *Dreamy Drops***\
-> \
-> **07.11.2023 maRia Probst: Moving From the Source**\
-> \
-> **14.11.2023 Sabine Müller: *Floor - across, into, up***\
-> \
-> **21.11.2023 Ines Ingerle: *Moving into Connection (CI Intro) + open level (beginner) Jam***\
-> \
-> **28.11.2023 Paulina Cebula: *Being permeable, soft and adaptable***\
-> **05.12.2023 Paulina Cebula: *Surfing the Gaps***\
-> \
-> **12.12.2023 maRia Probst: Happy Landings**\
-> \
-> **19.12.2023 Sabine Müller: *Ease and Simplicity***
-
-**Costs € 7 - 12 / Special**
 
 ### **Notes about safety in the CI jam:**
 
