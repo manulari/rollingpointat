@@ -13,8 +13,6 @@ entries:
   - title: KURSE UND WORKSHOPS
     path: /kurse
     subentries:
-      - title: Kurse WiSe 2023/24
-        path: /kurse
       - title: Kurse SoSe 2024
         path: /somsem24
       - title: Wochenend-Workshops
