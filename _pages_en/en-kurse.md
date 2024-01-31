@@ -19,8 +19,6 @@ Semester courses
 
 ### New courses (summer semester 2024) will be starting from 26.- 29.2.2024
 
-
-
 <div class="named-anchor" id="mo"></div>
 
 #### 1 RELEASZ - Contempory Dance and Somatics
@@ -80,11 +78,8 @@ phone Christian +43 650 8931081, maRia +43 650 9510814
 **Costs Course 1 ,3 and 4: € 250 (regular), € 210 (reduced), € 170 (students <28a)**\
 **single class**: **€ 27 (regular), € 20 (reduced)**
 
-**Jam € 7 - 12, Specials € 7 - 12**\
-**Jam + Special: € 14 - 24**\
-**Semester Contact Improvisation Jam: € 100 - 170**\
-**Semester Special + Jam: € 200 - 300**\
-\
+**Jam € 7 - 12**\
+**Semester Contact Improvisation Jam: € 100 - 150**\
 \
 If you book two courses, you get a discount of €30,- for the second/third course.
 
