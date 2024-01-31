@@ -7,7 +7,7 @@ language: en
 
 The rollingpoint jams are a place for focused Contact Improvisation dancing where CI is practiced as contemporary dance and art form. We want to take care to offer a space in which everyone feels safe. Participants are asked to have CI course experience in the sense of basic knowledge.
 
-### **No Jam on 7.2., 14.2. amd 21.2.2024 (holidays)**
+### **No Jam on 6.2., 13.2. and 20.2.2024 / Next Jam 27.2.2024**
 
 The regular rollingpoint Contact Improvisation Jam takes place\
 **every Tuesday when schoolday 18.00 - 20.30, opening circle 18.30**\
@@ -15,8 +15,6 @@ in the nice gym of the school **VS Einsiedlergasse 7, 1050 Wien.**
 
 **Costs donation based:  € 7 - 12€**\
 Please pay on our bank account IBAN: AT54 3200 0000 1701 2717, BIC: RLNWATWW, Verein rollingpoint
-
-
 
 ### **Notes about safety in the CI jam:**
 
