@@ -69,7 +69,7 @@ Für alle Beginner*innen gibt es dazu eine einstündige Einführung in die Welt 
 
 #### **3 "Wild and Soft" Contact Improvisation - advanced**
 
-mit **Christian Apschner *\- intermediate/advanced***\
+mit **Christian Apschner**\
 **Mi 18.00 - 20.40, 28.2. – 19.6.2024 (ca. 15x)**\
 Turnsaal VS Einsiedlergasse 7, 1050 Wien
 
