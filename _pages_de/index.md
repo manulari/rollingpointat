@@ -18,16 +18,9 @@ Fotocredit: https://johannes-stolba.net/photography/
 
 <div class="imglink"><a target="_blank" href="https://www.youtube.com/embed/kp3DqzN1Ldo"><img src="/assets/uploads/video_vorschau_rollingpoint.png" alt="" /><div>rollingpoint-Video</div></a></div>
 
-### **WINTERINTENSIVE "Share your Dances. Be in Touch":**
-
-[**Woche 1: 12.-15.2.2024 RELEASZE Tanztraining / Organic Contact**\
-**Woche 2: 19..-22.2.2024 Contact Moves and Physical Skills**](https://rollingpoint.at/winterintensive)
-
 ### **KURSE SOMMERSEMESTER 2024**
 
-**Die neuen Kurse des [Sommersemsters 2024](https://rollingpoint.at/somsem24) starten vom 26.-29.2.2024** 
-
-**[1 RELEASZ Tanztraining: ](/somsem24#mo)****[Zeitgenössischer Tanz / CI-light / Somatisches Lernen](/somsem24#mo)** **open level**\
+**[1 RELEASZ Tanztraining: ](/somsem24#mo)\*\***[Zeitgenössischer Tanz / CI-light / Somatisches Lernen](/somsem24#mo)\*\* **open level**\
  **mit maRia Probst**\
 **Mo 26.2.- 17.6.2024, 18.30 - 20.15 (ca.14x)**\
 **Turnsaal VS Gilgegasse 12, 1090 Wien**
@@ -38,7 +31,7 @@ Fotocredit: https://johannes-stolba.net/photography/
 An folgenden drei Terminen sind auch Beginnerinnen zur Teilnahme an der Jams eingeladen:\
 **19.3., 23.4. und 28.5.2024**, Contact Improvisations Intro für Beginner*innen 17.30 - 18.30.
 
-**[3 Wild and Soft: Contact Improvisation ](/somsem24#mi) intermediate/advanced**\
+**[3 Wild and Soft: Contact Improvisation ](/somsem24#mi) advanced**\
 **mit Christian Apschner**\
 **Mi 28.2.- 19.6.2024, 18.00 - 20.30 (ca.15x)**\
 **Turnsaal VS Einsiedlergasse 7, 1050 Wien**
