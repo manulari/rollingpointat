@@ -6,6 +6,8 @@ title: Somatisches Lernen
 
 ![](/assets/uploads/img_1706c__-_pho.jpg)
 
+**Einige Eindrücke zur Anwendung von Somatics im Kontext von Tanzklassen:** <https://www.youtube.com/watch?v=XYO3Oc-CcjQ>
+
 **Somatisches Lernen** (Somatic Education) **ist ein ganzheitlicher Weg, über positive Körpererfahrungen zu lernen und Körper und Geist in Einklang zu bringen.** Das Lern-Setting somatischer Methoden im Tanz lenkt die Aufmerksamkeit gezielt auf bestimmte Aspekte von Bewegung und Körperaufrichtung um das Körperbewusstsein und Bewegungsverhalten auszuweiten und zu verfeinern.
 
 Rollingpoint versteht Contact Improvisation und zeitgenössischen Tanz als Form somatischen Lernens. Somatisches Lernen beruht auf dem **engen Bezug des Lernens zum Körper**. Während kognitives Lernen vorwiegend auf gedanklicher Ebene erfolgt, ist somatisches Lernen unmittelbar leiblich erfahrbar.

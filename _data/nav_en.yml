@@ -15,10 +15,10 @@ entries:
     subentries:
       - title: SEMESTER COURSES
         path: /en/kurse
-      - title: WORKSHOPS
+      - title: WEEKEND-WORKSHOPS
         path: /en/workshops
-  - title: CI-DOJO (TRAINING+JAM)
-    path: /en/dojo
+      - title: WINTER-INTENSIVE
+        path: /en/winterintensive
   - title: JAMS+PERFORMANCES
     path: /en/jams
   - title: ASSOCIATION ROLLINGPOINT

@@ -4,64 +4,65 @@ title: rollingpoint - Contact Improvisation und artverwandte Tanz- und Bewegungs
 language: en
 other_lang: /
 ---
-### Contact Improvisation and Related  Dance and Movement Practices
+### Contact Improvisation - Somatics - Contemporary Dance
 
-### **Website under construction!**
+### **This is a short version of our German website**
 
 ![](/assets/uploads/dsc_1901_klein.jpg)
 
 ### Welcome on our rollingpoint website!
 
-**We invite you to dive into the world of Contact Improvisation, Contemporary Dance and Somatics with us. We operate at the intersection of dance, art, sports, learning and research and bring more than 20 years of experience to our work. Especially now it is particularly important to us to create open and safe spaces for encounters and enjoyment of life.**
+**We invite you to dive into the world of Contact Improvisation, Contemporary Dance and Somatics with us. We operate at the intersection of dance, art, sports, learning and research and bring 25 years of experience to our work. Especially now it is particularly important to us to create open and safe spaces for encounters and enjoyment of life.**
 
 #### &nbsp;
 
 <div class="imglink"><a target="_blank" href="https://www.youtube.com/embed/kp3DqzN1Ldo"><img src="/assets/uploads/video_vorschau_rollingpoint.png" alt="" /><div>rollingpoint film</div></a></div>
 
-<div class="imglink"><a target="_blank" href="https://www.youtube.com/embed/6A5otnVZAg4"><img src="/assets/uploads/video_vorschau_maria.png" alt="" /><div>Holistic body training with maRia Probst</div></a></div>
+**Non-German speakers very welcome. We teach bilingual German and English.**
 
 ### Overview Coures/Workshops/Jams/Performances
 
-### Summer-Workshops:
+### **WINTERINTENSIVE “Share your Dances. Be in Touch”:**
 
-**Contact Improvisation beginner: sun 21.8.2022**, 14.00-18.00h with Christian Apschner\
-\
-**Contemporary Dance/Somatics: sun 4.9.2022**, 15.00-18.00h with maRia Probst
+[**week 1: 12.-15.2.2024 RELEASZE Training / Organic Contact**\
+**week 2: 19..-22.2.2024 Contact Moves and Physical Skills**](https://rollingpoint.at/winterintensive)
+
+**mon, thu (12.2., 15.2., 19.2., 22.2):  Gilgegasse 12, 9. Bez.**\
+**tue, wed (13.2., 14.2., 20.2, 21.2.): Einsiedlergasse 7, 5. Bez.**\
+**18.15 - 20.30**
+
+registration form**:** <https://forms.gle/D5bwoQwoeueLpRCw7>
 
 ### Evening courses / study groups
 
-**Start wintersemester 2022/23: 19.-22.9.2022**
+**Start summer semester 2024: 26.-29.2.2024**
 
-**[1 mo Contemporary Dance and Somatics](/en/kurse#mo)** - **open level**\
-**with maRia Probst**  \
-**start mo 19.9.2022, 18.30 - 20.30**\
+**[1 mo RELEASZ Contemporary Dance and Somatics](/en/kurse#mo)** - **open level**\
+**maRia Probst**  \
+**start mo 26.2.2024, 18.30 - 20.30**\
 **Turnsaal VS Gilgegasse 12, 1090 Wien**
 
-**[2 tue Contact Improvisation and -Technique ](/en/kurse#di)- beginner**\
-**with Christian Apschner**\
-**start tue 20.9.2022, 18.15 - 20.30**\
+**[2 tue Contact Improvisation Jam](/en/kurse#di)**\
+**maRia Probst, Christian Apschner and guest teachers**\
+**start tue 27.2.2024, 18.00 - 20.30**\
 **Turnsaal VS Einsiedlergasse 7, 1050 Wien**
 
-**[3 wed Contact Improvisation (Contact Dojo)](/en/kurse#mi) intermediate/advanced**\
-**mit Christian Apschner and guest teachers**\
-**start wed 21.9.2022, 17.30 - 19.00 (training), 19.10-20.40 (jam)**\
+**[3 wed Wild and Soft - Contact Improvisation](/en/kurse#mi) advanced**\
+**Christian Apschner**\
+**start wed  28.2.2024, 18.00 - 20.40**\
+**Turnsaal VS Einsiedlergasse 7, 1050 Wien**
+
+**[4 thu Contact Improvisation and -Technique Basics](/en/kurse#do)** - **beginner**\
+**Christian Apschner**\
+**start thu 29.2.2024, 18.15 – 20.30**\
 **Turnsaal VS Gilgegasse 12, 1090 Wien**
-
-**[4 thu Holistic training for CI + „Bounce and Shake"](/en/kurse#do)** - **open level**\
-**with Ria Probst and Christian Apschner (alternating)**\
-**start thu 22.9.2022, 18.30 – 20.30**\
-**Turnsaal VS Einsiedlergasse 7, 1050 Wien**
 
 ### Weekend-Workshops:
 
-**15./16.10.2022**
+**20.+21.1.2024 Contact Flying Skills with Christian Apschner and Lui Springer**
 
-**5./6.11.2022**
+### **rollingpoint-Jam**
 
-**21./22.1.2023 Contact Flying Skills**
-
-### **rollingpoint-Jam: every sunday**
-
-***All rollingpoint offers are held in accordance with the current CoVid regulations for Vienna.***
+**[tuesdays 18.00 - 20.40 when schoolday](https://rollingpoint.at/en/jams)**, no Jams feb 6, 13 and 20
 
 &nbsp;

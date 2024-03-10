@@ -1,29 +1,22 @@
 ---
 permalink: /en/jams
-title: ROLLINGPOINT-JAMS
+title: ROLLINGPOINT-JAM
 language: en
 ---
-The rollingpoint jams are a place for focused contact improvisation dancing where **CI is practiced as a contemporary dance and art form.** We want to offer a space in which everyone feels safe. Participants are asked to have some CI course experience in the sense of basic knowledge.
+**What happens in a Contact Jam?** <https://www.youtube.com/watch?v=u9AhpFxfEfs>
 
-The regular rollingpoint Contact Improvisations Jam takes place every Sunday evening from 7pm to 10pm in the Prana Yoga studio 1 (more infos: see below).
+The rollingpoint jams are a place for focused Contact Improvisation dancing where CI is practiced as contemporary dance and art form. We want to take care to offer a space in which everyone feels safe. Participants are asked to have CI course experience in the sense of basic knowledge.
 
-Furthermore, there are open jams on thursday evenings on school days in connection with a previous CI training (CI-DOJO) in the gym of VS Gilgegasse.\
-**[CI-DOJO (Training+Jam)](dojo)**
+### **No Jam on 6.2., 13.2. and 20.2.2024 / Next Jam 27.2.2024**
 
-***All rollingpoint offers are held in accordance with the current CoVid regulations for Vienna.***
+The regular rollingpoint Contact Improvisation Jam takes place\
+**every Tuesday when schoolday 18.00 - 20.30, opening circle 18.30**\
+in the nice gym of the school **VS Einsiedlergasse 7, 1050 Wien.**
 
-## rollingpoint-Jam on sunday
+**Costs donation based:  € 7 - 12€**\
+Please pay on our bank account IBAN: AT54 3200 0000 1701 2717, BIC: RLNWATWW, Verein rollingpoint
 
-**every  sunday 19.00 - 22.00**\
-Prana Yoga-Studio Nr. 1, 2nd inner courtyard, 1st floor, Mariahilferstr. 82, 1070 Wien\
-No registration needed.
-
-**Arrival time 19.00 bis 19.30**; Before 19.00 and after 19.30 no entry is possible.\
-Sometimes with guided warm-ups, selected music and soundscapes in the second half of the jams.
-
-**Costs donation based: approx. 10€ (min 6€),** should be paid on our bank account IBAN: AT54 3200 0000 1701 2717, BIC: RLNWATWW, Verein rollingpoint
-
-**Notes about safety in the CI jam:**
+### **Notes about safety in the CI jam:**
 
 At a CI jam, we share the basic agreement that all participants mind their own safety AND the safety of their dance partners. “Take care not to hurt anyone. Take care not to get hurt.” Knowing your own physical and emotional limits and learning to read those of your dance partners is part of the learning process in CI. Knowing our limits offers safety and opens up the freedom to move and experiment in close proximity to these limits.
 

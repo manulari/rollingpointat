@@ -4,25 +4,193 @@ title: Wochenend-Workshops
 ---
 # Wochenend-Workshops
 
-Fotocredits: He Shao Hui
+Fotocredits: He Shao Hui\
+\
+**[18.+19.11.2023 "Dancing From The Source" Zeitgenössischer Tanz, Körperausdruck und somatisches Lernen mit maRia Probst](#source)**\
+\
+**[20.+21.1.2024 Contact Flying Skills (advanced) mit Christian Apschner und Lui Springer](#flying)**
 
-> ### *Unsere neuen Workshoptermine stehen fest. Weitere Details folgen.*
->
-> ### Sommer-Workshops an zwei Sonntag-Nachmittagen
->
-> **Contact Improvisation** beginner So 21.8.2022, 14.00-18.00h mit Christian Apschner\
-> \
-> **Zeitgenössischer Tanz/Somatics** So 4.9.2022, 15.00-18.00h mit maRia Probst
->
-> ### Wochenend-Workshops:
->
-> **15./16.10.2022: "Liquid Motion" mit maRia Probst**
->
-> **5./6.11.2022: "From Bodywork into Contact" mit Christian Apschner und maRia Probst**
->
-> **21./22.1.2023: "Contact Flying Skills" mit Christian Apschner und support**
->
-> <div class="named-anchor" id="intro"></div>
+<div class="imglink"><a target="_blank" href="https://www.youtube.com/watch?v=6tbJKhYSShk"><img src="/assets/uploads/bildschirmfoto-2023-12-03-um-21.32.38.png" alt="" /><div>Video Contact Flying Skills</div></a></div>
+
+## Workshoptermine:
+
+[Kosten, Ort und Anmeldung](#orga)
+
+<div class="named-anchor" id="source"></div>
+
+#### **"Dancing From The Source" - open level**
+
+**18.+19.11.2023 10.00-17.00  (ca 1,5h Mittagspause)**\
+\
+ **Zeitgenössischer Tanz, Körperausdruck und somatisches Lernen**\
+ **mit maRia Probst**
+
+An diesem Workshop sprechen wir mit Elementen aus dem zeitgenössischen Tanz, Qi Gong, Yoga und Contact Improvisation unseren KörperGeist als Einheit an.
+
+Im Mittelpunkt steht Somatisches Lernen. Inspiriert von BodyMindCentering* berühren wir einander, visualisieren unser Körperinneres und lernen über unsere Anatomie. So verstehen wir unsere Zellen und unsere Körpersysteme besser.
+
+**Unsere Zellen als Bewegungs-, Ausdrucks- und Kraftquelle** sind die Hauptressource an diesen dem Tanz gewidmeten zwei Tagen. Wir visualisieren sie als Grundeinheit des Lebens und spüren unsere innere Ruhe und Lebendigkeit. Von da aus machen wir uns auf den Weg in die spezifischen Bewegungswelten unserer Körpersysteme, verbinden uns mit der Qualität unserer Organe und werden mithilfe des Flüssigen in uns durchlässig. Ebenso lenken wir unsere Aufmerksamkeit auf das Skelettsystem, um Struktur und Klarheit in unserer Bewegung zu entwickeln. Die Haut als großes Wahrnehmungsorgan antwortet auf unseren Stimulierungsreichtum mit unzähligen Bewegungsimpulsen, denen wir folgen wollen. Manche davon sind uns vertraut, andere ungewohnt.
+
+Sich auf Neuland einzulassen ermöglicht, sich selbst anders zu erfahren und den Partner*innen mit einer breiteren Ausdruckspalette zu begegnen. So entsteht eine fruchtbare tänzerische Improvisation.
+
+Somatic Movement Praktiken können für viele verschiedene Anliegen fruchtbar sein. An diesem Wochenende stehen sowohl die Erweiterung des eigenen Bewegungsspektrums im Tanz, als auch Ausdrucksvielfalt für alle Lebenslagen, körpergerechtes Bewegen und Tanzimprovisation als poetische Praxis im Vordergrund.
+
+\* Body-Mind Centering ist eine „Somatic Movement“ Disziplin und ein integrativer und leibhafter Zugang zu Bewegung, Körper und Bewusstsein.
+
+Teilnahmevoraussetzung: Du bewegst dich gerne, bist offen für Körperkontakt und bist dir selbst und anderen gegenüber verantwortungsbewusst, achtsam und aufmerksam.
+
+[Kosten, Ort und Anmeldung](#orga)
+
+<div class="named-anchor" id="flying"></div>
+
+#### **"Contact Flying Skills"** - advanced
+
+**Sa/So 20./ 21.01.2024, 10.00-17.00  (ca 1,5h Mittagspause)**\
+**mit Christian Apschner und Lui Springer**
+
+Der rollingpoint Workshop-Klassiker für alle CI-TänzerInnen mit sportlichen Ambitionen!
+
+Dieser technikorientierte Workshop lädt dich ein, dein Bewegungsspektrum zu erweitern und dich aufs Fliegen, Fallen und auf akrobatische Elemente einzulassen. Ein Schwerpunkt des Wochenendes wird sein, verschiedene Lifts und Jumps in allen Raumebenen zu üben und kopfüber auf den Händen zu tanzen.
+
+Wir stellen eine Verbindung von Athletischem und Meditativem her und lernen durch eine anatomisch gute Körperausrichtung sowie durch Modulation der Körperspannung und Nutzung der Schwungenergie Gewicht schonend aufzunehmen und abzugeben. Im Laufe des Lernprozesses wird es immer leichter sich dem Bewegungsfluss hinzugeben und gleichzeitig den Tanz so präsent wahrzunehmen, dass wir ihn spielerisch lenken können.
+
+Für die Teilnahme an diesem Workshop sind CI-Grund- und Tanzerfahrung sowie gute körperliche und mentale Fitness erforderlich.
+
+Lui Springer: <https://www.freibewegt.at/über/>
+
+<div class="named-anchor" id="orga"></div>
+
+## Organisatorisches  zu den Wochenend-Workshops:
+
+**ORT:** Prana Yoga-Studio Nr.1, Mariahilferstr. 82, 1070 Wien
+
+**ANMELDUNG:**\
+bitte per email ci.rollingpoint@gmail.com, Tel. maRia 0650 9510814, Christian 0650 8931081\
+bwz. folgendes Anmeldeformular verwenden:
+
+<https://docs.google.com/forms/d/1jZMz5Vbw9GPKJOt8n8ezVATS5FUkqGH577JzEoFm6fE/edit>
+
+**KOSTEN JE WORKSHOP:**\
+\
+**Frühbucherpreis € 200/170/130,-** (Supporter/Normalpreis/ermäßigt) bei Einzahlung bis 14 Tage vor Workshopbeginn\
+**€ 220/190/150,-** (Supporter/Normalpreis/ermäßigt) bei Einzahlung ab 13 Tagen vor Workshopbeginn
+
+**BEZAHLUNG:**\
+Bitte die Kostenbeiträge immer vorab auf unser Konto\
+IBAN:AT54 3200 0000 1701 2717, BIC: RLNWATWW, Verein rollingpoint, einzahlen.
+
+**Stornobedingungen:** Bei Abmeldung bis sieben Tage vor dem Workshop wird der gesamte Betrag abzgl. einer Bearbeitungsgebühr von € 10,- zurückbezahlt. 50% Storno bis zwei Tage vor dem Workshop. Am Vortag und Tag des Workshops kein Storno mehr möglich. Es kann aber eine Ersatzperson nominiert werden.
+
+## RÜCKBLICK:
+
+#### "Embodied Creativity" - open level
+
+**Contact Improvisation - Somatics - Real Time Composition - Consent Building**\
+**mit Christian Apschner**
+
+Dieser Workshop lädt Beginner\*innen und erfahrene Tänzer\*innen zum Mitmachen ein. Wir nutzen Trager Körperarbeit um Sensitivität, Leichtigkeit und Präsenz in unserem Bewegen zu finden. Durch das Erforschen frühkindlicher Bewegungsmuster (Developmental Movements Patterns) aus Body Mind Centering (BMC) lernst du deine tänzerischen Bewegungen organisch und funktionell zu gestalten. Ziel des somatischen Einstiegs ist es, uns gut mit unserem Körper zu verbinden und einen offenen, mitfühlenden und visionären Geist für die Contact Improvisation Tänze zu schaffen.
+
+Der Contact Improvisation Schwerpunkt dieses Workshops liegt in der Entfaltung des kreativen Potenzials der Contact Improvisation als Individium und als gemeinsame Gruppe. Mittels Visualisierungstechniken und Elementen aus Lisa Nelson Tuning Scores\*) fordern wir unsere Kreativität heraus und finden einen assoziativen „Mind Flow“, den wir in unsere Körperlichkeit übertragen. Consent Building Übungen helfen dir dabei auf deine eigenen Grenzen und Bedürfnisse und die deiner Tanzpartner\*innen zu achten.
+
+Mit diesen Grundlagen ausgestattet kreieren wir immer wieder neue Kompositionen unterschiedlicher Klangfarbe und lassen Körperlandschaften, Geschichten und Filme entstehen. Während wir unsere Tanzphasen als „Silent Space“ verstehen, möchten wir in verbalen Feedback-Runden unsere Erfahrungen sprachlich austauschen.
+
+**Keeping things whole:**
+
+In a field I am the absence of field.\
+This is always the case.\
+Wherever I am I am what is missing.\
+When I walk I part the air\
+and always the air moves in\
+to fill the spaces where my body’s been.
+
+**We all have reasons for moving.**\
+**I move to keep things whole.**
+
+(Mark Strand, "Keeping Things Whole" from \
+*Selected Poems)*
+
+\*)Tuning Scores, developed by dance-maker Lisa Nelson, is an improvisational composition practice that is a performance in itself. It offers tools and a framework for communication and a model of collaboration that is constructed by the players in the act of doing. The research focuses on the action of the senses – the physical base of the imagination. How does composition arise in the body and its environment? Focusing on vision, touch, and hearing, the scores provoke spontaneous compositions that make evident our opinions about who/where we are, how each of us senses and makes sense of movement. 
+
+Teilnahmeempfehlung: Du bewegst dich gerne, bist offen für Körperkontakt und bist dir selbst und anderen gegenüber verantwortungsbewusst, achtsam und aufmerksam. Wir begreifen Bewegung als ein Zusammenspiel von Körper und Geist. Der gesamte Mensch tanzt.
+
+#### **TUNE IN! Contact Improvisation/Somatics/Release Technique**
+
+**Wochenend-Workshop  2.+3.9.2023, 10.00-17.00, beginner/open level**\
+**mit Christian Apschner und maRia Probst**
+
+In diesem Wochenend-Workshop möchten wir dich auf eine Entdeckungsreise in die drei Herzstücke rollingpoints einladen. Du lernst Basics der Contact Improvisation kennen und wie es leicht geht, Gewicht abzugeben und zu übernehmen oder mit dem rollenden Kontaktpunkt zu spielen. Du gewinnst einen Einblick in die Technik einfacher lifts und jumps und damit in die sportlich-dynamisch Seite der Contact Improvisation.
+
+Mittels Somatics, einer Form des körperlichen Lernens, kannst du deine innewohnende körperliche Unmittelbarkeit des frühen Seins als Kind in Bewegung wiederentdecken und das Zusammenspiel von Muskeln, Sehnen, Knochen und Organen besser verstehen lernen. Du wirst in einer speziellen Form des Zeitgenössischen Tanzes der "Anatomical Release Technique" erfahren, wie es sich anfühlt unnötige Spannung loszulassen und direkt in Bewegung freizusetzen. Diese Bewegungserfahrungen werden dir helfen im freien Tanzen und in der Contact Improvisation Leichtigkeit, Effizienz und Bewegungsvielfalt zu finden.
+
+Contact Improvisation verstehen wir auch als eine Form von nonverbaler Kommunikation und Begegnung, in der wir lernen auf unsere eigenen körperlich-mentalen Bedürfnisse und Grenzen und die unserer TanzpartnerInnen gleichermaßen zu achten. In verbalen Feedback-Runden möchten wir diesen Erfahrungen Raum geben.
+
+Zielgruppe: Alle die einen ersten tieferen Einblick in die Welt Contact Improvisation, des RELEASZE Tanztrainings und des Somatischen Lernens von rollingpoint machen möchten. Auch als **Contact Improvisation Starter-Kit und Orientierungsworkshop** gedacht. Erfahrene Tänzer\*innen sind wie immer ebenfalls gerne willkommen. Hier bietet sich die Möglichkeit den Beginner\*innengeist neu aufzufrischen und bereits Erlerntes neu zu reflektieren und zu verfeinern.
+
+Teilnahmeempfehlung: Du bewegst dich gerne, bist offen für Körperkontakt und bist dir selbst und anderen gegenüber verantwortungsbewusst, achtsam und aufmerksam. Wir begreifen Bewegung als ein Zusammenspiel von Körper und Geist. Der gesamte Mensch tanzt.
+
+#### „Liquid Motion“ -open level
+
+**Zeitgenössischer Tanz und Somatic Movement** **mit maRia Probst
+Sa/So 10.+11.12.2022 10.00-17.00h**\
+Prana-Yoga Studio 1, Mariahilferstraße 82, 1070 Wien
+
+An diesem Wochenende sprechen wir unser inneres Körper-Meer als\
+Ressource für Bewegungsfluss, Kraft und Wandelbarkeit an. Wir bestehen zu einem großen Teil aus Wasser. Verbinden wir uns mit unserem inneren Meer, fällt es uns leicht in einen Bewegungsfluss zu kommen. Lassen wir uns tiefer auf die verschiedenen Varianten der Körperflüssigkeiten in unserem Körper ein, entdecken wir eine Vielfalt an Bewegungsqualitäten.
+
+Unsere Körper-Flüssigkeiten sind ein feines Mitteilungs-System und somit Träger einer breiten Ausdruckspalette. Wir können beispielsweise unser Blut spüren, wie es mithilfe von Herzkraft an die Körperränder strömt und uns davon bewegen lassen. Visualisieren wir unsere Lymphflüssigkeit, die uns gegen Unzuträgliches verteidigt während sie von der Peripherie Richtung Körpermitte fließt, stärken wir unser Zentrum. Mit der Zwischenzellflüssigkeit zu tanzen, die frei im Körper mäandern kann, eröffnet uns Bewegungsoptionen nach allen Richtungen. 
+
+Zu jedem Zeitpunkt verwandelt sich eine Flüssigkeit in die andere. Verbinden wir uns mit diesem Prozess, gelingt die Transformation von einer zur nächsten Bewegungsqualität ganz leicht.
+
+Dieser Workshop ist ein Tauchgang in die flüssigen Welten unseres inneren Meeres. Wir werden uns manchmal wie im Wasser fühlen, das Körpergefäß als Ufer erspüren und möglicherweise auch Ungewohntem begegnen.
+
+Wir sprechen mit Elementen aus dem zeitgenössischen Tanz, Qi Gong , Yoga und Contact Improvisation unseren KörperGeist als Einheit an.
+
+Im Mittelpunkt steht Somatic Movement. Inspiriert von Body-Mind Centering®\*\* berühren wir einander und visualisieren unser Körperinneres. Klang und punktuelle anatomische Information sind weitere Mittel die uns dieses besondere Körpersystem als Ressource näher bringen.
+
+Somatic Movement Praxen können für viele verschiedene Anliegen fruchtbar sein. An diesem Wochenende steht die Erweiterung des eigene Bewegungsspektrums im Tanz, Leichtigkeit, integrierte Kraft und Wandelbarkeit in der Bewegung im Vordergrund. Achtung, mögliche positive Nebenwirkungen sind: Leichtigkeit, Flow Erlebnisse und eine verbesserte Aufrichtung im Alltag.
+
+**Teilnahmeempfehlung:** Bewegungs-, begegnungs- und berührungsfreudige Menschen, die sich selbst und anderen gegenüber verantwortlich sind.
+
+\*\* Body-Mind Centering® ist eine Somatic Movement Disziplin und ein integrativer und leibhafter Zugang zu Bewegung, Körper und Bewusstsein. 
+
+<div class="named-anchor" id="flying"></div>
+
+#### **"Contact Flying Skills"** - advanced
+
+**Sa/So 14./ 15.01.2023, 10.00-17.00  (ca 1,5h Mittagspause)**\
+**mit Christian Apschner und Lui Springer**
+
+Prana-Yoga Studio 1, Mariahilferstraße 82, 1070 Wien
+
+Der rollingpoint Workshop-Klassiker für alle CI-TänzerInnen mit sportlichen Ambitionen!
+
+Dieser technikorientierte Workshop lädt dich ein, dein Bewegungsspektrum zu erweitern und dich aufs Fliegen, Fallen und auf akrobatische Elemente einzulassen. Ein Schwerpunkt des Wochenendes wird sein, verschiedene Lifts und Jumps in allen Raumebenen zu üben und kopfüber auf den Händen zu tanzen.
+
+Wir stellen eine Verbindung von Athletischem und Meditativem her und lernen durch eine anatomisch gute Körperausrichtung sowie durch Modulation der Körperspannung und Nutzung der Schwungenergie Gewicht schonend aufzunehmen und abzugeben. Im Laufe des Lernprozesses wird es immer leichter sich dem Bewegungsfluss hinzugeben und gleichzeitig den Tanz so präsent wahrzunehmen, dass wir ihn spielerisch lenken können.
+
+Für die Teilnahme an diesem Workshop sind CI-Grund- und Tanzerfahrung sowie gute körperliche und mentale Fitness erforderlich.
+
+Lui Springer: <https://www.freibewegt.at/über/>
+
+#### "From Bodywork into Contact Improvisation" open level
+
+**mit maRia Probst und Christian Apschner 
+Sa/So 5./ 6.11.2022, 10.00-17.00**, Prana-Yoga Studio 1, Mariahilferstraße 82, 1070 Wien
+
+Bewegung und Berührung sind die Grundlage aller menschlichen Entwicklungsprozesse. In unserem Workshop verwenden wir hands-on bodywork-Techniken zur Regulation des autonomen Nervensystems, für einen freien Bewegungsfluss und um neue wohltuende Bewegungsmöglichkeiten zu eröffnen. Oft reicht es aus in einer angemessenen Haltung unserer Intuition freien Lauf zu lassen. Darüber hinaus werden wir spezifisches Know How aus unseren Berührungs-Fachgebieten Tuina, Trager Psychophysische Integration, Somatische Faszientherapie und Orthobionomie anbieten.
+
+Mit unseren durch anatomisch-imaginative Vorstellungsbilder unterstützten Anleitungen wird es möglich, kleinste Veränderungen von Muskelanspannungen und andere kinästhetische Empfindungen wahrzunehmen. Zentrale Verbindungen unseres Bewegungssystems wie die Enden unserer Wirbelkette, Schultern-Hüftgelenke oder die Hand- und Fußfesseln werden gezielt angesprochen.
+
+Unser Fokus liegt an diesem Wochenende darin, diesen "Berührungsschatz" im Sinne von Bewegungsvielfalt, Bewegungsqualität und angemessenen Einsatz von Energie und Kraft zu heben, um ihn in unsere tänzerischen Beziehungen sowohl in der Contact Improvisation wie auch in der freien Improvisation einfließen zu lassen.  In der Contact Improvisation begegnen wir unseren TanzpartnerInnen in Form eines nonverbalen Dialogs und in diversen Übungssettings lernen wir, Bewegung im Kontakt körpergerecht und im Zusammenspiel mit den physikalischen Gesetzmäßigkeiten zu gestalten.
+
+### Sommer-Workshops:
+
+**Contact Improvisation Intro** BeginnerInnen\
+**So 21.8.2022**, 14.00-18.00h mit Christian Apschner\
+\
+["**Energize Through Motion"** - open level](/workshops#energize)\
+**Zeitgenössischer Tanz, CI light und Somatics**\
+**So 4.9.2022**, 15.00-18.00h mit maRia Probst
 
 #### **Contact Improvisation Intro-Workshop für BeginnerInnen:**
 
@@ -32,36 +200,19 @@ Prana-Yoga Studio 1, Mariahilferstraße 82, 1070 Wien\
 \
 Du tanzt und bewegst dich gerne und möchtest Contact Improvisation im Rahmen eines Schnupper-Workshops kennenzulernen. Wie fühlt es sich an am Boden zu rollen, dich fallen und auffangen zu lassen oder im Körperkontakt gegenseitig Gewicht abzugeben und zu übernehmen? Wieviel Technik steckt dahinter, wie kommen wir in einen flow-Zustand und wie geht es uns emotional damit? Dieser Workshop bietet die Möglichkeit, dir ein erstes Bild zu machen um vielleicht weiter in die faszinierende Welt des Contact Improvisation-Tanzens einzutauchen. 
 
+#### **"Energize through Motion" / Intro-Workshop open level**
 
-
-#### **"Energize through Motion" / Intro-Workshop open level:**
-
-**Zeitgenössischer Tanz, CI light and Somatics
+**Zeitgenössischer Tanz, CI light und Somatics
 mit maRia Probst
 So 4.9.2022, 15.00-18.00h**
 Prana-Yoga Studio 1, Mariahilferstraße 82, 1070 Wien
 
-Über ziehen, drücken, gleiten, rollen, rutschen... sind wir in unseren ersten Lebensjahren unmittelbar und mühelos in Kontakt mit der Welt. An diesem Nachmittag wollen wir diese uns innewohnenden Möglichkeiten wieder ansprechen. Wir lassen unnötige Körperspannung los und setzen dadurch Energie frei. Geschmeidig wie Katzen mobilisieren wir unsere Wirbelkette und erleben diese zentrale Körperstruktur als verlässliche Partnerin in und aus dem Boden, in Kontakt mit unseren Tanzkolleg*innen und im Dialog mit dem Raum. Dieser Kurzworkshop kann als Vorbereitung für die darauffolgende rollingpoint- jam genützt werden (Details dazu siehe:.). Menschen die sich einen Nachmittag der Leichtigkeit in Bewegung und im physischen Kontakt widmen wollen sind ebenso willkommen, wie auch jene die einen Einblick in den Semesterkurs „Energize Through Motion“ gewinnen wollen.
+Über ziehen, drücken, gleiten, rollen, rutschen... sind wir in unseren ersten Lebensjahren unmittelbar und mühelos in Kontakt mit der Welt. An diesem Nachmittag wollen wir diese uns innewohnenden Möglichkeiten wieder ansprechen. Wir lassen unnötige Körperspannung los und setzen dadurch Energie frei. Geschmeidig wie Katzen mobilisieren wir unsere Wirbelkette und erleben diese zentrale Körperstruktur als verlässliche Partnerin in und aus dem Boden, in Kontakt mit unseren Tanzkolleg*innen und im Dialog mit dem Raum. Menschen die sich einen Nachmittag der Leichtigkeit in Bewegung und im physischen Kontakt widmen wollen sind ebenso willkommen, wie auch jene die einen Einblick in den Semesterkurs „Energize Through Motion“ gewinnen wollen.
 
-\
 **Kosten:** Normalpreis 48€, ermäßigt 32€\
 Einzahlung auf Konto\
 IBAN:AT54 3200 0000 1701 2717, BIC: RLNWATWW, Verein rollingpoint\
-Anmeldung bzw. weitere Infos: ci.rollingpoint@gmail.com,  ab 2.9 unter maRia 0650 9510814
-
-#### **Achtung: Die untenstehenden Texte zu den Workshops im Sommer und Herbst 2022 befinden sich noch in Bearbeitung!**
-
-## Workshoptermine (Rückblick):
-
-[**19./20.3.2022: Deep Listening**\
-**mit Christian Apschner und Karola Reifetshamer**](deeplistening)](#deeplistening)
-
-[**21./22.5.2022: "Contact Flying Skills"**\
-**mit Christian Apschner und** **Lui Springer (support)**](#flying)
-
-### Workshopbeschreibungen:
-
-<div class="named-anchor" id="deeplistening"></div>
+Anmeldung bzw. weitere Infos: ci.rollingpoint@gmail.com,  ab 2.9 unter 0650 9510814 (maRia)
 
 #### **"Deep Listening - Contact Improvisation and Beyond"** - open level
 
@@ -89,44 +240,6 @@ Anleitungen aus dem **Focusing**, einem in der Psychotherapie verwendeten Verfa
 2)Die Philosophin April Flakne stellte dazu den Begriff “alloception” (“an enactive bodily receiptivity”) in den Raum, jenem Teil der Wahrnehmung, der sich auf das Lesen und Erkennen der Bedürfnisse aber auch der Gedanken der Tanzpartnerinnen bezieht, welcher mit dem Begriff Empathie nicht hinreichend beschrieben werden kann und auch weit über die kinästhetischen Fragestellungen des Tanzes hinausgeht.
 
 Karola Reifetshamer: <https://www.tiefbewegt.at/ueber-mich/>
-
-&nbsp;
-
-<div class="named-anchor" id="flying"></div>
-
-#### **"Contact Flying Skills"** - advanced
-
-**Sa/So 21./22.5.2022, 10.00-17.00  (ca 1,5h Mittagspause)**\
-**mit Christian Apschner und Lui Springer (support)**
-
-Der rollingpoint Workshop-Klassiker für alle CI-TänzerInnen mit sportlichen Ambitionen!
-
-Dieser technikorientierte Workshop lädt bewegungsfreudige CI-TänzerInnen ein, ihr Bewegungsspektrum zu erweitern und sich aufs Fliegen, Fallen und auf akrobatische Elemente einzulassen. Ein Schwerpunkt des Wochenendes wird sein, verschiedene Lifts und Jumps in allen Raumebenen zu üben und kopfüber auf den Händen zu tanzen.
-
-Wir stellen eine Verbindung von Athletischem und Meditativem her und lernen durch eine anatomisch gute Körperausrichtung sowie durch Modulation der Körperspannung und Nutzung der Schwungenergie Gewicht körperschonend aufzunehmen und abzugeben. Im Laufe des Lernprozesses eröffnet sich die Fähigkeit sich dem gemeinsamen Bewegungsfluss hinzugeben und gleichzeitig den gemeinsamen Tanz so präsent wahrzunehmen, dass dieser Fluss spielerisch gelenkt werden kann.
-
-Für diesen Workshop sind CI-Grund- und Tanzerfahrung sowie gute körperliche und mentale Fitness empfehlenswert.
-
-## Organisatorisches:
-
-**Ort:** Alle Workshops finden im Prana Yoga-Studio Nr.1, Mariahilferstr. 82, 1070 Wien statt.
-
-**Anmeldung:** per email ci.rollingpoint@gmail.com\
-Tel. Christian 0650 8931081, maRia 0650 9510814
-
-**Kosten:**\
-**Frühbucherpreis € 190/150/110,-** (Supporter/Normalpreis/ermäßigt) bei Einzahlung bis 14 Tage vor Workshopbeginn\
-**€ 210/170/130,-** (Supporter/Normalpreis/ermäßigt) bei Einzahlung ab 13 Tagen vor Workshopbeginn
-
-**Bezahlung:** Bitte die Kostenbeiträge immer vorab auf unser Konto\
-IBAN:AT54 3200 0000 1701 2717, BIC: RLNWATWW, Verein rollingpoint, einzahlen. 
-
-**Stornobedingungen:** Bei Abmeldung bis sieben Tage vor dem Workshop wird der gesamte Betrag abzgl. einer Bearbeitungsgebühr von € 10,- zurückbezahlt. 50% Storno bis zwei Tage vor dem Workshop. Am Vortag und Tag des Workshops kein Storno mehr möglich. Es kann aber eine Ersatzperson nominiert werden.\
-Aus Gründen von CoVid ist für beide Seiten jederzeit eine Stornierung möglich.
-
-***Sämtliche rp Angebote werden entsprechend der aktuellen Covid19 Präventionsverordnungen abgehalten.***
-
-&nbsp;
 
 ![](/assets/uploads/lsz_5750.jpg)
 

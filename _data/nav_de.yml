@@ -11,20 +11,25 @@ entries:
       - title: Somatisches Lernen
         path: /somatics
   - title: KURSE UND WORKSHOPS
-    path: /kurse
+    path: /somsem24
     subentries:
-      - title: Semesterkurse
-        path: /kurse
+      - title: Kurse SoSe 2024
+        path: /somsem24
       - title: Wochenend-Workshops
         path: /workshops
       - title: Winter-Intensive
         path: /winterintensive
       - title: Sommer-Intensive
         path: /sommerintensive
-      - title: Contact Dojo
-        path: /dojo
+      - title: Kursanmeldung
+        path: /Kursanmeldung
   - title: JAMS+PERFORMANCES
     path: /jams
+    subentries:
+      - title: rollingpoint-Jam
+        path: /jams
+      - title: Dancing Mycelium
+        path: /mycelium
   - title: KÜNSTLERISCHE FORSCHUNG
     path: /conact1
     subentries:

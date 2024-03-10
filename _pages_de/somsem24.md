@@ -1,26 +1,29 @@
 ---
-permalink: /kurse
-title: KURSE UND WORKSHOPS
+permalink: /somsem24
+title: Semesterkurse Sommersemester 2024
+language: de
 ---
-**Stundenplan Abendangebote Wintersemester 2023/24**
+**Stundenplan Abendangebote Sommersemester 2024**
 
-| Tag    | Zeit                   | Lehrer*in                | Titel                                                                        | Ort/Turnsaal                  |
-| ------ | ---------------------- | ------------------------ | ---------------------------------------------------------------------------- | ----------------------------- |
-| **Mo** | **18.30-20.15**        | **maRia**                | **[ 1 RELEASZ Tanztraining: CI-light/Somatisches Lernen / open level](#mo)** | **Gilgegasse 12, 1090 Wien**  |
-| **Di** | **(17.15)18.30-20.40** | **Christian maRia u.A.** | **[2 Contact Improvisation Jam + Specials](#di)**                            | **Einsiedlerg. 7, 1050 Wien** |
-| **Mi** | **18.00-20.40**        | **Christian**            | **[3 "Wild and Soft" Contact Improvisation / advanced](#mi)**                | **Einsiedlerg. 7, 1050 Wien** |
-| **Do** | **18.15-20.30**        | **Christian**            | **[4 Contact Improvisation and -Technique Basics / beginner ](#do)**         | **Gilgegasse 12, 1090 Wien**  |
+| Tag    | Zeit            | Lehrer*in                | Titel                                                                        | Ort/Turnsaal                  |
+| ------ | --------------- | ------------------------ | ---------------------------------------------------------------------------- | ----------------------------- |
+| **Mo** | **18.30-20.15** | **maRia**                | **[ 1 RELEASZ Tanztraining: CI-light/Somatisches Lernen / open level](#mo)** | **Gilgegasse 12, 1090 Wien**  |
+| **Di** | **18.00-20.30** | **Christian maRia u.A.** | **[2 Contact Improvisation Jam](#di)**                                       | **Einsiedlerg. 7, 1050 Wien** |
+| **Mi** | **18.00-20.40** | **Christian**            | **[3 "Wild and Soft" Contact Improvisation / advanced](#mi)**                | **Einsiedlerg. 7, 1050 Wien** |
+| **Do** | **18.15-20.30** | **Christian**            | **[4 Contact Improvisation and -Technique Basics / beginner](#do)**          | **Gilgegasse 12, 1090 Wien**  |
 
-### Die neuen [Kurse des Sommersemesters 2024](https://rollingpoint.at/somsem24) starten vom 26.- 29.2.2024
+### Die neuen Kurse des Sommersemesters 2024 starten vom 26.- 29.2.2024
+
+Schnuppermöglichkeit zu Kursbeginn!
 
 <div class="named-anchor" id="mo"></div>
 
-#### Wintersemester 2023/24
+#### Sommersemester 2024
 
 #### 1 RELEASZ Tanztraining: Zeitgenössischer Tanz / CI-light / Somatisches Lernen
 
 mit **maRia Probst - *open level***\
-**Mo 18.30 - 20.15; 25.9.2023 – 29.1.2024 (ca. 16x)**\
+**Mo 18.30 - 20.15, 26.2. – 17.6.2024 (ca. 14x)**\
 Turnsaal VS Gilgegasse 12, 1090 Wien
 
 RELEASZ verweist auf die Wurzeln dieser Praxis, der Release Technique. Es steht darüber
@@ -42,36 +45,40 @@ Teilnahmeempfehlung: Tanzfreudige mit Lust an Bewegungsausdruck und -forschung. 
 
 <div class="named-anchor" id="di"></div>
 
-#### 2 Contact Improvisation Jam + Specials
+#### 2 Contact Improvisation Jam
 
-**Jam-hosts: Christian Apschner, maRia Probst** \
-**Specials mit Alina Bertha, Manu Eder, Paulina Cebula, Sabine Müller, Ines Ingerle u.a.**\
-**ab Di 19.9.2023 - 30.1.2024, Specials 17.15 - 18.15, Jam 18.30 – 20.40 (ca.17x)**\
+**Jam-hosts: Christian Apschner, maRia Probst** **u.a.**\
+**Di 18.00 - 20.30, 27.2. – 18.6.2024 (ca. 16x)**\
 Turnsaal VS Einsiedlergasse 7, 1050 Wien
 
-**Jam (18.30 - 20.40) = freies CI-Tanzen ohne Anleitung (kein Kurs am Di)**\
-**Special Hour(17.15 - 18.15): Einstündiges Trainingformat mit Gastlehrer*innen**\
-\
-Die wöchtenliche rollingpoint-Jam findet ab 19.9.2023 im schönen großen Turnsaal der VS Einsiedlergasse statt. Unsere Jams sind Orte für fokussiertes Contact Improvisation-Tanzen. Wir achten einen gemeinsamen Raum zu halten, in dem sich alle sicher fühlen und erwarten von den TeilnehmerInnen CI-Kurserfahrungen im Sinne von Grundkenntnissen (ausgenommen open level Jams). Die Jams dauern jeweils von 18.30-20.40.
+Unsere Jams sind Orte für fokussiertes Contact Improvisation-Tanzen. Wir achten einen gemeinsamen Raum zu halten, in dem sich alle sicher fühlen und erwarten von den TeilnehmerInnen CI-Kurserfahrungen im Sinne von Grundkenntnissen (ausgenommen open level Jams). \
+Das Aufwärmen erfolgt selbständig. Fallweise wird es aber auch angeleitete warm ups geben. Ausgewählte soundscapes im zweiten Teil der Jams.\
+Ankommen zwischen 18.00 und 18.30.\
+Zum Abschluss der Jams bilden wir immer einen Abschlusskreis um uns über das Erlebte auszutauschen.
 
-In der Special-Hour vor den Jams von 17.15-18.15 lädt eine bunte Mischung von Specials rund um die CI mit unterschiedlichem Fokus und Gastlehrer\*innen zum Mitmachen ein. Geplant sind auch Spezialformate wie für Beginner\*innen offene open level Jams und Underscore. [Hier findest du das akutelle Programm.](/jams#special)
+**Offen für alle Tänzer*innen mit CI-Basiskenntnissen/Kurserfahrung.**\
+Keine Anmeldung erforderlich.
 
-[Kosten und Anmeldung](#kosten)
+An folgenden drei Terminen sind auch Beginner*innen zur Teilnahme an der Jams eingeladen:*\
+**19.3.2024**\
+**23.4.2024**\
+**28.5.2024**\
+Für alle Beginner*innen gibt es dazu eine einstündige Einführung in die Welt der Contact Improvisations-Jams im Zeitraum 17.30 - 18.30.
 
 <div class="named-anchor" id="mi"></div>
 
-#### **3 "Wild and Soft" Contact Improvisation advanced**
+#### **3 "Wild and Soft" Contact Improvisation - advanced**
 
-mit **Christian Apschner *\- advanced***\
-**Mi 18.00 - 20.40, 27.9.2023 – 31.1.2024 (ca.15x)**\
+mit **Christian Apschner**\
+**Mi 18.00 - 20.40, 28.2. – 19.6.2024 (ca. 15x)**\
 Turnsaal VS Einsiedlergasse 7, 1050 Wien
 
 Fortlaufende Trainingsgruppe\
-Für Tänzer*innen mit entsprechenden Vorerfahrungen ist die Teilnahme auch an einzelnen Terminen und 5er-Blocks möglich.\
+Für Tänzer*innen mit guten Vorerfahrungen ist die Teilnahme auch an einzelnen Terminen und 5er-Blocks möglich.\
 \
 Lets get physical! Du bringst gute Basiskenntnisse der Contact Improvisation oder artverwandter Bewegungsformen mit und möchtest dein Bewegungsspektrum erweitern und verfeinern sowie gezielt Kraft, Koordination, Beweglichkeit und Körperreflexe trainieren? Dann werde Teil unserer motivierten Trainingsgruppe! Ein Schwerpunkt des Kurses wird sein, die Technik verschiedenster Lifts und Jumps in allen Raumebenen zu üben und kopfüber auf den Händen zu tanzen. Ziel ist es uns immer leichter dem gemeinsamen Bewegungsfluss hinzugeben und gleichzeitig den Tanz so präsent wahrzunehmen, dass wir ihn spielerisch lenken können. 
 
-Wir beenden die Tanzeinheiten immer mit Partner*innen Körperarbeits-Settings mit Elementen aus Trager-Körperarbeit, Nuad und sowie Body Mind Centering.  Anatomische Bilder unterstützen dabei deine Vorstellungskraft und du kannst dir im Zeitverlauf praktische Grundkenntnisse in miteinander kompatiblen Körperarbeitsmethoden aneignen/vertiefen.
+Wir beenden die Tanzeinheiten immer mit Körperarbeits-Settings mit Elementen aus Trager-Körperarbeit, Nuad und sowie Body Mind Centering.  Anatomische Bilder unterstützen dabei deine Vorstellungskraft und du kannst dir im Zeitverlauf praktische Grundkenntnisse in miteinander kompatiblen Körperarbeitsmethoden aneignen/vertiefen.
 
 [Kosten und Anmeldung](#kosten)
 
@@ -80,10 +87,12 @@ Wir beenden die Tanzeinheiten immer mit Partner*innen Körperarbeits-Settings mi
 #### 4  Contact Improvisation and -Technique Basics
 
 mit **Christian Apschner - beginner**\
-**Do 18.15 – 20.30, 28.9.2023.- 1.2.2024 (ca.15x)**\
+**Do 18.15 – 20.30, 29.2.- 20.6.2024 (ca. 14x)**\
 Turnsaal VS Gilgegasse 12, 1090 Wien
 
-Dieser Kurs ist als Grundkurs der Contact Improvisation (CI) gedacht. Du bist im sicheren Rahmen der kontinuierlichen Trainingsgruppe eingeladen immer tiefer in die Welt der CI einzutauchen. Mit ausreichend Zeit und Kontinuität lernst du Basics der CI kennen und erweiterst dein Bewegungsvokabular und sensorische Fähigkeiten Schritt für Schritt. So lernen wir z.B. wie es leicht und körperschonend geht, Gewicht abzugeben und zu übernehmen oder mit dem rollenden Kontaktpunkt und dem Bewegungsfluss zu spielen. Wir erforschen die Technik für einfache Jumps und Lifts, uns fallen zu lassen und sicher zu landen. Verschiedene Variationen von Roll- und Spiralbewegungen erweitern deine Bewegungsoptionen und unterstützen dich im Tanz geschmeidig und durchlässig zu werden.
+**Späterer Kurseinstieg bis Ostern möglich!**
+
+Du bist im sicheren Rahmen der kontinuierlichen Trainingsgruppe eingeladen immer tiefer in die Welt der CI einzutauchen. Mit ausreichend Zeit und Kontinuität lernst du Basics der CI kennen und erweiterst dein Bewegungsvokabular und sensorische Fähigkeiten Schritt für Schritt. So lernen wir z.B. wie es leicht und körperschonend geht, Gewicht abzugeben und zu übernehmen oder mit dem rollenden Kontaktpunkt und dem Bewegungsfluss zu spielen. Wir erforschen die Technik für einfache Jumps und Lifts, uns fallen zu lassen und sicher zu landen. Verschiedene Variationen von Roll- und Spiralbewegungen erweitern deine Bewegungsoptionen und unterstützen dich im Tanz geschmeidig und durchlässig zu werden.
 
 Nicht zuletzt verstehen wir die Contact Improvisation auch als eine Form von nonverbaler Kommunikation und Begegnung, in der wir lernen auf unsere eigenen körperlich-mentalen Bedürfnisse und Grenzen und die unserer TanzpartnerInnen gleichermaßen zu achten. In verbalen Feedback-Runden möchten wir diesen Erfahrungen zusätzlich Raum geben.
 
@@ -99,7 +108,7 @@ Teilnahmeempfehlungen: Da wir in der Contact Improvisation gegenseitig Körperge
 
 ***ANMELDUNG:*** 
 
-**Schreibe uns ein kurzes mail an ci.rollingpoint@gmail.com**\
+**Schreibe uns bitte ein kurzes mail an ci.rollingpoint@gmail.com**\
 \
 **oder verwende folgendes Anmeldeformular**\
 <https://forms.gle/D5bwoQwoeueLpRCw7>
@@ -120,10 +129,7 @@ Bei Buchung von mehr als einem Kurs minus € 30 ab dem 2.Kurs\
 Auf Anfrage für Kurse 1 und 3: 5﻿er Block € 90 - 120 bzw. Einzelstunden € 20–28
 
 **Jam einzeln: € 7–12**\
-**Specials: € 7-12 je Termin**\
-**Jam+Special: € 14-24 je Abend**\
-**Semesterbeitrag Contact Improvisation Jam: € 100 - 170**\
-**Semesterbeitrag Specials + Jam: € 200 - 300**\
+**Semesterbeitrag Contact Improvisation Jam: € 100 - 150**\
 \
 Die Reservierung des Kursplatzes erfolgt durch Einzahlung des vollen Kursbeitrages.
 
