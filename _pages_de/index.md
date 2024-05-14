@@ -18,13 +18,12 @@ Fotocredit: https://johannes-stolba.net/photography/
 
 <div class="imglink"><a target="_blank" href="https://www.youtube.com/embed/kp3DqzN1Ldo"><img src="/assets/uploads/video_vorschau_rollingpoint.png" alt="" /><div>rollingpoint-Video</div></a></div>
 
+##### Seltsamia“ - Dancing Mycelium
 
-
-##### Seltsamia“ - Dancing Mycelium\
 Exploring Interconnection and Movement Biodiversity\
 Ein experimentelles rollingpoint Mitmach-Contact Improvisation Outdoor-Projekt
 
-Erster Termin 2024: Do 30.5. 18:30-21.00 Park "Freie Mitte" / Ehemaliges Nordbahnhofgelände
+**[Erster Termin 2024: Do 30.5. 18:30-21.00 Park "Freie Mitte" / Ehemaliges Nordbahnhofgelände](https://rollingpoint.at/mycelium)**
 
 ### **KURSE SOMMERSEMESTER 2024**
 
