@@ -24,9 +24,9 @@ Von der Innstraße 18 aus über die Leystraße bzw. von der Vorgartenstraße 98 
 
 **Weitere Termine folgen!**
 
-
-
 ![](/assets/uploads/sdim0844.jpg)
+
+Foto: Michael Waldeck
 
 **Wie läuft das Projekt ab?**
 
@@ -70,8 +70,6 @@ Von der Innstraße 18 aus über die Leystraße bzw. von der Vorgartenstraße 98 
 **Weitere Termine folgen!**
 
 ![](/assets/uploads/dsc00566-2-.jpg)
-
-
 
 <div class="named-anchor" id="background"></div>
 
