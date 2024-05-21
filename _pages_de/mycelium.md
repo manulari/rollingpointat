@@ -32,7 +32,7 @@ Foto: Michael Waldeck
 
 Wir treffen uns an an spannenden Orten um gemeinsam zu improvisieren und ein kleines Gesamtkunstwerk zu kreieren - vergleichbar mit dem Aufploppen einer Kollektion von Pilzfruchtkörpern in der Natur. 
 
-Jeder Termin ist einer bestimmten Improvisationsstruktur (Score) gewidmet. Wir orientieren uns an Nancy Topf´s <https://www.nancytopf.com/about> Score des „Spacewalks“.  Die Scores werden zu Beginn des Zusammentreffens gemeinsam besprochen und es gibt ein gemeinsames warm up. Es besteht in den Sessions die Möglichkeit mitzutanzen oder/und zuzusehen. Durch deine Präsenz im Beobachten unterstützt du die Tanzenden. Am Ende der Impro-Sessions treffen wir uns wieder in der Gruppe um das Erlebte gemeinsam zu reflektieren und unsere Eindrücke auszutauschen.
+Jeder Termin ist einer bestimmten Improvisationsstruktur (Score) gewidmet. Wir orientieren uns an Nancy Topf´s <https://www.nancytopf.com/about> Score des „Spacewalks“.  Die Scores werden zu Beginn des Zusammentreffens gemeinsam besprochen und es gibt ein gemeinsames warm up. Am Ende der Impro-Sessions treffen wir uns wieder in der Gruppe um das Erlebte gemeinsam zu reflektieren und unsere Eindrücke auszutauschen.
 
 Dauer der Sessions: Jeweils ca. 2-3 Stunden inkl. Vor- und Nachbesprechung\
 Bitte pünktlich zur Vorbesprechung kommen. Die Informationen der Vorbesprechungen sind Grundlage für die Teilnahme an den Impro-Sessions.
@@ -51,7 +51,7 @@ bzw. SMS/Tel. Christian Apschner 0650 8931081
 
 **Die Teilnahme ist kostenlos.** Du trägst mit deiner Präsenz und deinen tänzerisch-improvisatorischen Fähigkeit zum Gelingen des Projektes bei.
 
-Wir möchten mit dem Projekt wir den künstlerischen Dialog fördern, die Öffentlichkeit in unsere Arbeit einladen und einen positiven Beitrag an der Schnittstelle von Kunst, Naturwissenschaft, Tiefenökologie und Gemeinwesenarbeit leisten.
+Wir möchten mit dem Projekt wir den künstlerischen Dialog fördern, die Öffentlichkeit in unsere Arbeit einladen und einen bewusstseinsbildenden Beitrag an der Schnittstelle von Kunst, Naturwissenschaft, Tiefenökologie und Gemeinwesenarbeit leisten.
 
 Gelegentlich können Fotos und Videoaufnahmen gemacht werden. Für die Veröffentlichung dieser in sozialen Medien und auf unserer webseite <rollingpoint.at> wird die Zustimmung der Tänzer*innen eingeholt.
 
