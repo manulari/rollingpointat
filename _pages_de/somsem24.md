@@ -12,8 +12,8 @@ language: de
 | **Mi** | **18.00-20.40** | **Christian**            | **[3 "Wild and Soft" Contact Improvisation / advanced](#mi)**                | **Einsiedlerg. 7, 1050 Wien** |
 | **Do** | **18.15-20.30** | **Christian**            | **[4 Contact Improvisation and -Technique Basics / beginner](#do)**          | **Gilgegasse 12, 1090 Wien**  |
 
-#### Ausblick Wintersemester 2024/25: Die neuen Kurse starten  vom 23.- 26.9.2024
-
+#### Ausblick Wintersemester 2024/25:\
+Die neuen Kurse starten  vom 23.- 26.9.2024\
 Kursinhalte und Tage analog Sommersemster 2024\
 Schnuppermöglichkeit zu Kursbeginn
 
