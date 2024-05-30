@@ -25,6 +25,12 @@ Ein experimentelles rollingpoint Mitmach-Contact Improvisation Outdoor-Projekt
 
 **[Erster Termin 2024: Do 30.5. 18:30-21.00 Park "Freie Mitte" / Ehemaliges Nordbahnhofgelände](https://rollingpoint.at/mycelium)**
 
+#### Ausblick Wintersemester 2024/25:
+
+Die neuen Kurse starten  vom 23.- 26.9.2024\
+Kursinhalte und Tage analog Sommersemster 2024\
+Schnuppermöglichkeit zu Kursbeginn
+
 ### **KURSE SOMMERSEMESTER 2024**
 
 **[1 RELEASZ Tanztraining: ](/somsem24#mo)\*\***[Zeitgenössischer Tanz / CI-light / Somatisches Lernen](/somsem24#mo)\*\* **open level**\
