@@ -29,7 +29,7 @@ Ein experimentelles rollingpoint Mitmach-Contact Improvisation Outdoor-Projekt
 
 Die neuen Kurse starten  vom 23.- 26.9.2024\
 Kursinhalte und Tage analog Sommersemster 2024\
-Schnuppermöglichkeit zu Kursbeginn
+Anmeldung ab Mitte Juni, Schnuppermöglichkeit zu Kursbeginn
 
 ### **KURSE SOMMERSEMESTER 2024**
 
