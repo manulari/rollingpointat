@@ -1,5 +1,5 @@
 ---
-permalink: contactadv
+permalink: /contactadv
 title: Into the Deep
 language: de
 ---
