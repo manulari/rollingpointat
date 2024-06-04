@@ -3,7 +3,7 @@ permalink: /contactadv
 title: Into the Deep
 language: de
 ---
-![](/assets/uploads/lsz_5750.jpg)
+![](/assets/uploads/lsz_5410-3.jpg)
 
 #### **“Into the Deep” Contact Improvisation - intermediate/advanced**
 
