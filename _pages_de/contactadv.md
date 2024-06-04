@@ -18,8 +18,9 @@ Du bringst gute Basiskenntnisse der Contact Improvisation oder artverwandter Bew
 
 Wie geht es noch leichter und geschmeidiger?\
 Wie finde ich mehr Gestaltungsspielraum in unseren Tänzen?\
-Kann ich gut auf mich hören und gleichzeitig auf gut die Impulse meiner Tanzpartner*innen reagieren? Können wir als Gruppe einen gemeinsamen Raum kreiieren?\
-Das sind einige Themen, die wir in dieser fortlaufenden Trainingsgruppe thematisieren werden.
+Kann ich gut auf mich hören und gleichzeitig auf gut die Impulse meiner Tanzpartner*innen reagieren?\
+Können wir als Gruppe einen gemeinsamen Raum kreiieren und einen performativen Aspekt in die Tänze bringen?\
+Das sind einige Fragen, die wir in dieser fortlaufenden Trainingsgruppe thematisieren werden.
 
 Ein Schwerpunkt des Kurses wird sein, die Technik verschiedenster Lifts und Jumps in allen Raumebenen zu üben und kopfüber auf den Händen zu tanzen. Ziel ist es uns immer leichter dem gemeinsamen Bewegungsfluss hinzugeben und gleichzeitig den Tanz so präsent wahrzunehmen, dass wir ihn spielerisch lenken können.
 
