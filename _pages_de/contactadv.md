@@ -3,7 +3,9 @@ permalink: /contactadv
 title: Into the Deep
 language: de
 ---
-#### **3 “Into the Deep” Contact Improvisation - intermediate/advanced**
+![](/assets/uploads/lsz_5750.jpg)
+
+#### **“Into the Deep” Contact Improvisation - intermediate/advanced**
 
 mit **Christian Apschner**\
 **Mi 18.00 - 20.40, 25.9.2024 – 29.1.2025 (ca. 16x)**\
@@ -21,4 +23,4 @@ Das sind einige Themen, die wir in dieser fortlaufenden Trainingsgruppe thematis
 
 Ein Schwerpunkt des Kurses wird sein, die Technik verschiedenster Lifts und Jumps in allen Raumebenen zu üben und kopfüber auf den Händen zu tanzen. Ziel ist es uns immer leichter dem gemeinsamen Bewegungsfluss hinzugeben und gleichzeitig den Tanz so präsent wahrzunehmen, dass wir ihn spielerisch lenken können.
 
-Jeweils 40 Minuten der Kurseinheiten (fallweise zu Beginn oder auch am Ende) sind der Körperarbeit und Anatomical Release Technique/Ideokinese gewidmet. Anatomische Bilder unterstützen deine Vorstellungskraft und du kannst dir im Zeitverlauf praktische Grundkenntnisse in miteinander kompatiblen Körperarbeitsmethoden (Trager, Ortho-Biomomy, Nuad) aneignen/vertiefen. Das vertiefte Körperwissen unterstützt dich bewusster und "liebevoller" mit deinem Körper umzugehen, damit du noch viele Jahre freudvoll tanzen kannst.
+Jeweils 40 Minuten der Kurseinheiten (fallweise zu Beginn oder auch am Ende) sind der Körperarbeit und Anatomical Release Technique/Ideokinese gewidmet. Anatomische Bilder unterstützen deine Vorstellungskraft und du kannst dir im Zeitverlauf praktische Grundkenntnisse in miteinander kompatiblen Körperarbeitsmethoden (Trager, Ortho-Biomomy, Nuad) aneignen/vertiefen. Das vertiefte Körperwissen lädt dich eine noch bewusster und "liebevoller" mit deinem Körper umzugehen, damit du noch viele Jahre freudvoll tanzen kannst.
