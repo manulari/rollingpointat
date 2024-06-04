@@ -3,6 +3,8 @@ permalink: /contactbeg
 title: Contact Improvisation and Technique Basics beginner
 language: de
 ---
+![](/assets/uploads/lsz_5630.jpg)
+
 #### Contact Improvisation and -Technique Basics
 
 mit **Christian Apschner - beginner**\
