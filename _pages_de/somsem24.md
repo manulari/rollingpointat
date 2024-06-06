@@ -15,7 +15,7 @@ language: de
 #### Ausblick Wintersemester 2024/25:
 
 Die neuen Kurse starten  vom 23.- 26.9.2024\
-Kursinhalte und Tage analog Sommersemster 2024\
+Kursinhalte und Tage analog Sommersemester 2024\
 Anmeldung ab Mitte Juni, Schnuppermöglichkeit zu Kursbeginn
 
 <div class="named-anchor" id="mo"></div>
