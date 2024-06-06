@@ -3,6 +3,8 @@ permalink: /releasze
 title: RELEASZE Tanztraining
 language: de
 ---
+![](/assets/uploads/image00008.jpeg)
+
 #### 1 RELEASZ Tanztraining: Zeitgenössischer Tanz / CI-light / Somatisches Lernen
 
 mit **maRia Probst - *open level***\
