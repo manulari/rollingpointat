@@ -21,4 +21,20 @@ Du bist eingeladen mit fortschreitendem Lernprozess an den rollingpoint-Jams tei
 
 Teilnahmeempfehlungen: Da wir in der Contact Improvisation gegenseitig Körpergewicht abgeben und übernehmen, sind ein Grundausmaß an Sensitivität für den eigenen Körper und die Grenzen anderer wichtig für die Teilnahme an diesem Kurs. Bewegungsvorerfahrung aller Art sowie Freude an Körperkontakt und sich “fallen zu lassen” sind von Vorteil.
 
+***KURSANMELDUNG:***\
+Schreibe uns bitte ein kurzes mail an ci.rollingpoint@gmail.com\
+oder verwende folgendes Anmeldeformular\
+<https://forms.gle/D5bwoQwoeueLpRCw7>
+
+Für weitere Rückfragen kontaktiere bitte Christian (0650 8931081)
+
+***KOSTEN:***\
+Offene Schnupperstunden in den ersten zwei Kurswochen um €10 pro Einheit (max. 1x pro Kurs)\
+**Kostenbeitrag Semesterkurs Normalpreis € 260**\
+**Ermäßigungen: € 180 für StudentInnen <=28a, € 220 Sonstige**\
+\
+Bei Buchung von mehr als einem Kurs minus € 30 ab dem 2.Kurs\
+\
+Auf Anfrage 5﻿er-Block € 95 - 125 bzw. Einzelstunden € 20–28 möglich
+
 Foto: Laurent Ziegler
