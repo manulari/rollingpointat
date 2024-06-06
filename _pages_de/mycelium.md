@@ -21,7 +21,8 @@ Bei der Lagerwiese oberhalb der alten Eisenbahnbrücke\
 Von der Innstraße 18 aus über die Leystraße bzw. von der Vorgartenstraße 98 aus in 150m erreichbar.
 
 **Mi 26.6.2024, 18:30:  Campus WU / Prater, Südportalstraße**\
-Details kommen bald!
+Koordinaten: 48.2151, 16.4063\
+Treffpunkt: In der Fußgängerzone des WU Campus an der nördlichen Ecke des orangen mit Holzbrettern verkleideten Gebäudes, 3 Gehminuten von U2 Station Messe-Prater. Wir bewegen uns vom Ausgangspunkt in Richtung Grünbereich des Wiener Praters
 
 **Weitere Termine folgen!**
 
@@ -59,14 +60,17 @@ Gelegentlich können Fotos und Videoaufnahmen gemacht werden. Für die Veröffen
 **Möchtest du unsere Arbeit unterstützen?**\
 Spenden auf unser Vereinskonto IBAN: AT54 3200 0000 1701 2717, BIC: RLNWATWW, Verein rollingpoint, sind gerne willkommen.
 
-**Wann und wo?**
+**Termine 2024**
 
 **Do 30.5.: 18:30: Park Freie Mitte / Ehemaliges Nordbahnhofgelände, 1020 Wien**\
 Koordinaten: 48.2304, 16.3914\
 Bei der Lagerwiese oberhalb der alten Eisenbahnbrücke\
 Von der Innstraße 18 aus über die Leystraße bzw. von der Vorgartenstraße 98 aus in 150m erreichbar.
 
-**Ersatztermin bei Regen: Fr 31.5.**\
+**Mi 26.6. 18:30:  Campus WU / Prater, Südportalstraße**\
+Koordinaten: 48.2151, 16.4063\
+Treffpunkt: In der Fußgängerzone des WU Campus an der nördlichen Ecke des orangen mit Holzbrettern verkleideten Gebäudes, 3 Gehminuten von U2 Station Messe-Prater. Wir bewegen uns vom Ausgangspunkt in Richtung Grünbereich des Wiener Praters\
+Ersatztermin bei Regen: Do 27.6.2024\
 \
 **Weitere Termine folgen!**
 
