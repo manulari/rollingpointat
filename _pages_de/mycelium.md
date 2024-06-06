@@ -20,7 +20,8 @@ Koordinaten: 48.2304, 16.3914\
 Bei der Lagerwiese oberhalb der alten Eisenbahnbrücke\
 Von der Innstraße 18 aus über die Leystraße bzw. von der Vorgartenstraße 98 aus in 150m erreichbar.
 
-**Ersatztermin  bei Regen: Fr 31.5.2025**
+**Mi 26.6.2024, 18:30:  Campus WU / Prater, Südportalstraße**\
+Details kommen bald!
 
 **Weitere Termine folgen!**
 
