@@ -23,8 +23,7 @@ Fotocredit: https://johannes-stolba.net/photography/
 Exploring Interconnection and Movement Biodiversity\
 Ein experimentelles rollingpoint Mitmach-Contact Improvisation Outdoor-Projekt
 
-**[Erster Termin 2024: Do 30.5. 18:30-21.00 Park "Freie Mitte" / Ehemaliges Nordbahnhofgelände](https://rollingpoint.at/mycelium)**\
-Do 26.6.: Campus WU 
+**[2. Termin 2024: Mi 26.6. 18:30-21.00 Campus WU ](https://rollingpoint.at/mycelium)**
 
 #### Ausblick Wintersemester 2024/25:
 
