@@ -25,3 +25,21 @@ Das sind einige Fragen, die wir in dieser fortlaufenden Trainingsgruppe thematis
 Ein Schwerpunkt des Kurses wird sein, die Technik verschiedenster Lifts und Jumps in allen Raumebenen zu üben und kopfüber auf den Händen zu tanzen. Ziel ist es uns immer leichter dem gemeinsamen Bewegungsfluss hinzugeben und gleichzeitig den Tanz so präsent wahrzunehmen, dass wir ihn spielerisch lenken können.
 
 Jeweils 40 Minuten der Kurseinheiten (fallweise zu Beginn oder auch am Ende) sind der Körperarbeit und Anatomical Release Technique/Ideokinese gewidmet. Anatomische Bilder unterstützen deine Vorstellungskraft und du kannst dir im Zeitverlauf praktische Grundkenntnisse in miteinander kompatiblen Körperarbeitsmethoden (Trager, Ortho-Biomomy, Nuad) aneignen/vertiefen. Das vertiefte Körperwissen lädt dich ein noch bewusster und "liebevoller" mit deinem Körper umzugehen, damit du noch viele Jahre freudvoll tanzen kannst.
+
+***KURSANMELDUNG:***\
+Schreibe uns bitte ein kurzes mail an ci.rollingpoint@gmail.com\
+oder verwende folgendes Anmeldeformular\
+<https://forms.gle/D5bwoQwoeueLpRCw7>
+
+Für weitere Rückfragen kontaktiere bitte Christian (0650 8931081)
+
+***KOSTEN:***\
+Offene Schnupperstunden in den ersten zwei Kurswochen um €10 pro Einheit (max. 1x pro Kurs)\
+**Kostenbeitrag Semesterkurs Normalpreis € 260**\
+**Ermäßigungen: € 180 für StudentInnen <=28a, € 220 Sonstige**\
+\
+Bei Buchung von mehr als einem Kurs minus € 30 ab dem 2.Kurs\
+\
+Auf Anfrage 5﻿er-Block € 95 - 125 bzw. Einzelstunden € 20–28 möglich
+
+Foto: Laurent Ziegler
