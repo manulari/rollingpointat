@@ -23,12 +23,13 @@ Fotocredit: https://johannes-stolba.net/photography/
 Exploring Interconnection and Movement Biodiversity\
 Ein experimentelles rollingpoint Mitmach-Contact Improvisation Outdoor-Projekt
 
-**[Erster Termin 2024: Do 30.5. 18:30-21.00 Park "Freie Mitte" / Ehemaliges Nordbahnhofgelände](https://rollingpoint.at/mycelium)**
+**[Erster Termin 2024: Do 30.5. 18:30-21.00 Park "Freie Mitte" / Ehemaliges Nordbahnhofgelände](https://rollingpoint.at/mycelium)**\
+Do 26.6.: Campus WU 
 
 #### Ausblick Wintersemester 2024/25:
 
 Die neuen Kurse starten  vom 23.- 26.9.2024\
-Kursinhalte und Tage analog Sommersemster 2024\
+Kursinhalte und Tage analog Sommersemester 2024\
 Anmeldung ab Mitte Juni, Schnuppermöglichkeit zu Kursbeginn
 
 ### **KURSE SOMMERSEMESTER 2024**
