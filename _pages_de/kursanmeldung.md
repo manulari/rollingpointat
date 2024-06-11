@@ -13,7 +13,7 @@ language: de
 **maRia (0650 9510814)**\
 **bzw. Christian (0650 8931081) auf.**
 
-Aus verschiedensten Gründen verfügen wir noch über kein automatisches Bezahlsystem.
+Aus verschiedensten Gründen verfügen wir über kein automatisches Bezahlsystem.
 
 Die Kursbeiträge bitte auf unser Konto IBAN: AT54 3200 0000 1701 2717, BIC: RLNWATWW, Verein rollingpoint, überweisen und dein Kursplatz ist gesichert. Sollten die Kurse ausgebucht sein, informieren wir dich rechtzeitig.
 
