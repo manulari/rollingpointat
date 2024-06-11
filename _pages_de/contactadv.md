@@ -5,6 +5,8 @@ language: de
 ---
 ![](/assets/uploads/lsz_5410-3.jpg)
 
+Foto: Laurent Ziegler
+
 #### **“Into the Deep” Contact Improvisation - intermediate/advanced**
 
 mit **Christian Apschner**\
@@ -17,8 +19,8 @@ Für Tänzer*innen mit guten Vorerfahrungen ist die Teilnahme auch an einzelnen 
 Du bringst gute Basiskenntnisse der Contact Improvisation oder artverwandter Bewegungsformen mit und möchtest dein Bewegungsspektrum erweitern und verfeinern sowie gezielt Kraft, Koordination, Beweglichkeit und Körperreflexe trainieren? Dann werde Teil unserer motivierten Trainingsgruppe! 
 
 Wie geht es noch leichter und geschmeidiger?\
-Wie finde ich mehr Gestaltungsspielraum in unseren Tänzen?\
-Kann ich gut auf mich hören und gleichzeitig auf gut die Impulse meiner Tanzpartner*innen reagieren?\
+Wie finde ich mehr Gestaltungsspielraum im gemeinsamen Tanz?\
+Kann ich gut auf mich hören und gleichzeitig auch gut auf die Impulse meiner Tanzpartner*innen reagieren?\
 Können wir als Gruppe einen gemeinsamen Raum kreiieren und einen performativen Aspekt in die Tänze bringen?\
 Das sind einige Fragen, die wir in dieser fortlaufenden Trainingsgruppe thematisieren werden.
 
@@ -41,5 +43,3 @@ Offene Schnupperstunden in den ersten zwei Kurswochen um €10 pro Einheit (max.
 Bei Buchung von mehr als einem Kurs minus € 30 ab dem 2.Kurs\
 \
 Auf Anfrage 5﻿er-Block € 95 - 125 bzw. Einzelstunden € 20–28 möglich
-
-Foto: Laurent Ziegler
