@@ -3,6 +3,8 @@ permalink: /kurse
 title: Abendkurse WS 2024/25
 language: de
 ---
+
+
 **Stundenplan Abendangebote Wintersemester 2024/25**
 
 | Tag    | Zeit            | Lehrer*in                | Titel                                                                     | Ort/Turnsaal                  |
@@ -20,3 +22,11 @@ Unsere fortlaufenden Kurse/Trainingsgruppen Mo, Mi und Do Abend laden ein, in ei
 
 Die Kurse 1, 3 und 4 können als Semesterkurs gebucht werden.\
 Daneben bieten wir erstmals die Möglichkeit ein Jahresprogramm zu buchen. Dies enthält die Teilnahme an jeweils einem Kursabend im Wintersemester 2024 sowie dem darauffolgenden Sommersemester 2025 sowie die regelmäßige Teilnahme an der Dienstags-Jam und einen Rabatt auf unsere Wochenend-Workshops.
+
+[Kursanmeldung](https://rollingpoint.at/Kursanmeldung)
+
+Hast du Fragen oder bist du dir nicht sicher, welcher Kurs das richtige für dich ist?
+
+Nimm gerne persönlichen Kontakt mit uns auf: ci.rollingpoint@gmail.com\
+Christian 0650 8931981\
+maRia 0650 9510814
