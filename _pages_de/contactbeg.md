@@ -5,9 +5,11 @@ language: de
 ---
 ![](/assets/uploads/lsz_5630.jpg)
 
-#### "Falling in Love with CI" Contact Improvisation beginner
+Foto: Laurent Ziegler
 
-mit **Christian Apschner - beginner**\
+#### "Falling in Love with CI"- Contact Improvisation beginner
+
+mit **Christian Apschner**\
 **Do 18.15 – 20.30, 26.9.2024.- 30.1.2025 (ca. 16x)**\
 Turnsaal VS Gilgegasse 12, 1090 Wien
 
@@ -36,5 +38,3 @@ Offene Schnupperstunden in den ersten zwei Kurswochen um €10 pro Einheit (max.
 Bei Buchung von mehr als einem Kurs minus € 30 ab dem 2.Kurs\
 \
 Auf Anfrage 5﻿er-Block € 95 - 125 bzw. Einzelstunden € 20–28 möglich
-
-Foto: Laurent Ziegler
