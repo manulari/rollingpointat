@@ -42,4 +42,7 @@ Offene Schnupperstunden in den ersten zwei Kurswochen um €10 pro Einheit (max.
 \
 Bei Buchung von mehr als einem Kurs minus € 30 ab dem 2.Kurs\
 \
-Auf Anfrage 5﻿er-Block € 95 - 125 bzw. Einzelstunden € 20–28 möglich
+Auf Anfrage 5﻿er-Block € 95 - 125 bzw. Einzelstunden € 20–28 möglich\
+\
+**Buchung als JahresAbo Wintersemester 2024/25 + Sommersemster 2025:**\
+Beinhaltet die Teilnahme an zwie Abendkursen pro Semester (ca. 60 Kurseinheiten a 2-2,5 Std.) plus Jam am Di-Abend  (ca.30 Jams a 2,5 Std.), ermäßigter Tarif für Wochenend-Workshops sowie jeweils ein Einzelcoaching je Semester
