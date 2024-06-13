@@ -15,13 +15,13 @@ Turnsaal VS Gilgegasse 12, 1090 Wien
 
 **Fortlaufende Trainingsgruppe für Beginner*innen**
 
-Du bist im sicheren Rahmen der Trainingsgruppe eingeladen immer tiefer in die Welt der CI einzutauchen. Mit ausreichend Zeit und Kontinuität lernst du Basics der CI kennen und erweiterst dein Bewegungsvokabular und sensorische Fähigkeiten Schritt für Schritt. So lernen wir z.B. wie es leicht und körperschonend geht, Gewicht abzugeben und zu übernehmen oder mit dem rollenden Kontaktpunkt und dem Bewegungsfluss zu spielen. Wir erforschen die Technik für einfache Jumps und Lifts, uns fallen zu lassen und sicher zu landen. Verschiedene Variationen von Roll- und Spiralbewegungen erweitern deine Bewegungsoptionen und unterstützen dich im Tanz geschmeidig und durchlässig zu sein.
+Du bist im sicheren Rahmen der Trainingsgruppe eingeladen immer tiefer in die Welt der CI einzutauchen. Mit ausreichend Zeit und Kontinuität lernst du Basics der CI kennen und erweiterst dein Bewegungsvokabular und sensorische Fähigkeiten Schritt für Schritt. So lernen wir z.B. wie es leicht und körperschonend geht, Gewicht abzugeben und zu übernehmen oder mit dem rollenden Kontaktpunkt und dem Bewegungsfluss zu spielen. Wir erforschen die Technik für einfache Jumps und Lifts, uns fallen zu lassen und sicher zu landen. Verschiedene Variationen von Roll- und Spiralbewegungen erweitern dein Bewegungsspektrum und unterstützen dich im Tanz geschmeidig und durchlässig zu sein.
 
 Nicht zuletzt verstehen wir die Contact Improvisation auch als eine Form von nonverbaler Kommunikation und Begegnung, in der wir lernen auf unsere eigenen körperlich-mentalen Bedürfnisse und Grenzen und die unserer TanzpartnerInnen gleichermaßen zu achten. In verbalen Feedback-Runden möchten wir diesen Erfahrungen zusätzlich Raum geben.
 
 Du bist eingeladen mit fortschreitendem Lernprozess an den rollingpoint-Jams teilzunehmen.
 
-Teilnahmeempfehlungen: Da wir in der Contact Improvisation gegenseitig Körpergewicht abgeben und übernehmen, sind ein Grundausmaß an Sensitivität für den eigenen Körper und die Grenzen anderer wichtig für die Teilnahme an diesem Kurs. Bewegungsvorerfahrung aller Art sowie Freude an Körperkontakt und sich “fallen zu lassen” sind von Vorteil. Eine kontinuierliche Teilnahme ist von Vorteil und daher sehr erwünscht.
+Teilnahmeempfehlungen: Da wir in der Contact Improvisation gegenseitig Körpergewicht abgeben und übernehmen, sind ein Grundausmaß an Sensitivität für den eigenen Körper und die Grenzen anderer wichtig für die Teilnahme an diesem Kurs. Bewegungsvorerfahrung aller Art sowie Freude an Körperkontakt und sich “fallen zu lassen” sind von Vorteil. Eine regelmäßige Teilnahme am den Kursterminen wird empfohlen.
 
 ***KURSANMELDUNG:***\
 Schreibe uns bitte ein kurzes mail an ci.rollingpoint@gmail.com\
