@@ -18,6 +18,11 @@ Fotocredit: https://johannes-stolba.net/photography/
 
 <div class="imglink"><a target="_blank" href="https://www.youtube.com/embed/kp3DqzN1Ldo"><img src="/assets/uploads/video_vorschau_rollingpoint.png" alt="" /><div>rollingpoint-Video</div></a></div>
 
+
+
+**Achtung: Keine Jam am 18.6. (Schulveranstaltung)**\
+**Letzte Jam vor der Sommerpause am 25.6.2024**
+
 ##### Seltsamia“ - Dancing Mycelium
 
 Exploring Interconnection and Movement Biodiversity\
