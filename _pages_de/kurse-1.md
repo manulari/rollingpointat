@@ -16,7 +16,7 @@ language: de
 Anmeldung ab Mitte Juni\
 Offene Schnupperstunden zu Kursbeginn (10€/EInheit)
 
-Unsere fortlaufenden Semesterkurse/Trainingsgruppen Mo, Mi und Do Abend laden ein, in einen kontinuierlichen Lernprozess mit Gleichgesinnten einzutauchen. Egal ob als Ausgleich zum Berufsalltag/Studium oder gezielte Aus- und Fortbildung gedacht - das weit gefächerte und fundierte Angebot ermöglicht einer breiten Zielgruppe einen offenen Zugang zu unserer Synthese aus Contact Improvisation, Zeitgenössichem Tanz und Somatischem Lernen. Die seit 2013 bestehende offene rollingpoint Contact Improvisation Jam ist ein beliebter Community-Treffpunkt um miteinander frei Contact Improvisation zu tanzen.
+Unsere fortlaufenden Semesterkurse/Trainingsgruppen Mo, Mi und Do Abend laden ein, in einen kontinuierlichen Lernprozess mit Gleichgesinnten einzutauchen. Egal ob als Ausgleich zum Berufsalltag/Studium oder gezielte Aus- und Fortbildung gedacht - das weit gefächerte und fundierte Angebot ermöglicht einer breiten Zielgruppe einen offenen Zugang zu unserer Synthese aus Contact Improvisation, Zeitgenössichem Tanz und Somatischem Lernen. Die seit 2013 bestehende offene rollingpoint Contact Improvisation Jam ist ein beliebter Community-Treffpunkt um frei miteinander Contact Improvisation zu tanzen.
 
 [Kursanmeldung](https://rollingpoint.at/Kursanmeldung)
 
