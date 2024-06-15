@@ -4,8 +4,6 @@ title: links
 ---
 ## links
 
-Persönliche Seite von **Christian Apschner** (**Körperarbeit: Trager und Ortho-Bionomy**): [http://www.retune.at](http://www.retune.at/)
-
 **CI-Vienna overview:** <http://vienna.contactimprovisation.at>
 
 **About Contact Improvisation - Kontaktimprovisation**
@@ -42,12 +40,4 @@ Impulstanz-Festival: [http://www.ImPulsTanz.co](http://www.ImPulsTanz.com/)
 
 [http://www.danceability.com](http://www.danceability.com/)
 
-**Verwandtes-Empfehlenswertes-Interessantes**
-
-Myoreflex/Tanz Kerstin Kussmaul: [http://www.gravityhappens.net](http://www.gravityhappens.net/)
-
-Release Ballett/Contemporary Andrea Nagl:[ http://www.naglandrea.com](http://www.naglandrea.com)
-
-Zeitgenössischer Tanz/Sylvia Scheidl: <http://www.sylviascheidl.at>
-
-Theaterpädagogik/-improvisation Susanne Kadletz: [www.theater-paedagogik.at](http://www.theater-paedagogik.at)
+Persönliche Seite von **Christian Apschner** (**Körperarbeit: Trager und Ortho-Bionomy**): [http://www.retune.at](http://www.retune.at/)
