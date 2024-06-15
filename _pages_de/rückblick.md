@@ -3,8 +3,6 @@ permalink: /rückblick
 title: RÜCKBLICK
 language: de
 ---
-
-
 <div class="imglink"><a target="_blank" href="https://www.youtube.com/watch?v=6tbJKhYSShk"><img src="/assets/uploads/bildschirmfoto-2023-12-03-um-21.32.38.png" alt="" /><div>Video Contact Flying Skills</div></a></div>
 
 [](#orga)
@@ -170,8 +168,6 @@ Prana-Yoga Studio 1, Mariahilferstraße 82, 1070 Wien
 
 Über ziehen, drücken, gleiten, rollen, rutschen... sind wir in unseren ersten Lebensjahren unmittelbar und mühelos in Kontakt mit der Welt. An diesem Nachmittag wollen wir diese uns innewohnenden Möglichkeiten wieder ansprechen. Wir lassen unnötige Körperspannung los und setzen dadurch Energie frei. Geschmeidig wie Katzen mobilisieren wir unsere Wirbelkette und erleben diese zentrale Körperstruktur als verlässliche Partnerin in und aus dem Boden, in Kontakt mit unseren Tanzkolleg*innen und im Dialog mit dem Raum. Menschen die sich einen Nachmittag der Leichtigkeit in Bewegung und im physischen Kontakt widmen wollen sind ebenso willkommen, wie auch jene die einen Einblick in den Semesterkurs „Energize Through Motion“ gewinnen wollen.
 
-
-
 #### **"Deep Listening - Contact Improvisation and Beyond"** - open level
 
 **Sa/So 19./20.3.2022, 10.00-17.30**\
@@ -200,6 +196,8 @@ Anleitungen aus dem **Focusing**, einem in der Psychotherapie verwendeten Verfa
 Karola Reifetshamer: <https://www.tiefbewegt.at/ueber-mich/>
 
 ![](/assets/uploads/lsz_5750.jpg)
+
+Foto: Laurent Ziegler
 
 #### **"Comics and Dance"** – open level
 
@@ -238,20 +236,23 @@ Wir möchten zentrale Verbindungen unseres Bewegungssystems wie Atlas-Steiß, Sc
 Der Fokus an diesem Wochenende liegt darin, diesen Berührungsschatz im Hinblick auf Bewegungsvielfalt, Bewegungsqualität und angemessenem Einsatz von Energie und Kraft zu heben und ihn in unsere tänzerischen Beziehungen sowohl in der Contact Improvisation wie auch in der freien Improvisation einfließen zu lassen.\
 Der Workshop lädt sowohl Nicht-Contact Improvisation TänzerInnen als auch Contact Improvisation TänzerInnen zum Mitmachen ein.
 
-#### **22./23.8.2020  "Gravity Based Dialogs"**\
+#### **22./23.8.2020  "Gravity Based Dialogs"**
+
 Contact Improvisation/ Somatics/ Zeitgenössischer Tanz\
 Workshop mit maRia und Christian - open level, beginner
 
 Die Schwerkraft verbindet uns mit der Erde und wirkt in jedem Moment auf uns. Unser Körper ist bestens dafür ausgestattet, der Schwerkraft nachzugeben, ihr zu widerstehen und sich mit ihr zu koordinieren. In unserem Workshop lenken wir die Wahrnehmung gezielt auf Nuancen von Gewichtsübertragung an PartnerInnen und Boden. Wir lernen die Schwerkraft als Kommunikationsmedium und Bewegungsantrieb zu nutzen und um mit unseren TanzpartnerInnen zu kooperieren. Techniken einander Gewicht abzugeben und aufzunehmen, aneinander zu lehnen, uns abheben, fallen und auffangen zu lassen sind zentrale Aspekte des Workshops. Unsere Körper bewegen sich entlang eines gemeinsamen Kontaktpunkts fort. Das Augenmerk auf das fasziale wie auch das knöcherne Skelett wird uns dynamisch ankern und in den Raum tragen. Im zeitgenössischen Tanz und in der Improvisation stellen wir räumliche Bezüge her und gestalten einen gemeinsamen Bewegungsraum des wechselseitigen Miteinanders im Feld der Schwerkraft. Die körperlich-, seelisch- mentalen Erfahrungen des Ausnahmezustandes der letzten Monate dürfen dabei mit in Bewegung kommen. 
 
-#### **Contact for Health, Growth and Fun** - beginner\
+#### **Contact for Health, Growth and Fun** 
+
 **mit *maRia Probst und Christian Apschner***
 
 **Sa 14.3.2020** 14.30 - 18.00 h
 
 In dieser Reihe liegt unser Augenmerk auf dem körpergerechten Tanz. Wir lassen unser fundiertes somatisches Wissen einfließen um Contact Improvisation von Grund auf gesundheitsfördernd und als Mittel für kontinuierliches, lustvolles Lernen am und über den Körper einzuführen. Inhalte des Workshops sind u.a. zu lernen am Boden zu rollen, gegenseitig Gewicht zu nehmen und -abzugeben sowie dem Bewegungsfluss des rollenden Kontaktpunktes zu folgen. Nicht zuletzt steht die Freude an der Begegnung und Bewegung unter Berücksichtigung verschiedenster Voraussetzungen im Vordergrund.
 
-#### **Organic Movement - Spring Dynamics** \
+#### **Organic Movement - Spring Dynamics**
+
 **die Organe als Ressource für Aufrichtung, Bewegung und Ausdruck**\
 ***open level mit maRia Probst***
 
@@ -271,7 +272,8 @@ Wir werden den oberen und unteren Organen des Rumpfes Richtung geben, damit Raum
 
 Die aus der Mode geratenen Fähigkeiten des Zuhörens, Wartens, Beobachtens, kultivierend, werden wir uns in vielfältigen Spielformen zu unseren Organen und unseren PartnerInnen in Bezug setzen, den Magen knurren und die Leber tanzen lassen und Begegnung mit sich selbst einladen.
 
-#### **Contact Improvisation and Kinetic Flow** - open level\
+#### **Contact Improvisation and Kinetic Flow** 
+
 **mit *maRia Probst und Christian Apschner***
 
 **12./13.10.2019**
@@ -282,14 +284,13 @@ Wir werden unsere Aufmerksamkeit auf Mikro-Bewegungen lenken, die Wahrnehmungsf�
 
 Vom ersten Moment an werden wir das Unbekannte einladen, der Wahrnehmung des eigenen Körpers und der Schwerkraft vertrauen, auf unseren Instinkt und unsere Intuition setzen und dem Tanz im Hier und Jetzt Raum geben.
 
-#### **Organic Movement**\
+#### **Organic Movement**
+
 \
-die Organe als Ressource für Aufrichtung, Bewegung und Ausdruck - open level\
+**die Organe als Ressource für Aufrichtung, Bewegung und Ausdruck** - open level\
 *mit maRia Probst*
 
 **Sa/So 23./24.11.2019**, 10.00 -  17.00h
-
-
 
 Organisch-belebt, vital, leibhaftig, aber auch verworren, verwachsen, schwer zu durchschauen, etwas das im Dunkeln vor sich geht, sich unserer bewussten Einflussnahme entzieht,....solche und ähnliche Zuschreibungen ranken sich um dieses potente Körpersystem.
 
@@ -303,9 +304,10 @@ Und nicht zuletzt werden wir dieses reiche Körpersystem und ihre Facetten im Hi
 
 In diesem Sinne steht uns ein Wochenende bevor an dem gewartet, gespielt, gegessen, verdaut, geredet, gehört, herumgekugelt und vor allem organisch getanzt werden darf
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-#### **SOMMER WOCHENEND-WORKSHOP 24./25.8.2019**\
+
+#### **SOMMER WOCHENEND-WORKSHOP 24./25.8.2019**
+
 **"Touching Down on Contact Motherland" \
 Building Skills in Contact Improvisation**
 
@@ -313,7 +315,8 @@ Building Skills in Contact Improvisation**
 
 Dieses Wochenende ist für BeginnerInnen und CI-TänzerInnen mit geringen CI-Vorerfahrungen, z.B. aus Jams gedacht. Wir möchten einen Rahmen schaffen, in dem die zentralen Grundprinzipien und handfesten bewegungstechnischen Skills der Contact Improvisation vermittelt werden. "Contact Motherland" heisst für uns aktiv wahrnehmen, Gewicht abgeben, aufnehmen und dosieren können, mit dem rollenden Kontaktpunkt tanzen und damit spielen können, sich lehnen und fallen zuzutrauen, mit Angeboten im Tanz wie dem "low table" und "high table" umzugehen und vieles mehr. Im Contact motherland anzukommen erweitert unsere Bewegungsmöglichkeiten im Improvisieren, gibt Sicherheit im freien CI-Tanzen auf Jams, macht meistens viel Freude und generiert Bewegungslust.
 
-#### **Contact Improvisation + Jam Fundamentals I + II** / beginner\
+#### **Contact Improvisation + Jam Fundamentals I + II** / beginner
+
 **"Tasting Contact Improvisation"**\
 mit maRia Probst und Christian Apschner 
 
@@ -339,7 +342,8 @@ mit Christian Apschner \
 
 An dem Wochenende lernen wir verschiedenste Variationen von ganz kleinen bis sehr großen Spiralbewegungen im Liegen, im Stehen und in räumlicher Fortbewegung im Detail kennen und vertiefen diese. Wir kreieren Bewusstheit darüber wie Spiralbewegungen in sequenzieller Form durch den Körper durchlaufen und wie mühelos Fortbewegung dadurch wird, wenn wir die Zugverbindungen des Fasziensystems wirken lassen. Hands-On-Kontakt, Elemente von Contact Improvisation und anatomische Vorstellungsbilder helfen uns ein besseres Verständnis für unsere Körperarchitektur zu gewinnen. Es wird meditative Phasen geben sowie Phasen die durch spezielle ausgewählte Musik und Soundscapes unterstützt werden um Synästhesien bzw. intermodale Zusammenhänge zwischen verschiedenen Sinnsesebenen (taktil, kinästhetisch, auditativ, visuell) zu erfahren. In einem inneren Schwebezustand zwischen Kontemplation und Aktivierung können wir somit das Gelernte und heilsame Erfahrungen in unser Selbst- und Körperbild integrieren. Die erlernten Spiralbewegungen erweitern unsere Bewegungsmöglichkeiten im Contact Improvisations-Tanzen, im freien Tanzen und in Alltagsbewegungen.
 
-#### **„Lifts, Jumps and Flying Skills“**\
+#### **„Lifts, Jumps and Flying Skills“**
+
 mit Christian Apschner, Support: Claudia (Lui) Springer\
 **Contact Improvisation** - intermediate/advanced\
 **Sa/So 26./27.1.2019**, 10.30 - 17.00h
@@ -348,13 +352,15 @@ Dieser technikorientierte Workshop lädt bewegungsfreudige CI-TänzerInnen ein
 
 Für diesen Workshop sind CI-Grund- und Tanzerfahrung sowie gute körperliche und mentale Fitness empfehlenswert.
 
-#### **„Gravity Based Motion Poetry - Sound and Music“** mit maRia Probst\
+#### **„Gravity Based Motion Poetry - Sound and Music“** mit maRia Probst
+
 **Zeitgenössischer Tanz** - open level\
 **Sa/So 13./14.10.2018,** 10.30 - 17.00h
 
 Zeitgenössischer Tanz ist ein wunderbares Medium sich in verschiedensten Facetten im Dialog mit sich den PartnerInnen und dem Raum zu erleben. In Gravity Based Motion Poetry bilden tänzerische Grundelemente wie Kraft aus der Mitte abgestimmt mit der Körperperipherie, Gespür für Ausrichtung, Schwung im Zusammenspiel mit unseren Gelenken und Organen, Sprungkraft unterstützt von unserem Fasziensystem und mehr, die Basis des Erlebens. Derart physisch geankert, werden wir in die Fülle der Möglichkeiten des tänzerischen Gestaltens und in einen Dialog mit einem zusätzlichen künstlerischen Medium eintauchen. In diesem Workshop lassen wir uns von Musik und Klang bereichern. Dabei werden wir sowohl entlang von Scores (Spielregeln) improvisieren wie auch mit vielerlei Anregung eigene Tanzmotive kreieren. Achtung: Im Zuge dieses Wochenendes kann es durchaus zu modifizierter Zeit-, Raum- und Selbstwahrnehmung kommen. Come and enjoy*
 
-#### **„Soulfood Bodywork and Sensorimotor Rides“**\
+#### **„Soulfood Bodywork and Sensorimotor Rides“**
+
 **Contact Improvisation und Körperarbeit -** open level \
 **Sa/So 1./2.12.2018**, 10.30 - 18.00h
 
