@@ -1,6 +1,24 @@
 entries:
   - title: HOME
     path: /
+  - title: KURSE WS 24/25
+    path: /kurse
+    subentries:
+      - title: RELEASZE Tanztraining
+        path: /releasze
+      - title: Into the Deep CI adv
+        path: /contactadv
+      - title: Contact Impro beginner
+        path: /contactbeg
+      - title: Kursanmeldung
+        path: /Kursanmeldung
+  - title: WORKSHOPS
+    path: /workshops
+    subentries:
+      - title: Wintersemester 24/25
+        path: /wsws2024
+      - title: Rückblick
+        path: /rückblick
   - title: CONTACT IMPROVISATION
     path: /contact-improvisation
     subentries:
@@ -44,21 +62,3 @@ entries:
         path: /impressum
       - title: Datenschutz
         path: /datenschutz
-  - title: KURSE WS 24/25
-    path: /kurse
-    subentries:
-      - title: RELEASZE Tanztraining
-        path: /releasze
-      - title: Into the Deep CI adv
-        path: /contactadv
-      - title: Contact Impro beginner
-        path: /contactbeg
-      - title: Kursanmeldung
-        path: /Kursanmeldung
-  - title: WORKSHOPS
-    path: /workshops
-    subentries:
-      - title: Wintersemester 24/25
-        path: /wsws2024
-      - title: Rückblick
-        path: /rückblick
