@@ -10,15 +10,6 @@ entries:
         path: /contemporary
       - title: Somatisches Lernen
         path: /somatics
-  - title: KURSE UND WORKSHOPS
-    path: /somsem24
-    subentries:
-      - title: Wochenend-Workshops
-        path: /workshops
-      - title: Winter-Intensive
-        path: /winterintensive
-      - title: Sommer-Intensive
-        path: /sommerintensive
   - title: JAMS+PERFORMANCES
     path: /jams
     subentries:
@@ -64,3 +55,8 @@ entries:
         path: /contactbeg
       - title: Kursanmeldung
         path: /Kursanmeldung
+  - title: WORKSHOPS
+    path: /workshops
+    subentries:
+      - title: Wintersemester 24/25
+        path: /wsws2024
