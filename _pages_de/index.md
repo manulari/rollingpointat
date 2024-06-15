@@ -10,8 +10,6 @@ other_lang: /en/
 
 Fotocredit: https://johannes-stolba.net/photography/
 
-
-
 #### **Achtung: Unsere homepage befindet sich gerade in Überarbeitung!**
 
 ### Willkommen bei rollingpoint!
@@ -36,23 +34,23 @@ Ein experimentelles rollingpoint Mitmach-Contact Improvisation Outdoor-Projekt
 
 **Kursbeginn  23.- 26.9.2024**
 
-**[1 RELEASZ Tanztraining: ](/somsem24#mo)\*\***[Zeitgenössischer Tanz / CI-light / Somatisches Lernen](/somsem24#mo)\*\* **open level**\
+**[Mo RELEASZ Tanztraining: ](/releasze)\*\*[Zeitgenössischer Tanz / CI-light / Somatisches Lernen](/releasze) open level**\
  **mit maRia Probst**\
 **Mo 23.9.2024 - 27.1.2025, 18.30 - 20.15 (ca.16x)**\
 **Turnsaal VS Gilgegasse 12, 1090 Wien**
 
-**[2 Contact Improvisation Jam ](/somsem24#di)**(kein Kurs, keine Anmeldung erforderlich)\
+**[Di Contact Improvisation Jam ](/jams)**(kein Kurs, keine Anmeldung erforderlich)\
 **Di 17.9.2024 - 28.1.2025, Jam 18.00 – 20.30 (ca.16x)**\
 **Turnsaal VS Einsiedlergasse 7, 1050 Wien**\
 An folgenden Terminen sind auch Neueinsteiger*innen zur Teilnahme an der Jams eingeladen:\
 **8.10., 12.11., 20.12.2024, 21.1.2025,** Contact Improvisation Intro für Beginner*innen 17.30 - 18.30.
 
-**[3 Into the Deep: Contact Improvisation ](/somsem24#mi) intermediate/advanced**\
+**[Mi Into the Deep: Contact Improvisation ](/contactadv) intermediate/advanced**\
 **mit Christian Apschner**\
 **Mi 24.9.2024 - 29.1.2025, 18.00 - 20.40 (ca.16x)**\
 **Turnsaal VS Einsiedlergasse 7, 1050 Wien**
 
-**[4 Falling in Love with CI: Contact Improvisation ](/somsem24#do)beginner**\
+**[Do Falling in Love with CI: Contact Improvisation ](/contactbeg)beginner**\
 **mit Christian Apschner**\
 **Do 25.9.2024 - 30.1.2025, 18.15 – 20.30 (ca.16x)**\
 **Turnsaal VS Gilgegasse 12, 1090 Wien**
