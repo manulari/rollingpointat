@@ -1,7 +1,7 @@
 entries:
   - title: HOME
     path: /
-  - title: KURSE WS 24/25
+  - title: KURSE WS 2024/25
     path: /kurse
     subentries:
       - title: RELEASZE Tanztraining
