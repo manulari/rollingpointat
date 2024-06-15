@@ -13,7 +13,7 @@ other_lang: /en/contact-improvisation
 
 **Contact Improvisation (CI)/Kontaktimprovisation**
 
-**Tanz, Sport, Kunst, Loslassen, Lebensfreude, Begegnung, Lernen und vieles mehr lässt sich mit Contact Improvisation verbinden.**
+**Tanz, Sport, Kunst, Loslassen, Lebensfreude, Begegnung, Persönlichkeitsentwicklung, Lernen und vieles mehr lässt sich mit Contact Improvisation verbinden.**
 
 In der CI bewegen sich die TanzpartnerInnen in mehr oder weniger ständigem **Körperkontakt** (rollender Kontaktpunkt). Es entfaltet sich ein dynamisches Spiel mit dem Gleichgewicht, in dem sie sich im Spannungsfeld zwischen Stabilität und Mobilität vielfach wie ein gemeinsamer Körper fortbewegen. Die Aufmerksamkeit richtet sich auf das Spiel physikalischer Kräfte, die Beziehung zum Boden, die Partner_innen, den Raum und auf sich selbst. Die TanzpartnerInnen finden in **Drehen, Rollen, Gleiten, Fliegen** und **Fallen** ein gemeinsames Zentrum. Dem **Bewegungsfluss** folgend, entstehen **dreidimensionale spiralige Bewegungen**. **Körperwahrnehmung und -reflexe** werden geschult, Kraft und Beweglichkeit erweitert. Die TänzerInnen erlernen unnötige Körperanspannung loszulassen und Muskelkraft effizient einzusetzen. 
 
