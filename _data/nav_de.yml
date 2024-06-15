@@ -57,7 +57,7 @@ entries:
         path: /impressum
       - title: Datenschutz
         path: /datenschutz
-  - title: KURSE
+  - title: ABENDKURSE WS 2024/25
     path: /kurse
     subentries:
       - title: RELEASZE Tanztraining
