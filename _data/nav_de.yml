@@ -20,7 +20,7 @@ entries:
       - title: Dancing Mycelium
         path: /mycelium
   - title: WORKSHOPS
-    path: /workshops
+    path: /wsws2024
     subentries:
       - title: Wintersemester 24/25
         path: /wsws2024
