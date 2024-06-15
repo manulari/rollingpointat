@@ -57,3 +57,12 @@ entries:
         path: /impressum
       - title: Datenschutz
         path: /datenschutz
+  - title: KURSE
+    path: /kurse
+    subentries:
+      - title: RELEASZE Tanztraining
+        path: /releasze
+      - title: Contact Improvisation advanced
+        path: /contactadv
+      - title: Contact Improvisation beginner
+        path: /contactbeg
