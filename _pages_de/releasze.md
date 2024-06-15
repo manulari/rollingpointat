@@ -7,7 +7,7 @@ language: de
 
 Foto: Ines Ingerle
 
-#### Mo RELEASZ Tanztraining: Zeitgenössischer Tanz / CI-light / Somatisches Lernen
+#### RELEASZ Tanztraining: Zeitgenössischer Tanz / CI-light / Somatisches Lernen
 
 mit **maRia Probst - *open level***\
 **Mo 18.30 - 20.15, 23.9.2024 – 27.1.2025 (ca. 16x)**\
