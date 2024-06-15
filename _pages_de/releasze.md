@@ -24,12 +24,10 @@ Schreibe uns bitte ein kurzes mail an ci.rollingpoint@gmail.com\
 oder verwende folgendes Anmeldeformular\
 <https://forms.gle/D5bwoQwoeueLpRCw7>
 
-Für weitere Rückfragen kontaktiere bitte Christian (0650 8931081)
-
 ***KOSTEN:***\
 Offene Schnupperstunden in den ersten zwei Kurswochen um €10 pro Einheit (max. 1x pro Kurs)\
 **Kostenbeitrag Semesterkurs Normalpreis € 260**\
-**Ermäßigungen: € 180 für StudentInnen <=28a, € 220 Sonstige**\
+**Ermäßigungen: € 180 für StudentInnen <=28a, € 220 Sonstige (auf Anfrage)**\
 \
 Bei Buchung von mehr als einem Kurs minus € 30 ab dem 2.Kurs\
 \
