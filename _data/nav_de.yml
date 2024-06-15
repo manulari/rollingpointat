@@ -12,6 +12,13 @@ entries:
         path: /contactbeg
       - title: Kursanmeldung
         path: /Kursanmeldung
+  - title: JAMS+PERFORMANCES
+    path: /jams
+    subentries:
+      - title: rollingpoint-Jam
+        path: /jams
+      - title: Dancing Mycelium
+        path: /mycelium
   - title: WORKSHOPS
     path: /workshops
     subentries:
@@ -28,13 +35,6 @@ entries:
         path: /contemporary
       - title: Somatisches Lernen
         path: /somatics
-  - title: JAMS+PERFORMANCES
-    path: /jams
-    subentries:
-      - title: rollingpoint-Jam
-        path: /jams
-      - title: Dancing Mycelium
-        path: /mycelium
   - title: KÜNSTLERISCHE FORSCHUNG
     path: /conact1
     subentries:
