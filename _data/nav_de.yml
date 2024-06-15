@@ -13,16 +13,12 @@ entries:
   - title: KURSE UND WORKSHOPS
     path: /somsem24
     subentries:
-      - title: Kurse SoSe 2024
-        path: /somsem24
       - title: Wochenend-Workshops
         path: /workshops
       - title: Winter-Intensive
         path: /winterintensive
       - title: Sommer-Intensive
         path: /sommerintensive
-      - title: Kursanmeldung
-        path: /Kursanmeldung
   - title: JAMS+PERFORMANCES
     path: /jams
     subentries:
@@ -57,12 +53,3 @@ entries:
         path: /impressum
       - title: Datenschutz
         path: /datenschutz
-  - title: ABENDKURSE WS 2024/25
-    path: /kurse
-    subentries:
-      - title: RELEASZE Tanztraining
-        path: /releasze
-      - title: Contact Improvisation advanced
-        path: /contactadv
-      - title: Contact Improvisation beginner
-        path: /contactbeg
