@@ -10,8 +10,6 @@ other_lang: /en/
 
 Fotocredit: https://johannes-stolba.net/photography/
 
-#### **Achtung: Unsere homepage befindet sich gerade in Überarbeitung!**
-
 ### Willkommen bei rollingpoint!
 
 **Wir laden dich ein, gemeinsam mit uns in die Welt der Contact Improvisation, des Zeitgenössischen Tanzes und des Somatischen Lernens einzutauchen. In unseren Kursen und Projekten begegnen sich Tanz, Kunst, Sport, Lernen und Forschung. Wir bringen mehr als 20 Jahre Erfahrung in unsere Arbeit ein. Uns ist es ein Anliegen offene Räume für Lebensfreude und Begegnung und ein Voneinanderlernen auf Augenhöhe zu kreieren.**
