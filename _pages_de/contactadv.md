@@ -22,7 +22,7 @@ Wie geht es noch leichter und geschmeidiger?\
 Wie finde ich mehr Gestaltungsspielraum im gemeinsamen Tanz?\
 Kann ich gut auf mich hören und gleichzeitig auch gut auf die Impulse meiner Tanzpartner*innen reagieren?\
 Können wir als Gruppe einen gemeinsamen Raum kreiieren und einen performativen Aspekt in die Tänze bringen?\
-Das sind einige Fragen, die wir in dieser fortlaufenden Trainingsgruppe thematisieren werden.
+Das sind einige Fragen, die wir in dieser Trainingsgruppe thematisieren werden.
 
 Ein Schwerpunkt des Kurses wird sein, die Technik verschiedenster Lifts und Jumps in allen Raumebenen zu üben und kopfüber auf den Händen zu tanzen. Ziel ist es uns immer leichter dem gemeinsamen Bewegungsfluss hinzugeben und gleichzeitig den Tanz so präsent wahrzunehmen, dass wir ihn spielerisch lenken können.
 
@@ -46,4 +46,4 @@ Auf Anfrage 5﻿er-Block € 95 - 125 bzw. Einzelstunden € 20–28 möglich\
 \
 **Buchung als JahresAbo Wintersemester 2024/25 + Sommersemster 2025:**\
 Beinhaltet die Teilnahme am Contact Improvisation advanced Kurs im Wintersemester 2024/25 sowie im Sommersemester 2025 (ca.32 Kurseinheiten a 2,5 Std.) plus Jam am Di-Abend (ca.30 Jams a 2,5 Std.),  sowie zwei einstündige Einzelcoachings mit Christian, ermäßigter Tarif für Wochenend-Workshops \
-**Normalpreis: € 740, Ermäßigungen auf Anfrage**
+**Normalpreis: € 790, Ermäßigungen auf Anfrage**
