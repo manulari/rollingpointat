@@ -18,8 +18,6 @@ Fotocredit: https://johannes-stolba.net/photography/
 
 <div class="imglink"><a target="_blank" href="https://www.youtube.com/embed/kp3DqzN1Ldo"><img src="/assets/uploads/video_vorschau_rollingpoint.png" alt="" /><div>rollingpoint-Video</div></a></div>
 
-
-
 **Achtung: Keine Jam am 18.6. (Schulveranstaltung)**\
 **Letzte Jam vor der Sommerpause am 25.6.2024**
 
@@ -30,33 +28,31 @@ Ein experimentelles rollingpoint Mitmach-Contact Improvisation Outdoor-Projekt
 
 **[2. Termin 2024: Mi 26.6. 18:30-21.00 Campus WU ](https://rollingpoint.at/mycelium)**
 
-#### Ausblick Wintersemester 2024/25:
 
-Die neuen Kurse starten  vom 23.- 26.9.2024\
-Kursinhalte und Tage analog Sommersemester 2024\
-Anmeldung ab Mitte Juni, Schnuppermöglichkeit zu Kursbeginn
 
-### **KURSE SOMMERSEMESTER 2024**
+### **KURSE WINTERSEMESTER 2024/25**
+
+**Kursbeginn  23.- 26.9.2024**
 
 **[1 RELEASZ Tanztraining: ](/somsem24#mo)\*\***[Zeitgenössischer Tanz / CI-light / Somatisches Lernen](/somsem24#mo)\*\* **open level**\
  **mit maRia Probst**\
-**Mo 26.2.- 17.6.2024, 18.30 - 20.15 (ca.14x)**\
+**Mo 23.9.2024 - 27.1.2025, 18.30 - 20.15 (ca.16x)**\
 **Turnsaal VS Gilgegasse 12, 1090 Wien**
 
 **[2 Contact Improvisation Jam ](/somsem24#di)**(kein Kurs, keine Anmeldung erforderlich)\
-**Di 27.2.- 18.6.2024, Jam 18.00 – 20.30 (ca.16x)**\
+**Di 17.9.2024 - 28.1.2025, Jam 18.00 – 20.30 (ca.16x)**\
 **Turnsaal VS Einsiedlergasse 7, 1050 Wien**\
-An folgenden drei Terminen sind auch Beginnerinnen zur Teilnahme an der Jams eingeladen:\
-**19.3., 23.4. und 28.5.2024**, Contact Improvisations Intro für Beginner*innen 17.30 - 18.30.
+An folgenden Terminen sind auch Neueinsteiger*innen zur Teilnahme an der Jams eingeladen:\
+**8.10., 12.11., 20.12.2024, 21.1.2025,** Contact Improvisation Intro für Beginner*innen 17.30 - 18.30.
 
-**[3 Wild and Soft: Contact Improvisation ](/somsem24#mi) advanced**\
+**[3 Into the Deep: Contact Improvisation ](/somsem24#mi) intermediate/advanced**\
 **mit Christian Apschner**\
-**Mi 28.2.- 19.6.2024, 18.00 - 20.30 (ca.15x)**\
+**Mi 24.9.2024 - 29.1.2025, 18.00 - 20.40 (ca.16x)**\
 **Turnsaal VS Einsiedlergasse 7, 1050 Wien**
 
-**[4 Contact Improvisation and -Technique Basics  ](/somsem24#do)beginner**\
+**[4 Falling in Love with CI: Contact Improvisation ](/somsem24#do)beginner**\
 **mit Christian Apschner**\
-**Do 29.2. - 20.6.2024, 18.15 – 20.30 (ca.14x)**\
+**Do 25.9.2024 - 30.1.2025, 18.15 – 20.30 (ca.16x)**\
 **Turnsaal VS Gilgegasse 12, 1090 Wien**
 
 ![Mehr CI auf der Stiege](/assets/uploads/dsc_1941a.jpg "Mehr CI auf der Stiege")
