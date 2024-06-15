@@ -53,3 +53,14 @@ entries:
         path: /impressum
       - title: Datenschutz
         path: /datenschutz
+  - title: /ABENDKURSE WS 2024/25
+    path: /kurse
+    subentries:
+      - title: /RELEASZE Tanztraining
+        path: /releasze
+      - title: /Into the Deep CI adv
+        path: /contactadv
+      - title: /Contact Impro beginner
+        path: /contactbeg
+      - title: /Kursanmeldung
+        path: /Kursanmeldung
