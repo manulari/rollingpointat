@@ -60,3 +60,5 @@ entries:
     subentries:
       - title: Wintersemester 24/25
         path: /wsws2024
+      - title: Rückblick
+        path: /rückblick
