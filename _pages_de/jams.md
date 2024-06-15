@@ -19,8 +19,7 @@ Ankommen ab 18.00, **Eröffnungskreis um 18.30**\
 Teilweise angeleitete warm ups.\
 Ausgewählte Musik und Sound-Scapes in der 2.Hälfte der Jams.
 
-**Kostenbeitrag: Jam einzeln € 7 - 12, Semesterbeitrag: € 100 - 150**\
-Bitte um Kontoüberweisung Bankvbdg.**:** IBAN: AT54 3200 0000 1701 2717, BIC: RLNWATWW, Verein rollingpoint
+**Kostenbeitrag auf Spendenbasis: Jam einzeln € 7 - 12, Semesterbeitrag: € 100 - 150**
 
 An folgenden drei Terminen sind auch Beginnerinnen ohne jegliche CI-Vorerfahrung zur Teilnahme an der Jams eingeladen:\
 **8.10., 12.11., 20.12.2024, 21.1.2025**\
@@ -53,7 +52,7 @@ Ein CI-Tanz ist ein gleichberechtigter körperlicher Dialog, in dem wir uns fort
 „In welche Richtung bewegt sich der Kontaktpunkt?“\
 „Wieviel Unterstützung braucht meine TanzpartnerInnen in diesem Moment?“ u.a.
 
-*Contact Improvisation ist auch ein großartiges Empathie-Lerntool.  Das Kennenlernen der Bewegungssprache der Contact Improvisation in Kursen ist wichtig um Missverständnisse zu vermeiden (da wir uns im Alltag nicht so selbstverständlich berühren, könnte Körperkontakt für manche CI-BeginnerInnen mit Gedanken an sexuelle Aktivitäten assoziiert werden). Oft braucht es einige Zeit um* sich in der Jam-Welt vertraut zu machen und einzuleben. CI ist keine Therapie. Für viele CI-Praktizierende ist das gemeinsame Tanzen aber auch ein wichtiger Lernprozess, der in verschiedenste andere Lebensbereiche integriert werden kann.
+*Contact Improvisation ist auch ein großartiges Empathie-Lerntool. Das Kennenlernen der Bewegungssprache der Contact Improvisation in Kursen ist wichtig um Missverständnisse zu vermeiden (da wir uns im Alltag nicht so selbstverständlich berühren, könnte Körperkontakt für manche CI-BeginnerInnen mit Gedanken an sexuelle Aktivitäten assoziiert werden). Oft braucht es einige Zeit um sich in der Jam-Welt vertraut zu machen und einzuleben. CI ist keine Therapie. Für viele CI-Praktizierende ist das gemeinsame Tanzen aber auch ein wichtiger Lernprozess, der in verschiedenste andere Lebensbereiche integriert werden kann.*
 
 ![](/assets/uploads/img_0198.jpg)
 
