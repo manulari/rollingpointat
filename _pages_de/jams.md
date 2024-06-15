@@ -22,9 +22,9 @@ Ausgewählte Musik und Sound-Scapes in der 2.Hälfte der Jams.
 **Kostenbeitrag: Jam einzeln € 7 - 12, Semesterbeitrag: € 100 - 150**\
 Bitte um Kontoüberweisung Bankvbdg.**:** IBAN: AT54 3200 0000 1701 2717, BIC: RLNWATWW, Verein rollingpoint
 
-An folgenden drei Terminen sind auch Beginnerinnen zur Teilnahme an der Jams eingeladen:\
+An folgenden drei Terminen sind auch Beginnerinnen ohne jegliche CI-Vorerfahrung zur Teilnahme an der Jams eingeladen:\
 ***8.10., 12.11., 20.12.2024, 21.1.2025***\
-Für alle Beginner*innen gibt es dazu eine einstündige Einführung in die Welt der Contact Improvisations-Jams im Zeitraum 17.30 - 18.30. \
+Für alle Beginner*innen gibt es eine einstündige Einführung in die Welt der Contact Improvisations-Jams im Zeitraum 17.30 - 18.30. \
 Kostenbeitrag CI-Intro plus Jam 14 -24 €
 
 <div class="named-anchor" id="special"></div>
