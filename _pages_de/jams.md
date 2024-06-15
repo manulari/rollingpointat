@@ -10,8 +10,6 @@ Die rollingpoint-Jams sind Orte für fokussiertes und freudvolles Contact Impro
 **Achtung: Keine Jam am 18.6. (Schulveranstaltung)**\
 **Letzte Jam vor der Sommerpause am 25.6.2024**
 
-
-
 ## rollingpoint-Jam am Dienstag
 
 **Immer am Dienstag (wenn Schultag) 18.00 - 20.30** \
@@ -25,9 +23,7 @@ Ausgewählte Musik und Sound-Scapes in der 2.Hälfte der Jams.
 Bitte um Kontoüberweisung Bankvbdg.**:** IBAN: AT54 3200 0000 1701 2717, BIC: RLNWATWW, Verein rollingpoint
 
 An folgenden drei Terminen sind auch Beginnerinnen zur Teilnahme an der Jams eingeladen:\
-**19.3.2024**\
-**23.4.2024**\
-**28.5.2024**\
+***8.10., 12.11., 20.12.2024, 21.1.2025***\
 Für alle Beginner*innen gibt es dazu eine einstündige Einführung in die Welt der Contact Improvisations-Jams im Zeitraum 17.30 - 18.30. \
 Kostenbeitrag CI-Intro plus Jam 14 -24 €
 
