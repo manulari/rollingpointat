@@ -27,4 +27,4 @@ Falls aus von rollingpoint nicht beeinflussbaren widrigen Gründen kein Präsenz
 
 &nbsp;
 
-Wir legen in unseren Kursen großen Wert auf Sicherheit und respektvollen Umgang. Damit sich alle Teilnehmenden wohlfühlen und entfalten können, braucht es einen geschützten Raum und klaren Rahmen. Um diesen "Save Space" gewährleisten zu können, obliegt die Letztentscheidung, wer bei welchem Kurs teilnehmen kann, uns TrainerInnen als Verantwortungs-TrägerInnen**.**
+**Wir legen in unseren Kursen großen Wert auf Sicherheit und respektvollen Umgang. Damit sich alle Teilnehmenden wohlfühlen und entfalten können, braucht es einen geschützten Raum und klaren Rahmen. Um diesen "Save Space" gewährleisten zu können, obliegt die Letztentscheidung, wer bei welchem Kurs teilnehmen kann, uns TrainerInnen als Verantwortungs-TrägerInnen.**
