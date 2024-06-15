@@ -5,12 +5,12 @@ language: de
 ---
 **Stundenplan Abendangebote Wintersemester 2024/25**
 
-| Tag    | Zeit            | Lehrer*in                | Titel                                                                     | Ort/Turnsaal                  |
-| ------ | --------------- | ------------------------ | ------------------------------------------------------------------------- | ----------------------------- |
-| **Mo** | **18.30-20.15** | **maRia**                | **[RELEASZ Tanztraining: CI-light/Somatisches Lernen / open level](#mo)** | **Gilgegasse 12, 1090 Wien**  |
-| **Di** | **18.00-20.30** | **Christian maRia u.A.** | **[Contact Improvisation Jam](#di)** (kein Kurs)                          | **Einsiedlerg. 7, 1050 Wien** |
-| **Mi** | **18.00-20.40** | **Christian**            | **[“Into the Deep” Contact Improvisation intermediate/advanced](#mi)**    | **Einsiedlerg. 7, 1050 Wien** |
-| **Do** | **18.15-20.30** | **Christian**            | **["Falling in Love with CI" Contact Improvisation beginner](#do)**       | **Gilgegasse 12, 1090 Wien**  |
+| Tag    | Zeit            | Lehrer*in                | Titel                                                                           | Ort/Turnsaal                  |
+| ------ | --------------- | ------------------------ | ------------------------------------------------------------------------------- | ----------------------------- |
+| **Mo** | **18.30-20.15** | **maRia**                | **[RELEASZ Tanztraining: CI-light/Somatisches Lernen / open level](/releasze)** | **Gilgegasse 12, 1090 Wien**  |
+| **Di** | **18.00-20.30** | **Christian maRia u.A.** | **[Contact Improvisation Jam](/jams)** (kein Kurs)                              | **Einsiedlerg. 7, 1050 Wien** |
+| **Mi** | **18.00-20.40** | **Christian**            | **[“Into the Deep” Contact Improvisation intermediate/advanced](/contactadv)**  | **Einsiedlerg. 7, 1050 Wien** |
+| **Do** | **18.15-20.30** | **Christian**            | **["Falling in Love with CI" Contact Improvisation beginner](/contactbeg)**     | **Gilgegasse 12, 1090 Wien**  |
 
 **Die neuen Kurse starten vom 23.- 26.9.2024**\
 Anmeldung ab Mitte Juni\
