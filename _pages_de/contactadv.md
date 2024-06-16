@@ -9,7 +9,7 @@ Foto: Laurent Ziegler
 
 #### **“Into the Deep” Contact Improvisation - intermediate/advanced**
 
-mit **Christian Apschner**\
+mit **Christian Apschner, Assistenz: Ines Ingerle**\
 **Mi 18.00 - 20.40, 25.9.2024 – 29.1.2025 (ca. 16x)**\
 Turnsaal VS Einsiedlergasse 7, 1050 Wien
 
@@ -21,15 +21,15 @@ Du bringst gute Basiskenntnisse der Contact Improvisation oder artverwandter Bew
 Wie geht es noch leichter und geschmeidiger?\
 Wie finde ich mehr Gestaltungsspielraum im gemeinsamen Tanz?\
 Kann ich gut auf mich hören und gleichzeitig auch gut auf die Impulse meiner Tanzpartner*innen reagieren?\
-Können wir als Gruppe einen gemeinsamen Raum kreiieren und einen performativen Aspekt in die Tänze bringen?\
-Das sind einige Fragen, die wir in dieser Trainingsgruppe thematisieren werden.
+Können wir als Gruppe einen gemeinsamen Raum kreieren und einen performativen Aspekt in die Tänze bringen?\
+An diesen und weiteren Fragen forschen wir in diesem Kurs gemeinsam.
 
-Ein Schwerpunkt des Kurses wird sein, die Technik verschiedenster Lifts und Jumps in allen Raumebenen zu üben und kopfüber auf den Händen zu tanzen. Ziel ist es uns immer leichter dem gemeinsamen Bewegungsfluss hinzugeben und gleichzeitig den Tanz so präsent wahrzunehmen, dass wir ihn spielerisch lenken können.
+Ein Schwerpunkt des Kurses wird sein, die Technik verschiedenster Lifts und Jumps in allen Raumebenen zu üben und kopfüber auf den Händen zu tanzen. Ziel ist es, uns immer leichter dem gemeinsamen Bewegungsfluss hinzugeben und gleichzeitig den Tanz so präsent wahrzunehmen, dass wir ihn spielerisch lenken können.
 
-Jeweils 40 Minuten der Kurseinheiten (fallweise zu Beginn oder auch am Ende) sind der Körperarbeit und Anatomical Release Technique/Ideokinese gewidmet. Anatomische Bilder unterstützen deine Vorstellungskraft und du kannst dir im Zeitverlauf praktische Grundkenntnisse in miteinander kompatiblen Körperarbeitsmethoden (Trager, Ortho-Biomomy, Nuad) aneignen/vertiefen. Das vertiefte Körperwissen lädt dich ein noch bewusster und "liebevoller" mit deinem Körper umzugehen, damit du noch viele Jahre freudvoll tanzen kannst.
+Jeweils 40 Minuten der Kurseinheiten (fallweise zu Beginn oder auch am Ende) sind der Körperarbeit und Anatomical Release Technique/Ideokinese gewidmet.  Anatomische Bilder unterstützen deine Vorstellungskraft. So kannst du dir praktische Grundkenntnisse in unterschiedlichen Körperarbeitsmethoden (Trager, Ortho-Biomomy, Nuad) aneignen. Das vertiefte Körperwissen lädt dich ein, noch bewusster und liebevoller mit deinem Körper umzugehen, damit du viele Jahre freudvoll tanzen kannst.
 
 ***KURSANMELDUNG:***\
-Schreibe uns bitte ein kurzes mail an ci.rollingpoint@gmail.com\
+Schreibe uns bitte ein kurzes Mail an ci.rollingpoint@gmail.com\
 oder verwende folgendes Anmeldeformular\
 <https://forms.gle/D5bwoQwoeueLpRCw7>
 
