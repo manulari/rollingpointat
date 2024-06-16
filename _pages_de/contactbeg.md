@@ -9,7 +9,7 @@ Foto: Laurent Ziegler
 
 #### "Falling in Love with CI"- Contact Improvisation beginner
 
-mit **Christian Apschner**\
+**Christian Apschner und Ines Ingerle (Assistenz)**\
 **Do 18.15 – 20.30, 26.9.2024.- 30.1.2025 (ca. 16x)**\
 Turnsaal VS Gilgegasse 12, 1090 Wien
 
