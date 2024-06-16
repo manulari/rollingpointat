@@ -9,7 +9,7 @@ Foto: Laurent Ziegler
 
 #### **“Into the Deep” Contact Improvisation - intermediate/advanced**
 
-mit **Christian Apschner, Assistenz: Ines Ingerle**\
+mit **Christian Apschner und Ines Ingerle (Assistenz)**\
 **Mi 18.00 - 20.40, 25.9.2024 – 29.1.2025 (ca. 16x)**\
 Turnsaal VS Einsiedlergasse 7, 1050 Wien
 
