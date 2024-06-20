@@ -18,7 +18,7 @@ language: de
 \
 Offene Schnupperstunden zu Kursbeginn (10€/EInheit)
 
-Unsere fortlaufenden Semesterkurse/Trainingsgruppen Mo, Mi und Do Abend laden ein, in einen kontinuierlichen Lernprozess mit Gleichgesinnten einzutauchen. Egal ob als Ausgleich zum Berufsalltag/Studium oder gezielte Aus- und Fortbildung gedacht - das weit gefächerte und fundierte Angebot ermöglicht einer breiten Zielgruppe einen offenen Zugang zu unserer Synthese aus Contact Improvisation, Zeitgenössichem Tanz und Somatischem Lernen. Die seit 2013 bestehende offene rollingpoint Contact Improvisation Jam ist ein beliebter Community-Treffpunkt um frei miteinander Contact Improvisation zu tanzen.
+Unsere fortlaufenden Semesterkurse am Montag, Mittwoch und Donnerstag Abend laden ein, in einen kontinuierlichen Lernprozess mit Gleichgesinnten einzutauchen. Die Angebote sind sowohl als Ausgleich zum Berufsalltag oder Studium gedacht als auch als fundierte Fortbildung, falls du dich tiefer einlassen willst. Die offene rollingpoint Contact Improvisation Jam am Dienstag ist darüber hinaus ein beliebter Treffpunkt, um frei miteinander Contact Improvisation zu tanzen.
 
 Hast du Fragen oder bist du dir nicht sicher, welcher Kurs das richtige für dich ist?
 
