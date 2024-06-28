@@ -18,7 +18,7 @@ Fotocredit: https://johannes-stolba.net/photography/
 
 <div class="imglink"><a target="_blank" href="https://www.youtube.com/embed/kp3DqzN1Ldo"><img src="/assets/uploads/video_vorschau_rollingpoint.png" alt="" /><div>rollingpoint-Video</div></a></div>
 
-**Achtung: Keine Jam am 18.6. (Schulveranstaltung)**\
+\
 **Letzte Jam vor der Sommerpause am 25.6.2024**
 
 ##### Seltsamia“ - Dancing Mycelium
@@ -26,8 +26,9 @@ Fotocredit: https://johannes-stolba.net/photography/
 Exploring Interconnection and Movement Biodiversity\
 Ein experimentelles rollingpoint Mitmach-Contact Improvisation Outdoor-Projekt
 
-**[2. Termin 2024: Mi 26.6. 18:30-21.00 Campus WU ](https://rollingpoint.at/mycelium)**\
-3. Termin: Fr 23.8.2024, Zeitpunkt und Ort wird noch bekanntgegeben
+**[2.Termin 2024: Mi 26.6.2024, 18:30-21.00 Campus WU ](https://rollingpoint.at/mycelium)**
+
+**3.Termin: Fr 23.8.2024, Zeitpunkt und Ort wird noch bekanntgegeben**
 
 ### **KURSE WINTERSEMESTER 2024/25**
 
