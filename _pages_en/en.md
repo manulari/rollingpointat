@@ -18,7 +18,8 @@ other_lang: /
 
 <div class="imglink"><a target="_blank" href="https://www.youtube.com/embed/kp3DqzN1Ldo"><img src="/assets/uploads/video_vorschau_rollingpoint.png" alt="" /><div>rollingpoint film</div></a></div>
 
-**Non-German speakers very welcome. We teach bilingual German and English.**
+**Non-German speakers very welcome.**\
+**We will be teaching bilingual German and English.**
 
 ### Overview Coures/Workshops/Jams/Performances
 
@@ -43,7 +44,7 @@ registration form**:** <https://forms.gle/D5bwoQwoeueLpRCw7>
 **start wed  25.9.2024, 18.00 - 20.40**\
 **Turnsaal VS Einsiedlergasse 7, 1050 Wien**
 
-**[4 thu Contact Improvisation and -Technique Basics](/en/kurse#do)** - **beginner**\
+**[4 thu Falling in Love with CI -Contact Improvisation](/en/kurse#do)**  **beginner**\
 **Christian Apschner**\
 **start thu 26.9.2024, 18.15 – 20.30**\
 **Turnsaal VS Gilgegasse 12, 1090 Wien**
