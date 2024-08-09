@@ -6,18 +6,19 @@ other_lang: /kurse
 ---
 Semester courses 
 
-| day     | time            | teacher             | course                                                               | place                         |
-| ------- | --------------- | ------------------- | -------------------------------------------------------------------- | ----------------------------- |
-| **mo**  | **18.30-20.30** | **maRia**           | **[1 RELEASZ - Contempory Dance and Somatics / open level](#mo)**    | **Gilgegasse 12, 1090 Wien**  |
-| **tue** | **18.00-20.30** | **maRia/Christian** | [](#mie)**[2 Contact Improvisation Jam](#di)**                       | **Einsiedlerg. 7, 1050 Wien** |
-| **wed** | **18.00-20.40** | **Christian u.a.**  | **[3 Wild and Soft - Contact Improvisation / advanced](#mi)**        | **Einsiedlerg. 7, 1050 Wien** |
-| **thu** | **18.15-20.30** | **maRia/Christian** | **[4 Contact Improvisation and -Technique Basics  / beginner](#do)** | **Gilgegasse 12, 1090 Wien**  |
+| day     | time            | teacher             | course                                                            | place                         |
+| ------- | --------------- | ------------------- | ----------------------------------------------------------------- | ----------------------------- |
+| **mo**  | **18.30-20.30** | **maRia**           | **[1 RELEASZ - Contempory Dance and Somatics / open level](#mo)** | **Gilgegasse 12, 1090 Wien**  |
+| **tue** | **18.00-20.30** | **maRia/Christian** | [](#mie)**[2 Contact Improvisation Jam](#di)**                    | **Einsiedlerg. 7, 1050 Wien** |
+| **wed** | **18.00-20.40** | **Christian**       | **[3 Into the Deep - Contact Improvisation / advanced](#mi)**     | **Einsiedlerg. 7, 1050 Wien** |
+| **thu** | **18.15-20.30** | **Christian**       | **[4 Contact Improvisation beginner](#do)**                       | **Gilgegasse 12, 1090 Wien**  |
 
 &nbsp;
 
-**Non-German speakers very welcome. We teach bilingual German and English.**
+**Non-German speakers very welcome.**\
+**We will be teaching bilingual German and English.**
 
-### New courses (summer semester 2024) will be starting from 26.- 29.2.2024
+### New courses (Wintersemester 2024/25) will be starting from 23.- 26.9.2024
 
 <div class="named-anchor" id="mo"></div>
 
@@ -44,7 +45,7 @@ Before the Jam from 17.15 to 18.15 we offer an one hour training focusing on dif
 
 <div class="named-anchor" id="mi"></div>
 
-#### 3 "Wild and Soft" - **Contact Improvisation  advanced**
+#### 3 "Into the Deep" - **Contact Improvisation  advanced**
 
 with **Christian Apschner**\
 **wed 18.00 - 20.40**\
@@ -54,13 +55,11 @@ Lets get physical! We create a connection between the athletic and meditative an
 
 <div class="named-anchor" id="do"></div>
 
-#### 4 Contact Improvisation and -Technique Basics (beginner)
+#### 4 Falling In Love with CI - Contact Improvisation beginner
 
 with **Christian Apschner**\
 **thu 18.15 – 20.30**\
 Turnsaal VS Gilgegasse 12, 1090 Wien
-
-*ongoing study group*
 
 Exploring Contact basics such as rolling, falling, landing, spiraling\
 Giving and taking weight, rolling point of contact\
@@ -75,8 +74,8 @@ Verbal feedback rounds
 **Registration: Please send us an email to ci.rollingpoint@gmail.com**\
 phone Christian +43 650 8931081, maRia +43 650 9510814
 
-**Costs Course 1 ,3 and 4: € 250 (regular), € 210 (reduced), € 170 (students <28a)**\
-**single class**: **€ 27 (regular), € 20 (reduced)**
+**Costs Course 1 ,3 and 4: € 260 (regular), € 220 (reduced), € 180 (students <28a)**\
+**single class**: **€ 28 (regular), € 20 (reduced)**
 
 **Jam € 7 - 12**\
 **Semester Contact Improvisation Jam: € 100 - 150**\
