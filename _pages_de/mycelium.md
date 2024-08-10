@@ -24,12 +24,10 @@ Von der Innstraße 18 aus über die Leystraße bzw. von der Vorgartenstraße 98 
 Koordinaten: 48.2151, 16.4063\
 Treffpunkt: In der Fußgängerzone des WU Campus an der nördlichen Ecke des orangen mit Holzbrettern verkleideten Gebäudes, 3 Gehminuten von U2 Station Messe-Prater. Wir bewegen uns vom Ausgangspunkt in Richtung Grünbereich des Wiener Praters\
 \
-**Fr 23.8.2024, 18:00: Park Freie Mitte / Ehemaliges Nordbahnhofgelände**\
+**Fr 23.8.2024, 17:30: Park Freie Mitte / Ehemaliges Nordbahnhofgelände**\
 Koordinaten: 48.2304, 16.3914\
 Bei der Lagerwiese oberhalb der alten Eisenbahnbrücke\
 Von der Innstraße 18 aus über die Leystraße bzw. von der Vorgartenstraße 98 aus in 150m erreichbar.
-
-
 
 **Weitere Termine folgen!**
 
@@ -66,8 +64,6 @@ Gelegentlich können Fotos und Videoaufnahmen gemacht werden. Für die Veröffen
 
 **Möchtest du unsere Arbeit unterstützen?**\
 Spenden auf unser Vereinskonto IBAN: AT54 3200 0000 1701 2717, BIC: RLNWATWW, Verein rollingpoint, sind gerne willkommen.
-
-
 
 ![](/assets/uploads/dsc00566-2-.jpg)
 
