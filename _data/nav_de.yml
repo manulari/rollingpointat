@@ -26,6 +26,8 @@ entries:
         path: /wsws2024
       - title: Rückblick
         path: /rückblick
+      - title: Winterintensive 2025
+        path: /winterintensive
   - title: CONTACT IMPROVISATION
     path: /contact-improvisation
     subentries:
