@@ -57,7 +57,8 @@ An folgenden Terminen sind auch Neueinsteiger*innen zur Teilnahme an der Jams ei
 **Do 25.9.2024 - 30.1.2025, 18.15 – 20.30 (ca.16x)**\
 **Turnsaal VS Gilgegasse 12, 1090 Wien**
 
-### **WORKSHOPTERMINE:**\
+### **WORKSHOPTERMINE:**
+
 **22.9.2024 [Body-Talks: Moving into Connection](#bodytalks)**\
 **Ein somatischer Kommunikationsworkshop mit Ines Ingerle**\
 \
