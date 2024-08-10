@@ -24,10 +24,10 @@ entries:
     subentries:
       - title: Wintersemester 2024/25
         path: /wsws2024
-      - title: Rückblick
-        path: /rückblick
       - title: Winterintensive 2025
         path: /winterintensive
+      - title: Rückblick
+        path: /rückblick
   - title: CONTACT IMPROVISATION
     path: /contact-improvisation
     subentries:
