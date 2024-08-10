@@ -11,32 +11,21 @@ Fotocredits: He Shao Hui
 
 ## Upcoming Weekend Workshops
 
-**2.+3.9.2023 mit maRia Probst und Christian Apschner (siehe unten)**
-
-**4.+5.11.2023 Contact Improvisation open level mit Christian Apschner**\
-**18.+19.11.2023 mit maRia Probst**\
-**20.+21.1.2024 Contact Flying Skills mit Christian Apschner und Lui Springer**
-
-more details coming soon\
+**22.9.2024 [Body-Talks: Moving into Connection](#bodytalks)**\
+**Ein somatischer Kommunikationsworkshop mit Ines Ingerle**\
+\
+**9./10.11.2024 [Aus dem Vollen schöpfen](#organs) - die Organe als Ressource für Regeneration und Tanz**\
+**mit maRia Probst**\
+\
+**18./19.1.2025 [Liquid Motion - Contact Flying Skills](#flyingskills)**\
+**mit Christan Apschner**\
+\
 &nbsp;
-
-#### **TUNE IN! Contact Improvisation/Somatics/Release Technique**
-
-**Weekend-Workshop 2.+3.9.2023, 10.00-17.00, beginner/open level**\
-**with Christian Apschner and maRia Probst**
-
-We invite you on a journey into the three core elements of our approach to dance. You will learn the basics of **Contact Improvisation** how to give and take weight and to play with the rolling point of contact. With **Somatics** you can rediscover your inherent physical immediacy of being a child in motion and learn to better understand the interaction of muscles, tendons, bones and organs. In **Anatomical Release Technique** you will experience what it feels like to let go of unnecessary tension and release it directly in movement. These movement experiences will help you to find ease, efficiency in free dancing and Contact Improvisation.
-
-We also understand Contact Improvisation as a form of non-verbal communication and encounter, in which we learn to pay equal attention to our own physical and mental needs and limits and those of our dance partners. We would like to give space to these experiences in verbal feedback rounds.
-
-Target group: Anyone who would like to get a first, deeper insight into the world of Contact Improvisation, RELEASZE dance training and Somatics. Also intended as a Contact Improvisation starter kit and orientation workshop. As always, experienced dancers are welcome.
 
 #### **"Contact Flying Skills"** - advanced
 
-**20.+21.1.2024, 10.00-17.00**\
-**with Christian Apschner and Lui Springer**
-
-The rollingpoint workshop classic for all CI dancers with sporting ambitions!
+**18.+19.1.2025, 10.00-17.00**\
+**with Christian Apschner  and support from the rollingpoint team**
 
 This technique-oriented workshop invites CI dancers who would like to engage in flying, falling and acrobatic elements. A main focus of the weekend will be practicing different lifts and jumps and dancing upside down on our hands.
 
@@ -52,8 +41,8 @@ A solid basic CI and dance experience as well as good physical and mental fitnes
 Phone Christian +43650 8931081, maRia +43650 9510814
 
 **Costs:**\
-**€ 200/170/130,-** (supporter/regular/reduced) if payment is made up to 14 days before the start of the workshop\
-**€ 220/190/150,-** (supporter/regular/reduced)
+**€ 200/170/140,-** (supporter/regular/reduced) if payment is made up to 21 days before the start of the workshop\
+**€ 220/190/160,-** (supporter/regular/reduced)
 
 Please pay on our bankaccount\
 IBAN:AT54 3200 0000 1701 2717, BIC: RLNWATWW, Verein rollingpoint
