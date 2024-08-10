@@ -10,6 +10,12 @@ Fotocredits: He Shao Hui
 
 <div class="named-anchor" id="winterintensive"></div>
 
+#### **Winter-Intensive 2025:  10.-13.2. und 17.-20.2.2025**
+
+Detailinformationen folgen
+
+
+
 #### **Winter-Intensive 2024: "Share your Dances. Be in Touch!"**
 
 Zwei Wochen lang jeweils vier Abende gemeinsam loslassen, spüren, bewegen, mit dir selbst und anderen in Kontakt kommen und Contact Improvisation tanzen. Die beiden Wochen bilden eine Einheit mit unterschiedlichem Schwerpunkt, können aber auch getrennt besucht werden.
