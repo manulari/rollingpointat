@@ -29,7 +29,7 @@ Ein experimentelles rollingpoint Mitmach-Contact Improvisation Outdoor-Projekt
 
 **<br>**
 
-**22.9.2024 [Body-Talks: Moving into Connection](/wsws2024#bodytalks)**\
+**22.9.2024 [Body-Talks: Moving into Connection](https://rollingpoint.at/wsws2024#bodytalks)**\
 **Ein somatischer Kommunikationsworkshop mit Ines Ingerle**
 
 ### **KURSE WINTERSEMESTER 2024/25**
@@ -59,13 +59,13 @@ An folgenden Terminen sind auch Neueinsteiger*innen zur Teilnahme an der Jams ei
 
 ### **WORKSHOPTERMINE:**
 
-**22.9.2024 [Body-Talks: Moving into Connection](#bodytalks)**\
+**22.9.2024 [Body-Talks: Moving into Connection](https://rollingpoint.at/wsws2024#bodytalks)**\
 **Ein somatischer Kommunikationsworkshop mit Ines Ingerle**\
 \
-**9./10.11.2024 [Aus dem Vollen schöpfen](#organs) - die Organe als Ressource für Regeneration und Tanz**\
+**9./10.11.2024 [Aus dem Vollen schöpfen](https://rollingpoint.at/wsws2024#organs) - die Organe als Ressource für Regeneration und Tanz**\
 **mit maRia Probst**\
 \
-**18./19.1.2025 [Liquid Motion - Contact Flying Skills](#flyingskills)**\
+**18./19.1.2025 [Liquid Motion - Contact Flying Skills](https://rollingpoint.at/wsws2024#flyingskills)**\
 **mit Christan Apschner und Assistenz**
 
 ![Mehr CI auf der Stiege](/assets/uploads/dsc_1941a.jpg "Mehr CI auf der Stiege")
