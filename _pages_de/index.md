@@ -18,16 +18,19 @@ Fotocredit: https://johannes-stolba.net/photography/
 
 <div class="imglink"><a target="_blank" href="https://www.youtube.com/embed/kp3DqzN1Ldo"><img src="/assets/uploads/video_vorschau_rollingpoint.png" alt="" /><div>rollingpoint-Video</div></a></div>
 
-
-
 ##### Seltsamia“ - Dancing Mycelium
 
 Exploring Interconnection and Movement Biodiversity\
 Ein experimentelles rollingpoint Mitmach-Contact Improvisation Outdoor-Projekt
 
-**[2.Termin 2024: Mi 26.6., 18:30-21.00 Campus WU ](https://rollingpoint.at/mycelium)**
+**2.Termin 2024: Mi 26.6., 18:30-21.00 Campus WU** 
 
-**3.Termin 2024: Fr 23.8., Zeitpunkt und Ort wird noch bekanntgegeben**
+**[3.Termin 2024: Fr 23.8., 18:00-20.30 Park Freie Mitte / Ehemaliges Nordbahnhofgelände](https://rollingpoint.at/mycelium)**
+
+**<br>**
+
+**22.9.2024 [Body-Talks: Moving into Connection](#bodytalks)**\
+**Ein somatischer Kommunikationsworkshop mit Ines Ingerle**
 
 ### **KURSE WINTERSEMESTER 2024/25**
 
@@ -53,6 +56,16 @@ An folgenden Terminen sind auch Neueinsteiger*innen zur Teilnahme an der Jams ei
 **mit Christian Apschner**\
 **Do 25.9.2024 - 30.1.2025, 18.15 – 20.30 (ca.16x)**\
 **Turnsaal VS Gilgegasse 12, 1090 Wien**
+
+### **WORKSHOPTERMINE:**\
+**22.9.2024 [Body-Talks: Moving into Connection](#bodytalks)**\
+**Ein somatischer Kommunikationsworkshop mit Ines Ingerle**\
+\
+**9./10.11.2024 [Aus dem Vollen schöpfen](#organs) - die Organe als Ressource für Regeneration und Tanz**\
+**mit maRia Probst**\
+\
+**18./19.1.2025 [Liquid Motion - Contact Flying Skills](#flyingskills)**\
+**mit Christan Apschner und Assistenz**
 
 ![Mehr CI auf der Stiege](/assets/uploads/dsc_1941a.jpg "Mehr CI auf der Stiege")
 
