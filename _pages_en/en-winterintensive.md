@@ -10,6 +10,10 @@ other_lang: /winterintensive
 
 Fotocredits: He Shao Hui
 
+#### **Winter-Intensive 2025: 10.-13.2. und 17.-20.2.2025**
+
+more information coming soon!
+
 #### **Winter-Intensive 2024  "Share yor Dances. Be in Touch!"**
 
 **week 1: mon - thu  12.- 15.2.2024\
