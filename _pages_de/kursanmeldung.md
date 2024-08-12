@@ -17,7 +17,7 @@ Aus verschiedensten Gründen verfügen wir über kein automatisches Bezahlsystem
 
 Die Kursbeiträge bitte auf unser Konto IBAN: AT54 3200 0000 1701 2717, BIC: RLNWATWW, Verein rollingpoint, überweisen und dein Kursplatz ist gesichert. Sollten die Kurse ausgebucht sein, informieren wir dich rechtzeitig.
 
-Unsere Preise sind sozial gestaffelt. Die jeweiligen Preise sind bei den Beschreibungen der Kurse/Workshops zu finden. Du kannst dich selbst einschätzen, welcher Preiskategorie du zugehörst. Wir möchten allen Interessierten unabhängig von der Einkommenssituation eine Teilnahme an unseren Angeboten ermöglichen.
+Unsere Preise sind sozial gestaffelt. Die jeweiligen Preise sind bei den Beschreibungen der Kurse/Workshops zu finden. Du kannst dich selbst einschätzen, welcher Preiskategorie du zugehörst. Wir möchten allen Interessierten unabhängig von der Einkommenssituation eine Teilnahme an unseren Angeboten ermöglichen. Natürlich darfst du unsere Arbeit auch mit Spenden unterstützen.
 
 ***ORGANISATORISCHES:***
 
