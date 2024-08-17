@@ -1,82 +1,100 @@
 ---
-permalink: /GKT
-title: Ganzheitliches Körpertraining
+permalink: /GANZ
+title: GANZ-Körpertraining
 language: de
 ---
-<!--StartFragment-->
 
-> **Videolink- Ganzheitliches Körpertraining mit maRia Probst:**\
-> **[rollingpoint maRia Probst- Ganzheitliches Körpertraining - YouTube](https://www.youtube.com/watch?v=6A5otnVZAg4)**
+
+> **Videolink- GANZ-Körpertraining mit maRia Probst:**\
+> **[rollingpoint maRia Probst- GANZ-Körpertraining - YouTube](https://www.youtube.com/watch?v=6A5otnVZAg4)**
 >
-> Das  **"Ganzheitliche Körpertraining"** basiert auf Übungen aus dem Qi Gong, Yoga, verschiedenen Somatic Movement Practices und Elementen des zeitgenössischen Tanzes inkl. der Contact Improvisation. Mein zentrales Anliegen darin ist, Kraft, Beweglichkeit und Koordination mithilfe eines körpergerechten Bewegungsverständnisses zu erlangen und dabei auch die Wahrnehmung und Führung von Energieflüssen im Körper  anzusprechen. Der rote Faden des Training ist die Lehre zur Gesunderhaltung der Traditionellen Chinesischen Medizin.
+> **G**anzheitlich, **A**natomie-basiert, **N**achhaltig und **Z**eitgenössisch
 >
-> In den Trainingseinheiten sollen ein wohlwollender Zugang zu sich selbst und zur sanften Erweiterung der eigenen Grenzen im Mittelpunkt stehen.
->
-> Ich
->
-> * greife individuelle Themen auf
-> * beziehe mich auf die jeweilige Jahreszeit und ihr energetisches Potential
-> * spreche sowohl körperliche Strukturen als auch energetische Aspekte von Bewegung an
-> * lege einen Schwerpunkt auf Körperwahrnehmung und Lenkung der Aufmerksamkeit
-> * gehe auf den Zweck der Übungen ein um sie aktiv für sich nutzbar machen zu können
->
-> Bei Buchung und Bezahlung beider Kurse (Frühlings- und Sommertraining) bis zum Beginn des Frühjahrstrainings (oder nach dem Schnuppertermin am 2.3.22) Ermäßigung von €25.-
->
-> Frühjahr/Sommer22: €255.- / erm. €215.-
->
-> **FRÜHJAHRSTRAINING 22 mit maRia Probst**
->
-> **Elastizität, Kraft und Verbundenheit- Training mit Fokus auf dem Fasziensystem**
->
-> **Termine: 2.3-19.5.22 (2.3, 9.3, 16.3, 23.3, 30.3, 6.4, 20.4, 4.5, 11.5, 18.5=10 Termine)**
->
-> **jeweils Mi 9.30-11h**
->
-> **Ort: Studio Friedmanngasse 36, 1160 Wien (Im Hof, hinten re durch die Garage die Holztreppe hoch, am besten das erste mal etwas mehr Zeit einplanen ;-))**
->
-> **Kosten: gesamter Kurs €185.- / erm. €160.- / 5er Block €100.-**
->
-> Die Faszien wurde in den letzten Jahren als faszinierendes System der Wahrnehmung, Regulation und Effizienz "wieder"-entdeckt. Denn die chinesische Medizin arbeitet schon seit Jahrtausenden mit den Tendimuskulären Meridianen, die in vielerlei Hinsicht mit den Faszien des Bewegungsapparates gleichzusetzen sind.
->
-> Der Frühling, die Jahreszeit des Leber u. Gallenblasen Funktionskreislaufes (dem die Versorgung der Faszien zugeschrieben ist) bietet sich an über Federn, Schütteln, raumgreifende und gezielte Übungen, die naturgegebenen und oft sich nach allen Richtungen zerstreuenden Energien des Aufblühens, in fruchtbringende Bahnen zu lenken.
->
-> Die Kursgebühr bitte auf das KONTO:
->
-> IBAN: AT54 3200 0000 1701 2717, BIC: RLNWATWW, Verein rollingpoint
->
-> mit Verwendungszweck GKT_Frühjahrstraining22 überweisen. Wer eine Ermäßigung in Anspruch nehmen will, bitte mit mir rücksprechen. Danke\*\*
->
-> **Bitte um verbindliche Anmeldung per mail unter [tanz@shenmotion.at](mailto:tanz@shenmotion.at) bis M0 28.02.22**
->
-> Für Alle, die meine Arbeit nicht kennen ist ein unverbindliches Schnuppern um €10.- (bitte auch dafür um verbindliche Anmeldung!) am besten zum ersten Termin möglich\*\*
->
-> Fragen und Rückmeldungen gerne unter [tanz@shenmotion.at](mailto:tanz@shenmotion.at) oder 0650 9510814
->
-> **SOMMERTRAINING 22 mit maRia Probst** 
->
-> **Weite im Brustkorb, integrierte Arme und mit dem Boden verbunden- der Sommer im Zeichen des Herz Funktionskreislaufes**  
->
-> **Termine: 25.5 - 22.06.22 (5 Termine) jeweils Mi 9.30-11h**
->
-> **Ort: Studio Friedmanngasse 36, 1160 Wien (Im Hof, hinten re durch die Garage die Holztreppe hoch, am besten das erste mal etwas mehr Zeit einplanen ;-)**
->
-> **Kosten: gesamter Kurs € 95.-/ erm. €80.-**
->
-> In der chinesischen Medizin steht der Sommer im Zeichen des Herz/Dünndarm Funktionskreislaufes und der Freude. Demzufolge werden wir uns der Arm Integration, dem Öffnen des Brustkorbs und der Verbindung durch unser Skelett- und Organsystem mit dem Boden widmen. Dem Herzen werden wir dabei besonders Raum geben.
->
-> Die Kursgebühr bitte auf das KONTO: IBAN: AT54 3200 0000 1701 2717, BIC: RLNWATWW, Verein rollingpoint mit Verwendungszweck GKT_Sommertraining22 überweisen. Wer eine Ermäßigung in Anspruch nehmen will, bitte mit mir rücksprechen. Danke\*\*
->
-> **Bitte um verbindliche Anmeldung per mail unter [tanz@shenmotion.at](mailto:tanz@shenmotion.at) bis M0 23.05.22**
->
-> Für Alle, die meine Arbeit nicht kennen ist ein unverbindliches Schnuppern um €10.- (bitte auch dafür um verbindliche Anmeldung!) am besten zum ersten Termin möglich\*\*
->
-> Fragen und Rückmeldungen gerne unter [tanz@shenmotion.at](mailto:tanz@shenmotion.at) oder 0650 951081
->
-> \
-> *Stornobedingungen\
-> Stornierungen werden grundsätzlich und ausschließlich nur schriftlich entgegen genommen. Solltest Du an der Teilnahme an einer bereits gebuchten Veranstaltung verhindert sein, so teile mir das bitte umgehend und schriftlich mit. Du hast jederzeit das Recht, eine ErsatzteilnehmerIn zu nennen. Solltest Du an der Teilnahme verhindert sein und keine ErsatzteilnehmerIn nennen, so kannst Du die Teilnahme an dieser Veranstaltung, bis sieben Tage vor Kursbeginn kostenlos stornieren. Ab dem sechsten Tag bis zu einem Tag vor Kursbeginn werden 50% einbehalten, bei Stornierungen am Kurstag selbst, wird der gesamte Kursbeitrag fällig.\*\*\
-> Widerrufsrecht für private Kunden\
-> Erfolgt die Buchung einer Veranstaltung im Fernabsatz, insbesondere also telefonisch, per Fax, per E-Mail oder online, steht dem/der Teilnehmenden im Sinne des FAGG ein gesetzliches Rücktrittsrecht binnen 14 Tagen ab Vertragsabschluss zu. Um Dein Widerrufsrecht auszuüben, musst Du mich, Maria Probst, Floridusgasse 30/2/3, 1210 Wien t:[+43-650 9510814](<>) e: [tanz@shenmotion.at ](mailto:hdb.kurse@dibk.at)mittels einer eindeutigen Erklärung (einem mit der Post versandten Brief oder per E-Mail) über Deinen Entschluss, diesen Vertrag zu widerrufen, informieren.*
+> Entspannen, Loslassen und Wahrnehmen – Aktivieren und Kräftigen – Bewegungsfluss und Koordination finden – Alles in einem? Ja! maRia bringt in diesen Kurs ihre Kompetenz als erfahrene Trainerin mit Hintergrund in traditioneller chinesischer Medizin ein und lässt daraus ein in dieser Form einzigartiges, ganzheitliches und zeitgemäßes Trainingserlebnis entstehen. Am Ende der Einheit steht einfach los tanzen am Programm!
+
+
+
+####  **GANZ-Körpertraining & los tanzen!**
+
+**HERBST TRAINING 24**
+
+**25.09, 02.10, 09.10.24, 3xPause, 06.11, 13.11, 20.11, 27.11, 04.12 (7 Termine)**
+
+**9.20-11.10h**
+
+**ACHTUNG NEUES STUDIO:**
+
+Werkstatt Krähe
+1070 Wien, Westbahnstraße 7
+
+http://www.werkstattkraehe.at/ort.html
+
+**WINTER TRAINING 24/25**
+
+**11.12, 18.12.24, 08.01, 15.01, 22.01, 29.01.25 (6 Termine)**
+
+**9.20-11.10h**
+
+Werkstatt Krähe
+
+**ACHTUNG: Wer sich bis 16.09.24 per mail unter probst.maria@gmx.at für das GESAMTPAKET Herbst / Winter 24/25 anmeldet und die Kursgebühr überwiesen hat, kann den günstigeren Tarif** 
+
+**GESAMTPAKET €315.- / ermäßigt €275.-**
+
+**wählen :-)**
+
+**KONTOVERBINDUNG:**\
+Maria Probst, IBAN: AT74 6000 0000 7219 2427, Zahlungsreferenz: GANZ  Herbst/Winter 24/25
+
+Das  **"GANZ - Körpertraining"** basiert auf Übungen aus dem Qi Gong, Yoga, verschiedenen Somatic Movement Practices und Elementen des zeitgenössischen Tanzes inkl. der Contact Improvisation. Mein zentrales Anliegen darin ist, Kraft, Beweglichkeit und Koordination mithilfe eines körpergerechten Bewegungsverständnisses zu erlangen. Ein wesentlicher Aspekt des Trainings ist die Lehre zur Gesunderhaltung der Traditionellen Chinesischen Medizin. In den Trainingseinheiten sollen ein freundlicher Zugang zu sich selbst und zur sanften Erweiterung der eigenen Grenzen im Mittelpunkt stehen. Am Ende jeder Einheit tanzen wir, zu ausgewählter Musik, alles raus was sich noch verspannt anfühlt!
+
+**HERBST TRAINING 24**
+
+**25.09, 02.10, 09.10.24, 3xPause, 06.11, 13.11, 20.11, 27.11, 04.12 (7 Termine)**
+
+**9.20-11.10h / Werkstatt KRÄHE**
+
+**sammeln, bewahren, loslassen, ein freier Atemfluss der unserer Abwehrkraft stärkt und wie wir mit Leichtigkeit beweglicher werden, stehen im Mittelpunkt des HERBSTTRAININGS**
+
+**Kosten: gesamter Kurs €190.- / erm. €170.- / 5er Block €140.-**
+
+Die Kursgebühr bitte auf das KONTO:
+
+IBAN: AT54 3200 0000 1701 2717, BIC: RLNWATWW, Verein rollingpoint
+
+mit Verwendungszweck GANZ-Herbst 24 überweisen. Wer eine Ermäßigung in Anspruch nehmen will, bitte mit mir rücksprechen. Danke\*\*
+
+**Bitte um verbindliche Anmeldung per mail unter [](mailto:tanz@shenmotion.at)probst.maria@gmx.at bis M0 23.09.23**
+
+Für Alle, die meine Arbeit nicht kennen ist ein unverbindliches Schnuppern um €10.- (bitte auch dafür um verbindliche Anmeldung!) am besten zum ersten Termin möglich\*\*
+
+Fragen und Rückmeldungen gerne unter [](mailto:tanz@shenmotion.at)probst.maria@gmx.at oder 0650 9510814
+
+
+
+**WINTERTRAINING 24/25 mit maRia Probst** 
+
+**Die Organe als Ressource für Regeneration und Aufrichtung**
+
+**11.12, 18.12.24, 08.01, 15.01, 22.01, 29.01.25 (6 Termine)**
+
+**9.20-11.10h**
+
+Werkstatt Krähe
+
+**Kosten: gesamter Kurs € 165.-/ erm. €145.-**
+
+**Bitte um verbindliche Anmeldung per mail unter [](mailto:tanz@shenmotion.at)probst.maria@gmx. bis M0 09.12.24**
+
+Für Alle, die meine Arbeit nicht kennen ist ein unverbindliches Schnuppern um €10.- (bitte auch dafür um verbindliche Anmeldung!) am besten zum ersten Termin möglich\*\*
+
+Fragen und Rückmeldungen gerne unter [tanz@shenmotion.at](mailto:tanz@shenmotion.at) oder 0650 951081
+
+\
+*Stornobedingungen\
+Stornierungen werden grundsätzlich und ausschließlich nur schriftlich entgegen genommen. Solltest Du an der Teilnahme an einer bereits gebuchten Veranstaltung verhindert sein, so teile mir das bitte umgehend und schriftlich mit. Du hast jederzeit das Recht, eine ErsatzteilnehmerIn zu nennen. Solltest Du an der Teilnahme verhindert sein und keine ErsatzteilnehmerIn nennen, so kannst Du die Teilnahme an dieser Veranstaltung, bis sieben Tage vor Kursbeginn kostenlos stornieren. Ab dem sechsten Tag bis zu einem Tag vor Kursbeginn werden 50% einbehalten, bei Stornierungen am Kurstag selbst, wird der gesamte Kursbeitrag fällig.\*\*\
+Widerrufsrecht für private Kunden\
+Erfolgt die Buchung einer Veranstaltung im Fernabsatz, insbesondere also telefonisch, per Fax, per E-Mail oder online, steht dem/der Teilnehmenden im Sinne des FAGG ein gesetzliches Rücktrittsrecht binnen 14 Tagen ab Vertragsabschluss zu. Um Dein Widerrufsrecht auszuüben, musst Du mich, Maria Probst, Floridusgasse 30/2/3, 1210 Wien t:[+43-650 9510814](<>) e: [tanz@shenmotion.at ](mailto:hdb.kurse@dibk.at)mittels einer eindeutigen Erklärung (einem mit der Post versandten Brief oder per E-Mail) über Deinen Entschluss, diesen Vertrag zu widerrufen, informieren.*
 
 <!--EndFragment-->
 
