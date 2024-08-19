@@ -37,4 +37,6 @@ Offene Schnupperstunden in den ersten zwei Kurswochen um €10 pro Einheit (max.
 \
 Bei Buchung von mehr als einem Kurs minus € 30 ab dem 2.Kurs\
 \
-Auf Anfrage 5﻿er-Block € 95 - 125 bzw. Einzelstunden € 20–28 möglich
+Auf Anfrage 5﻿er-Block € 95 - 125 bzw. Einzelstunden € 20–28 möglich.\
+\
+Die Kursbeiträge bitte auf unser Konto IBAN: AT54 3200 0000 1701 2717, BIC: RLNWATWW, Verein rollingpoint, überweisen und dein Kursplatz ist gesichert.
