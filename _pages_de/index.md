@@ -30,7 +30,7 @@ Ein experimentelles rollingpoint Mitmach-Contact Improvisation Outdoor-Projekt
 **<br>**
 
 **22.9.2024 [Body-Talks: Moving into Connection](https://rollingpoint.at/wsws2024#bodytalks)**\
-**Ein somatischer Kommunikationsworkshop mit Ines Ingerle**
+**Ein bewegter Kommunikationsworkshop mit Ines Ingerle und maRia Probst (Assistenz)**
 
 ### **KURSE WINTERSEMESTER 2024/25**
 
