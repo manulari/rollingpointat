@@ -47,3 +47,5 @@ Auf Anfrage 5﻿er-Block € 95 - 125 bzw. Einzelstunden € 20–28 möglich\
 **Buchung als JahresAbo Wintersemester 2024/25 + Sommersemster 2025:**\
 Beinhaltet die Teilnahme am Contact Improvisation advanced Kurs im Wintersemester 2024/25 sowie im Sommersemester 2025 (ca.32 Kurseinheiten a 2,5 Std.) plus Jam am Di-Abend (ca.30 Jams a 2,5 Std.),  sowie zwei einstündige Einzelcoachings mit Christian, ermäßigter Tarif für Wochenend-Workshops \
 **Normalpreis: € 790, Ermäßigungen auf Anfrage**
+
+Die Kursbeiträge bitte auf unser Konto IBAN: AT54 3200 0000 1701 2717, BIC: RLNWATWW, Verein rollingpoint, überweisen und dein Kursplatz ist gesichert.
