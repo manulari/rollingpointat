@@ -24,7 +24,7 @@ Ankommen ab 18.00, **Eröffnungskreis um 18.30**\
 Teilweise angeleitete warm ups.\
 Ausgewählte Musik und Sound-Scapes in der 2.Hälfte der Jams.
 
-**Kostenbeitrag auf Spendenbasis: Jam einzeln € 7 - 12, Semesterbeitrag: € 100 - 150**
+**Kostenbeitrag auf Spendenbasis: Jam einzeln € 8 - 12, Semesterbeitrag: € 100 - 150**
 
 An folgenden drei Terminen sind auch Beginnerinnen ohne jegliche CI-Vorerfahrung zur Teilnahme an der Jams eingeladen:\
 **8.10., 12.11., 20.12.2024, 21.1.2025**\
