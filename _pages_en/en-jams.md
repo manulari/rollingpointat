@@ -13,7 +13,7 @@ The regular rollingpoint Contact Improvisation Jam takes place\
 **every Tuesday when schoolday 18.00 - 20.30, opening circle 18.30**\
 in the nice gym of the school **VS Einsiedlergasse 7, 1050 Wien.**
 
-**Costs donation based:  € 7 - 12€**\
+**Costs donation based:  € 8 - 12€**\
 Please pay on our bank account IBAN: AT54 3200 0000 1701 2717, BIC: RLNWATWW, Verein rollingpoint
 
 ### **Notes about safety in the CI jam:**
