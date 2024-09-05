@@ -9,10 +9,7 @@ language: en
 
 Fotocredits: He Shao Hui
 
-## Upcoming Weekend Workshops
-
-**22.9.2024 [Body-Talks: Moving into Connection](#bodytalks)**\
-**Ein somatischer Kommunikationsworkshop mit Ines Ingerle**\
+## Upcoming Weekend Workshops\
 \
 **9./10.11.2024 [Aus dem Vollen schöpfen](#organs) - die Organe als Ressource für Regeneration und Tanz**\
 **mit maRia Probst**\
