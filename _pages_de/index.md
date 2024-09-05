@@ -18,17 +18,6 @@ Fotocredit: https://johannes-stolba.net/photography/
 
 <div class="imglink"><a target="_blank" href="https://www.youtube.com/embed/kp3DqzN1Ldo"><img src="/assets/uploads/video_vorschau_rollingpoint.png" alt="" /><div>rollingpoint-Video</div></a></div>
 
-##### Seltsamia“ - Dancing Mycelium
-
-Exploring Interconnection and Movement Biodiversity\
-Ein experimentelles rollingpoint Mitmach-Contact Improvisation Outdoor-Projekt
-
-**2.Termin 2024: Mi 26.6., 18.30-21.00 Campus WU** 
-
-**[3.Termin 2024: Fr 23.8., 17.30-20.00 Park Freie Mitte / Ehemaliges Nordbahnhofgelände](https://rollingpoint.at/mycelium)**
-
-**<br>**
-
 ### **KURSE WINTERSEMESTER 2024/25**
 
 **Kursbeginn  23.- 26.9.2024**
