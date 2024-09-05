@@ -29,9 +29,6 @@ Ein experimentelles rollingpoint Mitmach-Contact Improvisation Outdoor-Projekt
 
 **<br>**
 
-**22.9.2024 [Body-Talks: Moving into Connection](https://rollingpoint.at/wsws2024#bodytalks)**\
-**Ein bewegter Kommunikationsworkshop mit Ines Ingerle und maRia Probst (Assistenz)**
-
 ### **KURSE WINTERSEMESTER 2024/25**
 
 **Kursbeginn  23.- 26.9.2024**
@@ -56,10 +53,7 @@ An folgenden Terminen sind auch Neueinsteiger*inne*n zur Teilnahme an der Jams e
 **Do 25.9.2024 - 30.1.2025, 18.15 – 20.30 (ca.16x)**\
 **Turnsaal VS Gilgegasse 12, 1090 Wien**
 
-### **WORKSHOPTERMINE:**
-
-**22.9.2024 [Body-Talks: Moving into Connection](https://rollingpoint.at/wsws2024#bodytalks)**\
-**Ein somatischer Kommunikationsworkshop mit Ines Ingerle**\
+### **WORKSHOPTERMINE:**\
 \
 **9./10.11.2024 [Aus dem Vollen schöpfen](https://rollingpoint.at/wsws2024#organs) - die Organe als Ressource für Regeneration und Tanz**\
 **mit maRia Probst**\
