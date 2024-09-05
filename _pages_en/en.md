@@ -53,9 +53,6 @@ registration form**:** <https://forms.gle/D5bwoQwoeueLpRCw7>
 
 ### Weekend-Workshops:
 
-**22.9.2024: Body Talks -Moving into Connection  - Somatics, Dance and Communication**\
-with Ines Ingerle and maRia Probst (support)
-
 **9.+10.11.2024: Our Organs as Ressource for Dance and Regeneration**\
 with maRia Probst
 
