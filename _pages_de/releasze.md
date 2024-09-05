@@ -9,7 +9,7 @@ Foto: Ines Ingerle
 
 #### RELEASZ Tanztraining: Zeitgenössischer Tanz / CI-light / Somatisches Lernen
 
-***open level*** mit **maRia Probst und Ines Ingerle (Assistenz)**\
+***open level*** mit **maRia Probst**\
 **Mo 18.30 - 20.15, 23.9.2024 – 27.1.2025 (ca. 16x)**\
 Turnsaal VS Gilgegasse 12, 1090 Wien
 
