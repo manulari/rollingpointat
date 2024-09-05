@@ -53,7 +53,8 @@ An folgenden Terminen sind auch Neueinsteiger*inne*n zur Teilnahme an der Jams e
 **Do 25.9.2024 - 30.1.2025, 18.15 – 20.30 (ca.16x)**\
 **Turnsaal VS Gilgegasse 12, 1090 Wien**
 
-### **WORKSHOPTERMINE:**\
+### **WORKSHOPTERMINE:**
+
 **9./10.11.2024 [Aus dem Vollen schöpfen](https://rollingpoint.at/wsws2024#organs) - die Organe als Ressource für Regeneration und Tanz**\
 **mit maRia Probst**\
 \
