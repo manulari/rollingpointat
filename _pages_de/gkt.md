@@ -43,8 +43,6 @@ Maria Probst, IBAN: AT74 6000 0000 7219 2427, Zahlungsreferenz: GANZ  Herbst/Win
 * In den Trainingseinheiten sollen ein freundlicher Zugang zu sich selbst und zur sanften Erweiterung der eigenen Grenzen im Mittelpunkt stehen. 
 * Am Ende jeder Einheit tanzen wir, zu ausgewählter Musik, alles raus was sich noch verspannt anfühlt!
 
-
-
 #### **HERBST TRAINING**
 
 **25.09, 02.10, 09.10.24, 3xPause, 06.11, 13.11, 20.11, 27.11, 04.12 (7 Termine) 9.20-11.10h**
@@ -91,7 +89,7 @@ Fragen und Rückmeldungen gerne unter probst.maria@gmx.at oder 0650 951081
 *Stornobedingungen\
 Stornierungen werden grundsätzlich und ausschließlich nur schriftlich entgegen genommen. Solltest Du an der Teilnahme an einer bereits gebuchten Veranstaltung verhindert sein, so teile mir das bitte umgehend und schriftlich mit. Du hast jederzeit das Recht, eine ErsatzteilnehmerIn zu nennen. Solltest Du an der Teilnahme verhindert sein und keine ErsatzteilnehmerIn nennen, so kannst Du die Teilnahme an dieser Veranstaltung, bis sieben Tage vor Kursbeginn kostenlos stornieren. Ab dem sechsten Tag bis zu einem Tag vor Kursbeginn werden 50% einbehalten, bei Stornierungen am Kurstag selbst, wird der gesamte Kursbeitrag fällig.\*\*\
 Widerrufsrecht für private Kunden\
-Erfolgt die Buchung einer Veranstaltung im Fernabsatz, insbesondere also telefonisch, per Fax, per E-Mail oder online, steht dem/der Teilnehmenden im Sinne des FAGG ein gesetzliches Rücktrittsrecht binnen 14 Tagen ab Vertragsabschluss zu. Um Dein Widerrufsrecht auszuüben, musst Du mich, Maria Probst, Floridusgasse 30/2/3, 1210 Wien t:[+43-650 9510814](<>) e: [tanz@shenmotion.at ](mailto:hdb.kurse@dibk.at)mittels einer eindeutigen Erklärung (einem mit der Post versandten Brief oder per E-Mail) über Deinen Entschluss, diesen Vertrag zu widerrufen, informieren.*
+Erfolgt die Buchung einer Veranstaltung im Fernabsatz, insbesondere also telefonisch, per Fax, per E-Mail oder online, steht dem/der Teilnehmenden im Sinne des FAGG ein gesetzliches Rücktrittsrecht binnen 14 Tagen ab Vertragsabschluss zu. Um Dein Widerrufsrecht auszuüben, musst Du mich, Maria Probst, Floridusgasse 30/2/3, 1210 Wien t:[+43-650 9510814](<>) e: [](mailto:hdb.kurse@dibk.at)probst.maria@gmx.at mittels einer eindeutigen Erklärung (einem mit der Post versandten Brief oder per E-Mail) über Deinen Entschluss, diesen Vertrag zu widerrufen, informieren.*
 
 <!--EndFragment-->
 
