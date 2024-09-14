@@ -1,10 +1,8 @@
 ---
-permalink: /GANZ-Körpertraining
+permalink: /GANZ Training
 title: GANZ-Körpertraining
 language: de
 ---
-
-
 > **Videolink- GANZ-Körpertraining mit maRia Probst:**\
 > **[rollingpoint maRia Probst- GANZ-Körpertraining - YouTube](https://www.youtube.com/watch?v=6A5otnVZAg4)**
 >
@@ -12,9 +10,7 @@ language: de
 >
 > Entspannen, Loslassen und Wahrnehmen – Aktivieren und Kräftigen – Bewegungsfluss und Koordination finden – Alles in einem? Ja! maRia bringt in diesen Kurs ihre Kompetenz als erfahrene Trainerin mit Hintergrund in traditioneller chinesischer Medizin ein und lässt daraus ein in dieser Form einzigartiges, ganzheitliches und zeitgemäßes Trainingserlebnis entstehen. Am Ende der Einheit steht einfach los tanzen am Programm!
 
-
-
-####  **GANZ-Körpertraining & los tanzen!**
+#### **GANZ-Körpertraining & los tanzen!**
 
 **HERBST TRAINING 24**
 
@@ -64,13 +60,11 @@ IBAN: AT54 3200 0000 1701 2717, BIC: RLNWATWW, Verein rollingpoint
 
 mit Verwendungszweck GANZ-Herbst 24 überweisen. Wer eine Ermäßigung in Anspruch nehmen will, bitte mit mir rücksprechen. Danke\*\*
 
-**Bitte um verbindliche Anmeldung per mail unter [](mailto:tanz@shenmotion.at)probst.maria@gmx.at bis M0 23.09.23**
+**Bitte um verbindliche Anmeldung per mail unter** [](mailto:tanz@shenmotion.at)**probst.maria@gmx.at bis M0 23.09.23**
 
 Für Alle, die meine Arbeit nicht kennen ist ein unverbindliches Schnuppern um €10.- (bitte auch dafür um verbindliche Anmeldung!) am besten zum ersten Termin möglich\*\*
 
 Fragen und Rückmeldungen gerne unter [](mailto:tanz@shenmotion.at)probst.maria@gmx.at oder 0650 9510814
-
-
 
 **WINTERTRAINING 24/25 mit maRia Probst** 
 
@@ -84,11 +78,11 @@ Werkstatt Krähe
 
 **Kosten: gesamter Kurs € 165.-/ erm. €145.-**
 
-**Bitte um verbindliche Anmeldung per mail unter [](mailto:tanz@shenmotion.at)probst.maria@gmx. bis M0 09.12.24**
+**Bitte um verbindliche Anmeldung per mail unter** [](mailto:tanz@shenmotion.at)**probst.maria@gmx. bis M0 09.12.24**
 
 Für Alle, die meine Arbeit nicht kennen ist ein unverbindliches Schnuppern um €10.- (bitte auch dafür um verbindliche Anmeldung!) am besten zum ersten Termin möglich\*\*
 
-Fragen und Rückmeldungen gerne unter [tanz@shenmotion.at](mailto:tanz@shenmotion.at) oder 0650 951081
+Fragen und Rückmeldungen gerne unter probst.maria@gmx.at oder 0650 951081
 
 \
 *Stornobedingungen\
