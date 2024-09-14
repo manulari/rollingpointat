@@ -37,7 +37,13 @@ Werkstatt Krähe
 **KONTOVERBINDUNG:**\
 Maria Probst, IBAN: AT74 6000 0000 7219 2427, Zahlungsreferenz: GANZ  Herbst/Winter 24/25
 
-Das  **"GANZ - Körpertraining"** basiert auf Übungen aus dem Qi Gong, Yoga, verschiedenen Somatic Movement Practices und Elementen des zeitgenössischen Tanzes inkl. der Contact Improvisation. Mein zentrales Anliegen darin ist, Kraft, Beweglichkeit und Koordination mithilfe eines körpergerechten Bewegungsverständnisses zu erlangen. Ein wesentlicher Aspekt des Trainings ist die Lehre zur Gesunderhaltung der Traditionellen Chinesischen Medizin. In den Trainingseinheiten sollen ein freundlicher Zugang zu sich selbst und zur sanften Erweiterung der eigenen Grenzen im Mittelpunkt stehen. Am Ende jeder Einheit tanzen wir, zu ausgewählter Musik, alles raus was sich noch verspannt anfühlt!
+* Das  **"GANZ - Körpertraining"** basiert auf Übungen aus dem Qi Gong, Yoga, verschiedenen Somatic Movement Practices und Elementen des zeitgenössischen Tanzes inkl. der Contact Improvisation. 
+* Mein zentrales Anliegen darin ist, Kraft, Beweglichkeit und Koordination mithilfe eines körpergerechten Bewegungsverständnisses zu erlangen. 
+* Ein wesentlicher Aspekt des Trainings ist die Lehre zur Gesunderhaltung der Traditionellen Chinesischen Medizin. 
+* In den Trainingseinheiten sollen ein freundlicher Zugang zu sich selbst und zur sanften Erweiterung der eigenen Grenzen im Mittelpunkt stehen. 
+* Am Ende jeder Einheit tanzen wir, zu ausgewählter Musik, alles raus was sich noch verspannt anfühlt!
+
+
 
 #### **HERBST TRAINING**
 
