@@ -10,13 +10,9 @@ language: de
 >
 > Entspannen, Loslassen und Wahrnehmen – Aktivieren und Kräftigen – Bewegungsfluss und Koordination finden – Alles in einem? Ja! maRia bringt in diesen Kurs ihre Kompetenz als erfahrene Trainerin mit Hintergrund in traditioneller chinesischer Medizin ein und lässt daraus ein in dieser Form einzigartiges, ganzheitliches und zeitgemäßes Trainingserlebnis entstehen. Am Ende der Einheit steht einfach los tanzen am Programm!
 
-#### **GANZ-Körpertraining & los tanzen!**
+#### **GANZ-Körpertraining & los tanzen! HERBST TRAINING**
 
-**HERBST TRAINING 24**
-
-**25.09, 02.10, 09.10.24, 3xPause, 06.11, 13.11, 20.11, 27.11, 04.12 (7 Termine)**
-
-**9.20-11.10h**
+**25.09, 02.10, 09.10.24, 3xPause, 06.11, 13.11, 20.11, 27.11, 04.12 (7 Termine) 9.20-11.10h**
 
 **ACHTUNG NEUES STUDIO:**
 
@@ -25,13 +21,12 @@ Werkstatt Krähe
 
 http://www.werkstattkraehe.at/ort.html
 
-**WINTER TRAINING 24/25**
+#### **GANZ-Körpertraining & los tanzen! WINTER TRAINING**
 
-**11.12, 18.12.24, 08.01, 15.01, 22.01, 29.01.25 (6 Termine)**
-
-**9.20-11.10h**
+**11.12, 18.12.24, 08.01, 15.01, 22.01, 29.01.25 (6 Termine) 9.20-11.10h**
 
 Werkstatt Krähe
+1070 Wien, Westbahnstraße 7
 
 **ACHTUNG: Wer sich bis 16.09.24 per mail unter probst.maria@gmx.at für das GESAMTPAKET Herbst / Winter 24/25 anmeldet und die Kursgebühr überwiesen hat, kann den günstigeren Tarif** 
 
@@ -44,11 +39,11 @@ Maria Probst, IBAN: AT74 6000 0000 7219 2427, Zahlungsreferenz: GANZ  Herbst/Win
 
 Das  **"GANZ - Körpertraining"** basiert auf Übungen aus dem Qi Gong, Yoga, verschiedenen Somatic Movement Practices und Elementen des zeitgenössischen Tanzes inkl. der Contact Improvisation. Mein zentrales Anliegen darin ist, Kraft, Beweglichkeit und Koordination mithilfe eines körpergerechten Bewegungsverständnisses zu erlangen. Ein wesentlicher Aspekt des Trainings ist die Lehre zur Gesunderhaltung der Traditionellen Chinesischen Medizin. In den Trainingseinheiten sollen ein freundlicher Zugang zu sich selbst und zur sanften Erweiterung der eigenen Grenzen im Mittelpunkt stehen. Am Ende jeder Einheit tanzen wir, zu ausgewählter Musik, alles raus was sich noch verspannt anfühlt!
 
-**HERBST TRAINING 24**
+#### **HERBST TRAINING**
 
-**25.09, 02.10, 09.10.24, 3xPause, 06.11, 13.11, 20.11, 27.11, 04.12 (7 Termine)**
+**25.09, 02.10, 09.10.24, 3xPause, 06.11, 13.11, 20.11, 27.11, 04.12 (7 Termine) 9.20-11.10h**
 
-**9.20-11.10h / Werkstatt KRÄHE**
+**Werkstatt KRÄHE**
 
 **sammeln, bewahren, loslassen, ein freier Atemfluss der unserer Abwehrkraft stärkt und wie wir mit Leichtigkeit beweglicher werden, stehen im Mittelpunkt des HERBSTTRAININGS**
 
@@ -66,7 +61,9 @@ Für Alle, die meine Arbeit nicht kennen ist ein unverbindliches Schnuppern um �
 
 Fragen und Rückmeldungen gerne unter [](mailto:tanz@shenmotion.at)probst.maria@gmx.at oder 0650 9510814
 
-**WINTERTRAINING 24/25 mit maRia Probst** 
+#### **WINTER TRAINING**
+
+**11.12, 18.12.24, 08.01, 15.01, 22.01, 29.01.25 (6 Termine) 9.20-11.10h**
 
 **Die Organe als Ressource für Regeneration und Aufrichtung**
 
