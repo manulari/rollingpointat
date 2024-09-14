@@ -1,5 +1,5 @@
 ---
-permalink: /GANZ
+permalink: /GANZ-Körpertraining
 title: GANZ-Körpertraining
 language: de
 ---
