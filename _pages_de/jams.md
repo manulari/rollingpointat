@@ -11,8 +11,7 @@ Foto: Ines Ingerle
 
 Die rollingpoint-Jams sind Orte für fokussiertes und freudvolles Contact Improvisation-Tanzen. Wir achten darauf, einen gemeinsamen Raum zu halten, in dem sich alle sicher fühlen und erwarten von den Teilnehmenden, CI-Kurserfahrungen im Sinne von Grundkenntnissen. (Hinweise zur Sicherheit in den rollingpoint-Jams siehe unten).
 
-**Achtung: Keine Jam am 18.6. (Schulveranstaltung)**\
-**Letzte Jam vor der Sommerpause am 25.6.2024**\
+\
 **Erste Jam nach der Sommerpause 17.9.2024**
 
 ## rollingpoint-Jam am Dienstag
