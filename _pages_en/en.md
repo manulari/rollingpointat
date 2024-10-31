@@ -53,9 +53,6 @@ registration form**:** <https://forms.gle/D5bwoQwoeueLpRCw7>
 
 ### Weekend-Workshops:
 
-**9.+10.11.2024: Our Organs as Ressource for Dance and Regeneration**\
-with maRia Probst
-
 **18.+19.1.2025 Liquid Motion - Contact Flying Skills**\
  with Christian Apschner and support from advanced rollingpoint dancers team
 
