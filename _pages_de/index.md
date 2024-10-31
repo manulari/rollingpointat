@@ -43,7 +43,6 @@ An folgenden Terminen sind auch Neueinsteiger*inne*n zur Teilnahme an der Jams e
 **Turnsaal VS Gilgegasse 12, 1090 Wien**
 
 ### **WORKSHOPTERMINE:**\
-\
 **18./19.1.2025 [Liquid Motion - Contact Flying Skills](https://rollingpoint.at/wsws2024#flyingskills)**\
 **mit Christan Apschner und Assistenz**
 
