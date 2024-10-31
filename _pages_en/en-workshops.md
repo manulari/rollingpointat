@@ -11,15 +11,6 @@ Fotocredits: He Shao Hui
 
 ## Weekend Workshops
 
-\
-**9./10.11.2024 [Aus dem Vollen schöpfen](#organs) - die Organe als Ressource für Regeneration und Tanz**\
-**mit maRia Probst**\
-\
-**18./19.1.2025 [Liquid Motion - Contact Flying Skills](#flyingskills)**\
-**mit Christan Apschner**\
-\
-&nbsp;
-
 #### **"Contact Flying Skills"** - advanced
 
 **18.+19.1.2025, 10.00-17.00**\
