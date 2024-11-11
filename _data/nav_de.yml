@@ -24,8 +24,6 @@ entries:
     subentries:
       - title: Wintersemester 2024/25
         path: /wsws2024
-      - title: Winterintensive 2025
-        path: /winterintensive
       - title: Rückblick
         path: /rückblick
   - title: CONTACT IMPROVISATION
@@ -64,3 +62,5 @@ entries:
         path: /impressum
       - title: Datenschutz
         path: /datenschutz
+  - title: WINTERINTENSIVE  2025
+    path: /winterintensive
