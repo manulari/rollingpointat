@@ -30,7 +30,7 @@ Teilnahmeempfehlung Woche 1:  Du bewegst dich gerne, bist offen für Körperkont
 
 <div class="named-anchor" id="WI2"></div>
 
-**Contact Improvisation Skills / beginner-intermediate**\
+**Contact Improvisation Basic Skills / beginner-intermediate**\
 **mit Christian Apschner (und maRia Probst)**
 
 Die zweite Woche der Winterintensive ist als Kompaktkurs der Contact Improvisation (CI) gedacht. So lernen wir, wie es leicht und körperschonend geht, Gewicht abzugeben und zu übernehmen oder uns gemeinsam entlang des rollenden Kontaktpunktes und im Bewegungsfluss zu bewegen. Wir erforschen die Technik für einfache Lifts, uns fallen zu lassen und sanft zu landen. Verschiedene Variationen von Roll- und Spiralbewegungen unterstützen dich, im Tanz geschmeidig und durchlässig zu sein. Der viertägige Kompaktkurs ist auch optimal für den Einstieg in den Contact Improvisation Kurs (beginnner-intermediate) des Sommersemesters geeignet (Beginn Do 27.2.2025).
