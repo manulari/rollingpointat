@@ -50,11 +50,11 @@ An folgenden Terminen sind auch Neueinsteiger*inne*n zur Teilnahme an der Jams e
 ### **WINTERINTENSIVE 2024/25**
 
 **Woche 1: Mo - Do 10.- 13.2.2025\
-RELEASZE Tanztraining - Contact Improvisation light / open level**\
+[RELEASZE Tanztraining - Contact Improvisation light](/winterintensive#WI1) / open level**\
 **mit maRia Probst (und Christian Apschner)**
 
 **Woche 2: Mo - Do 17.- 20.2.2025**\
-**Contact Improvisation Skills / beginner-intermediate**\
+**[Contact Improvisation Skills](/winterintensive#WI2) / beginner-intermediate**\
 **mit Christian Apschner (und maRia Probst)**
 
 ![Mehr CI auf der Stiege](/assets/uploads/dsc_1941a.jpg "Mehr CI auf der Stiege")
