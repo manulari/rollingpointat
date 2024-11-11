@@ -47,6 +47,16 @@ An folgenden Terminen sind auch Neueinsteiger*inne*n zur Teilnahme an der Jams e
 **18./19.1.2025 [Liquid Motion - Contact Flying Skills](https://rollingpoint.at/wsws2024#flyingskills)**\
 **mit Christan Apschner und Assistenz**
 
+### **WINTERINTENSIVE 2024/25**
+
+**Woche 1: Mo - Do 10.- 13.2.2025\
+RELEASZE Tanztraining - Contact Improvisation light / open level**\
+**mit maRia Probst (und Christian Apschner)**
+
+**Woche 2: Mo - Do 17.- 20.2.2025**\
+**Contact Improvisation Skills / beginner-intermediate**\
+**mit Christian Apschner (und maRia Probst)**
+
 ![Mehr CI auf der Stiege](/assets/uploads/dsc_1941a.jpg "Mehr CI auf der Stiege")
 
 Fotocredit: Johannes Stolba
