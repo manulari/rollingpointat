@@ -12,6 +12,8 @@ entries:
         path: /contactbeg
       - title: Kursanmeldung
         path: /Kursanmeldung
+  - title: WINTERINTENSIVE  2025
+    path: /winterintensive
   - title: JAMS+PERFORMANCES
     path: /jams
     subentries:
@@ -62,5 +64,3 @@ entries:
         path: /impressum
       - title: Datenschutz
         path: /datenschutz
-  - title: WINTERINTENSIVE  2025
-    path: /winterintensive
