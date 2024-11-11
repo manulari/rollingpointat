@@ -15,15 +15,21 @@ Fotocredits: He Shao Hui
 Zwei Wochen lang jeweils vier Abende gemeinsam loslassen, spüren, bewegen, mit dir selbst und anderen in Kontakt kommen und Contact Improvisation tanzen. Die beiden Wochen bilden eine Einheit mit unterschiedlichem Schwerpunkt, können aber auch getrennt besucht werden.
 
 \
-**Woche 1: Mo - Do 10.- 13.2.2025\
-RELEASZE Tanztraining -  Contact Improvisation light / open level**\
+**Woche 1: Mo - Do 10.- 13.2.2025**
+
+<div class="named-anchor" id="WI1"></div>
+
+**RELEASZE Tanztraining -  Contact Improvisation light / open level**\
 **mit maRia Probst (und Christian Apschner)**
 
 maRia verbindet Elemente aus Somatischem Lernen, Contact Improvisation mit geringer Gewichtsübertragung und Zeitgenössischem Tanz. Wir verwenden verschiedende Berührungsqualitäten um das Zusammenspiel von Muskeln, Sehnen, Knochen und Organen besser verstehen zu lernen. Techniken aus dem zeitgenössischen Tanz helfen dir, deinen Körper bewusster und organischer einzusetzen und zu koordinieren. In verschiedenen Spielformen der Improvisation kannst du erfahren, wie du ein Teil eines größeren Organismus wirst und wie wir uns untereinander koordinieren.\
 \
 Teilnahmeempfehlung Woche 1:  Du bewegst dich gerne, bist offen für Körperkontakt und bist dir selbst und anderen gegenüber achtsam und aufmerksam.
 
-**Woche 2: Mo - Do 17.- 20.2.2025**\
+**Woche 2: Mo - Do 17.- 20.2.2025**
+
+<div class="named-anchor" id="WI2"></div>
+
 **Contact Improvisation Skills / beginner-intermediate**\
 **mit Christian Apschner (und maRia Probst)**
 
@@ -52,17 +58,9 @@ IBAN: AT54 3200 0000 1701 2717, BIC: RLNWATWW, Verein rollingpoint, einzahlen.
 
 Stornobedingungen: Bis drei Tage vor Beginn der Intensive wird der volle Betrag abzüglich einer Bearbeitungsgebühr von € 10,- rückerstattet. Danach keine Stornomöglichkeit. Es kann aber eine Ersatzperson nominiert werden. Im Falle von Erkrankung kann eine Gutschrift für einen späteren Kurs erteilt werden.
 
-
-
-
-
-
-
 &nbsp;
 
 - - -
-
-
 
 ![](/assets/uploads/heshaohui.rollingpoint-wu-fotos.067.jpg)
 
