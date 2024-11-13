@@ -12,12 +12,13 @@ Fotocredits: He Shao Hui
 
 ### **Winter-Intensive 2025: 10.-13.2. und 17.-20.2.2025**
 
-## **week 1: mon - thu  10.- 13.2.2024\
-RELEASZE Dance / Contact Improvistion light (open level)**\
-**with maRia Probst**\
-**week 2: mon - thu  17.- 20.2.2024**\
-**Contact Improvisation Basic Skills (beginner-intermediate)**\
-**with Christian Apschner**
+**week 1: mon - thu  10.- 13.2.2024**\
+**RELEASZE Dance / Contact Improvistion light (open level)\
+with maRia Probst**
+
+**week 2: mon - thu  17.- 20.2.2024\
+Contact Improvisation Basic Skills (beginner-intermediate)\
+with Christian Apschner\*\***
 
 mon and thu (10.2., 13.2., 17.2., 20.2): Turnsaal Gilgegasse 12, 9. Bez.
 
