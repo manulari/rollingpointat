@@ -18,6 +18,9 @@ Fotocredit: https://johannes-stolba.net/photography/
 
 <div class="imglink"><a target="_blank" href="https://www.youtube.com/embed/kp3DqzN1Ldo"><img src="/assets/uploads/video_vorschau_rollingpoint.png" alt="" /><div>rollingpoint-Video</div></a></div>
 
+### **Kursbeginn Sommersemester: 24.- 27.2.2025**\
+**Kurse analog Wintersemester**
+
 ### **KURSE WINTERSEMESTER 2024/25**
 
 **Kursbeginn  23.- 26.9.2024**
