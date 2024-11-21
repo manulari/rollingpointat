@@ -12,20 +12,21 @@ Fotocredit: https://johannes-stolba.net/photography/
 
 ### Willkommen bei rollingpoint!
 
-**Wir laden dich ein, gemeinsam mit uns in die Welt der Contact Improvisation, des Zeitgenössischen Tanzes und des Somatischen Lernens einzutauchen. In unseren Kursen und Projekten begegnen sich Tanz, Kunst, Sport, Lernen und Forschung. Wir bringen mehr als 20 Jahre Erfahrung in unsere Arbeit ein. Uns ist es ein Anliegen offene Räume für Lebensfreude und Begegnung und ein Voneinanderlernen auf Augenhöhe zu kreieren.**
+**Wir laden dich ein, gemeinsam mit uns in die Welt der Contact Improvisation, des Zeitgenössischen Tanzes und des Somatischen Lernens einzutauchen. In unseren Kursen und Projekten begegnen sich Tanz, Kunst, Sport, Lernen und Forschung. Wir bringen mehr als 20 Jahre Erfahrung in unsere Arbeit ein. Uns ist es ein Anliegen offene Räume für Lebensfreude und Begegnung und für ein Voneinanderlernen auf Augenhöhe zu kreieren.**
 
 ## Videos
 
 <div class="imglink"><a target="_blank" href="https://www.youtube.com/embed/kp3DqzN1Ldo"><img src="/assets/uploads/video_vorschau_rollingpoint.png" alt="" /><div>rollingpoint-Video</div></a></div>
 
-### **Kursbeginn Sommersemester: 24.- 27.2.2025**\
+### **Kursbeginn SOMMERSEMESTER: 24.- 27.2.2025**
+
 **Kurse analog Wintersemester**
 
 ### **KURSE WINTERSEMESTER 2024/25**
 
 **Kursbeginn  23.- 26.9.2024**
 
-**[Mo RELEASZ Tanztraining: ](/releasze)\*\*[Zeitgenössischer Tanz / CI-light / Somatisches Lernen](/releasze) open level**\
+**[Mo RELEASZ Tanztraining: ](/releasze)[Zeitgenössischer Tanz / CI-light / Somatisches Lernen](/releasze) open level**\
  **mit maRia Probst**\
 **Mo 23.9.2024 - 27.1.2025, 18.30 - 20.15 (ca.16x)**\
 **Turnsaal VS Gilgegasse 12, 1090 Wien**
@@ -44,6 +45,10 @@ An folgenden Terminen sind auch Neueinsteiger*inne*n zur Teilnahme an der Jams e
 **mit Christian Apschner**\
 **Do 25.9.2024 - 30.1.2025, 18.15 – 20.30 (ca.16x)**\
 **Turnsaal VS Gilgegasse 12, 1090 Wien**
+
+### **rollingpoint Silvester-event:**\
+**31.12.2024-1.1.2025**\
+**Mehr Informationen in Kürze**
 
 ### **WORKSHOPTERMINE:**
 
