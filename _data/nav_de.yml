@@ -64,3 +64,5 @@ entries:
         path: /impressum
       - title: Datenschutz
         path: /datenschutz
+  - path: /silvester
+    title: Silvester Happyning 2024/25
