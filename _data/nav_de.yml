@@ -21,6 +21,8 @@ entries:
         path: /jams
       - title: Dancing Mycelium
         path: /mycelium
+      - title: Silvester Happyning 2024/25
+        path: /silvester
   - title: WORKSHOPS
     path: /wsws2024
     subentries:
@@ -64,5 +66,3 @@ entries:
         path: /impressum
       - title: Datenschutz
         path: /datenschutz
-  - path: /silvester
-    title: Silvester Happyning 2024/25
