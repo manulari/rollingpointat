@@ -1,9 +1,10 @@
 ---
 permalink: /silvester
-title: Silvester Happyning 2024/245
+title: Silvester Happyning 2024/25
 language: de
 ---
-### **In Vorbereitung!**\
+### **In Vorbereitung**
+
 **Einfach später wieder auf unserer website vorbeischauen**
 
 ### **rollingpoint “Silvester-Happyning”**
