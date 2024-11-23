@@ -43,7 +43,7 @@ An folgenden Terminen sind auch Neueinsteiger*inne*n zur Teilnahme an der Jams e
 **Do 25.9.2024 - 30.1.2025, 18.15 – 20.30 (ca.16x)**\
 **Turnsaal VS Gilgegasse 12, 1090 Wien**
 
-### **rollingpoint Silvester-Happyning:**
+### **rollingpoint "Silvester-Happyning":**
 
 Werkstatt Krähe, Westbahnstraße 7, 1070 Wien\
 Iin Vorbereitung, kleine Änderungen im Programm sind noch möglich!\
