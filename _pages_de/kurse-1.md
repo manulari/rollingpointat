@@ -12,7 +12,10 @@ language: de
 | **Mi** | **18.00-20.40** | **Christian**            | **[“Into the Deep” Contact Improvisation intermediate/advanced](/contactadv)**  | **Einsiedlerg. 7, 1050 Wien** |
 | **Do** | **18.15-20.30** | **Christian**            | **["Falling in Love with CI" Contact Improvisation beginner](/contactbeg)**     | **Gilgegasse 12, 1090 Wien**  |
 
-**Die neuen Kurse starten vom 23.- 26.9.2024**
+
+
+**Die neuen Kurse des Sommersemester starten vom 24.- 27.2.2025**\
+**Kursprogramm analog Wintersemester 2024/25**
 
 [Kursanmeldung](https://rollingpoint.at/Kursanmeldung)\
 \
