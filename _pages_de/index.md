@@ -26,7 +26,7 @@ Fotocredit: https://johannes-stolba.net/photography/
 
 **Kursbeginn  23.- 26.9.2024**
 
-**[Mo RELEASZ Tanztraining: ](/releasze)\*\***[Zeitgenössischer Tanz / CI-light / Somatisches Lernen](/releasze) open levelmit maRia ProbstMo 23.9.2024 - 27.1.2025, 18.30 - 20.15 (ca.16x)Turnsaal VS Gilgegasse 12, 1090 Wien\*\*
+**[Mo RELEASZ Tanztraining: ](/releasze)[Zeitgenössischer Tanz / CI-light / Somatisches Lernen](/releasze)** open levelmit maRia ProbstMo 23.9.2024 - 27.1.2025, 18.30 - 20.15 (ca.16x)Turnsaal VS Gilgegasse 12, 1090 Wien\*\*
 
 **[Di Contact Improvisation Jam ](/jams)**(kein Kurs, keine Anmeldung erforderlich)\
 **Di 17.9.2024 - 28.1.2025, Jam 18.00 – 20.30 (ca.16x)**\
@@ -43,7 +43,7 @@ An folgenden Terminen sind auch Neueinsteiger*inne*n zur Teilnahme an der Jams e
 **Do 25.9.2024 - 30.1.2025, 18.15 – 20.30 (ca.16x)**\
 **Turnsaal VS Gilgegasse 12, 1090 Wien**
 
-### **rollingpoint "Silvester-Happyning":**
+### **rollingpoint Silvester "Happyning"**
 
 Werkstatt Krähe, Westbahnstraße 7, 1070 Wien\
 Iin Vorbereitung, kleine Änderungen im Programm sind noch möglich!\
@@ -53,7 +53,7 @@ Iin Vorbereitung, kleine Änderungen im Programm sind noch möglich!\
 1.00-8:00 Silent Jam\
 **Mehr Informationen in Kürze**
 
-### **WORKSHOPTERMINE:**
+### **WORKSHOPTERMINE**
 
 **18./19.1.2025 [Liquid Motion - Contact Flying Skills](https://rollingpoint.at/wsws2024#flyingskills)**\
 **mit Christan Apschner und Assistenz**
