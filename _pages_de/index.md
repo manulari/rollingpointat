@@ -31,7 +31,7 @@ Fotocredit: https://johannes-stolba.net/photography/
 **[Di Contact Improvisation Jam ](/jams)**(kein Kurs, keine Anmeldung erforderlich)\
 **Di 17.9.2024 - 28.1.2025, Jam 18.00 – 20.30 (ca.16x)**\
 **Turnsaal VS Einsiedlergasse 7, 1050 Wien**\
-An folgenden Terminen sind auch Neueinsteiger*inne*n zur Teilnahme an der Jams eingeladen:**8.10., 12.11., 20.12.2024, 21.1.2025,** Contact Improvisation Intro für Beginnerinnen 17.30 - 18.30.
+An folgenden Terminen sind auch Neueinsteiger*inne*n zur Teilnahme an der Jams eingeladen: **8.10., 12.11., 17.12.2024, 21.1.2025,** Contact Improvisation Intro für Beginnerinnen 17.30 - 18.30.
 
 **[Mi Into the Deep: Contact Improvisation ](/contactadv) intermediate/advanced**\
 **mit Christian Apschner**\
