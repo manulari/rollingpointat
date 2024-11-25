@@ -11,8 +11,7 @@ Foto: Ines Ingerle
 
 Die rollingpoint-Jams sind Orte für fokussiertes und freudvolles Contact Improvisation-Tanzen. Wir achten darauf, einen gemeinsamen Raum zu halten, in dem sich alle sicher fühlen und erwarten von den Teilnehmenden, CI-Kurserfahrungen im Sinne von Grundkenntnissen. (Hinweise zur Sicherheit in den rollingpoint-Jams siehe unten).
 
-\
-**Erste Jam nach der Sommerpause 17.9.2024**
+
 
 ## rollingpoint-Jam am Dienstag
 
@@ -26,7 +25,7 @@ Ausgewählte Musik und Sound-Scapes in der 2.Hälfte der Jams.
 **Kostenbeitrag auf Spendenbasis: Jam einzeln € 8 - 12, Semesterbeitrag: € 100 - 150**
 
 An folgenden drei Terminen sind auch Beginnerinnen ohne jegliche CI-Vorerfahrung zur Teilnahme an der Jams eingeladen:\
-**8.10., 12.11., 20.12.2024, 21.1.2025**\
+**8.10., 12.11., 17.12.2024, 21.1.2025**\
 Für alle Beginner*innen gibt es eine einstündige Einführung in die Welt der Contact Improvisations-Jams im Zeitraum 17.30 - 18.30. \
 Kostenbeitrag CI-Intro plus Jam 14 -24 €
 
