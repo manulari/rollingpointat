@@ -25,7 +25,7 @@ Silvesterritual\
 Übernachtung im Studio möglich (zusätzlich 10€ Unkostenbeitrag, Unterlagsmatte und Schlafsack mitbringen)
 
 Teilnahme auf Kostendeckungs- und Spendenbasis: 30-60€/Person\
-Kosten für Raum, Orga, snacks und Materialien: ca. 30€/Person, darüber hinausgehende Spenden ermöglichen und unterstützen unsere Arbeit.\
+Kosten für Raum, Orga, snacks und Materialien: ca.30€/Person. Darüber hinausgehende Spenden ermöglichen und unterstützen unsere Arbeit.\
 Bitte kommt auf uns zu, wenn ihr nicht am ganzen event, zb nur an der Jam teilnehmen möchtet.\
 Wir haben auch 1-2 Plätze für Helfer*innen zu vergeben.\
 \
@@ -33,4 +33,4 @@ Wir haben auch 1-2 Plätze für Helfer*innen zu vergeben.\
 [Anmeldeformular](https://forms.gle/D5bwoQwoeueLpRCw7)\
 bzw. ci.rollingpoint@gmail.com oder 0650 9510814 (maRia), 0650 8931081 (Christian)
 
-#### "Happyning" ist etwas, das passiert. Es ist ein Moment des Teilens, eine Erfahrung die wir immer schon zu Silvester machen wollten und gemeinsam  kreiieren.
+**"Happyning" ist etwas, das passiert. Es ist ein Moment des Teilens, eine Erfahrung die wir immer schon zu Silvester machen wollten und gemeinsam  kreiieren.**
