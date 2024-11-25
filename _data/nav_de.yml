@@ -14,6 +14,8 @@ entries:
         path: /Kursanmeldung
   - title: WINTERINTENSIVE  2025
     path: /winterintensive
+  - title: Silvester Happyning 2024/25
+    path: /silvester
   - title: JAMS+PERFORMANCES
     path: /jams
     subentries:
@@ -21,8 +23,6 @@ entries:
         path: /jams
       - title: Dancing Mycelium
         path: /mycelium
-      - title: Silvester Happyning 24/25
-        path: /silvester
   - title: WORKSHOPS
     path: /wsws2024
     subentries:
