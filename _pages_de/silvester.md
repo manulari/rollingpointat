@@ -29,9 +29,9 @@ Kosten für Raum, Orga, snacks und Materialien: ca.30€/Person. Darüber hinaus
 Bitte kommt auf uns zu, wenn ihr nicht am ganzen event, zb nur an der Jam teilnehmen möchtet.\
 Wir haben auch 1-2 Plätze für Helfer*innen zu vergeben.\
 \
-**Anmeldung:** Bitte um Anmeldung bis spätestens So 27.12., damit wir alles gut vorbereiten können.\
+**Anmeldung:** Bitte um Anmeldung bis spätestens Fr 27.12., damit wir alles gut vorbereiten können.\
 First come - first serve, begrenzte Teilnehmerzahl/Raumkapazität\
 [Anmeldeformular](https://forms.gle/D5bwoQwoeueLpRCw7)\
 bzw. ci.rollingpoint@gmail.com oder 0650 9510814 (maRia), 0650 8931081 (Christian)
 
-**"Happyning" ist etwas, das passiert. Es ist ein Moment des Teilens, eine Erfahrung die wir immer schon zu Silvester machen wollten und gemeinsam  kreiieren.**
+**"Happyning" ist etwas, das passiert. Es ist ein Moment des Teilens, eine Erfahrung die wir immer schon zu Silvester machen wollten und gemeinsam  kreieren.**
