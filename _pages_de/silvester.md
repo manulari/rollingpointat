@@ -25,7 +25,7 @@ Silvesterritual\
 Übernachtung im Studio möglich (zusätzlich 10€ Unkostenbeitrag, Unterlagsmatte und Schlafsack mitbringen)
 
 Teilnahmekosten: 30-60€ Person\
-(setzt sich aus Fixkosten für Raum, Orga, Snacks und Materialien von ca. 30€/Person und einer möglichen Spende, die unsere Arbeit unterstützt, zusammen).\
+(setzt sich aus Fixkosten für Raum, Orga, Snacks und Materialien von ca. 30€/Person und einer möglichen Spende, die unsere künstlerische Arbeit unterstützt, zusammen).\
 Bitte kommt auf uns zu, wenn ihr nicht am ganzen event, zb nur an der Jam teilnehmen möchtet.\
 Wir haben auch 1-2 Plätze für Helfer*innen zu vergeben.\
 \
