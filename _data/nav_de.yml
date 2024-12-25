@@ -1,7 +1,7 @@
 entries:
   - title: HOME
     path: /
-  - title: KURSE WS 2024/25
+  - title: SEMESTERKURSE
     path: /kurse
     subentries:
       - title: RELEASZ Tanztraining
