@@ -22,6 +22,8 @@ von maRia, Christian und Sebastian\
 Silvesterritual\
 1.00-10:00 Silent Jam, gemeinsames Aufräumen
 
+Einlasszeiten von 16.00-18.30 sowie von 21.30-22.00
+
 Übernachtung im Studio möglich (zusätzlich 10€ Unkostenbeitrag, Unterlagsmatte und Schlafsack mitbringen)
 
 Teilnahmekosten: 30-60€ Person\
