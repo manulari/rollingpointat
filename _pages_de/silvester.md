@@ -31,7 +31,7 @@ Teilnahmekosten: 30-60€ Person\
 Bitte kommt auf uns zu, wenn ihr nicht am ganzen event, zb nur an der Jam teilnehmen möchtet.\
 Wir haben auch 1-2 Plätze für Helfer*innen zu vergeben.\
 \
-**Anmeldung:** **Stand 29.12.-  alle Plätze sind vergeben. Keine Anmeldung mehr möglich**.\
+**Anmeldung:** **Stand 29.12.-  alle Plätze sind vergeben. Wir öffnen eine Warteliste.**\
 (Bitte um Anmeldung bis spätestens Fr 27.12., damit wir alles gut vorbereiten können.\
 First come - first serve, begrenzte Teilnehmerzahl/Raumkapazität)
 
