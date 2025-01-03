@@ -18,43 +18,30 @@ Fotocredit: https://johannes-stolba.net/photography/
 
 <div class="imglink"><a target="_blank" href="https://www.youtube.com/embed/kp3DqzN1Ldo"><img src="/assets/uploads/video_vorschau_rollingpoint.png" alt="" /><div>rollingpoint-Video</div></a></div>
 
-### **Kursbeginn SOMMERSEMESTER: 24.- 27.2.2025**
+### **SEMESTERKURSE**
 
-**Kurse analog Wintersemester**
+**Kursbeginn  Sommersemester 24.- 27.2.2025**
 
-### **KURSE WINTERSEMESTER 2024/25**
-
-**Kursbeginn  23.- 26.9.2024**
-
-**[Mo RELEASZ Tanztraining: ](/releasze)[Zeitgenössischer Tanz / CI-light / Somatisches Lernen](/releasze)** open levelmit maRia ProbstMo 23.9.2024 - 27.1.2025, 18.30 - 20.15 (ca.16x)Turnsaal VS Gilgegasse 12, 1090 Wien\*\*
+**[Mo RELEASZ Tanztraining: ](/releasze)[Zeitgenössischer Tanz / CI-light / Somatisches Lernen](/releasze) open level**\
+**mit maRia Probst**\
+**Mo 24.2.- 16.6.2025, 18.30 - 20.15 (ca.14x)Turnsaal VS Gilgegasse 12, 1090 Wien**
 
 **[Di Contact Improvisation Jam ](/jams)**(kein Kurs, keine Anmeldung erforderlich)\
-**Di 17.9.2024 - 28.1.2025, Jam 18.00 – 20.30 (ca.16x)**\
+**Di 25.2.- 17.6.2025, Jam 18.00 – 20.30 (ca.16x)**\
 **Turnsaal VS Einsiedlergasse 7, 1050 Wien**\
-An folgenden Terminen sind auch Neueinsteiger*inne*n zur Teilnahme an der Jams eingeladen: **8.10., 12.11., 17.12.2024, 21.1.2025,** Contact Improvisation Intro für Beginnerinnen 17.30 - 18.30.
+An folgenden Terminen sind auch Neueinsteiger*inne*n zur Teilnahme an der Jams eingeladen: **8.10., 2.4., 6.5., 3.6.2025,** Contact Improvisation Intro für Beginnerinnen 17.30 - 18.30.
 
 **[Mi Into the Deep: Contact Improvisation ](/contactadv) intermediate/advanced**\
 **mit Christian Apschner**\
-**Mi 24.9.2024 - 29.1.2025, 18.00 - 20.40 (ca.16x)**\
+**Mi 26.2.- 18.6.2025, 18.00 - 20.40 (ca.15x)**\
 **Turnsaal VS Einsiedlergasse 7, 1050 Wien**
 
 **[Do Falling in Love with CI: Contact Improvisation ](/contactbeg)beginner**\
 **mit Christian Apschner**\
-**Do 25.9.2024 - 30.1.2025, 18.15 – 20.30 (ca.16x)**\
+**Do 27.2.- 13.6.2025, 18.15 – 20.30 (ca.14x)**\
 **Turnsaal VS Gilgegasse 12, 1090 Wien**
 
-### **rollingpoint Silvester "Happyning"**
-
-Werkstatt Krähe, Westbahnstraße 7, 1070 Wien\
-Iin Vorbereitung, kleine Änderungen im Programm sind noch möglich!\
-16.00-18.30: Sharing, gemütliches Zusammensein und nette Gespräche\
-**18.30-22.00 Contact Improvisation Jam**\
-22.00-1.00 Freies Tanzen zu ausgewählter Musik mit verschiedenen DJs, anschließend Silvesterritual\
-1.00-8:00 Silent Jam\
-**Mehr Informationen in Kürze**
-
-### **WORKSHOPTERMINE**
-
+### **CONTACT FLYING SKILLS (WORKSHOP)**\
 **18./19.1.2025 [Liquid Motion - Contact Flying Skills](https://rollingpoint.at/wsws2024#flyingskills)**\
 **mit Christan Apschner und Assistenz**
 
