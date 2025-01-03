@@ -56,6 +56,10 @@ An folgenden Terminen sind Neueinsteiger*inne*n zur Teilnahme an der Jams eingel
 **Do 27.2.- 13.6.2025, 18.15 – 20.30 (ca.13x plus 3xOpen Level Jam)**\
 **Turnsaal VS Gilgegasse 12, 1090 Wien**
 
+
+
+
+
 ![Mehr CI auf der Stiege](/assets/uploads/dsc_1941a.jpg "Mehr CI auf der Stiege")
 
 Fotocredit: Johannes Stolba
