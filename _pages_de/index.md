@@ -40,9 +40,9 @@ mit maRia Probst (und Christian Apschner)**
 **[Mo RELEASZ Tanztraining: ](/releasze)**[Zeitgenössischer Tanz / CI-light / Somatisches Lernen](/releasze) open levelmit maRia ProbstMo 24.2.- 16.6.2025, 18.30 - 20.15 (ca.14x)Turnsaal VS Gilgegasse 12, 1090 Wien\*\*
 
 **[Di Contact Improvisation Jam ](/jams)**(kein Kurs, keine Anmeldung erforderlich)\
-**Di 25.2.- 17.6.2025, Jam 18.00 – 20.30 (ca.16x)**\
+**Di 25.2.- 17.6.2025, Jam 18.00 – 20.30 (ca.15x)**\
 **Turnsaal VS Einsiedlergasse 7, 1050 Wien**\
-An folgenden Terminen sind auch Neueinsteiger*inne*n zur Teilnahme an der Jams eingeladen: **2.4., 6.5., 3.6.2025,** Contact Improvisation Intro für Beginnerinnen 17.30 - 18.30.
+An folgenden Terminen sind auch Neueinsteiger*inne*n zur Teilnahme an der Jams eingeladen: **1.4., 6.5., 3.6.2025,** Contact Improvisation Intro für Beginnerinnen 17.30 - 18.30.
 
 **[Mi Into the Deep: Contact Improvisation ](/contactadv) intermediate/advanced**\
 **mit Christian Apschner**\
@@ -51,7 +51,7 @@ An folgenden Terminen sind auch Neueinsteiger*inne*n zur Teilnahme an der Jams e
 
 **[Do Falling in Love with CI: Contact Improvisation ](/contactbeg)beginner**\
 **mit Christian Apschner und Ines Ingere (Assistenz)**\
-**Do 27.2.- 13.6.2025, 18.15 – 20.30 (ca.14x)**\
+**Do 27.2.- 13.6.2025, 18.15 – 20.30 (ca.13x plus 3xOpen Level Jam)**\
 **Turnsaal VS Gilgegasse 12, 1090 Wien**
 
 ![Mehr CI auf der Stiege](/assets/uploads/dsc_1941a.jpg "Mehr CI auf der Stiege")
