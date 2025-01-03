@@ -35,12 +35,9 @@ mit maRia Probst (und Christian Apschner)**
 
 ### **SEMESTERKURSE**
 
-**Kursbeginn  Sommersemester 24.- 27.2.2025**
+**Kursbeginn SOMMERSEMESTER 24.- 27.2.2025**
 
-**[Mo RELEASZ Tanztraining: ](/releasze)****[Zeitgenössischer Tanz / CI-light / Somatisches Lernen](/releasze) open level**\
-**mit maRia Probst**\
-**Mo 24.2.- 16.6.2025, 18.30 - 20.15 (ca.14x)**\
-**Turnsaal VS Gilgegasse 12, 1090 Wien**
+**[Mo RELEASZ Tanztraining: ](/releasze)**[Zeitgenössischer Tanz / CI-light / Somatisches Lernen](/releasze) open levelmit maRia ProbstMo 24.2.- 16.6.2025, 18.30 - 20.15 (ca.14x)Turnsaal VS Gilgegasse 12, 1090 Wien\*\*
 
 **[Di Contact Improvisation Jam ](/jams)**(kein Kurs, keine Anmeldung erforderlich)\
 **Di 25.2.- 17.6.2025, Jam 18.00 – 20.30 (ca.16x)**\
