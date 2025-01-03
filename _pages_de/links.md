@@ -18,13 +18,11 @@ Tanzquartier Wien: [http://www.tqw.at](http://www.tqw.at/)
 
 Impulstanz-Festival: [http://www.ImPulsTanz.co](http://www.ImPulsTanz.com/)
 
+"Contact In Paradise" Festival: <https://contact-in-paradise.com>
+
 **Contact Improvisation in Europa**
 
-[http://www.contactimprovisation.de](http://www.contact-improvisation.de/)
-
 [http://www.contactfestival.de](http://www.contactfestival.de/)
-
-[http://www.contactimprovisation.co.uk](http://www.contactimprovisation.co.uk/)
 
 [http://www.contactimprovisation.ch](http://www.contactimprovisation.ch/)
 
