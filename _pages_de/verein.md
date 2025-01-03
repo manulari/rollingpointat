@@ -34,6 +34,8 @@ Teil diese Netzwerkes sind unter anderem:
 
 **MAD** <https://www.mad-dance.eu>
 
-**gravityhappens** <http://www.gravityhappens.net/>
+**Contact In Paradise:** <https://contact-in-paradise.com>
+
+**Artis Umbria** <https://www.artisumbria.com>
 
 **Contact Quarterly** <http://contactquarterly.com/>
