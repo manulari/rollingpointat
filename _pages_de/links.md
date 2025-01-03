@@ -14,9 +14,9 @@ title: links
 
 **Contact Improvisation in Austria**
 
-Tanzquartier Wien: [http://www.tqw.at](http://www.tqw.at/)
+Tanzquartier Wien: [https://www.tqw.at](http://www.tqw.at/)
 
-Impulstanz-Festival: [http://www.ImPulsTanz.co](http://www.ImPulsTanz.com/)
+Impulstanz-Festival: [https://www.ImPulsTanz.com](http://www.ImPulsTanz.com/)
 
 "Contact In Paradise" Festival: <https://contact-in-paradise.com>
 
