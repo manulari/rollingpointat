@@ -22,7 +22,7 @@ Ausgewählte Musik und Sound-Scapes in der 2.Hälfte der Jams.
 
 **Kostenbeitrag auf Spendenbasis: Jam einzeln € 8 - 12, Semesterbeitrag: € 100 - 150**
 
-An folgenden drei Terminen sind auch Beginnerinnen ohne jegliche CI-Vorerfahrung zur Teilnahme an der Jams eingeladen:\
+An folgenden drei Terminen sind auch Beginnerinnen ohne CI-Kurserfahrung zur Teilnahme an der Jams eingeladen:\
 **8.10., 12.11., 17.12.2024, 21.1.2025**\
 **1.4., 6.5. 3.6.2025** \
 Für alle Beginner*innen gibt es eine einstündige Einführung in die Welt der Contact Improvisations-Jams im Zeitraum 17.30 - 18.30. \
