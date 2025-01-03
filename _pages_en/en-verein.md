@@ -3,17 +3,13 @@ permalink: /en/verein
 title: ASSOCIATION ROLLINGPOINT
 language: en
 ---
-
-
 ![](/assets/uploads/img_2335k.jpg)
 
 photocredits: Jakob Fill
 
-
-
 [rollingpoint video link](https://www.youtube.com/watch?v=kp3DqzN1Ldo)
 
-The association rollingpoint - "Verein für Contact Improvisation und artverwandte Tanz- und Bewegungsformen \[association for Contact Improvisation and related forms of dance and movement]" is headed by maRia Probst and Christian Apschner. It was founded in 2001 by Sabine Fabie, Christian Apschner and Ruth Haslmaier. Its aim is the promotion of Contact Improvisation and related forms of movement, from Contemporary Dance to Somatic Movement and Acro Yoga to body work.
+The association rollingpoint - "Verein für Contact Improvisation und artverwandte Tanz- und Bewegungsformen \[association for Contact Improvisation and related forms of dance and movement]" is headed by maRia Probst and Christian Apschner. It was founded in 2001 by Sabine Fabie, Christian Apschner and Ruth Haslmaier. Its aim is the promotion of Contact Improvisation and related forms of movement from Contemporary Dance to Somatic Movement.
 
 rollingpoint is a place for everyone interested in the advancement of CI and related forms of dance to exchange experiences and establish a network of diverse activities. Focal points of rollingpoint's work are organizing and directing workshops, research projects, jams and festivals.
 
