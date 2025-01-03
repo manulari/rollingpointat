@@ -14,8 +14,6 @@ entries:
         path: /Kursanmeldung
   - title: WINTERINTENSIVE  2025
     path: /winterintensive
-  - title: SILVESTER 2024/25
-    path: /silvester
   - title: JAMS+PERFORMANCES
     path: /jams
     subentries:
