@@ -27,29 +27,29 @@ registration form**:** <https://forms.gle/D5bwoQwoeueLpRCw7>
 
 ### Evening courses / study groups
 
-**Start Winter semester 2024/25: 23.-26.9.2024**
+**Start Summer semester: 24.-27.2.2025**
 
 **[1 mo RELEASZ Contemporary Dance and Somatics](/en/kurse#mo)** - **open level**\
 **maRia Probst**  \
-**start mo 23.9.2024, 18.30 - 20.30**\
+**start mo 24.2.2025, 18.30 - 20.30**\
 **Turnsaal VS Gilgegasse 12, 1090 Wien**
 
 **[2 tue Contact Improvisation Jam](/en/kurse#di)**\
 **maRia Probst, Christian Apschner and guest teachers**\
-**start tue 17.9.2024, 18.00 - 20.30**\
+**start tue 25.2.2025, 18.00 - 20.30**\
 **Turnsaal VS Einsiedlergasse 7, 1050 Wien**
 
 **[3 wed Into the Deep - Contact Improvisation](/en/kurse#mi) advanced**\
 **Christian Apschner**\
-**start wed  25.9.2024, 18.00 - 20.40**\
+**start wed  26.2.2025, 18.00 - 20.40**\
 **Turnsaal VS Einsiedlergasse 7, 1050 Wien**
 
 **[4 thu Falling in Love with CI -Contact Improvisation](/en/kurse#do)**  **beginner**\
-**Christian Apschner**\
-**start thu 26.9.2024, 18.15 – 20.30**\
+**Christian Apschner and Ines Ingerle (support)**\
+**start thu 27.2.2025, 18.15 – 20.30**\
 **Turnsaal VS Gilgegasse 12, 1090 Wien**
 
-**Support for all classes: Ines Ingerle**
+
 
 ### Weekend-Workshops:
 
@@ -58,6 +58,4 @@ registration form**:** <https://forms.gle/D5bwoQwoeueLpRCw7>
 
 ### **rollingpoint-Jam**
 
-**[tuesdays 18.00 - 20.40 when schoolday](https://rollingpoint.at/en/jams)**, starting after summer holidays 17.9.2024
-
-&nbsp;
+**[tuesdays 18.00 - 20.40 when schoolday](https://rollingpoint.at/en/jams)**
