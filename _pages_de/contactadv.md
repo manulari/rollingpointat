@@ -27,7 +27,7 @@ An diesen und weiteren Fragen forschen wir in diesem Kurs gemeinsam.
 
 Ein Schwerpunkt des Kurses wird sein, die Technik verschiedenster Lifts und Jumps in allen Raumebenen zu üben und kopfüber auf den Händen zu tanzen. Ziel ist es, uns immer leichter dem gemeinsamen Bewegungsfluss hinzugeben und gleichzeitig den Tanz so präsent wahrzunehmen, dass wir ihn spielerisch lenken können.
 
-Jeweils 40 Minuten der Kurseinheiten (fallweise zu Beginn oder auch am Ende) sind der Körperarbeit und Anatomical Release Technique/Ideokinese gewidmet.  Anatomische Bilder unterstützen deine Vorstellungskraft. So kannst du dir praktische Grundkenntnisse in unterschiedlichen Körperarbeitsmethoden (Trager, Ortho-Biomomy, Nuad) aneignen. Das vertiefte Körperwissen lädt dich ein, noch bewusster und liebevoller mit deinem Körper umzugehen, damit du viele Jahre freudvoll tanzen kannst.
+Jeweils 40 Minuten der Kurseinheiten (fallweise zu Beginn oder auch am Ende) sind der Körperarbeit und Anatomical Release Technique/Ideokinese gewidmet.  Anatomische Bilder unterstützen deine Vorstellungskraft. So kannst du dir praktische Grundkenntnisse in unterschiedlichen Körperarbeitsmethoden (Trager, Ortho-Biomomy, Nuad) aneignen. Das vertiefte Körperwissen lädt dich ein, noch bewusster mit deinem Körper umzugehen, damit du viele Jahre freudvoll tanzen kannst.
 
 ***KURSANMELDUNG:***\
 Schreibe uns bitte ein kurzes Mail an ci.rollingpoint@gmail.com\
