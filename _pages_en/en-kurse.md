@@ -18,9 +18,7 @@ Semester courses
 **Non-German speakers very welcome.**\
 **We will be teaching bilingual German and English.**
 
-### New courses (Wintersemester 2024/25) will be starting from 23.- 26.9.2024
-
-<div class="named-anchor" id="mo"></div>
+### New courses (Summersemester 2025) will be starting from 24.2.- 27.2.2025
 
 #### 1 RELEASZ - Contempory Dance and Somatics
 
@@ -41,8 +39,6 @@ Turnsaal VS Einsiedlergasse 7, 1050 Wien
 
 Our jams are a place for focused Contact Improvisation dancing where CI is practiced as contemporary dance and art form. We want to offer a space in which everyone feels safe. Participants are asked to have CI course experience in the sense of basic knowledge.\
 Opening circle 18.30
-
-
 
 <div class="named-anchor" id="mi"></div>
 
@@ -78,7 +74,7 @@ phone Christian +43 650 8931081, maRia +43 650 9510814
 **Costs Course 1 ,3 and 4: € 260 (regular), € 220 (reduced), € 180 (students <28a)**\
 **single class**: **€ 28 (regular), € 20 (reduced)**
 
-**Jam € 7 - 12**\
+**Jam € 8 - 12**\
 **Semester Contact Improvisation Jam: € 100 - 150**\
 \
 If you book two courses, you get a discount of €30,- for the second/third course.
