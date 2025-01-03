@@ -18,11 +18,12 @@ Fotocredit: https://johannes-stolba.net/photography/
 
 <div class="imglink"><a target="_blank" href="https://www.youtube.com/embed/kp3DqzN1Ldo"><img src="/assets/uploads/video_vorschau_rollingpoint.png" alt="" /><div>rollingpoint-Video</div></a></div>
 
-### **CONTACT FLYING SKILLS (WORKSHOP)**\
+### **CONTACT FLYING SKILLS (WOCHENEND-WORKSHOP)**
+
 **18./19.1.2025 [Liquid Motion - Contact Flying Skills](https://rollingpoint.at/wsws2024#flyingskills)**\
 **mit Christan Apschner und Assistenz**
 
-### **WINTERINTENSIVE 2024/25**
+### **WINTERINTENSIVE**
 
 **Woche 1: Mo - Do 10.- 13.2.2025**\
 **[RELEASZE Tanztraining - Contact Improvisation light](/winterintensive#WI1) / open level\
@@ -36,14 +37,15 @@ mit maRia Probst (und Christian Apschner)**
 
 **Kursbeginn  Sommersemester 24.- 27.2.2025**
 
-**[Mo RELEASZ Tanztraining: ](/releasze)[Zeitgenössischer Tanz / CI-light / Somatisches Lernen](/releasze) open level**\
+**[Mo RELEASZ Tanztraining: ](/releasze)****[Zeitgenössischer Tanz / CI-light / Somatisches Lernen](/releasze) open level**\
 **mit maRia Probst**\
-**Mo 24.2.- 16.6.2025, 18.30 - 20.15 (ca.14x)Turnsaal VS Gilgegasse 12, 1090 Wien**
+**Mo 24.2.- 16.6.2025, 18.30 - 20.15 (ca.14x)**\
+**Turnsaal VS Gilgegasse 12, 1090 Wien**
 
 **[Di Contact Improvisation Jam ](/jams)**(kein Kurs, keine Anmeldung erforderlich)\
 **Di 25.2.- 17.6.2025, Jam 18.00 – 20.30 (ca.16x)**\
 **Turnsaal VS Einsiedlergasse 7, 1050 Wien**\
-An folgenden Terminen sind auch Neueinsteiger*inne*n zur Teilnahme an der Jams eingeladen: **8.10., 2.4., 6.5., 3.6.2025,** Contact Improvisation Intro für Beginnerinnen 17.30 - 18.30.
+An folgenden Terminen sind auch Neueinsteiger*inne*n zur Teilnahme an der Jams eingeladen: **2.4., 6.5., 3.6.2025,** Contact Improvisation Intro für Beginnerinnen 17.30 - 18.30.
 
 **[Mi Into the Deep: Contact Improvisation ](/contactadv) intermediate/advanced**\
 **mit Christian Apschner**\
@@ -51,7 +53,7 @@ An folgenden Terminen sind auch Neueinsteiger*inne*n zur Teilnahme an der Jams e
 **Turnsaal VS Einsiedlergasse 7, 1050 Wien**
 
 **[Do Falling in Love with CI: Contact Improvisation ](/contactbeg)beginner**\
-**mit Christian Apschner**\
+**mit Christian Apschner und Ines Ingere (Assistenz)**\
 **Do 27.2.- 13.6.2025, 18.15 – 20.30 (ca.14x)**\
 **Turnsaal VS Gilgegasse 12, 1090 Wien**
 
