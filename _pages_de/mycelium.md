@@ -9,9 +9,9 @@ language: de
 
 **Exploring Interconnection and Movement Biodiversity**
 
-**Ein experimentelles rollingpoint Mitmach-Contact Improvisation Outdoor-Projekt** 
+**Ein experimentelles rollingpoint Outdoor-Kunstprojekt** 
 
-![](/assets/uploads/64229417_2288914457866260_1127163696674504704_n.jpg)
+
 
 **Termine 2024:**
 
@@ -29,7 +29,7 @@ Koordinaten: 48.2304, 16.3914\
 Bei der Lagerwiese oberhalb der alten Eisenbahnbrücke\
 Von der Innstraße 18 aus über die Leystraße bzw. von der Vorgartenstraße 98 aus in 150m erreichbar.
 
-**Weitere Termine folgen!**
+
 
 ![](/assets/uploads/sdim0844.jpg)
 
