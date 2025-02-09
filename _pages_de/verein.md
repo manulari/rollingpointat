@@ -6,7 +6,7 @@ title: VEREIN ROLLINGPOINT
 
 **[rollingpoint Video-link](https://www.youtube.com/watch?v=kp3DqzN1Ldo)**
 
-Der gemeinnützige nicht auf Gewinn ausgerichtete Verein **rollingpoint** –**“Verein für Contact Improvisation und artverwandte Tanz- und Bewegungsformen”** besteht seit 2001 und wird derzeit von maRia Probst und Christian Apschner geleitet (Gründungsmitglieder: Sabine Parzer, Christian Apschner und Ruth Haslmaier). Ziel ist die Förderung der Contact Improvisation und artverwandter Bewegungsformen sowie diese integrativen Kunstformen allen Interessierten zugänglich zu machen.
+Der gemeinnützige, nicht auf Gewinn ausgerichtete Verein **rollingpoint** –**“Verein für Contact Improvisation und artverwandte Tanz- und Bewegungsformen”** besteht seit 2001 und wird derzeit von maRia Probst und Christian Apschner geleitet (Gründungsmitglieder: Sabine Parzer, Christian Apschner und Ruth Haslmaier). Ziel ist die Förderung der Contact Improvisation und artverwandter Bewegungsformen sowie diese integrativen Kunstformen allen Interessierten zugänglich zu machen.
 
 rollingpoint forscht mit viel Einsatz, Freude und Idealismus an zeitgenössischem Tanz und Contact Improvisation als Methoden **somatischen Lernens** und verfolgt die Philosophie, eigenverantwortliches Lernen zu fördern und **Körperwissen als "open source" Ressource** zur Verfügung zu stellen. Die Qualität unserer Arbeit ergibt sich aus einer differenzierten **Reflexion** und **Zusammenschau** unterschiedlicher Wissensdisziplinen und in einem **künstlerischen Kontext**. 
 
