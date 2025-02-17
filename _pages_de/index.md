@@ -21,7 +21,7 @@ Fotocredit: https://johannes-stolba.net/photography/
 ### **CONTACT FLYING SKILLS (WOCHENEND-WORKSHOP)**
 
 **18./19.1.2025 [Liquid Motion - Contact Flying Skills](https://rollingpoint.at/wsws2024#flyingskills)**\
-**mit Christan Apschner und Assistenz**
+**mit Christan Apschner**
 
 ### **WINTERINTENSIVE**
 
@@ -37,7 +37,7 @@ mit maRia Probst (und Christian Apschner)**
 
 **Kursbeginn SOMMERSEMESTER 24.- 27.2.2025**
 
-**[Mo RELEASZ Tanztraining: ](/releasze)[Zeitgenössischer Tanz / CI-light / Somatisches Lernen](/releasze)** **open level**\
+**[Mo RELEASZ Tanztraining: ](/releasze)****[Zeitgenössischer Tanz / CI-light / Somatisches Lernen](/releasze)** **open level**\
 **mit maRia ProbstMo 24.2.- 16.6.2025, 18.30 - 20.15 (ca.14x)**\
 **Turnsaal VS Gilgegasse 12, 1090 Wien**
 
@@ -55,6 +55,11 @@ An folgenden Terminen sind Neueinsteiger*inne*n zur Teilnahme an der Jams eingel
 **mit Christian Apschner und Ines Ingere (Assistenz)**\
 **Do 27.2.- 13.6.2025, 18.15 – 20.30 (ca.13x plus 3xOpen Level Jam)**\
 **Turnsaal VS Gilgegasse 12, 1090 Wien**
+
+
+
+### **IMPULSTANZ RETREAT bei Artis Umbria 25.-31.10.2025**:\
+**Flow Into Ease, Strength & Fun(gi) Field Trips mit maRia und Christian**
 
 
 
