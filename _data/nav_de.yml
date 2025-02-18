@@ -40,12 +40,12 @@ entries:
   - title: KÜNSTLERISCHE PROJEKTE
     path: /conact1
     subentries:
+      - title: SITE SPECIFIC
+        path: /site-specific
       - title: CON.ACT/Twist&Talk
         path: /conact1
       - title: Kooperationen
         path: /koop
-      - title: SITE SPECIFIC
-        path: /site-specific
   - title: VEREIN ROLLINGPOINT
     path: /verein
     subentries:
