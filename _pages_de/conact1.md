@@ -2,13 +2,9 @@
 permalink: /conact1
 title: CON.ACT/Twist&Talk
 ---
-
-
 ![](/assets/uploads/img_1783.jpg)
 
-
-
-**Das künstlerische Forschungsprojekt Twist&Talk: "In, Out, With" wurde im Herbst 2018 in Kooperation mit dem Tanzquartier Wien und der KünstlerInnen-Initiative Im_flieger durchgeführt. Mit unserem Forschungsbericht möchten die Ergebnisse des Projektes der allen Interessierten zugänglich machen:**
+**Das künstlerische Forschungsprojekt CON:ACT Twist&Talk: "In, Out, With" wurde im Herbst 2018 in Kooperation mit dem Tanzquartier Wien und der KünstlerInnen-Initiative Im_flieger durchgeführt. Mit unserem Forschungsbericht möchten die Ergebnisse des Projektes der allen Interessierten zugänglich machen:**
 
 ## Forschungsbericht CON.ACT
 
@@ -16,8 +12,6 @@ title: CON.ACT/Twist&Talk
 
 **Tanzimprovisations- und Diskursformat “Twist&Talk” (CON.ACT)**\
 **Ergebnisse des Forschungsprojektes**
-
-
 
 **KURZFASSUNG**
 
@@ -44,8 +38,6 @@ Darüberhinaus wäre es sehr spannend in einem weiteren Projekt den künstlerisc
 Wir danken dem Tanzquartier Wien sowie der KünstlerInneninitiative Im_flieger für die mögliche Realisierung und vor allem auch allen TeilnehmerInnen von “Twist&Talk” für das gemeinsame Forschen. Wir werden unsere Ideen zu CON.ACT 2 konsequent weiterverfolgen und sind in diesem Zusammenhang sind für jede Finanzierungsidee dankbar.
 
 ![](/assets/uploads/img_1828.jpg)
-
-
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\__
 
@@ -123,8 +115,6 @@ X für Überraschungen offen zu sein\
 X diese erste Etappe auch zu dokumentieren, um sie anderen als open source Know-How zur Verfügung zu stellen und nicht zuletzt einen Fragebogen über die gesamte Phase laufen zu lassen, um differenziertes individuelles Feedback zu erhalten.
 
 ![](/assets/uploads/img_1737.jpg)
-
-
 
 **3. FRAGEBOGENAUSWERTUNG und TEILNEHMERiNNEN-FEEDBACK** 
 
