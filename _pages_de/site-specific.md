@@ -1,5 +1,5 @@
 ---
-permalink: site-specific
+permalink: /site-specific
 title: SITE SPECIFIC ART
 language: de
 ---
