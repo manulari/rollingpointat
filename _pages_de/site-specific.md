@@ -3,7 +3,7 @@ permalink: /site-specific
 title: SITE SPECIFIC ART
 language: de
 ---
-
+### SITE SPECIFIC ART
 
 ![](/assets/uploads/dsc_1887.jpg)
 
@@ -61,8 +61,6 @@ Kirchberg am Wechsel
 ![](/assets/uploads/img_2786_large.jpg)
 
 ![](/assets/uploads/img_2764_large.jpg)
-
-
 
 ![](/assets/uploads/dsc_2310.jpg)
 
