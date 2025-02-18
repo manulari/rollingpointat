@@ -45,7 +45,7 @@ entries:
       - title: Kooperationen
         path: /koop
       - title: SITE SPECIFIC
-        path: /conact1
+        path: /site-specific
   - title: VEREIN ROLLINGPOINT
     path: /verein
     subentries:
