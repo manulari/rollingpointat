@@ -6,7 +6,7 @@ language: de
 **Stundenplan Abendkurse**\
 **Wintersemester 2024/25 bzw. Sommersemester 2025**
 
-| Tag    | Zeit            | Lehrer*in                | Titel                                                                           | Ort/Turnsaal                  |
+| Tag    | Zeit            | Leiter*in                | Titel                                                                           | Ort/Turnsaal                  |
 | ------ | --------------- | ------------------------ | ------------------------------------------------------------------------------- | ----------------------------- |
 | **Mo** | **18.30-20.15** | **maRia**                | **[RELEASZ Tanztraining: CI-light/Somatisches Lernen / open level](/releasze)** | **Gilgegasse 12, 1090 Wien**  |
 | **Di** | **18.00-20.30** | **Christian maRia u.A.** | **[Contact Improvisation Jam](/jams)** (kein Kurs)                              | **Einsiedlerg. 7, 1050 Wien** |
@@ -19,7 +19,7 @@ language: de
 \
 Offene Schnupperstunden zu Kursbeginn (10€/EInheit)
 
-Unsere fortlaufenden Semesterkurse am Montag, Mittwoch und Donnerstag Abend laden ein, in einen kontinuierlichen Lernprozess mit Gleichgesinnten einzutauchen. Die Angebote sind sowohl als Ausgleich zum Berufsalltag oder Studium gedacht als auch als fundierte Fortbildung, falls du dich tiefer einlassen willst. Die offene rollingpoint Contact Improvisation Jam am Dienstag ist darüber hinaus ein beliebter Treffpunkt, um frei miteinander Contact Improvisation zu tanzen.
+Unsere fortlaufenden Semesterkurse am Montag, Mittwoch und Donnerstag Abend laden ein, in einen kontinuierlichen Lernprozess mit Gleichgesinnten einzutauchen. Die Angebote sind sowohl als Ausgleich zum Berufsalltag oder Studium gedacht als auch als fundierte künstlerische Fortbildung, falls du dich tiefer einlassen willst. Die offene rollingpoint Contact Improvisation Jam am Dienstag ist darüber hinaus ein beliebter Treffpunkt, um frei miteinander zu tanzen und Contact Improvisation als eine ganzheitlich orientierte  Kunstform zu praktizieren und leben.
 
 Hast du Fragen oder bist du dir nicht sicher, welcher Kurs das richtige für dich ist?
 
