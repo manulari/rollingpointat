@@ -24,7 +24,7 @@ Die Jahre 2023 und 2024 standen im Zeichen des Projektes "Seltsamia" - Dancing M
 
 Im Folgenden findet sich ein kleiner Fotorückblick auf verschiedene Projekt aus dem Zeitraum 2008-2024:
 
-Seltsamia
+Seltsamia, Fotos: Stefan Schaffer
 
 ![](/assets/uploads/steg.jpg)
 
@@ -34,7 +34,7 @@ Seltsamia
 
 ![](/assets/uploads/img_8348.jpeg)
 
-Gasteil/Prigglitz
+Gasteil/Prigglitz, Fotos: Christian Apschner
 
 ![](/assets/uploads/img_0709.jpg)
 
