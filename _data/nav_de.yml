@@ -38,7 +38,7 @@ entries:
       - title: Somatisches Lernen
         path: /somatics
   - title: KÜNSTLERISCHE PROJEKTE
-    path: /conact1
+    path: /site-specific
     subentries:
       - title: Site Specific Art
         path: /site-specific
