@@ -11,7 +11,7 @@ Foto: Laurent Ziegler
 
 **Christian Apschner und Ines Ingerle (Assistenz)**\
 **WS 2024/25:  Do 18.15 – 20.30, 26.9.2024 - 30.1.2025 (ca. 16x)**\
-**SS 2025: Do 18.15 - 20.30, 27.2.- 12.6.2025 (13xDo + 3x Open Level Jam am Mi)**\
+**SoSe 2025: Do 18.15 - 20.30, 27.2.- 12.6.2025 (13xDo + 3x Open Level Jam am Mi)**\
 Turnsaal VS Gilgegasse 12, 1090 Wien
 
 **Trainingsgruppe für Beginner*innen**
