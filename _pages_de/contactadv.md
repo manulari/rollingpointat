@@ -11,7 +11,7 @@ Foto: Laurent Ziegler
 
 mit **Christian Apschner**\
 **WS 2024/25: Mi 18.00 - 20.40, 25.9.2024 – 29.1.2025 (ca. 16x)**\
-**SS 2025: Mi 18.00 -20.40, 26.2.- 18.6.2025 (ca. 15x)**\
+**SoSe 2025: Mi 18.00 -20.40, 26.2.- 18.6.2025 (ca. 15x)**\
 Turnsaal VS Einsiedlergasse 7, 1050 Wien
 
 Fortlaufende Trainingsgruppe\
