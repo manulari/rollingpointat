@@ -9,12 +9,9 @@ Foto: Ines Ingerle
 
 **What happens in a Contact Jam?** <https://www.youtube.com/watch?v=u9AhpFxfEfs>
 
-Die rollingpoint-Jams sind Orte für fokussiertes und freudvolles Contact Improvisation-Tanzen. Wir achten darauf, einen gemeinsamen Raum zu halten, in dem sich alle sicher fühlen und erwarten von den Teilnehmenden, CI-Kurserfahrungen im Sinne von Grundkenntnissen. (Hinweise zur Sicherheit in den rollingpoint-Jams siehe unten).
+Unsere Jams sind Orte für fokussiertes Contact Improvisation-Tanzen. Wir achten darauf, einen gemeinsamen Raum zu halten, in dem sich alle sicher fühlen und erwarten von den Teilnehmenden erste CI-Kurserfahrungen im Sinne eines Grundverständnisses für die CI (Hinweise zur Sicherheit in den rollingpoint-Jams siehe unten).
 
 ## rollingpoint-Jam am Dienstag
-
-**Achtung: Am 11.2.und 18.2.2025 findet aufgrund unserer Winterintensive keine Jam statt.**\
-**Nächste Jam: 25.2.2025**
 
 **Immer am Dienstag (wenn Schultag) 18.00 - 20.30** \
 Turnsaal VS Einsiedlergasse 7, 1050 Wien. Der schöne geräumige Turnsaal befindet sich im 1.Stock des Schulgebäudes. Keine Anmeldung erforderlich.
