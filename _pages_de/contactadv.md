@@ -29,7 +29,7 @@ Ein Schwerpunkt des Kurses wird sein, die Technik verschiedenster Lifts und Jump
 
 Jeweils 40 Minuten der Kurseinheiten (fallweise zu Beginn oder auch am Ende) sind der Körperarbeit und Anatomical Release Technique/Ideokinese gewidmet.  Anatomische Bilder unterstützen deine Vorstellungskraft. So kannst du dir praktische Grundkenntnisse in unterschiedlichen Körperarbeitsmethoden (Trager, Ortho-Biomomy, Nuad) aneignen. Das vertiefte Körperwissen lädt dich ein, noch bewusster mit deinem Körper umzugehen, damit du viele Jahre freudvoll tanzen kannst.
 
-***KURSANMELDUNG:***\
+***ANMELDUNG:***\
 Schreibe uns bitte ein kurzes Mail an ci.rollingpoint@gmail.com\
 oder verwende folgendes Anmeldeformular\
 <https://forms.gle/D5bwoQwoeueLpRCw7>
