@@ -17,7 +17,7 @@ Please pay on our bank account IBAN: AT54 3200 0000 1701 2717, BIC: RLNWATWW,�
 
 ### **Notes about safety in the CI jam:**
 
-At a CI jam, we share the basic agreement that all participants mind their own safety AND the safety of their dance partners. “Take care not to hurt anyone. Take care not to get hurt.” Knowing your own physical and emotional limits and learning to read those of your dance partners is part of the learning process in CI. Knowing our limits offers safety and opens up the freedom to move and experiment in close proximity to these limits.
+At a CI jam, we share the basic agreement that all participants mind their own safety AND the safety of their dance partners. “Take care of yourself, take care about your dance partners and the space aroung you. Knowing your own physical and emotional limits and learning to read those of your dance partners is part of the learning process in CI. Knowing our limits offers safety and opens up the freedom to move and experiment in close proximity to these limits.
 
 For physical safety it is important to learn some basic techniques, such as rolling on the floor, pouring your weight, and rolling or sliding together. Techniques for emotional safety are more diverse between individuals, and they are at least as important as those for physical safety.
 
