@@ -18,21 +18,6 @@ Fotocredit: https://johannes-stolba.net/photography/
 
 <div class="imglink"><a target="_blank" href="https://www.youtube.com/embed/kp3DqzN1Ldo"><img src="/assets/uploads/video_vorschau_rollingpoint.png" alt="" /><div>rollingpoint-Video</div></a></div>
 
-### **CONTACT FLYING SKILLS (WOCHENEND-WORKSHOP)**
-
-**18./19.1.2025 [Liquid Motion - Contact Flying Skills](https://rollingpoint.at/wsws2024#flyingskills)**\
-**mit Christan Apschner**
-
-### **WINTERINTENSIVE**
-
-**Woche 1: Mo - Do 10.- 13.2.2025**\
-**[RELEASZE Tanztraining - Contact Improvisation light](/winterintensive#WI1) / open level\
-mit maRia Probst (und Christian Apschner)**
-
-**Woche 2: Mo - Do 17.- 20.2.2025**\
-**[Contact Improvisation Basic Skills ](/winterintensive#WI2) / beginner-intermediate**\
-**mit Christian Apschner (und maRia Probst)**
-
 ### **SEMESTERKURSE**
 
 **Kursbeginn SOMMERSEMESTER 24.- 27.2.2025**
@@ -61,8 +46,6 @@ An folgenden Terminen sind Neueinsteiger*inne*n zur Teilnahme an der Jams eingel
 **Flow Into Ease, Strength & Fun(gi) Field Trips mit maRia und Christian**\
 **Komm mit uns in den Herbstferien nach Umbrien**\
 **[Info](https://www.artisumbria.com/offer/flow)**
-
-
 
 ![Mehr CI auf der Stiege](/assets/uploads/dsc_1941a.jpg "Mehr CI auf der Stiege")
 
