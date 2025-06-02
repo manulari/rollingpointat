@@ -20,6 +20,12 @@ Fotocredit: https://johannes-stolba.net/photography/
 
 ### **SEMESTERKURSE**
 
+**Vorschau Herbst:**\
+**Die Abendkurse für das Wintersemester 2025/26 beginnen in der Woche vom 22.-25.9.2025.**\
+**Kurstage und -inhalte analog zum Sommersemester 2025, kleinere Änderungen möglich, Details vor den Sommerferien.**
+
+
+
 **Kursbeginn SOMMERSEMESTER 24.- 27.2.2025**
 
 **[Mo RELEASZ Tanztraining: ](/releasze)\*\***[Zeitgenössischer Tanz / CI-light / Somatisches Lernen](/releasze)\*\* **open level**\
