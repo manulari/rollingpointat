@@ -3,6 +3,10 @@ permalink: /kurse
 title: Abendkurse WS 2024/25
 language: de
 ---
+**Vorschau Herbst:**\
+**Die Abendkurse für das Wintersemester 2025/26 beginnen in der Woche vom 22.-25.9.2025.**\
+**Kurstage und -inhalte analog zum Sommersemester 2025, kleinere Änderungen möglich, Details vor den Sommerferien.**
+
 **Stundenplan Abendkurse**\
 **Wintersemester 2024/25 bzw. Sommersemester 2025**
 
