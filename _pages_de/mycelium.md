@@ -11,8 +11,6 @@ language: de
 
 **Ein experimentelles rollingpoint Outdoor-Kunstprojekt** 
 
-
-
 **Termine 2024:**
 
 **Do 30.5.2024, 18:30: Park Freie Mitte / Ehemaliges Nordbahnhofgelände**\
@@ -28,8 +26,6 @@ Treffpunkt: In der Fußgängerzone des WU Campus an der nördlichen Ecke des ora
 Koordinaten: 48.2304, 16.3914\
 Bei der Lagerwiese oberhalb der alten Eisenbahnbrücke\
 Von der Innstraße 18 aus über die Leystraße bzw. von der Vorgartenstraße 98 aus in 150m erreichbar.
-
-
 
 ![](/assets/uploads/sdim0844.jpg)
 
@@ -73,7 +69,7 @@ Spenden auf unser Vereinskonto IBAN: AT54 3200 0000 1701 2717, BIC: RLNWATWW, Ve
 
 Pilze sind in ihrer Bedeutung für das Leben auf der Erde mindestens so wichtig wie Pflanzen und Tiere. Sie existieren für das menschliche Auge zumeist unsichtbar als feinstes Netzwerk (Myzelium) im Boden und in organischer Substanz verborgen. Die Gesamtlänge aller Pilzfäden von Mykorrhizapilzen (Symbiosepilze) auf der Erde beträgt 4,5x10hoch17 Kilometer, dem halben Durchmesser unserer Galaxis. Pilze schaffen neuen Lebensraum indem sie Gemeinschaften mit Algen eingehen und Flechten bilden. Erst so konnte unbelebte Erde und Fels später von Pflanzen, Tieren und Menschen besiedelt werden. Auf der anderen Seite stehen Pilze am Ende des Lebenszyklus indem sie als Saprobionten organische Substanz abbauen und wieder in den Stoffkreislauf zurückführen. Sie sind Vermittler zwischen Leben und Tod. Pilzmyzelien können theoretisch unendlich lang leben, sofern ihr Lebensraum erhalten bleibt.
 
-Die Pilze sind in ihrem Wesen also in erster Linie ein dezentral organisiertes Netzwerk in dem verschiedenste Stoffe und Informationen verarbeitet, transportiert und ausgetauscht werden. Die Fruchtkörper der Pilze selbst erscheinen meist nur für ein paar Tage im Jahre (oft auch einige Jahre gar nicht) für den Menschen sichtbar an der Oberfläche. Wann und wo lässt sich nie genau voraussagen und es gibt immer unerwartete Überraschungen für Mykolog*innen. Allein in Österreich existieren weit mehr als 10.000 verschiedene Pilzarten in allen Größenordnungen und mit einer faszinierenden Formenvielfalt. Viele davon stehen auf der Roten Liste der gefährdeten Arten.
+Die Pilze sind in ihrem Wesen also in erster Linie ein dezentral organisiertes Netzwerk in dem verschiedenste Stoffe und Informationen verarbeitet, transportiert und ausgetauscht werden. Über die genauen Vorgänge darin wissen wir noch erstaunlich wenig. Die Fruchtkörper der Pilze selbst erscheinen meist nur für ein paar Tage im Jahre (oft auch einige Jahre gar nicht) für den Menschen sichtbar an der Oberfläche. Wann und wo lässt sich nie genau voraussagen und es gibt immer unerwartete Überraschungen für Mykolog*innen. Allein in Österreich existieren weit mehr als 10.000 verschiedene Pilzarten in allen Größenordnungen und mit einer faszinierenden Formenvielfalt. Viele davon stehen auf der Roten Liste der gefährdeten Arten.
 
 Um Pilze in der Natur zu finden müssen wir uns bewegen und alle Sinne einsetzen. Pilze zu suchen kann als eine Form von Kontaktimprovisation mit der Natur gesehen werden, ein gemeinsamer Tanz indem wir die Pilze als „Companion Species“ erleben. Vergleich hierzu: Anna Tsing Unruly Edges: Mushrooms as Companion Species (for Donna Haraway). <https://www.researchgate.net/publication/302967622_Unruly_Edges_Mushrooms_as_Companion_Species>\
 \
