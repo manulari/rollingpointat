@@ -16,6 +16,8 @@ Unsere Jams sind Orte für fokussiertes Contact Improvisation-Tanzen. Wir achte
 **Immer am Dienstag (wenn Schultag) 18.00 - 20.30** \
 Turnsaal VS Einsiedlergasse 7, 1050 Wien. Der schöne geräumige Turnsaal befindet sich im 1.Stock des Schulgebäudes. Keine Anmeldung erforderlich.
 
+Semesterabschluss-Jam: 24.6.2025
+
 Ankommen ab 18.00, **Eröffnungskreis um 18.30**\
 Teilweise angeleitete warm ups.\
 Ausgewählte Musik und Sound-Scapes in der 2.Hälfte der Jams.
