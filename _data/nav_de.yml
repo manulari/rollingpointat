@@ -23,11 +23,7 @@ entries:
         path: /mycelium
   - title: WORKSHOPS
     path: /wsws2024
-    subentries:
-      - title: Contact Flying Skills 18./19.1.2025
-        path: /wsws2024
-      - title: Rückblick
-        path: /rückblick
+    subentries: []
   - title: CONTACT IMPROVISATION
     path: /contact-improvisation
     subentries:
