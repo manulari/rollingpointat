@@ -41,8 +41,8 @@ Für weitere Rückfragen kontaktiere bitte Christian (0650 8931081)
 ***KOSTEN:***\
 Offene Schnupperstunden in den ersten zwei Kurswochen um €10 pro Einheit (max. 1x pro Kurs)\
 \
-**Kostenbeitrag Semesterkurs Normalpreis € 260**\
-**Ermäßigungen: € 180 für StudentInnen <=28a, € 220 Sonstige**\
+**Kostenbeitrag Semesterkurs Normalpreis € 270**\
+**Ermäßigungen: € 180 für StudentInnen <=28a, € 225 Sonstige**\
 Bei Buchung von mehr als einem Kurs minus € 30 ab dem 2.Kurs\
 \
 Auf Anfrage 5﻿er-Block € 95 - 125 bzw. Einzelstunden € 20–28 möglich\
