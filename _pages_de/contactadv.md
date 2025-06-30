@@ -33,8 +33,7 @@ Jeweils 40 Minuten der Kurseinheiten (fallweise zu Beginn oder auch am Ende) sin
 
 ***ANMELDUNG:***\
 Schreibe uns bitte ein kurzes Mail an ci.rollingpoint@gmail.com\
-oder verwende folgendes Anmeldeformular\
-<https://forms.gle/D5bwoQwoeueLpRCw7>
+oder verwende folgendes Anmeldeformular: coming soon
 
 Für weitere Rückfragen kontaktiere bitte Christian (0650 8931081)
 
