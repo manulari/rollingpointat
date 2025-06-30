@@ -9,16 +9,10 @@ Foto: Ines Ingerle
 
 **What happens in a Contact Jam?** <https://www.youtube.com/watch?v=u9AhpFxfEfs>
 
-Unsere Jams sind Orte für fokussiertes Contact Improvisation-Tanzen. Wir achten darauf, einen gemeinsamen Raum zu halten, in dem sich alle sicher fühlen und erwarten von den Teilnehmenden erste CI-Kurserfahrungen im Sinne eines Grundverständnisses für die CI (Hinweise zur Sicherheit in den rollingpoint-Jams siehe unten).
-
-> Die letzten beiden rollingpoint-Jams vor der Sommerpause am 17.6. und 24.6.2025 sind auch für Beginner*innen offene Open Level Jams. Kommt gerne und informiert euch dabei auch über unsere Kurse und Trainingsgruppen im kommenden Herbst.
-
-## rollingpoint-Jam am Dienstag
+Unsere Jams sind Orte für fokussiertes Contact Improvisation-Tanzen. Wir achten darauf, einen gemeinsamen Raum zu halten, in dem sich alle sicher fühlen und erwarten von den Teilnehmenden erste CI-Kurserfahrungen im Sinne eines Grundverständnisses für die CI (Hinweise zur Sicherheit in den rollingpoint-Jams siehe unten).rollingpoint-Jam am Dienstag
 
 **Immer am Dienstag (wenn Schultag) 18.00 - 20.30** \
 Turnsaal VS Einsiedlergasse 7, 1050 Wien. Der schöne geräumige Turnsaal befindet sich im 1.Stock des Schulgebäudes. Keine Anmeldung erforderlich.
-
-**Semesterabschluss-Jam: 24.6.2025**
 
 Ankommen ab 18.00, **Eröffnungskreis um 18.30**\
 Teilweise angeleitete warm ups.\
@@ -26,11 +20,10 @@ Ausgewählte Musik und Sound-Scapes in der 2.Hälfte der Jams.
 
 **Kostenbeitrag auf Spendenbasis: Jam einzeln € 8 - 12, Semesterbeitrag: € 100 - 150**
 
-An folgenden drei Terminen sind auch Beginnerinnen ohne CI-Kurserfahrung zur Teilnahme an der Jams eingeladen:\
-**8.10., 12.11., 17.12.2024, 21.1.2025**\
-**1.4., 6.5. 3.6.2025** \
+An folgenden drei Terminen sind auch Beginnerinnen ohne CI-Kurserfahrung zur Teilnahme an der Jams eingeladen (Open Level Jams)\
+**14.10., 18.11. und 16.12.2025, 20.1.2026**\
 Für alle Beginner*innen gibt es eine einstündige Einführung in die Welt der Contact Improvisations-Jams im Zeitraum 17.30 - 18.30. \
-Kostenbeitrag CI-Intro plus Jam 14 -24 €
+Kostenbeitrag CI-Intro plus Jam 15 -25 €
 
 <div class="named-anchor" id="special"></div>
 
@@ -38,7 +31,7 @@ Kostenbeitrag CI-Intro plus Jam 14 -24 €
 
 Wichtigster Grundkonsens einer CI-Jam ist, dass alle Teilnehmenden gut auf sich selbst und die TanzpartnerInnen achten: *„Achte, dass du niemand verletzt und achte darauf, dass dich niemand verletzt!"*
 
-Es ist Teil des Lernprozesses der Contact Improvisation immer besser herauszufinden, wo die eigenen Grenzen und die Grenzen der TanzpartnerInnen liegen z.B. im Umgang mit Körpergewichten. Dieser Lernprozess erlaubt auch „gedachte Grenzen“ zu erweitern und neue Freiheiten im Tanzen zu eröffnen. Für die physische Sicherheit ist es wichtig, Grundtechniken zu erlernen, welche gezielt in Kursen vermittelt werden wie Falltechniken, Körpergewicht dosiert abzugeben und gemeinsam zu rollen oder zu gleiten u.v.a.m. In einer Jam gibt es **keine Anleitung** wie in einem Kurs. **Basiskenntnisse** **und ein** **Grundverständnis der Contact Improvisation werden** daher **vorausgesetzt**; ausgenommen open level Jams, wo auch Beginner*innen eingeladen sind mitzutanzen.
+Es ist Teil des Lernprozesses der Contact Improvisation immer besser herauszufinden, wo die eigenen Grenzen und die Grenzen der TanzpartnerInnen liegen z.B. im Umgang mit Körpergewichten. Dieser Lernprozess erlaubt auch „gedachte Grenzen“ zu erweitern und neue Freiheiten im Tanzen zu eröffnen. Für die physische Sicherheit ist es unerlösslich, Grundtechniken zu erlernen, welche gezielt in Kursen vermittelt werden wie Falltechniken, Körpergewicht dosiert abzugeben und gemeinsam zu rollen oder zu gleiten u.v.a.m. In einer Jam gibt es **keine Anleitung** wie in einem Kurs. **Basiskenntnisse** **und ein** **Grundverständnis der Contact Improvisation werden** **vorausgesetzt**; ausgenommen open level Jams, wo auch Beginner*innen eingeladen sind mitzutanzen.
 
 **Einige wichtige Regeln für die Sicherheit** sind u.a.:
 
@@ -50,7 +43,7 @@ Es ist Teil des Lernprozesses der Contact Improvisation immer besser herauszufin
 * **Frage nach**, wenn du das Gefühl hast, dein/e Tanzpartner/in könnte sich nicht sicher fühlen
 * **Wende dich jederzeit an die Jam-hosts** wenn du ein Anliegen hast oder Fragestellungen auftauchen. Jam-hosts achten auf einen respektvollen Umgang im Tanzraum und stehen als Vertrauensperson zur Verfügung.
 
-Körperkontakt in der CI dient der sensomotorischen Wahrnehmung und der Gewichtsübertragung. **Körperkontakt oder Berührung mit dem Ziel sexueller Annäherung ist nicht Contact Improvisation.**
+Körperkontakt in der CI dient der sensomotorischen Wahrnehmung und der Gewichtsübertragung. **Körperkontakt oder Berührung mit dem Ziel sexueller Annäherung ist nicht Contact Improvisation.**
 
 Ein CI-Tanz ist ein gleichberechtigter körperlicher Dialog, in dem wir uns fortlaufend somatische Fragen stellen wie z.B. 
 
