@@ -22,7 +22,7 @@ Fotocredit: https://johannes-stolba.net/photography/
 
 **Kursbeginn WINTERSEMESTER 2025/26: 22.- 25.9.2025**
 
-**[Mo RELEASZ Tanztraining: ](/releasze)\*\***[Zeitgenössischer Tanz / CI-light / Somatisches Lernen](/releasze)\*\* **open level**\
+**[Mo RELEASZ Tanztraining: ](/releasze)**[Zeitgenössischer Tanz / CI-light / Somatisches Lernen](/releasze) **open level**\
 **mit maRia Probst**\
 **Mo 22.9.2025 - 26.1.2026, 18.30 - 20.15 (ca.14x)**\
 **Turnsaal VS Gilgegasse 12, 1090 Wien**
