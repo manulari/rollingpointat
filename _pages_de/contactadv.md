@@ -7,12 +7,14 @@ language: de
 
 Foto: Laurent Ziegler
 
-#### **“Into the Deep” Contact Improvisation - intermediate/advanced**
+#### **“Thinking Body - Dancing Mind” Contact Improvisation - intermediate/advanced**
 
 mit **Christian Apschner**\
-**WS 2024/25: Mi 18.00 - 20.40, 25.9.2024 – 29.1.2025 (ca. 16x)**\
-**SoSe 2025: Mi 18.00 -20.40, 26.2.- 18.6.2025 (ca. 15x)**\
+**Mi 18.00 - 20.30, 24.9.2025 – 28.1.2026 (ca. 16x)**\
+\
 Turnsaal VS Einsiedlergasse 7, 1050 Wien
+
+Text in Bearbeitung:
 
 Fortlaufende Trainingsgruppe\
 Für Tänzer*innen mit guten Vorerfahrungen ist die Teilnahme auch an einzelnen Terminen und 5er-Blocks möglich.
