@@ -12,6 +12,9 @@ entries:
         path: /contactbeg
       - title: Anmeldung
         path: /Kursanmeldung
+  - title: WORKSHOPS
+    path: /wsws2024
+    subentries: []
   - title: WINTERINTENSIVE  2025
     path: /winterintensive
   - title: JAMS+PERFORMANCES
@@ -21,9 +24,6 @@ entries:
         path: /jams
       - title: Dancing Mycelium
         path: /mycelium
-  - title: WORKSHOPS
-    path: /wsws2024
-    subentries: []
   - title: CONTACT IMPROVISATION
     path: /contact-improvisation
     subentries:
