@@ -15,8 +15,6 @@ Turnsaal VS Gilgegasse 12, 1090 Wien
 
 **Trainingsgruppe für Beginner*innen**
 
-Text in Bearbeitung:
-
 Du bist im sicheren Rahmen der Trainingsgruppe eingeladen, immer tiefer in die Welt der CI einzutauchen. Mit ausreichend Zeit und Kontinuität lernst du Basics der CI kennen und erweiterst dein Bewegungsvokabular und sensorische Fähigkeiten Schritt für Schritt. Gemeinsam üben wir, leicht und körperschonend Gewicht abzugeben und zu übernehmen, mit dem rollenden Kontaktpunkt zu spielen und gut im Bewegungsfluss zu bleiben. Wir erforschen die Technik für einfache Jumps und Lifts, lernen uns fallen zu lassen und sicher zu landen. Verschiedene Variationen von Roll- und Spiralbewegungen erweitern dein Bewegungsspektrum und unterstützen dich im Tanz geschmeidig und durchlässig zu sein.
 
 Nicht zuletzt verstehen wir die Contact Improvisation auch als eine Form von nonverbaler Kommunikation und Begegnung, in der wir lernen auf unsere eigenen körperlich-mentalen Bedürfnisse und Grenzen und die unserer TanzpartnerInnen gleichermaßen zu achten. In kurzen verbalen Feedback-Runden möchten wir diesen Erfahrungen zusätzlich Raum geben.
@@ -29,7 +27,7 @@ Teilnahmeempfehlungen: Da wir in der Contact Improvisation gegenseitig Körperge
 ***ANMELDUNG:***\
 Schreibe uns bitte ein kurzes mail an ci.rollingpoint@gmail.com\
 oder verwende folgendes Anmeldeformular\
-<https://forms.gle/D5bwoQwoeueLpRCw7>
+c[oming soon](https://forms.gle/D5bwoQwoeueLpRCw7)
 
 Für weitere Rückfragen kontaktiere bitte Christian (0650 8931081)
 
