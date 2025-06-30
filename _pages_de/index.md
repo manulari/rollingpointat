@@ -28,7 +28,7 @@ Fotocredit: https://johannes-stolba.net/photography/
 **Turnsaal VS Gilgegasse 12, 1090 Wien**
 
 **[Di Contact Improvisation Jam ](/jams)**(kein Kurs, keine Anmeldung erforderlich)\
-**Di 16.9.2025.- 27.1.2026, Jam 18.00 – 20.30 (ca.17x)**\
+**Di 16.9.2025.- 27.1.2026, 18.00 – 20.30 (ca.17x)**\
 **Turnsaal VS Einsiedlergasse 7, 1050 Wien**\
 Open Level Jams (Neueinsteiger*inne*n sind zur Teilnahme an der Jams eingeladen): **14.10., 18.11. und 16.12.2025, 20.1.2026,** Intro für Beginnerinnen 17.30 - 18.30.
 
