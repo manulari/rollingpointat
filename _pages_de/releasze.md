@@ -9,9 +9,10 @@ Foto: Ines Ingerle
 
 #### RELEASZ Tanztraining: Zeitgenössischer Tanz / CI-light / Somatisches Lernen
 
+***Text in Bearbeitung!***
+
 ***open level*** mit **maRia Probst**\
-**WS 2024/25: Mo 18.30 - 20.15, 23.9.2024 – 27.1.2025 (ca. 16x)**\
-**SoSe 2025: Mo 18.30 - 20.15, 24.2.- 16.6.2025 (ca. 14x)**\
+**Mo 18.30 - 20.15, 22.9.2025 – 26.1.2026 (ca. 15x)**\
 Turnsaal VS Gilgegasse 12, 1090 Wien
 
 RELEASZ verweist auf die Wurzeln dieser Praxis, der Release Technique. Es steht darüber hinaus für **RE**generierendes, **L**ebendiges, **E**nergetisierendes, **A**ffirmatives, **S**omatisches und **Z**eitgenössisches Tanzen.
