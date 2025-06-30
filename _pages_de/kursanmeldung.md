@@ -7,7 +7,8 @@ language: de
 
 **oder fülle folgendes Anmeldeformular aus:**
 
-<https://forms.gle/D5bwoQwoeueLpRCw7>\
+[kommt Anfang Juli 2025](https://forms.gle/D5bwoQwoeueLpRCw7)!
+
 \
 **Hast du Fragen zu unseren Angeboten nimm gerne auch direkt Kontakt per SMS/Tel. mit**\
 **maRia (0650 9510814)**\
