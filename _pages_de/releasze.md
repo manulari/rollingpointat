@@ -26,9 +26,9 @@ Teilnahmeempfehlung: Tanzfreudige mit Lust an Bewegungsausdruck und -forschung. 
 ***ANMELDUNG:***\
 Schreibe uns bitte ein kurzes mail an ci.rollingpoint@gmail.com\
 oder verwende folgendes Anmeldeformular\
-<https://forms.gle/D5bwoQwoeueLpRCw7>
+c[oming soon](https://forms.gle/D5bwoQwoeueLpRCw7)
 
-***KOSTEN:***\
+***KOSTEN***\
 Offene Schnupperstunden in den ersten zwei Kurswochen um €10 pro Einheit (max. 1x pro Kurs)\
 **Kostenbeitrag Semesterkurs Normalpreis € 260**\
 **Ermäßigungen: € 180 für StudentInnen <=28a, € 220 Sonstige**\
