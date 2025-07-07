@@ -3,9 +3,7 @@ permalink: /kurse
 title: Abendkurse WS 2024/25
 language: de
 ---
-
-
-**Stundenplan 2025/26**
+**Stundenplan Wintersemester 2025/26**
 
 | Tag    | Zeit            | Leiter*in                | Titel                                                                                         | Ort/Turnsaal                  |
 | ------ | --------------- | ------------------------ | --------------------------------------------------------------------------------------------- | ----------------------------- |
