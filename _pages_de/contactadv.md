@@ -44,7 +44,7 @@ Für Rückfragen kontaktiere bitte Christian (0650 8931081).
 **Ermäßigungen: € 180 für StudentInnen <=28a, € 225 Sonstige**\
 Bei Buchung von mehr als einem Kurs minus € 30 ab dem 2.Kurs\
 \
-Auf Anfrage 5﻿er-Block € 95 - 125 bzw. Einzelstunden € 20–28 möglich\
+Auf Anfrage 5﻿er-Block € 95 - 130 bzw. Einzelstunden € 20–28 möglich\
 \
 **Buchung als JahresAbo Wintersemester 2025/26 + Sommersemster 2026:**\
 Beinhaltet die Teilnahme am Contact Improvisation advanced Kurs im Wintersemester 2024/25 sowie im Sommersemester 2025 (ca.30 Kurseinheiten a 2,5 Std.) plus Jam am Di-Abend (ca.30 Jams a 2,5 Std.),  sowie zwei einstündige Einzelcoachings mit Christian, ermäßigter Tarif für Wochenend-Workshops \
