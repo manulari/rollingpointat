@@ -1,6 +1,6 @@
 ---
 permalink: /contactadv
-title: Into the Deep
+title: Thinking Body - Dancing Mind
 language: de
 ---
 ![](/assets/uploads/lsz_5410-3.jpg)
