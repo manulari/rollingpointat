@@ -27,35 +27,33 @@ registration form**:** <https://forms.gle/D5bwoQwoeueLpRCw7>
 
 ### Evening courses / study groups
 
-**Start Summer semester: 24.-27.2.2025**
+**Start Winter semester: 22.-25.9.2025**
 
 **[1 mo RELEASZ Contemporary Dance and Somatics](/en/kurse#mo)** - **open level**\
 **maRia Probst**  \
-**start mo 24.2.2025, 18.30 - 20.30**\
+**start mo 22.9.2025, 18.30 - 20.30**\
 **Turnsaal VS Gilgegasse 12, 1090 Wien**
 
 **[2 tue Contact Improvisation Jam](/en/kurse#di)**\
-**maRia Probst, Christian Apschner and guest teachers**\
-**start tue 25.2.2025, 18.00 - 20.30**\
+**Christian Apschner and rollingpoint team**\
+**start tue 23.9.2025, 18.00 - 20.30**\
 **Turnsaal VS Einsiedlergasse 7, 1050 Wien**
 
-**[3 wed Into the Deep - Contact Improvisation](/en/kurse#mi) advanced**\
+**[3 wed Thinking Body - Dancing Mind - Contact Improvisation](/en/kurse#mi) intermediate/advanced**\
 **Christian Apschner**\
-**start wed  26.2.2025, 18.00 - 20.40**\
+**start wed  24.9.2025, 18.00 - 20.30**\
 **Turnsaal VS Einsiedlergasse 7, 1050 Wien**
 
 **[4 thu Falling in Love with CI -Contact Improvisation](/en/kurse#do)**  **beginner**\
-**Christian Apschner and Ines Ingerle (support)**\
-**start thu 27.2.2025, 18.15 – 20.30**\
+**Christian Apschner**\
+**start thu 25.9.2025, 18.15 – 20.30**\
 **Turnsaal VS Gilgegasse 12, 1090 Wien**
-
-
 
 ### Weekend-Workshops:
 
-**18.+19.1.2025 Liquid Motion - Contact Flying Skills**\
+**31.1./1.2.2026 Liquid Motion - Contact Flying Skills**\
  with Christian Apschner and support from advanced rollingpoint dancers team
 
 ### **rollingpoint-Jam**
 
-**[tuesdays 18.00 - 20.40 when schoolday](https://rollingpoint.at/en/jams)**
+**[tuesdays 18.00 - 20.30 when schoolday](https://rollingpoint.at/en/jams)**
