@@ -36,7 +36,7 @@ Schreibe uns bitte ein kurzes Mail an ci.rollingpoint@gmail.com\
 oder verwende folgendes Anmeldeformular: <https://forms.gle/D5bwoQwoeueLpRCw7>
 
 Offene Schnupperstunden in den ersten zwei Kurswochen um €10 pro Einheit (max. 1x pro Kurs).\
-Für Rückfragen kontaktiere bitte Christian (0650 8931081)
+Für Rückfragen kontaktiere bitte Christian (0650 8931081).
 
 ***KOSTEN:***\
 \
