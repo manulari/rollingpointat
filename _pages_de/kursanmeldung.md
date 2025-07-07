@@ -7,7 +7,7 @@ language: de
 
 **oder fülle folgendes Anmeldeformular aus:**
 
-[kommt Anfang Juli 2025](https://forms.gle/D5bwoQwoeueLpRCw7)!
+<https://forms.gle/D5bwoQwoeueLpRCw7>
 
 \
 **Hast du Fragen zu unseren Angeboten nimm gerne auch direkt Kontakt per SMS/Tel. mit**\
