@@ -34,7 +34,7 @@ Die Kurseinheiten beinhalten immer auch Elemente von hands-on Körperarbeit und 
 
 ***ANMELDUNG:***\
 Schreibe uns bitte ein kurzes Mail an ci.rollingpoint@gmail.com\
-oder verwende folgendes Anmeldeformular: coming soon
+oder verwende folgendes Anmeldeformular: <https://forms.gle/D5bwoQwoeueLpRCw7>
 
 Für weitere Rückfragen kontaktiere bitte Christian (0650 8931081)
 
