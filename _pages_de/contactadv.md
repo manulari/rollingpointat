@@ -14,22 +14,23 @@ mit **Christian Apschner**\
 \
 Turnsaal VS Einsiedlergasse 7, 1050 Wien
 
-Text in Bearbeitung:
-
 Fortlaufende Trainingsgruppe\
 Für Tänzer*innen mit guten Vorerfahrungen ist die Teilnahme auch an einzelnen Terminen und 5er-Blocks möglich.
 
 Du bringst gute Basiskenntnisse der Contact Improvisation oder artverwandter Bewegungsformen mit und möchtest dein Bewegungsspektrum erweitern und verfeinern sowie gezielt Kraft, Koordination, Beweglichkeit und Körperreflexe trainieren? Dann werde Teil unserer motivierten Trainingsgruppe! 
 
-Wie geht es noch leichter und geschmeidiger?\
-Wie finde ich mehr Gestaltungsspielraum im gemeinsamen Tanz?\
+Zum Kurstitel: 1937 veröffentlichte die US-amerikanische Tanzkünstlerin Mabel Elsworth Todd das das bahnbrechende Buch "The Thinking Body". Sie öffnete damit den Einzug somatischer Methoden in Tanzpädagogik. Todds Ideen beinhalteten die Nutzung anatomisch basierter Vorstellungsbilder und bewusst entspannter Willenskraft zur Entwicklung und Verfeinerung der neuromuskulären Koordination. In der Contact Improvisation bedeutet dies: Je mehr wir uns auf unseren denkenden Körper (Thinking  Body) verlassen können, desto mehr Freiraum gewinnen wir für die spielerische Gestaltung unserer Tänze (Dancing Mind).
+
+In unserer Trainingsgruppe werden wir uns u.a. auf folgende Fragen fokussieren:
+
+Wie können wir uns noch leichter, geschmeidiger und anatomisch sinnvoll bewegen?\
+Wie finden wir Gestaltungsspielraum im gemeinsamen Tanz?\
 Kann ich gut auf mich hören und gleichzeitig auch gut auf die Impulse meiner Tanzpartner*innen reagieren?\
-Können wir als Gruppe einen gemeinsamen Raum kreieren und einen performativen Aspekt in die Tänze bringen?\
-An diesen und weiteren Fragen forschen wir in dieser Trainingsgruppe gemeinsam.
+Können wir als Gruppe einen gemeinsamen Raum kreieren und einen performativen Aspekt in die Tänze bringen?
 
-Ein Schwerpunkt wird sein, die Technik verschiedenster Lifts und Jumps in allen Raumebenen zu üben und kopfüber auf den Händen zu tanzen. Ziel ist es, uns immer leichter dem gemeinsamen Bewegungsfluss hinzugeben und gleichzeitig den Tanz so präsent wahrzunehmen, dass wir ihn spielerisch lenken können.
+Ein Schwerpunkt wird sein, neue moves zu erforschen, die Technik verschiedenster Lifts und Jumps in allen Raumebenen zu lernen und kopfüber auf den Händen zu tanzen. Ziel ist es, uns immer mehr dem gemeinsamen Bewegungsfluss hinzugeben und gleichzeitig den Tanz so präsent wahrzunehmen, dass wir ihn spielerisch lenken können.
 
-Jeweils 40 Minuten der Kurseinheiten (fallweise zu Beginn oder auch am Ende) sind der Körperarbeit und Anatomical Release Technique/Ideokinese gewidmet.  Anatomische Bilder unterstützen deine Vorstellungskraft. So kannst du dir praktische Grundkenntnisse in unterschiedlichen Körperarbeitsmethoden (Trager, Ortho-Biomomy, Nuad) aneignen. Das vertiefte Körperwissen lädt dich ein, noch bewusster mit deinem Körper umzugehen, damit du viele Jahre freudvoll tanzen kannst.
+Die Kurseinheiten beinhalten immer auch Elemente von hands-on Körperarbeit und Anatomical Release Technique/Ideokinese.  So kannst du dir auch praktische Grundkenntnisse in unterschiedlichen Körperarbeitsmethoden (Trager, Ortho-Biomomy, Nuad, Body Mind Centering) aneignen. Das vertiefte Körperwissen lädt dich ein, noch bewusster mit deinem Körper umzugehen, damit du viele Jahre freudvoll tanzen kannst.
 
 ***ANMELDUNG:***\
 Schreibe uns bitte ein kurzes Mail an ci.rollingpoint@gmail.com\
