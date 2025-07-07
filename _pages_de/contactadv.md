@@ -41,7 +41,7 @@ Für Rückfragen kontaktiere bitte Christian (0650 8931081).
 ***KOSTEN:***\
 \
 **Kostenbeitrag Semesterkurs Normalpreis € 270**\
-**Ermäßigungen: € 180 für StudentInnen <=28a, € 225 Sonstige**\
+**Ermäßigungen: € 180 für Studierende <=28a, € 225 Sonstige**\
 Bei Buchung von mehr als einem Kurs minus € 30 ab dem 2.Kurs\
 \
 Auf Anfrage 5﻿er-Block € 95 - 130 bzw. Einzelstunden € 20–28 möglich\
