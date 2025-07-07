@@ -35,10 +35,10 @@ Die Kurseinheiten beinhalten immer auch Elemente von hands-on Körperarbeit und 
 Schreibe uns bitte ein kurzes Mail an ci.rollingpoint@gmail.com\
 oder verwende folgendes Anmeldeformular: <https://forms.gle/D5bwoQwoeueLpRCw7>
 
-Für weitere Rückfragen kontaktiere bitte Christian (0650 8931081)
+Offene Schnupperstunden in den ersten zwei Kurswochen um €10 pro Einheit (max. 1x pro Kurs).\
+Für Rückfragen kontaktiere bitte Christian (0650 8931081)
 
 ***KOSTEN:***\
-Offene Schnupperstunden in den ersten zwei Kurswochen um €10 pro Einheit (max. 1x pro Kurs)\
 \
 **Kostenbeitrag Semesterkurs Normalpreis € 270**\
 **Ermäßigungen: € 180 für StudentInnen <=28a, € 225 Sonstige**\
