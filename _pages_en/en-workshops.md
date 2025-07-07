@@ -11,9 +11,19 @@ Fotocredits: He Shao Hui
 
 ## Weekend Workshops
 
+**20./21.9.2025 RELEASZ dance & Body Discoveries / Fascia and Fluids**\
+with maRia Probst\
+details coming soon
+
+**14./12.2025 RELEASZ dance & Body Discoveries / Organs**\
+with maRia Probst\
+details coming soon
+
+
+
 #### **"Contact Flying Skills"** - advanced
 
-**18.+19.1.2025, 10.00-17.00**\
+**31.1./1.2.2026, 10.00-17.00**\
 **with Christian Apschner  and support from the rollingpoint team**
 
 This technique-oriented workshop invites CI dancers who would like to engage in flying, falling and acrobatic elements. A main focus of the weekend will be practicing different lifts and jumps and dancing upside down on our hands.
