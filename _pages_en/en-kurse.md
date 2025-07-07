@@ -31,10 +31,10 @@ Release technique into momentum. Improvisation, dance sequences, somatics and em
 
 <div class="named-anchor" id="di"></div>
 
-#### 2 Contact Improvisation Jam + Specials
+#### 2 Contact Improvisation Jam
 
 Christian Apschner, maRia Probst and guest teachers\
-**tue Jam 18.00 – 20.30**\
+**tue Jam 18.00 – 20.30 (on schooldays, no jam in holidays)**\
 Turnsaal VS Einsiedlergasse 7, 1050 Wien
 
 Our jams are a place for focused Contact Improvisation dancing where CI is practiced as contemporary dance and art form. We want to offer a space in which everyone feels safe. Participants are asked to have CI course experience in the sense of basic knowledge.\
@@ -45,7 +45,7 @@ Opening circle 18.30
 #### 3 "Thinking Body - Dancing Mind" - **Contact Improvisation  intermediate/advanced**
 
 with **Christian Apschner**\
-**wed 18.00 - 20.40**\
+**wed 18.00 - 20.30**\
 Turnsaal VS Einsiedlergasse 7, 1050 Wien
 
 Lets get physical! We create a connection between the athletic and meditative and learn to take weight in a body-friendly way through anatomically good alignment, tonus modulation and the use of momentum. In our learning process we want to find the ability to follow the flow of movement and at the same time to perceive the dance so presently that this flow can directed and redirected in a playful way.
