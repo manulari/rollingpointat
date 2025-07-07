@@ -36,7 +36,7 @@ registration form**:** <https://forms.gle/D5bwoQwoeueLpRCw7>
 
 **[2 tue Contact Improvisation Jam](/en/kurse#di)**\
 **Christian Apschner and rollingpoint team**\
-**start tue 23.9.2025, 18.00 - 20.30**\
+**start tue 16.9.2025, 18.00 - 20.30**\
 **Turnsaal VS Einsiedlergasse 7, 1050 Wien**
 
 **[3 wed Thinking Body - Dancing Mind - Contact Improvisation](/en/kurse#mi) intermediate/advanced**\
