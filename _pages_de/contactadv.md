@@ -18,7 +18,7 @@ Für Tänzer*innen mit guten Vorerfahrungen ist die Teilnahme auch an einzelnen 
 
 Du bringst gute Basiskenntnisse der Contact Improvisation oder artverwandter Bewegungsformen mit und möchtest dein Bewegungsspektrum erweitern und verfeinern sowie gezielt Kraft, Koordination, Beweglichkeit und Körperreflexe trainieren? Dann werde Teil unserer motivierten Trainingsgruppe! 
 
-Zum Kurstitel: 1937 veröffentlichte die US-amerikanische Tanzkünstlerin Mabel Elsworth Todd das das bahnbrechende Buch "The Thinking Body". Sie öffnete damit den Einzug somatischer Methoden in die Tanzpädagogik. Todds Ideen beinhalteten die Nutzung anatomisch basierter Vorstellungsbilder und bewusst entspannter Willenskraft zur Entwicklung und Verfeinerung der neuromuskulären Koordination. In der Contact Improvisation bedeutet dies: Je mehr wir uns auf unseren denkenden Körper (Thinking  Body) verlassen können, desto mehr Freiraum gewinnen wir für die spielerische Gestaltung unserer Tänze (Dancing Mind).
+Zum Kurstitel: 1937 veröffentlichte die US-amerikanische Tanzkünstlerin Mabel Elsworth Todd das bahnbrechende Buch "The Thinking Body". Sie eröffnete damit den Einzug somatischer Methoden in die Tanzpädagogik. Todds Ideen beinhalteten die Nutzung anatomisch basierter Vorstellungsbilder und bewusst entspannter Willenskraft zur Entwicklung und Verfeinerung der neuromuskulären Koordination. In der Contact Improvisation bedeutet dies: Je mehr wir uns auf unseren denkenden Körper (Thinking  Body) verlassen können, desto mehr Freiraum gewinnen wir für die spielerische Gestaltung unserer Tänze (Dancing Mind).
 
 In unserer Trainingsgruppe werden wir uns u.a. auf folgende Fragen fokussieren:
 
