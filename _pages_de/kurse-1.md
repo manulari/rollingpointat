@@ -12,6 +12,12 @@ language: de
 | **Mi** | **18.00-20.30** | **Christian**            | **[“Thinking Body - Dancing Mind” Contact Improvisation intermediate/advanced](/contactadv)** | **Einsiedlerg. 7, 1050 Wien** |
 | **Do** | **18.15-20.30** | **Christian**            | **["Falling in Love with CI" Contact Improvisation beginner](/contactbeg)**                   | **Gilgegasse 12, 1090 Wien**  |
 
+
+
+## Vormittagskurs WS 2025/26
+
+**Mi 9.20-11.10 maRia, Bright Bird Moves, Westbahnstraße 7, 1070 Wien**
+
 **Die neuen Kurse des Wintersemesters 2025/26 starten vom 22.- 25.9.2025**
 
 [Kursanmeldung](https://rollingpoint.at/Kursanmeldung)\
