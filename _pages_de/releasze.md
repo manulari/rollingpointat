@@ -37,7 +37,3 @@ Bei Buchung von mehr als einem Kurs minus € 30 ab dem 2.Kurs\
 Auf Anfrage 5﻿er-Block € 95 - 125 bzw. Einzelstunden € 20–28 möglich
 
 Die Kostenbeiträge bitte auf unser Konto IBAN: AT54 3200 0000 1701 2717, BIC: RLNWATWW, Verein rollingpoint, überweisen und dein Kursplatz ist gesichert.
-
-Als Ergänzung und als Körpertrainings-Basis für unsere rollingpoint Kurse eignet sich maRia’s GANZ-Körpertraining
-
-Details findest du unter folgendem link:[ /GANZ Training](</GANZ Training>)
