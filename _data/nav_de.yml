@@ -12,6 +12,8 @@ entries:
         path: /contactbeg
       - title: Anmeldung
         path: /Kursanmeldung
+      - title: Bright Bird Moves
+        path: /Vormittagskurs
   - title: WORKSHOPS
     path: /wsws2024
     subentries: []
