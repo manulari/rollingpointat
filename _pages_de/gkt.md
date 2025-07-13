@@ -6,8 +6,6 @@ language: de
 > **Videolink- GANZ-Körpertraining mit maRia Probst:**\
 > **[rollingpoint maRia Probst- GANZ-Körpertraining - YouTube](https://www.youtube.com/watch?v=6A5otnVZAg4)**
 
-<div class="named-anchor" id="bird"></div>
-
 #### **Bright Bird Moves**
 
 **Körper&Tanztrainig am Vormittag mit maRia / open level**
