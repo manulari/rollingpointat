@@ -16,11 +16,9 @@ language: de
 
 ## Vormittagskurs WS 2025/26
 
-**Mi 9.20-11.10 maRia, Bright Bird Moves, Westbahnstraße 7, 1070 Wien**
+**Mi 9.20-11.10 maRia, [Bright Bird Moves](/Vormittagskurs), Westbahnstraße 7, 1070 Wien**
 
 Beginn: 1.10.2025 – 21.01.2026
-
-
 
 [Kursanmeldung](https://rollingpoint.at/Kursanmeldung)\
 \
