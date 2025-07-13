@@ -18,7 +18,3 @@ Du möchtest dich kräftig und gut mit dem Boden verbunden fühlen? Gehst gerne 
 maRia greift darin auf ihre vielfältigen Praxen wie beispielsweise Contact Improvisation, Qi Gong, Yoga, Skinner Releasing, Continuum Movement, Body Mind Centering zu und komponiert daraus eine einzigarte Trainings- und Tanzmixtur. Ihr Angebot wird durch ihr Wissen aus der TCM und der somatischen Faszientherapie fundiert.
 
 Innerhalb der gemeinsamen 110 Minuten wirst du einige Zeit auf der Trainingsmatte mit kräftigenden, deine Beweglichkeit unterstützenden oder koordinativen Praxen verbringen. Die einzelnen Themenschwerpunkte sind an die Jahreszeiten im Sinne der TCM und ihr Bewegungspotential angepasst. Du wirst frei und zu Musik durch den Raum tanzen und verschiedenste Bewegungsqualitäten zum Ausdruck bringen. Wir werden einander angemessen berühren um noch bunter in unserer Bewegungspalette zu werden.
-
-<!--EndFragment-->
-
-![]()
