@@ -1,5 +1,5 @@
 ---
-permalink: /Bright Bird Moves
+permalink: /Vormittagskurs
 title: Bright Bird Moves
 language: de
 ---
