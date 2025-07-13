@@ -1,17 +1,16 @@
 ---
-permalink: /EARLY BIRDS MOVE
-title: EARLY BIRDS MOVE
+permalink: /Bright Bird Moves
+title: Bright Bird Moves
 language: de
 ---
 > **Videolink- GANZ-Körpertraining mit maRia Probst:**\
 > **[rollingpoint maRia Probst- GANZ-Körpertraining - YouTube](https://www.youtube.com/watch?v=6A5otnVZAg4)**
 
-#### **EARLY BIRDS MOVE FRÜHJAHR SOMMER TRAINING**
+#### **Bright Bird Moves**
 
-Körper&Tanztrainig am Vormittag mit maRia / open level
+**Körper&Tanztrainig am Vormittag mit maRia / open level**
 
-5.3. – 18.6.2025, 9.20-11.10h (14 Termine exkl. 16.4.25)
-
+**Mi 1.10.2025 – 21.01.2026, 9.20-11.10h** (14 Termine exkl. 29.10.25)
 Werkstatt Krähe Westbahnstrasse 7, 1070 Wien
 
 Du möchtest dich kräftig und gut mit dem Boden verbunden fühlen? Gehst gerne geschmeidig und im Kontakt mit deiner Körpermitte an die Aufgaben des Tages? Dein befreiter Atem soll dich mit Leichtigkeit durch Herausforderungen tragen? Du möchtest dein Leben tanzend leben und dich in einer Gruppe daran erinnern? Dann ist das mittwochs vormittags Körper&Tanztraining das richtige für dich! 
