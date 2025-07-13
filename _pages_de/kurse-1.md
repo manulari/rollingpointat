@@ -1,6 +1,6 @@
 ---
 permalink: /kurse
-title: Abendkurse WS 2024/25
+title: Semesterkurse WS 2025/26
 language: de
 ---
 **Stundenplan Wintersemester 2025/26**
