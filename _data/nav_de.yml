@@ -10,10 +10,10 @@ entries:
         path: /contactadv
       - title: Contact Impro beginner
         path: /contactbeg
-      - title: Anmeldung
-        path: /Kursanmeldung
       - title: Bright Bird Moves
         path: /Vormittagskurs
+      - title: Anmeldung
+        path: /Kursanmeldung
   - title: WORKSHOPS
     path: /wsws2024
     subentries: []
