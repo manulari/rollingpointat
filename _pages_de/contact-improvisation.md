@@ -7,9 +7,12 @@ other_lang: /en/contact-improvisation
 
 ![](/assets/uploads/home_1940-2.jpg)
 
-**What is Contact Improvisation:** <https://www.youtube.com/watch?v=JSBVwCVWfGg>
+**VIDEOS:**\
+**[What is Contact Improvisation](<https://www.youtube.com/watch?v=JSBVwCVWfGg>)?**\
+\
+**[maRia and Christian dancing Contact Improvisation](<https://www.youtube.com/watch?v=vuvbU-S_8XM>)** 
 
-**maRia and Christian dancing Contact Improvisation:**<https://www.youtube.com/watch?v=vuvbU-S_8XM>
+**["REAL EASE" Contact Improvisation Dance](https://www.youtube.com/watch?v=Hm2UlFli3fQ&list=RDHm2UlFli3fQ&start_radio=1)**
 
 **Contact Improvisation (CI)/Kontaktimprovisation**
 
