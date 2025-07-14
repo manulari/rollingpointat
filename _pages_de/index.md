@@ -42,6 +42,12 @@ Open Level Jams (Neueinsteigende sind zur Teilnahme an der Jams eingeladen): **1
 **Do 25.9.2025 - 29.1.2026, 18.15 – 20.30 (ca.16x)**\
 **Turnsaal VS Gilgegasse 12, 1090 Wien**
 
+**Mi vormittags Körper- und Tanztraining
+Bright Bird Moves mit maRia / open level
+Mi 1.10.2025 – 21.01.2026, 9.20-11.10h Werkstatt Krähe Westbahnstrasse 7, 1070 Wien**
+
+
+
 ### **IMPULSTANZ RETREAT bei Artis Umbria 25.-31.10.2025**
 
 **Flow Into Ease, Strength & Fun(gi) Field Trips mit maRia und Christian**\
