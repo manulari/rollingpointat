@@ -6,9 +6,9 @@ other_lang: /en/
 ---
 # Contact Improvisation - Zeitgenössicher Tanz - Somatisches Lernen
 
-![Christian und maRia tanzen Contact Improvisation auf einer Stiege](/assets/uploads/dsc_1901_klein.jpg "Contact Improvisation")
+![Christian, maRia und Maria tanzen und lesen auf einer Stiege](/assets/uploads/rollingpoint2-c-carolina-frank_web-3616.jpg "Contact Improvisation")
 
-Fotocredit: https://johannes-stolba.net/photography/
+Fotocredit: Carolina Frank
 
 ### Willkommen bei rollingpoint!
 
@@ -41,8 +41,6 @@ Open Level Jams (Neueinsteigende sind zur Teilnahme an der Jams eingeladen): **1
 **mit Christian Apschner**\
 **Do 25.9.2025 - 29.1.2026, 18.15 – 20.30 (ca.16x)**\
 **Turnsaal VS Gilgegasse 12, 1090 Wien**
-
-
 
 ### **IMPULSTANZ RETREAT bei Artis Umbria 25.-31.10.2025**
 
