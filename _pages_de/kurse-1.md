@@ -3,7 +3,7 @@ permalink: /kurse
 title: Semesterkurse WS 2025/26
 language: de
 ---
-**Stundenplan Wintersemester 2025/26**
+### **Stundenplan Abendkurse Wintersemester 2025/26**
 
 | Tag    | Zeit            | Leiter*in                | Titel                                                                                         | Ort/Turnsaal                  |
 | ------ | --------------- | ------------------------ | --------------------------------------------------------------------------------------------- | ----------------------------- |
@@ -14,11 +14,10 @@ language: de
 
 **Die neuen Abendkurse des Wintersemesters 2025/26 starten vom 22.- 25.9.2025**
 
-## Vormittagskurs WS 2025/26
+### Vormittagskurs WS 2025/26
 
-**Mi 9.20-11.10 maRia, [Bright Bird Moves](/Vormittagskurs), Westbahnstraße 7, 1070 Wien**
-
-Beginn: 1.10.2025 – 21.01.2026
+**Mi 9.20-11.10 maRia, [Bright Bird Moves](/Vormittagskurs), Westbahnstraße 7, 1070 Wien**\
+1.10.2025 – 21.01.2026
 
 [Kursanmeldung](https://rollingpoint.at/Kursanmeldung)\
 \
