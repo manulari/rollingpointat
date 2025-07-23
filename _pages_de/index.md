@@ -19,14 +19,20 @@ Fotocredit: Carolina Frank
 #### Contact Improvisation Jam bei IMPULSTANZ
 
 
-hosted by maRia und Christian
-**diesen Freitag 25.07.25 20.30-22.30** 
-STUDIO C im Arsenal Objekt 19
+hosted by rollingpoint
+**diesen Freitag 25.07.25 20.30-22.30,**
+STUDIO C im Arsenal Objekt 19,
 pay as you wish
 
 angeleitetes warm up, ohne und mit Musik
 
-CI Vorerfahrung erwünscht
+Bringt eure erste bis tiefe CI Erfahrung mit und erfüllt gemeinsam mit uns die ausladenden Tanzhallen mit Contact Improvisation Spirit!
+
+Wir freuen uns aufs gemeinsame Tanzen!
+
+maRia und Christian
+
+
 
 ## Videos
 
