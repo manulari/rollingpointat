@@ -14,24 +14,6 @@ Fotocredit: Carolina Frank
 
 **Wir laden dich ein, gemeinsam mit uns in die Welt der Contact Improvisation, des Zeitgenössischen Tanzes und des Somatischen Lernens einzutauchen. In unseren Kursen und Projekten begegnen sich Tanz, Kunst, Sport, Lernen und Forschung. Wir bringen 25 Jahre Erfahrung in unsere Arbeit ein. Uns ist es ein Anliegen offene Räume für Lebensfreude und Begegnung und für ein Voneinanderlernen auf Augenhöhe zu kreieren.**
 
-## **AKTUELL AKTUELL AKTUELL**
-
-#### Contact Improvisation Jam bei IMPULSTANZ
-
-
-hosted by rollingpoint
-**diesen Freitag 25.07.25 20.30-22.30,**
-STUDIO C im Arsenal Objekt 19,
-pay as you wish
-
-angeleitetes warm up, ohne und mit Musik
-
-Bringt eure erste bis tiefe CI Erfahrung mit und erfüllt gemeinsam mit uns die ausladenden Tanzhallen mit Contact Improvisation Spirit!
-
-Wir freuen uns aufs gemeinsame Tanzen!
-
-maRia und Christian
-
 
 
 ## Videos
