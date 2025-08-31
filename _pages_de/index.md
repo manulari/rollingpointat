@@ -34,17 +34,14 @@ Ob mit oder ohne Vorerfahrung – alle Körper sind fähig zu künstlerischem Au
 
 <div class="imglink"><a target="_blank" href="https://www.youtube.com/embed/kp3DqzN1Ldo"><img src="/assets/uploads/video_vorschau_rollingpoint.png" alt="" /><div>rollingpoint-Video</div></a></div>
 
-##### **Start ins Wintersemester 2025/26:**\
+##### **Start ins Wintersemester 2025/26:**
+
 \
 **Erste Contact Impro Jam: Di 16.09.2025**\
 [rollingpoint-Jam](https://rollingpoint.at/jams)
 
-
-
 **Erster Workshop 20./21.9.2025**\
 **[RELEASZ Tanztraining & Body Discoveries / Fascia and Fluids](https://rollingpoint.at/ws2025-26#faszien) mit maRia Probst**
-
-
 
 ### **SEMESTERKURSE**
 
