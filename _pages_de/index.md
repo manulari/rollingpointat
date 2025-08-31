@@ -38,6 +38,17 @@ Ob mit oder ohne Vorerfahrung – alle Körper sind fähig zu künstlerischem Au
 
 <div class="imglink"><a target="_blank" href="https://www.youtube.com/embed/kp3DqzN1Ldo"><img src="/assets/uploads/video_vorschau_rollingpoint.png" alt="" /><div>rollingpoint-Video</div></a></div>
 
+##### erste Jam Dienstag 16.09.25, 18.00 - 20.30
+Turnsaal VS Einsiedlergasse 7, 1050 Wien. https://rollingpoint.at/jams
+
+##### erster Workshop **20./21.9.2025**
+
+<!--StartFragment-->
+
+** [RELEASZ Tanztraining & Body Discoveries / Fascia and Fluids](https://rollingpoint.at/ws2025-26#faszien) mit maRia Probst**
+
+<!--EndFragment-->
+
 ### **SEMESTERKURSE**
 
 **Kursbeginn WINTERSEMESTER 2025/26: 22.- 25.9.2025**
