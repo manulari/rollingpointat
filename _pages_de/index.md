@@ -10,9 +10,27 @@ other_lang: /en/
 
 Fotocredit: Carolina Frank
 
+<!--StartFragment-->
+
+„Inmitten von Raum, Zeit und Begegnung entsteht ein Tanz – poetisch, forschend, lebendig.
+
+<!--EndFragment-->
+
 ### Willkommen bei rollingpoint!
 
-**Wir laden dich ein, gemeinsam mit uns in die Welt der Contact Improvisation, des Zeitgenössischen Tanzes und des Somatischen Lernens einzutauchen. In unseren Kursen und Projekten begegnen sich Tanz, Kunst, Sport, Lernen und Forschung. Wir bringen 25 Jahre Erfahrung in unsere Arbeit ein. Uns ist es ein Anliegen offene Räume für Lebensfreude und Begegnung und für ein Voneinanderlernen auf Augenhöhe zu kreieren.**
+Seit über zwei Jahrzehnten forschen und unterrichten wir an der Schnittstelle von Tanzkunst, somatischer Praxis und Pädagogik.
+Unser gemeinsames Fundament ist die tiefgehende Erfahrung aus unzähligen Stunden auf dem Tanzboden, in Forschungsprozessen und in der Arbeit mit Menschen aller Alters- und Erfahrungsstufen.
+
+Wir arbeiten auf der Basis von Contact Improvisation, zeitgenössischem Tanz und somatischen Methoden – und verbinden dabei Körperwissen, künstlerische Neugier und pädagogisches Feingefühl.
+
+Unsere Kurse, Workshops und Projekte sind Einladungen zum Spüren, Bewegen, Forschen, Trainieren und Begegnen auf Augenhöhe.
+Ob mit oder ohne Vorerfahrung – alle Körper sind fähig zu künstlerischem Ausdruck und willkommen!
+
+
+
+- - -
+
+<!--EndFragment-->
 
 
 
