@@ -26,32 +26,25 @@ Wir arbeiten auf der Basis von Contact Improvisation, zeitgenössischem Tanz und
 Unsere Kurse, Workshops und Projekte sind Einladungen zum Spüren, Bewegen, Forschen, Trainieren und Begegnen auf Augenhöhe.
 Ob mit oder ohne Vorerfahrung – alle Körper sind fähig zu künstlerischem Ausdruck und willkommen!
 
-
-
 - - -
 
 <!--EndFragment-->
-
-
 
 ## Videos
 
 <div class="imglink"><a target="_blank" href="https://www.youtube.com/embed/kp3DqzN1Ldo"><img src="/assets/uploads/video_vorschau_rollingpoint.png" alt="" /><div>rollingpoint-Video</div></a></div>
 
-##### erste Jam Dienstag 16.09.25, 18.00 - 20.30
-Turnsaal VS Einsiedlergasse 7, 1050 Wien. <!--StartFragment-->
-
+##### **Start ins Wintersemester 2025/26:**\
+\
+**Erste Contact Impro Jam: Di 16.09.2025**\
 [rollingpoint-Jam](https://rollingpoint.at/jams)
 
-<!--EndFragment-->
 
-##### erster Workshop **20./21.9.2025**
 
-<!--StartFragment-->
-
+**Erster Workshop 20./21.9.2025**\
 **[RELEASZ Tanztraining & Body Discoveries / Fascia and Fluids](https://rollingpoint.at/ws2025-26#faszien) mit maRia Probst**
 
-<!--EndFragment-->
+
 
 ### **SEMESTERKURSE**
 
