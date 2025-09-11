@@ -7,6 +7,12 @@ language: de
 
 Foto: Laurent Ziegler
 
+**Videos:**
+
+**[maRia and Christian dancing Contact Improvisation](https://www.youtube.com/watch?v=vuvbU-S_8XM)** 
+
+**["REAL EASE" Contact Improvisation Dance](https://www.youtube.com/watch?v=Hm2UlFli3fQ&list=RDHm2UlFli3fQ&start_radio=1)**
+
 #### "Falling in Love with CI"- Contact Improvisation beginner
 
 **Christian Apschner**\
