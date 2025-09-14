@@ -7,11 +7,9 @@ language: de
 
 Foto: Ines Ingerle
 
-## Danke für dein Interesse! Der Kurs ist für dieses Semester WS 25/26 ausgebucht! Komm gerne zu den RELEASZ Wochenendworkshops 
+## Danke für dein Interesse! Der Kurs ist für dieses Semester WS 25/26 ausgebucht! Komm gerne zu den RELEASZ Wochenendworkshops
 
-<div class="named-anchor" id="faszien"></div>
-
-## oder kommendes Sommersemester 25/26 wieder! 
+## oder kommendes Sommersemester 25/26 wieder!
 
 #### RELEASZ Tanztraining: Zeitgenössischer Tanz / CI-light / Somatisches Lernen
 
