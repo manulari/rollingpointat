@@ -7,6 +7,12 @@ language: de
 
 Foto: Ines Ingerle
 
+## Danke für dein Interesse! Der Kurs ist für dieses Semester WS 25/26 ausgebucht! Komm gerne zu den RELEASZ Wochenendworkshops 
+
+<div class="named-anchor" id="faszien"></div>
+
+## oder kommendes Sommersemester 25/26 wieder! 
+
 #### RELEASZ Tanztraining: Zeitgenössischer Tanz / CI-light / Somatisches Lernen
 
 ***open level*** mit **maRia Probst**\
@@ -22,6 +28,8 @@ Statement einer Teilnehmerin: „Das Kurserlebnis ist vielfältig, befreit gelac
 Teilnahmeempfehlung: Tanzfreudige mit Lust an Bewegungsausdruck und -forschung. An Kontaktimprovisations-Elementen mit geringer Gewichtsübertragung und an Berührung für Bewegungsentwicklung Interessierte. Menschen, die sich selbst und ihren Körper besser kennen lernen wollen. Eine kontinuierliche Teilnahme ist von Vorteil und daher sehr erwünscht.
 
 ***ANMELDUNG:***\
+ausgebucht!
+
 Schreibe uns bitte ein kurzes mail an ci.rollingpoint@gmail.com\
 oder verwende folgendes Anmeldeformular\
 c[oming soon](https://forms.gle/D5bwoQwoeueLpRCw7)
