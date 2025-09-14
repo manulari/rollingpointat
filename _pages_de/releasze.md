@@ -7,7 +7,7 @@ language: de
 
 Foto: Ines Ingerle
 
-## Danke für dein Interesse! Der Kurs ist für dieses Semester WS 25/26 ausgebucht! Komm gerne zu den RELEASZ Wochenendworkshops
+## Danke für dein Interesse! Der Kurs ist für dieses Semester WS 25/26 ausgebucht! Komm gerne zu den [RELEASZ Wochenendworkshops](#faszien)
 
 ## oder kommendes Sommersemester 25/26 wieder!
 
