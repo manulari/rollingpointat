@@ -1,5 +1,5 @@
 ---
-permalink: /releasze
+permalink: /releasz
 title: RELEASZE Tanztraining
 language: de
 ---
