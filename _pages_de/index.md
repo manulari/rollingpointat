@@ -49,6 +49,8 @@ Ob mit oder ohne Vorerfahrung – hier bist du richtig!
 **Mo 22.9.2025 - 26.1.2026, 18.30 - 20.15 (ca.14x)**\
 **Turnsaal VS Gilgegasse 12, 1090 Wien**
 
+**ausgebucht!**
+
 **[Di Contact Improvisation Jam ](/jams)**(kein Kurs, keine Anmeldung erforderlich)\
 **Di 16.9.2025.- 27.1.2026, 18.00 – 20.30 (ca.17x)**\
 **Turnsaal VS Einsiedlergasse 7, 1050 Wien**\
