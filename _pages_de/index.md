@@ -18,7 +18,7 @@ other_lang: /en/
 
 ### Willkommen bei rollingpoint!
 
-Seit über zwei Jahrzehnten verbinden wir Contact Improvisation, zeitgenössischen Tanz und somatische Praxis zu einem lebendigen Feld des Lernens, Forschens und der künstlerischen Praxis.
+Seit über zwei Jahrzehnten verbinden wir Contact Improvisation, zeitgenössischen Tanz und somatische Praxis zu einem lebendigen Feld des Lernens, Forschens und künstlerischen Schaffens.
 
 Unsere Kurse, Workshops und Projekte sind Einladungen zum Spüren, Bewegen, Trainieren, Begegnen und Gestalten auf Augenhöhe. 
 Ob mit oder ohne Vorerfahrung – hier bist du richtig!
@@ -76,4 +76,4 @@ Mi 1.10.2025 – 21.01.2026, 9.20-11.10h Werkstatt Krähe Westbahnstrasse 7, 107
 
 ![Mehr CI auf der Stiege](/assets/uploads/dsc_1941a.jpg "Mehr CI auf der Stiege")
 
-Fotocredit: Johannes Stolba
+###### Fotocredit: Johannes Stolba
