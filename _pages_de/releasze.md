@@ -1,6 +1,6 @@
 ---
 permalink: /releasz
-title: RELEASZE Tanztraining
+title: RELEASZ Tanztraining
 language: de
 ---
 ![](/assets/uploads/image00008.jpeg)
