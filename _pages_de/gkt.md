@@ -8,6 +8,8 @@ language: de
 
 <div class="named-anchor" id="birds"></div>
 
+##### **aktuell Teilnahmestop, schreibe ein kurzes e-mail an ci.rollingpoint@gmail.com wenn du auf die Warteliste möchtest**
+
 #### **Bright Bird Moves**
 
 **Körper&Tanztrainig am Vormittag mit maRia / open level**
