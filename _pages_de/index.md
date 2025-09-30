@@ -47,9 +47,8 @@ Ob mit oder ohne Vorerfahrung – hier bist du richtig!
 **[Mo RELEASZ Tanztraining: ](/releasze)**[Zeitgenössischer Tanz / CI-light / Somatisches Lernen](/releasze) **open level**\
 **mit maRia Probst**\
 **Mo 22.9.2025 - 26.1.2026, 18.30 - 20.15 (ca.14x)**\
-**Turnsaal VS Gilgegasse 12, 1090 Wien**
-
-**ausgebucht!**
+**Turnsaal VS Gilgegasse 12, 1090 Wien**\
+ausgebucht!
 
 **[Di Contact Improvisation Jam ](/jams)**(kein Kurs, keine Anmeldung erforderlich)\
 **Di 16.9.2025.- 27.1.2026, 18.00 – 20.30 (ca.17x)**\
@@ -68,9 +67,8 @@ Open Level Jams (Neueinsteigende sind zur Teilnahme an der Jams eingeladen): **1
 
 **Mi vormittags Körper- und Tanztraining
 [Bright Bird Moves](/Vormittagskurs) mit maRia / open level
-Mi 1.10.2025 – 21.01.2026, 9.20-11.10h Werkstatt Krähe Westbahnstrasse 7, 1070 Wien**
-
-**aktuell Teilnahmestop, schreibe ein kurzes e-mail an unsere Vereinsadresse, wenn du auf die Warteliste möchstest, danke!**
+Mi 1.10.2025 – 21.01.2026, 9.20-11.10h Werkstatt Krähe Westbahnstrasse 7, 1070 Wien**\
+aktuell Teilnahmestop, schreibe ein kurzes e-mail an unsere Vereinsadresse, wenn du auf die Warteliste möchstest, danke!
 
 ### **IMPULSTANZ RETREAT bei Artis Umbria 25.-31.10.2025**
 
