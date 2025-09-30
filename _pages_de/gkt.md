@@ -8,7 +8,7 @@ language: de
 
 <div class="named-anchor" id="birds"></div>
 
-##### **aktuell Teilnahmestop, schreibe ein kurzes e-mail an ci.rollingpoint@gmail.com wenn du auf die Warteliste möchtest**
+##### **aktuell Teilnahmestop, schreibe ein kurzes e-mail an ci.rollingpoint@gmail.com wenn du auf die Warteliste möchtest, danke!**
 
 #### **Bright Bird Moves**
 
