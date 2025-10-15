@@ -9,11 +9,9 @@ Foto: Ines Ingerle
 
 **What happens in a Contact Jam?** <https://www.youtube.com/watch?v=u9AhpFxfEfs>
 
-Unsere Jams sind Orte für fokussiertes Contact Improvisation-Tanzen. Wir achten darauf, einen gemeinsamen Raum zu halten, in dem sich alle sicher fühlen und erwarten von den Teilnehmenden erste CI-Kurserfahrungen im Sinne eines Grundverständnisses für die CI (Hinweise zur Sicherheit in den rollingpoint-Jams siehe unten).rollingpoint-Jam am Dienstag
+Unsere Jams sind Orte für fokussiertes Contact Improvisation-Tanzen. Wir achten darauf, einen gemeinsamen Raum zu halten, in dem sich alle sicher fühlen und erwarten von den Teilnehmenden erste CI-Kurserfahrungen im Sinne eines Grundverständnisses für die CI (Hinweise zur Sicherheit in den rollingpoint-Jams siehe unten).
 
-**Erste Jam nach der Sommerpause: 16.9.2025**
-
-**Immer am Dienstag (wenn Schultag) 18.00 - 20.30** \
+**Immer am Dienstag, wenn Schultag 18.00 - 20.30** \
 Turnsaal VS Einsiedlergasse 7, 1050 Wien. Der schöne geräumige Turnsaal befindet sich im 1.Stock des Schulgebäudes. Keine Anmeldung erforderlich.
 
 Ankommen ab 18.00, **Eröffnungskreis um 18.30**\
@@ -22,9 +20,10 @@ Ausgewählte Musik und Sound-Scapes in der 2.Hälfte der Jams.
 
 **Kostenbeitrag auf Spendenbasis: Jam einzeln € 8 - 12, Semesterbeitrag: € 100 - 150**
 
-An folgenden Terminen sind auch Beginne*rinnen ohne CI-Kurserfahrung zur Teilnahme an der Jams eingeladen (=Open Level Jam)*\
-**14.10., 18.11. und 16.12.2025, 20.1.2026***Für alle Beginnerinnen bieten wir eine einstündige Einführung in die Welt der Contact Improvisations-Jams im Zeitraum 17.30 - 18.30 an.\
-Kostenbeitrag CI-Intro plus Jam 15 -25 €
+An folgenden Terminen finden **Open Level Jams** statt, wo auch **Beginner*innen** ohne CI-Kurserfahrung eingeladen sind teilzunehmen:\
+**14.10., 18.11. und 16.12.2025, 20.1.2026**\
+Für alle Beginner*innen bieten wir eine einstündige Einführung in die Welt der Contact Improvisations-Jams im Zeitraum 17.30 - 18.30 an.\
+Kostenbeitrag CI-Intro plus Jam 15 -25€
 
 <div class="named-anchor" id="special"></div>
 
