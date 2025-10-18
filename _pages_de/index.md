@@ -31,14 +31,13 @@ Ob mit oder ohne Vorerfahrung – hier bist du richtig!
 
 <div class="imglink"><a target="_blank" href="https://www.youtube.com/embed/kp3DqzN1Ldo"><img src="/assets/uploads/video_vorschau_rollingpoint.png" alt="" /><div>rollingpoint-Video</div></a></div>
 
-##### **Start ins Wintersemester 2025/26:**
+<!--StartFragment-->
 
-\
-**Erste Contact Impro Jam: Di 16.09.2025**\
-[rollingpoint-Jam](https://rollingpoint.at/jams)
+**nächster rollingpoint Workshop:**
 
-**Erster Workshop 20./21.9.2025**\
-**[RELEASZ Tanztraining & Body Discoveries / Fascia and Fluids](https://rollingpoint.at/ws2025-26#faszien) mit maRia Probst**
+**14.12.2025 [RELEASZ Tanztraining & Body Discoveries / Organs](https://rollingpoint.at/ws2025-26#organs) mit maRia Probst**
+
+<!--EndFragment-->
 
 ### **SEMESTERKURSE**
 
