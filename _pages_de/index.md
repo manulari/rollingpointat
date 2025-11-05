@@ -33,9 +33,11 @@ Ob mit oder ohne Vorerfahrung – hier bist du richtig!
 
 <!--StartFragment-->
 
-**nächster rollingpoint Workshop:**
+**Nächste rollingpoint WORKSHOPs:**
 
-**14.12.2025 [RELEASZ Tanztraining & Body Discoveries / Organs](https://rollingpoint.at/ws2025-26#organs) mit maRia Probst**
+**14.12.2025 [RELEASZ Tanztraining & Body Discoveries / Organs](https://rollingpoint.at/ws2025-26#organs) mit maRia Probst**\
+\
+**31.1./1.2.2026 [Liquid Motion - Contact Flying Skills](https://rollingpoint.at/ws2025-26#flyingskills) mit Christian Apschner u.A.**
 
 <!--EndFragment-->
 
