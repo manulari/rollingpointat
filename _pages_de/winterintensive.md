@@ -10,7 +10,8 @@ Fotocredits: He Shao Hui
 
 <div class="named-anchor" id="winterintensive"></div>
 
-#### **WINTER-INTENSIVE 2026: 9.-12.2. und 16.-19.2.2026**\
+#### **WINTER-INTENSIVE 2026: 9.-12.2. und 16.-19.2.2026**
+
 \
 Zwei Wochen lang jeweils vier Abende gemeinsam loslassen, spüren, bewegen, mit dir selbst und anderen in Kontakt kommen und tanzen. Die beiden Wochen bilden eine Einheit mit unterschiedlichem Schwerpunkt, können gemeinsam aber auch getrennt besucht werden.
 
