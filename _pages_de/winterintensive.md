@@ -14,21 +14,19 @@ Fotocredits: He Shao Hui
 \
 Zwei Wochen lang jeweils vier Abende gemeinsam loslassen, spüren, bewegen, mit dir selbst und anderen in Kontakt kommen und tanzen. Die beiden Wochen bilden eine Einheit mit unterschiedlichem Schwerpunkt, können gemeinsam aber auch getrennt besucht werden.
 
+**Achtung: Detailbeschreibung gerade in Bearbeitung!**
+
 **Woche 1: Mo - Do 9.- 12.2.2026**
 
-**Contact Improvisation open level**\
-**mit Christian Apschner (und maRia Probst)**\
-Die zweite Woche der Winterintensive ist als Kompaktkurs der Contact Improvisation (CI) gedacht. So lernen wir, wie es leicht und körperschonend geht, Gewicht abzugeben und zu übernehmen oder uns gemeinsam entlang des rollenden Kontaktpunktes und im Bewegungsfluss zu bewegen. Wir erforschen die Technik für einfache Lifts, uns fallen zu lassen und sanft zu landen. Verschiedene Variationen von Roll- und Spiralbewegungen unterstützen dich, im Tanz geschmeidig und durchlässig zu sein. Der viertägige Kompaktkurs ist auch optimal für den Einstieg in den Contact Improvisation Kurs (beginnner-intermediate) des Sommersemesters geeignet (Beginn Do 27.2.2025).
+**Contact Improvisation - Being Moved** \
+**open level, mit Christian Apschner (und maRia Probst)**
 
-Teilnahmeempfehlung Woche 1: Du bewegst dich gerne, bist offen für Körperkontakt mit Gewichtsübertraguung und bist dir selbst und anderen gegenüber achtsam und aufmerksam.
 
-**details coming soon**
 
 **Woche 2: Mo - Do 16.- 19.2.2025**
 
-**RELEASZE Tanztraining**  Dancing to the Core\
-mit maRia Probst \
-**mit maRia Probst (und Christian Apschner)**
+**RELEASZE Tanztraining**  - **Dancing to the Core**\
+**open level, mit maRia Probst (und Christian Apschner)**
 
 **Ort und Zeit:**\
 **Mo und Do (9.2., 12.2., 16.2., 19.2): Turnsaal Gilgegasse 12, 9. Bez.**\
@@ -49,7 +47,7 @@ Die Reservierung eines Kursplatzes erfolgt durch Überweisung des Kostenbetrages
 Bitte den Kostenbeitrag vorab auf unser Konto\
 IBAN: AT54 3200 0000 1701 2717, BIC: RLNWATWW, Verein rollingpoint, einzahlen. 
 
-Stornobedingungen: Bis drei Tage vor Beginn der Intensive wird der volle Betrag abzüglich einer Bearbeitungsgebühr von € 10,- rückerstattet. Danach keine Stornomöglichkeit. Es kann aber eine Ersatzperson nominiert werden. Im Falle von Erkrankung kann eine Gutschrift für einen späteren Kurs erteilt werden.
+Stornobedingungen: Bis drei Tage vor Beginn der Intensive wird der volle Betrag abzüglich einer Bearbeitungsgebühr von € 10,- rückerstattet. Danach keine Stornomöglichkeit. Es kann aber eine Ersatzperson nominiert werden. Im Falle von Erkrankung geben wir eine Gutschrift für einen späteren Kurs.
 
 &nbsp;
 
