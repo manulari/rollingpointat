@@ -33,10 +33,9 @@ jeweils  18.15 - 20.30h
 **Anmeldung:**\
 Anmeldeformular: <https://forms.gle/D5bwoQwoeueLpRCw7>\
 oder per email:  ci.rollingpoint@gmail.com\
-maRia 0650 951 0814, Christian 0650 8931081
+maRia 0650 9510814, Christian 0650 8931081
 
-**Kostenbeitrag:** Eine Woche: € 104, Student*innen unter 28: € 76\
-Beide Wochen: € 180, Student*innen unter 28: € 132\
+**Kostenbeitrag:** Eine Woche: € 104, Student*innen unter 28: € 76Beide Wochen: € 180, Studentinnen unter 28: € 132\
 Sonstige Ermäßigungen auf Anfrage\
 \
 **Winterintensive-Special: Meldet euch als Gruppe zu viert an und zahlt für drei!**
@@ -52,5 +51,3 @@ Stornobedingungen: Bis drei Tage vor Beginn der Intensive wird der volle Betrag 
 ![](/assets/uploads/heshaohui.rollingpoint-wu-fotos.067.jpg)
 
 Fotocredit: He Shao Hui
-
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\__
