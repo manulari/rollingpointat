@@ -21,7 +21,7 @@ Zwei Wochen lang jeweils vier Abende gemeinsam loslassen, spüren, bewegen, mit 
 **Contact Improvisation - Being Moved** \
 open level, mit Christian Apschner (und maRia Probst)
 
-**Woche 2: Mo - Do 16.- 19.2.2025**\
+**Woche 2: Mo - Do 16.- 19.2.2026**\
 **RELEASZE Tanztraining**  - **Dancing to the Core**\
 open level, mit maRia Probst (und Christian Apschner)
 
