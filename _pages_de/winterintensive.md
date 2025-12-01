@@ -18,7 +18,7 @@ Zwei Wochen lang jeweils vier Abende gemeinsam loslassen, spüren, bewegen, mit 
 **Achtung: Detailbeschreibung gerade in Bearbeitung!**
 
 **Woche 1: Mo - Do 9.- 12.2.2026**\
-**Contact Improvisation - Being Moved** \
+**Contact Improvisation - Let yourself be Moved** \
 open level, mit Christian Apschner (und maRia Probst)
 
 **Woche 2: Mo - Do 16.- 19.2.2026**\
