@@ -35,7 +35,8 @@ Anmeldeformular: <https://forms.gle/D5bwoQwoeueLpRCw7>\
 oder per email:  ci.rollingpoint@gmail.com\
 maRia 0650 9510814, Christian 0650 8931081
 
-**Kostenbeitrag:** Eine Woche: € 104, Student*innen unter 28: € 76Beide Wochen: € 180, Studentinnen unter 28: € 132\
+**Kostenbeitrag:** Eine Woche: € 104, Student*innen unter 28: € 76\
+Beide Wochen: € 180, Studentinnen unter 28: € 132\
 Sonstige Ermäßigungen auf Anfrage\
 \
 **Winterintensive-Special: Meldet euch als Gruppe zu viert an und zahlt für drei!**
