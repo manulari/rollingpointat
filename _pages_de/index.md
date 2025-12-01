@@ -33,7 +33,7 @@ Ob mit oder ohne Vorerfahrung – hier bist du richtig!
 
 <!--StartFragment-->
 
-**Nächste rollingpoint WORKSHOPs:**
+### **WORKSHOPS**
 
 **14.12.2025 [RELEASZ Tanztraining & Body Discoveries / Organs](https://rollingpoint.at/ws2025-26#organs) mit maRia Probst**\
 \
