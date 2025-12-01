@@ -41,9 +41,17 @@ Ob mit oder ohne Vorerfahrung – hier bist du richtig!
 
 <!--EndFragment-->
 
-### **SEMESTERKURSE**
+### **WINTERINTENSIVE** \
+**Woche 1: Mo - Do 9.- 12.2.2026**\
+**Contact Improvisation - Being Moved**
 
-**Kursbeginn WINTERSEMESTER 2025/26: 22.- 25.9.2025**
+**Woche 2: Mo - Do 16.- 19.2.2026**\
+**RELEASZE Tanztraining** - **Dancing to the Core**
+
+### **SEMESTERKURSE**\
+**Die neuen Kurse des Sommersemesters starten vom 23.- 26.2.2026** 
+
+
 
 **[Mo RELEASZ Tanztraining: ](/releasze)**[Zeitgenössischer Tanz / CI-light / Somatisches Lernen](/releasze) **open level**\
 **mit maRia Probst**\
