@@ -15,6 +15,8 @@ Fotocredits: He Shao Hui
 \
 Zwei Wochen lang jeweils vier Abende gemeinsam loslassen, spüren, bewegen, mit dir selbst und anderen in Kontakt kommen und tanzen. Die beiden Wochen bilden eine Einheit mit unterschiedlichem Schwerpunkt, können gemeinsam aber auch getrennt besucht werden.
 
+<div class="named-anchor" id="W1"></div>
+
 **Woche 1: Mo - Do 9.- 12.2.2026**\
 **Contact Improvisation - Let yourself be Moved** \
 open level, mit Christian Apschner (und maRia Probst)
