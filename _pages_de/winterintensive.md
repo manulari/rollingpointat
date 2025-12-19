@@ -15,8 +15,6 @@ Fotocredits: He Shao Hui
 \
 Zwei Wochen lang jeweils vier Abende gemeinsam loslassen, spüren, bewegen, mit dir selbst und anderen in Kontakt kommen und tanzen. Die beiden Wochen bilden eine Einheit mit unterschiedlichem Schwerpunkt, können gemeinsam aber auch getrennt besucht werden.
 
-**Achtung: Detailbeschreibung gerade in Bearbeitung!**
-
 **Woche 1: Mo - Do 9.- 12.2.2026**\
 **Contact Improvisation - Let yourself be Moved** \
 open level, mit Christian Apschner (und maRia Probst)
@@ -30,6 +28,8 @@ Teilnahmeempfehlungen: Du möchtest Basics der Contact Improvisation kennenlerne
 **Woche 2: Mo - Do 16.- 19.2.2026**\
 **RELEASZE Tanztraining**  - **Dancing to the Core**\
 open level, mit maRia Probst (und Christian Apschner)
+
+Achtung: Detailbeschreibung gerade in Bearbeitung!
 
 **Ort und Zeit:**\
 Mo und Do (9.2., 12.2., 16.2., 19.2): Turnsaal Gilgegasse 12, 9. Bez.\
