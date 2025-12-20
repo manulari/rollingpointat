@@ -67,7 +67,7 @@ Die Reservierung eines Kursplatzes erfolgt durch Überweisung des Kostenbetrages
 Bitte den Kostenbeitrag vorab auf unser Konto\
 IBAN: AT54 3200 0000 1701 2717, BIC: RLNWATWW, Verein rollingpoint, einzahlen. 
 
-Stornobedingungen: Bis drei Tage vor Beginn der Intensive wird der volle Betrag abzüglich einer Bearbeitungsgebühr von € 10,- rückerstattet. Danach keine Stornomöglichkeit. Es kann aber eine Ersatzperson nominiert werden. Im Falle von Erkrankung geben wir eine Gutschrift für einen späteren Kurs.
+Stornobedingungen: Bis drei Tage vor Beginn der Intensive wird der volle Betrag abzüglich einer Bearbeitungsgebühr von € 10,- rückerstattet. Danach keine Stornomöglichkeit. Es kann aber eine Ersatzperson nominiert werden. Im Falle von Erkrankung kann eine Teilgutschrift für einen späteren Kurs angefragt werden.
 
 &nbsp;
 
