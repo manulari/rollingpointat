@@ -28,10 +28,24 @@ Die erste Woche der Winterintensive ist der Erforschung dieser Prinzipien der Co
 Teilnahmeempfehlungen: Du möchtest Basics der Contact Improvisation kennenlernen oder vertiefen und bringst einen forschenden Geist und Offenheit, dich auf Körperkontakt mit gegenseitiger Gewichtsübertragung einzulassen, mit. Ein Grundausmaß an Sensitivität für den eigenen Körper und die Grenzen anderer ist für die Contact Improvisation unumgänglich. Bewegungsvorerfahrung aller Art ist von Vorteil.
 
 **Woche 2: Mo - Do 16.- 19.2.2026**\
-**RELEASZE Tanztraining**  - **Dancing to the Core**\
-open level, mit maRia Probst (und Christian Apschner)
+**RELEASZ Tanztraining**  - **Dancing to&from the Core**\
+mit maRia Probst (und Christian Apschner), Vorerfahrung erwünscht (siehe Teilnahmeempfehlungen)
 
-Achtung: Detailbeschreibung gerade in Bearbeitung!
+Der Schlüssel zu kraftvollem und zugleich geschmeidigem Tanzen liegt im feinen innerkörperlichen Zusammenspiel – in Aufrichtung mit Leichtigkeit.
+Dieses Zusammenspiel bildet das Herzstück der zweiten Woche der Winterintensive.
+
+
+Wir spüren unsere Bauchmitte, entdecken das Becken als Dreh- und Angelpunkt für schwungvolles Tanzen und öffnen uns dem asiatischen Konzept der Qi- bzw. Energieführung.
+
+
+Die Organe entlang unserer zentralen Achse werden uns als tragfähige innere Strukturen bewusster, während die netzartigen Verbindungen unseres Körpers beim Federn und Springen von Kopf bis Fuß erlebbar werden.
+
+
+Diese aktivierten Kernfähigkeiten unseres Bewegungssystems lassen wir – im Sinne des RELEASZ-Tanztrainings – in das freie Tanzen durch den Raum einfließen, mit und ohne körperlichen Kontakt.
+Wir tanzen, improvisieren und erlernen die eine oder andere Bewegungsabfolge.
+Wir schwitzen, sammeln Kraft in unseren Mitten und finden eine stabile innere Verankerung, um offen und präsent in Kontakt mit unserer Umwelt zu tanzen.
+
+Teilnahmeempfehlungen: Du bringst etwas Vorerfahrung aus der CI, dem zeitgenössischen Tanz oder dem somatischen Lernen mit oder hast an der Winterintensive Woche 1 teilgenommen. Du bringst Offenheit gegenüber Körperkontakt im Tanzen und ein Grundausmaß an Sensitivität für den eigenen Körper und die Grenzen anderer mit. 
 
 **Ort und Zeit:**\
 Mo und Do (9.2., 12.2., 16.2., 19.2): Turnsaal Gilgegasse 12, 9. Bez.\
