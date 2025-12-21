@@ -35,8 +35,6 @@ Ob mit oder ohne Vorerfahrung – hier bist du richtig!
 
 ### **WORKSHOPS**
 
-**14.12.2025 [RELEASZ Tanztraining & Body Discoveries / Organs](https://rollingpoint.at/ws2025-26#organs) mit maRia Probst**\
-\
 **31.1./1.2.2026 [Liquid Motion - Contact Flying Skills](https://rollingpoint.at/ws2025-26#flyingskills) mit Christian Apschner u.A.**
 
 <!--EndFragment-->
@@ -47,11 +45,13 @@ Ob mit oder ohne Vorerfahrung – hier bist du richtig!
 **[Contact Improvisation - Let yourself be Moved](/winterintensive#w1)**
 
 **Woche 2: Mo - Do 16.- 19.2.2026**\
-**RELEASZE Tanztraining** - **Dancing to & from the Core**
+[**RELEASZ Tanztraining** - **Dancing to & from the Core**](#WI2)
 
 ### **SEMESTERKURSE**
 
 **Die neuen Kurse des Sommersemesters starten vom 23.- 26.2.2026** 
+
+laufend:
 
 **[Mo RELEASZ Tanztraining: ](/releasze)**[Zeitgenössischer Tanz / CI-light / Somatisches Lernen](/releasze) **open level**\
 **mit maRia Probst**\
