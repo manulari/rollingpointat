@@ -47,7 +47,7 @@ Ob mit oder ohne Vorerfahrung – hier bist du richtig!
 **[Contact Improvisation - Let yourself be Moved](/winterintensive#w1)**
 
 **Woche 2: Mo - Do 16.- 19.2.2026**\
-**RELEASZE Tanztraining** - **Dancing to the Core**
+**RELEASZE Tanztraining** - **Dancing to & from the Core**
 
 ### **SEMESTERKURSE**
 
