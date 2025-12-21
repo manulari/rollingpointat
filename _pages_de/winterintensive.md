@@ -27,8 +27,8 @@ Die erste Woche der Winterintensive ist der Erforschung dieser Prinzipien der Co
 
 Teilnahmeempfehlungen: Du möchtest Basics der Contact Improvisation kennenlernen oder vertiefen und bringst einen forschenden Geist und Offenheit, dich auf Körperkontakt mit gegenseitiger Gewichtsübertragung einzulassen, mit. Ein Grundausmaß an Sensitivität für den eigenen Körper und die Grenzen anderer ist für die Contact Improvisation unumgänglich. Bewegungsvorerfahrung aller Art ist von Vorteil.
 
-<div class="named-anchor" id="WI2"></div>
-
+**Woche 2: Mo - Do 16.- 19.2.2026
+RELEASZ Tanztraining - Moving to & from the Core**
 mit maRia Probst (und Christian Apschner), Vorerfahrung erwünscht (siehe Teilnahmeempfehlungen)
 
 Der Schlüssel zu kraftvollem und zugleich geschmeidigem Tanzen liegt im feinen innerkörperlichen Zusammenspiel – in Aufrichtung mit Leichtigkeit.
