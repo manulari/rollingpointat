@@ -27,19 +27,16 @@ Die erste Woche der Winterintensive ist der Erforschung dieser Prinzipien der Co
 
 Teilnahmeempfehlungen: Du möchtest Basics der Contact Improvisation kennenlernen oder vertiefen und bringst einen forschenden Geist und Offenheit, dich auf Körperkontakt mit gegenseitiger Gewichtsübertragung einzulassen, mit. Ein Grundausmaß an Sensitivität für den eigenen Körper und die Grenzen anderer ist für die Contact Improvisation unumgänglich. Bewegungsvorerfahrung aller Art ist von Vorteil.
 
-**Woche 2: Mo - Do 16.- 19.2.2026**\
-**RELEASZ Tanztraining**  - **Dancing to&from the Core**\
+<div class="named-anchor" id="WI2"></div>
+
 mit maRia Probst (und Christian Apschner), Vorerfahrung erwünscht (siehe Teilnahmeempfehlungen)
 
 Der Schlüssel zu kraftvollem und zugleich geschmeidigem Tanzen liegt im feinen innerkörperlichen Zusammenspiel – in Aufrichtung mit Leichtigkeit.
 Dieses Zusammenspiel bildet das Herzstück der zweiten Woche der Winterintensive.
 
-
 Wir spüren unsere Bauchmitte, entdecken das Becken als Dreh- und Angelpunkt für schwungvolles Tanzen und öffnen uns dem asiatischen Konzept der Qi- bzw. Energieführung.
 
-
 Die Organe entlang unserer zentralen Achse werden uns als tragfähige innere Strukturen bewusster, während die netzartigen Verbindungen unseres Körpers beim Federn und Springen von Kopf bis Fuß erlebbar werden.
-
 
 Diese aktivierten Kernfähigkeiten unseres Bewegungssystems lassen wir – im Sinne des RELEASZ-Tanztrainings – in das freie Tanzen durch den Raum einfließen, mit und ohne körperlichen Kontakt.
 Wir tanzen, improvisieren und erlernen die eine oder andere Bewegungsabfolge.
