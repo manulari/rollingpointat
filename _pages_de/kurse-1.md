@@ -12,7 +12,8 @@ language: de
 | **Mi** | **18.00-20.30** | **Christian**            | **[“Thinking Body - Dancing Mind” Contact Improvisation intermediate/advanced](/contactadv)** | **Einsiedlerg. 7, 1050 Wien** |
 | **Do** | **18.15-20.30** | **Christian**            | **["Falling in Love with CI" Contact Improvisation beginner](/contactbeg)**                   | **Gilgegasse 12, 1090 Wien**  |
 
-**Die neuen Abendkurse des Wintersemesters 2025/26 starten vom 22.- 25.9.2025**
+**Die neuen Abendkurse des Sommersemesters 2025/26 starten vom 23.- 26.2.2026**\
+**Stundenplan und Kurstage wie in Wintersemester**
 
 ### Vormittagskurs WS 2025/26
 
