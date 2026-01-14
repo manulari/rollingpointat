@@ -51,34 +51,31 @@ Ob mit oder ohne Vorerfahrung – hier bist du richtig!
 
 **Die neuen Kurse des Sommersemesters starten vom 23.- 26.2.2026** 
 
-laufend:
-
 **[Mo RELEASZ Tanztraining: ](/releasze)**[Zeitgenössischer Tanz / CI-light / Somatisches Lernen](/releasze) **open level**\
 **mit maRia Probst**\
-**Mo 22.9.2025 - 26.1.2026, 18.30 - 20.15 (ca.14x)**\
-**Turnsaal VS Gilgegasse 12, 1090 Wien**\
-ausgebucht!
+**Mo 23.2.- 22.6.2026, 18.30 - 20.15 (ca.15x)**\
+**Turnsaal VS Gilgegasse 12, 1090 Wien**
 
 **[Di Contact Improvisation Jam ](/jams)**(kein Kurs, keine Anmeldung erforderlich)\
-**Di 16.9.2025.- 27.1.2026, 18.00 – 20.30 (ca.17x)**\
+**Di 24.2.- 23.6.2026, 18.00 – 20.30**\
 **Turnsaal VS Einsiedlergasse 7, 1050 Wien**\
-Open Level Jams (Neueinsteigende sind zur Teilnahme an der Jams eingeladen): **14.10., 18.11. und 16.12.2025, 20.1.2026,** Intro für Beginner*innen 17.30 - 18.30.
+Open Level Jams (Neueinsteigende sind zur Teilnahme an der Jams eingeladen): **22.3., 26.4., 31.5.2026,** Intro für Beginner*innen 17.30 - 18.30.
 
 **[Mi Thinking Body - Dancing Mind: Contact Improvisation ](/contactadv) intermediate/advanced**\
 **mit Christian Apschner**\
-**Mi 24.9.2025 - 28.1.2026, 18.00 - 20.30 (ca.16x)**\
+**Mi 25.2.- 24.6.2026, 18.00 - 20.30 (ca.17x)**\
 **Turnsaal VS Einsiedlergasse 7, 1050 Wien**
 
 **[Do Falling in Love with CI: Contact Improvisation ](/contactbeg)beginner**\
 **mit Christian Apschner**\
-**Do 25.9.2025 - 29.1.2026, 18.15 – 20.30 (ca.16x)**\
+**Do 26.2. - 25.6.2026, 18.15 – 20.30 (ca.15x)**\
 **Turnsaal VS Gilgegasse 12, 1090 Wien**
 
 **Mi vormittags Körper- und Tanztraining
 [Bright Bird Moves](/Vormittagskurs) mit maRia / open level
-Mi 1.10.2025 – 21.01.2026, 9.20-11.10h Werkstatt Krähe Westbahnstrasse 7, 1070 Wien**
+Mi (neu Termine folgen), 9.20-11.10h Werkstatt Krähe Westbahnstrasse 7, 1070 Wien**
 
-aktuell Teilnahmestop, schreibe ein kurzes e-mail an unsere Vereinsadresse, wenn du auf die Warteliste möchstest, danke!
+
 
 ![Mehr CI auf der Stiege](/assets/uploads/dsc_1941a.jpg "Mehr CI auf der Stiege")
 
