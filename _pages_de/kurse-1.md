@@ -3,7 +3,7 @@ permalink: /kurse
 title: Semesterkurse WS 2025/26
 language: de
 ---
-### **Stundenplan Abendkurse Wintersemester 2025/26**
+### **Stundenplan Abendkurse Sommersemester 2026**
 
 | Tag    | Zeit            | Leiter*in                | Titel                                                                                         | Ort/Turnsaal                  |
 | ------ | --------------- | ------------------------ | --------------------------------------------------------------------------------------------- | ----------------------------- |
