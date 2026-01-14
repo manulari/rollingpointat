@@ -63,7 +63,7 @@ Open Level Jams (Neueinsteigende sind zur Teilnahme an der Jams eingeladen): **2
 
 **[Mi Thinking Body - Dancing Mind: Contact Improvisation ](/contactadv) intermediate/advanced**\
 **mit Christian Apschner**\
-**Mi 25.2.- 24.6.2026, 18.00 - 20.30 (ca.17x)**\
+**Mi 25.2.- 24.6.2026, 18.00 - 20.30 (ca.16x)**\
 **Turnsaal VS Einsiedlergasse 7, 1050 Wien**
 
 **[Do Falling in Love with CI: Contact Improvisation ](/contactbeg)beginner**\
@@ -74,8 +74,6 @@ Open Level Jams (Neueinsteigende sind zur Teilnahme an der Jams eingeladen): **2
 **Mi vormittags Körper- und Tanztraining
 [Bright Bird Moves](/Vormittagskurs) mit maRia / open level
 Mi (neu Termine folgen), 9.20-11.10h Werkstatt Krähe Westbahnstrasse 7, 1070 Wien**
-
-
 
 ![Mehr CI auf der Stiege](/assets/uploads/dsc_1941a.jpg "Mehr CI auf der Stiege")
 
