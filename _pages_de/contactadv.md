@@ -10,7 +10,7 @@ Foto: Laurent Ziegler
 #### **“Thinking Body - Dancing Mind” Contact Improvisation - intermediate/advanced**
 
 mit **Christian Apschner**\
-**Mi 25.2.- 24.6.2026, 18.00 - 20.30 (ca.17x)**\
+**Mi 25.2.- 24.6.2026, 18.00 - 20.30 (ca.16x)**\
 Turnsaal VS Einsiedlergasse 7, 1050 Wien
 
 Fortlaufende Trainingsgruppe\
