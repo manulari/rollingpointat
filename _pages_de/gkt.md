@@ -8,8 +8,6 @@ language: de
 
 <div class="named-anchor" id="birds"></div>
 
-
-
 #### **Bright Bird Moves**
 
 **Körper&Tanztrainig am Vormittag mit maRia / open level**
@@ -31,16 +29,14 @@ oder verwende folgendes Anmeldeformular\
 c[oming soon](https://forms.gle/D5bwoQwoeueLpRCw7)
 
 ***KOSTEN***\
-Offene Schnupperstunde in der ersten Kurswoche um €10 pro Einheit*
+Offene Schnupperstunde in der ersten Kurswoche um €10*
 
-KOSTEN: 
+**Frühling 25.02. – 27.05.2026:** Normalpreis  €295.- / ermäßigt €255.- / 5er Block: €140.-
 
-Frühling 25.02. – 27.05.2026: Normalpreis  €295.- / ermäßigt €255.- / 5er Block: €140.-
+**Sommer 03.06 - 24.06.2026:** Normalpreis €90.- / ermäßigt €79.- 
 
-Sommer 03.06 - 24.06.2026: Normalpreis €90.- / ermäßigt €79.- 
+bei zusätzlicher Buchung eines rollingpoint Abendkurses €30.- Ermäßigung 
 
-Bei zusätzlicher Buchung eines rollingpoint Abendkurses €30.- Ermäßigung 
-
-Die Kostenbeiträge mit Verwendungszweck Bright Birds Frühling 26, Sommer oder Frühling&Sommer 26 bitte auf unser Vereinskonto: IBAN: AT54 3200 0000 1701 2717, BIC: RLNWATWW, Verein rollingpoint, überweisen und dein Kursplatz ist gesichert!
+Die Kostenbeiträge mit Verwendungszweck Bright Birds Frühling 26, Sommer 26 oder Frühling&Sommer 26 bitte auf unser Vereinskonto: IBAN: AT54 3200 0000 1701 2717, BIC: RLNWATWW, Verein rollingpoint, überweisen und dein Kursplatz ist gesichert!
 
 \*bei Buchung eines Kurses oder 5er Blocks können diese €10.-von der jeweiligen Kursgebühr, einschließlich 5er Block, abgezogen werden.
