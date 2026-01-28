@@ -8,14 +8,16 @@ language: de
 
 <div class="named-anchor" id="birds"></div>
 
-##### **aktuell Teilnahmestop, schreibe ein kurzes e-mail an ci.rollingpoint@gmail.com wenn du auf die Warteliste möchtest, danke!**
+
 
 #### **Bright Bird Moves**
 
 **Körper&Tanztrainig am Vormittag mit maRia / open level**
 
-**Mi 1.10.2025 – 21.01.2026, 9.20-11.10h** (14 Termine exkl. 29.10.25)
+**Frühling: Mi 25.02.2026 – 27.05.2026, 9.20-11.10h** (13 Termine exkl. 1.04.26)
 Werkstatt Krähe Westbahnstrasse 7, 1070 Wien
+
+**Sommer: Mi 3.06.2026 - 24.06.2026, 9.20-11.10h** (4 Termine), Ort wird demnächst bekannt gegeben
 
 Du möchtest dich kräftig und gut mit dem Boden verbunden fühlen? Gehst gerne geschmeidig und im Kontakt mit deiner Körpermitte an die Aufgaben des Tages? Dein befreiter Atem soll dich mit Leichtigkeit durch Herausforderungen tragen? Du möchtest dein Leben tanzend leben und dich in einer Gruppe daran erinnern? Dann ist das mittwochs vormittags Körper&Tanztraining das richtige für dich! 
 
@@ -29,10 +31,16 @@ oder verwende folgendes Anmeldeformular\
 c[oming soon](https://forms.gle/D5bwoQwoeueLpRCw7)
 
 ***KOSTEN***\
-Offene Schnupperstunden in der ersten Kurswoche um €10 pro Einheit
+Offene Schnupperstunde in der ersten Kurswoche um €10 pro Einheit*
 
-KOSTEN: Normalpreis €315.- / ermäßigt €275.- / 5er Block: €140.-
+KOSTEN: 
 
-Bei Buchung von mehr als einem Kurs minus € 30 ab dem 2.Kurs
+Frühling 25.02. – 27.05.2026: Normalpreis  €295.- / ermäßigt €255.- / 5er Block: €140.-
 
-Die Kostenbeiträge mit Verwendungszweck Bright Birds WS 25/26 bitte auf unser Konto IBAN: AT54 3200 0000 1701 2717, BIC: RLNWATWW, Verein rollingpoint, überweisen und dein Kursplatz ist gesichert.
+Sommer 03.06 - 24.06.2026: Normalpreis €90.- / ermäßigt €79.- 
+
+Bei zusätzlicher Buchung eines rollingpoint Abendkurses €30.- Ermäßigung 
+
+Die Kostenbeiträge mit Verwendungszweck Bright Birds Frühling 26, Sommer oder Frühling&Sommer 26 bitte auf unser Vereinskonto: IBAN: AT54 3200 0000 1701 2717, BIC: RLNWATWW, Verein rollingpoint, überweisen und dein Kursplatz ist gesichert!
+
+\*bei Buchung eines Kurses oder 5er Blocks können diese €10.-von der jeweiligen Kursgebühr, einschließlich 5er Block, abgezogen werden.
