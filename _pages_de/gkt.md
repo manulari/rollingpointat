@@ -3,6 +3,8 @@ permalink: /Vormittagskurs
 title: Bright Bird Moves
 language: de
 ---
+> ![Frau trainiert in Bodenlage](/assets/uploads/still-01_001.jpg)
+>
 > **Videolink- GANZ-Körpertraining mit maRia Probst:**\
 > **[rollingpoint maRia Probst- GANZ-Körpertraining - YouTube](https://www.youtube.com/watch?v=6A5otnVZAg4)**
 
