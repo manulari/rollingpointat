@@ -73,7 +73,7 @@ Open Level Jams (Neueinsteigende sind zur Teilnahme an der Jams eingeladen): **2
 
 **Mi vormittags Körper- und Tanztraining
 [Bright Bird Moves](/Vormittagskurs) mit maRia / open level
-Mi (neu Termine folgen), 9.20-11.10h Werkstatt Krähe Westbahnstrasse 7, 1070 Wien**
+Frühling Mi 25.02. – 27.05.2026 , 9.20-11.10h Werkstatt Krähe Westbahnstrasse 7, 1070 Wien, Sommer 03.06 - 24.06.2026, 9.20-11.10h Ort wird bekannt gegeben**
 
 ![Mehr CI auf der Stiege](/assets/uploads/dsc_1941a.jpg "Mehr CI auf der Stiege")
 
