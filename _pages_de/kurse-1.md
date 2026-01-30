@@ -13,9 +13,9 @@ language: de
 | **Do** | **18.15-20.30** | **Christian**            | **["Falling in Love with CI" Contact Improvisation beginner](/contactbeg)**                   | **Gilgegasse 12, 1090 Wien**  |
 
 **Die neuen Kurse des Sommersemesters 2026 starten vom 23.- 26.2.2026**\
-**Stundenplan und Kurstage wie in Wintersemester**
+**Stundenplan und Kurstage wie im Wintersemester**
 
-### Vormittagskurs WS 2025/26
+### Vormittagskurs SoSe 2026
 
 **Mi 9.20-11.10 maRia, [Bright Bird Moves](/Vormittagskurs)**
 
