@@ -1,24 +1,27 @@
 ---
 permalink: /kurse
-title: Semesterkurse WS 2025/26
+title: Semesterkurse SoSe 2026
 language: de
 ---
 ### **Stundenplan Abendkurse Sommersemester 2026**
 
 | Tag    | Zeit            | Leiter*in                | Titel                                                                                         | Ort/Turnsaal                  |
 | ------ | --------------- | ------------------------ | --------------------------------------------------------------------------------------------- | ----------------------------- |
-| **Mo** | **18.30-20.15** | **maRia**                | **[RELEASZ Tanztraining: CI-light/Somatisches Lernen / open level](/releasze)**               | **Gilgegasse 12, 1090 Wien**  |
+| **Mo** | **18.30-20.20** | **maRia**                | **[RELEASZ Tanztraining: CI-light/Somatisches Lernen / open level](/releasze)**               | **Gilgegasse 12, 1090 Wien**  |
 | **Di** | **18.00-20.30** | **Christian maRia u.A.** | **[Contact Improvisation Jam](/jams)** (kein Kurs)                                            | **Einsiedlerg. 7, 1050 Wien** |
 | **Mi** | **18.00-20.30** | **Christian**            | **[“Thinking Body - Dancing Mind” Contact Improvisation intermediate/advanced](/contactadv)** | **Einsiedlerg. 7, 1050 Wien** |
 | **Do** | **18.15-20.30** | **Christian**            | **["Falling in Love with CI" Contact Improvisation beginner](/contactbeg)**                   | **Gilgegasse 12, 1090 Wien**  |
 
-**Die neuen Abendkurse des Sommersemesters 2025/26 starten vom 23.- 26.2.2026**\
+**Die neuen Kurse des Sommersemesters 2026 starten vom 23.- 26.2.2026**\
 **Stundenplan und Kurstage wie in Wintersemester**
 
 ### Vormittagskurs WS 2025/26
 
-**Mi 9.20-11.10 maRia, [Bright Bird Moves](/Vormittagskurs), Westbahnstraße 7, 1070 Wien**\
-1.10.2025 – 21.01.2026
+**Mi 9.20-11.10 maRia, [Bright Bird Moves](/Vormittagskurs)**
+
+**Frühling: Mi 25.02.2026 – 27.05.2026, 9.20-11.10h** (13 Termine exkl. 1.04.26) Werkstatt Krähe Westbahnstrasse 7, 1070 Wien
+
+**Sommer: Mi 3.06.2026 - 24.06.2026, 9.20-11.10h** (4 Termine), Ort wird demnächst bekannt gegeben
 
 [Kursanmeldung](https://rollingpoint.at/Kursanmeldung)\
 \
