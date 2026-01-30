@@ -20,7 +20,7 @@ Ausgewählte Musik und Sound-Scapes in der 2.Hälfte der Jams.
 
 **Kostenbeitrag auf Spendenbasis: Jam einzeln € 8 - 12, Semesterbeitrag: € 100 - 150**
 
-### **JAM-SPECIALS:**
+### **JAM-SPECIALS - LETS CREATE ART TOGETHER**
 
 **Open Level Jam und  Beginner Intros**\
 Beginner welcome!\
