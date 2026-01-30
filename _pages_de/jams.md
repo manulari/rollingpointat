@@ -20,10 +20,23 @@ Ausgewählte Musik und Sound-Scapes in der 2.Hälfte der Jams.
 
 **Kostenbeitrag auf Spendenbasis: Jam einzeln € 8 - 12, Semesterbeitrag: € 100 - 150**
 
-An folgenden Terminen finden **Open Level Jams** statt, wo auch **Beginner*innen** ohne CI-Kurserfahrung eingeladen sind teilzunehmen:\
+### **JAM-SPECIALS:**
+
+**Open Level Jam und  Beginner Intros**\
+Beginner welcome!\
 **10.3., 14.4. und 12.5. und 16.6.2026**\
 Für alle Beginner*innen bieten wir eine einstündige Einführung in die Welt der Contact Improvisations-Jams im Zeitraum 17.30 - 18.30 an.\
-Kostenbeitrag CI-Intro plus Jam 15 -25€
+Kostenbeitrag CI-Intro plus Jam 15 -25€\
+\
+**Music-Focus-Jam 24.2.2026**\
+C#Db-LiveAmbient Music Improvisation  using a Arturia Microfreak Synth, Soma Cosmos Drifting Memory Station and a JBL-Box
+
+**Underscore 3.3.2026**\
+Underscore talk through (german/english) 17.30-18.30, Beginn pünktlich\
+Bitte um Anmeldung: ci.rollingpoint@gmail.com, bzw. [Anmeldeformular](https://forms.gle/D5bwoQwoeueLpRCw7)\
+Teilnahme am Underscore Intro kostenlos\
+Underscore Jam 18.30-20.30\
+Der von Nancy Stark Smith über mehrere Jahrzehnte hinweg entwickelte Underscore ist eine Art zeitlicher und räumlicher Landkarte und eine Orientierungshilfe, die die vilefältige Dynamik einer Contact Improvisation Jam beschreibt. Underscore Jams werden von den Teilnehmenden meist als sehr fokussiert und offener als normale Jams wahrgenommen. Christian hat den Underscore von Nancy erstmals im Jahr 1999 kennengelernt und wird uns die Struktur auch in graphischen Symbolen vorstellen.
 
 <div class="named-anchor" id="special"></div>
 
