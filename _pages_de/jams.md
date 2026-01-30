@@ -34,9 +34,11 @@ C#Db-LiveAmbient Music Improvisation  using a Arturia Microfreak Synth, Soma Cos
 **Underscore 3.3.2026**\
 Underscore talk through (german/english) 17.30-18.30, Beginn pünktlich\
 Bitte um Anmeldung: ci.rollingpoint@gmail.com, bzw. [Anmeldeformular](https://forms.gle/D5bwoQwoeueLpRCw7)\
-Teilnahme am Underscore Intro kostenlos\
+Underscore Intro kostenlos, Jam 8-12€\
 Underscore Jam 18.30-20.30\
 Der von Nancy Stark Smith über mehrere Jahrzehnte hinweg entwickelte Underscore ist eine Art zeitlicher und räumlicher Landkarte und eine Orientierungshilfe, die die vilefältige Dynamik einer Contact Improvisation Jam beschreibt. Underscore Jams werden von den Teilnehmenden meist als sehr fokussiert und offener als normale Jams wahrgenommen. Christian hat den Underscore von Nancy erstmals im Jahr 1999 kennengelernt und wird uns die Struktur auch in graphischen Symbolen vorstellen.
+
+**Weitere Specials tba**
 
 <div class="named-anchor" id="special"></div>
 
