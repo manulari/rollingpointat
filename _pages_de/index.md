@@ -33,11 +33,7 @@ Ob mit oder ohne Vorerfahrung – hier bist du richtig!
 
 <!--StartFragment-->
 
-### **WORKSHOPS**
 
-**31.1./1.2.2026 [Liquid Motion - Contact Flying Skills](https://rollingpoint.at/ws2025-26#flyingskills) mit Christian Apschner u.A.**
-
-<!--EndFragment-->
 
 ### **WINTERINTENSIVE**
 
@@ -74,6 +70,13 @@ Open Level Jams (Neueinsteigende sind zur Teilnahme an der Jams eingeladen): **2
 **Mi vormittags Körper- und Tanztraining
 [Bright Bird Moves](/Vormittagskurs) mit maRia / open level
 Frühling Mi 25.02. – 27.05.2026 , 9.20-11.10h Werkstatt Krähe Westbahnstrasse 7, 1070 Wien, Sommer 03.06 - 24.06.2026, 9.20-11.10h Ort wird bekannt gegeben**
+
+**[CONTACT IMPROVISATION  JAM](https://rollingpoint.at/jams)**\
+**an Schultagen jeden Dienstag wieder ab 24.2.2026 18.00-20.30**\
+**Turnsaal VS Einsiedlergasse 7, 1050 Wien**\
+**UNDERSCORE 3.3.2026, 17.30-20.30**
+
+
 
 ![Mehr CI auf der Stiege](/assets/uploads/dsc_1941a.jpg "Mehr CI auf der Stiege")
 
