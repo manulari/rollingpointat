@@ -18,7 +18,7 @@ Semester courses
 **Non-German speakers very welcome.**\
 **We will be teaching bilingual German and English.**
 
-### New courses (Wintersemester 2025/26) will be starting from 22.- 25.9.2025
+### New courses (Summersemester 2026) will be starting from 23.- 26.6.2026
 
 #### 1 RELEASZ - Contempory Dance and Somatics
 
