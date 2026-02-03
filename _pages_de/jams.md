@@ -32,7 +32,8 @@ Kostenbeitrag CI-Intro plus Jam 15 -25€\
 C#Db-LiveAmbient Music Improvisation  using a Arturia Microfreak Synth, Soma Cosmos Drifting Memory Station and a JBL-Box
 
 **Underscore 3.3.2026**\
-Underscore talk through (german/english) 17.30-18.30, Beginn pünktlich\
+Underscore talk through (german/english) 17.30-18.30\
+Beginn pünktlich um 17.30!!, Einlass ab 17.10\
 Bitte um Anmeldung: ci.rollingpoint@gmail.com, bzw. [Anmeldeformular](https://forms.gle/D5bwoQwoeueLpRCw7)\
 Underscore Intro kostenlos, Jam 8-12€\
 Underscore Jam 18.30-20.30\
