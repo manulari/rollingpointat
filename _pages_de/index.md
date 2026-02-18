@@ -61,7 +61,7 @@ Frühling Mi 25.02. – 27.05.2026 , 9.20-11.10h Werkstatt Krähe Westbahnstrass
 
 **[CONTACT IMPROVISATION  JAM](https://rollingpoint.at/jams)**\
 **an Schultagen jeden Dienstag wieder ab 24.2.2026 18.00-20.30**\
-**Underscore Jam: Di 3.3. 17.15-20.4**\
+**Underscore Jam: Di 3.3. 17.15-20.45**\
 **Turnsaal VS Einsiedlergasse 7, 1050 Wien**\
 **UNDERSCORE 3.3.2026, 17.30-20.45**
 
