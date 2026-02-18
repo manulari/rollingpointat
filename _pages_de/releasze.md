@@ -7,11 +7,12 @@ language: de
 
 Foto: Ines Ingerle
 
-#### RELEASZ Tanztraining: Zeitgenössischer Tanz / CI-light / Somatisches Lernen
+#### AUSGEBUCHT: RELEASZ Tanztraining: Zeitgenössischer Tanz / CI-light / Somatisches Lernen
 
 ***open level*** mit **maRia Probst**\
 **Mo 23.2.- 22.6.2026, 18.30 - 20.15 (ca.15x)**\
-Turnsaal VS Gilgegasse 12, 1090 Wien
+Turnsaal VS Gilgegasse 12, 1090 Wien\
+Der Kurs ist ausgebucht. Du kannst dich auf die Warteliste setzen lassen.
 
 RELEASZ verweist auf die Wurzeln dieser Praxis, der Release Technique. Es steht darüber hinaus für **RE**generierendes, **L**ebendiges, **E**nergetisierendes, **A**ffirmatives, **S**omatisches und **Z**eitgenössisches Tanzen.
 
@@ -21,7 +22,7 @@ Statement einer Teilnehmerin: „Das Kurserlebnis ist vielfältig, befreit gelac
 
 Teilnahmeempfehlung: Tanzfreudige mit Lust an Bewegungsausdruck und -forschung. An Kontaktimprovisations-Elementen mit geringer Gewichtsübertragung und an Berührung für Bewegungsentwicklung Interessierte. Menschen, die sich selbst und ihren Körper besser kennen lernen wollen. Eine kontinuierliche Teilnahme ist von Vorteil und daher sehr erwünscht.
 
-***ANMELDUNG:***\
+***ANMELDUNG (für Warteliste)***\
 Schreibe uns bitte ein kurzes mail an ci.rollingpoint@gmail.com\
 oder verwende folgendes Anmeldeformular
 
