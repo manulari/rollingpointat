@@ -7,7 +7,7 @@ language: de
 
 | Tag    | Zeit            | Leiter*in                | Titel                                                                                         | Ort/Turnsaal                  |
 | ------ | --------------- | ------------------------ | --------------------------------------------------------------------------------------------- | ----------------------------- |
-| **Mo** | **18.30-20.20** | **maRia**                | **[RELEASZ Tanztraining: CI-light/Somatisches Lernen / open level](/releasze)**               | **Gilgegasse 12, 1090 Wien**  |
+| **Mo** | **18.30-20.20** | **maRia**                | **AUSGEBUCHT:** **[RELEASZ Tanztraining: CI-light/Somatisches Lernen ](/releasze)**           | **Gilgegasse 12, 1090 Wien**  |
 | **Di** | **18.00-20.30** | **Christian maRia u.A.** | **[Contact Improvisation Jam](/jams)** (kein Kurs)                                            | **Einsiedlerg. 7, 1050 Wien** |
 | **Mi** | **18.00-20.30** | **Christian**            | **[“Thinking Body - Dancing Mind” Contact Improvisation intermediate/advanced](/contactadv)** | **Einsiedlerg. 7, 1050 Wien** |
 | **Do** | **18.15-20.30** | **Christian**            | **["Falling in Love with CI" Contact Improvisation beginner](/contactbeg)**                   | **Gilgegasse 12, 1090 Wien**  |
