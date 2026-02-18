@@ -31,17 +31,7 @@ Ob mit oder ohne Vorerfahrung – hier bist du richtig!
 
 <div class="imglink"><a target="_blank" href="https://www.youtube.com/embed/kp3DqzN1Ldo"><img src="/assets/uploads/video_vorschau_rollingpoint.png" alt="" /><div>rollingpoint-Video</div></a></div>
 
-<!--StartFragment-->
 
-
-
-### **WINTERINTENSIVE**
-
-**Woche 1: Mo - Do 9.- 12.2.2026**\
-**[Contact Improvisation - Let yourself be Moved](/winterintensive#w1)**
-
-**Woche 2: Mo - Do 16.- 19.2.2026**\
-[**RELEASZ Tanztraining** - **Dancing to & from the Core**](/winterintensive#WI2)
 
 ### **SEMESTERKURSE**
 
@@ -73,10 +63,9 @@ Frühling Mi 25.02. – 27.05.2026 , 9.20-11.10h Werkstatt Krähe Westbahnstrass
 
 **[CONTACT IMPROVISATION  JAM](https://rollingpoint.at/jams)**\
 **an Schultagen jeden Dienstag wieder ab 24.2.2026 18.00-20.30**\
+**Underscore Jam: Di 3.3. 17.15-20.4**\
 **Turnsaal VS Einsiedlergasse 7, 1050 Wien**\
-**UNDERSCORE 3.3.2026, 17.30-20.30**
-
-
+**UNDERSCORE 3.3.2026, 17.30-20.45**
 
 ![Mehr CI auf der Stiege](/assets/uploads/dsc_1941a.jpg "Mehr CI auf der Stiege")
 
