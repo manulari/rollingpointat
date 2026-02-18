@@ -31,13 +31,11 @@ Ob mit oder ohne Vorerfahrung – hier bist du richtig!
 
 <div class="imglink"><a target="_blank" href="https://www.youtube.com/embed/kp3DqzN1Ldo"><img src="/assets/uploads/video_vorschau_rollingpoint.png" alt="" /><div>rollingpoint-Video</div></a></div>
 
-
-
 ### **SEMESTERKURSE**
 
 **Die neuen Kurse des Sommersemesters starten vom 23.- 26.2.2026** 
 
-**[Mo RELEASZ Tanztraining: ](/releasze)**[Zeitgenössischer Tanz / CI-light / Somatisches Lernen](/releasze) **open level**\
+**[Mo RELEASZ Tanztraining: ](/releasze)**[Zeitgenössischer Tanz / CI-light / Somatisches Lernen](/releasze) **open level (ausgebucht, Anmeldung nur mehr für Warteliste möglich)**\
 **mit maRia Probst**\
 **Mo 23.2.- 22.6.2026, 18.30 - 20.15 (ca.15x)**\
 **Turnsaal VS Gilgegasse 12, 1090 Wien**
