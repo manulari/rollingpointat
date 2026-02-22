@@ -37,7 +37,8 @@ Beginn pünktlich um 17.30!!, Einlass ab 17.10\
 Bitte um Anmeldung: ci.rollingpoint@gmail.com, bzw. [Anmeldeformular](https://forms.gle/D5bwoQwoeueLpRCw7)\
 Underscore Intro kostenlos, Jam 8-12€\
 Underscore Jam 18.30-20.30\
-Der von Nancy Stark Smith über mehrere Jahrzehnte hinweg entwickelte Underscore ist eine Art zeitlicher und räumlicher Landkarte und eine Orientierungshilfe, die die vielfältige Dynamik einer Contact Improvisation Jam beschreibt. Underscore Jams werden von den Teilnehmenden meist als sehr fokussiert und offener als normale Jams wahrgenommen. Christian hat den Underscore von Nancy erstmals im Jahr 1999 kennengelernt und wird uns die Struktur auch in graphischen Symbolen vorstellen.
+Der von Nancy Stark Smith über mehrere Jahrzehnte hinweg entwickelte Underscore ist eine Art zeitlicher und räumlicher Landkarte und eine Orientierungshilfe, die die vielfältige Dynamik einer Contact Improvisation Jam beschreibt. Underscore Jams werden von den Teilnehmenden meist als sehr fokussiert und offener als normale Jams wahrgenommen. Christian hat den Underscore von Nancy erstmals im Jahr 1999 kennengelernt und wird uns die Struktur auch in graphischen Symbolen vorstellen.\
+Bitte um Anmeldung: [https://forms.gle/D5bwoQwoeueLpRCw7 ](https://forms.gle/D5bwoQwoeueLpRCw7)oder mail an ci.rollingpoint@gmail.com
 
 **Weitere Specials tba**
 
