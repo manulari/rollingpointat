@@ -47,13 +47,13 @@ Open Level Jams (Neueinsteigende sind zur Teilnahme an der Jams eingeladen): **2
 **Underscore Jam: Di 3.3. 17.15-20.45**
 
 **[Mi Thinking Body - Dancing Mind: Contact Improvisation ](/contactadv) intermediate/advanced**\
-***Aktuell: Es gibt noch frei Plätze. Komm gerne zum Kurs hinzu oder melde dich für eine Schnupperstunde an.***\
 **mit Christian Apschner**\
 **Mi 25.2.- 24.6.2026, 18.00 - 20.30 (ca.16x)**\
 **Turnsaal VS Einsiedlergasse 7, 1050 Wien**
 
 **[Do Falling in Love with CI: Contact Improvisation ](/contactbeg)beginner**\
 **mit Christian Apschner**\
+***Aktuell: Es gibt noch frei Plätze. Komm gerne zum Kurs hinzu oder melde dich für eine Schnupperstunde an.***\
 **Do 26.2. - 25.6.2026, 18.15 – 20.30 (ca.15x)**\
 **Turnsaal VS Gilgegasse 12, 1090 Wien**
 
@@ -65,8 +65,6 @@ Frühling Mi 25.02. – 27.05.2026 , 9.20-11.10h Werkstatt Krähe Westbahnstrass
 **WORKSHOP in Linz am 28.3.2026, 10.00-17.00**\
 organisiert von corstellation MOVEMENT HEALS (Iza Soldaty)\
 AUBERGiNE, Güntherstraße 1, 4040 Linz
-
-
 
 ![Mehr CI auf der Stiege](/assets/uploads/dsc_1941a.jpg "Mehr CI auf der Stiege")
 
