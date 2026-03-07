@@ -62,7 +62,7 @@ Open Level Jams (Neueinsteigende sind zur Teilnahme an der Jams eingeladen): **2
 Frühling Mi 25.02. – 27.05.2026 , 9.20-11.10h Werkstatt Krähe Westbahnstrasse 7, 1070 Wien, Sommer 03.06 - 24.06.2026, 9.20-11.10h Ort wird bekannt gegeben**
 
 **[CONTACT FLYING SMOOTHIE](https://corstellation.com/contact-improvisation-events)**\
-**WORKSHOP in Linz am 28.3.2026**\
+**WORKSHOP in Linz am 28.3.2026, 10.00-17.00**\
 organisiert von corstellation MOVEMENT HEALS (Iza Soldaty)\
 AUBERGiNE, Güntherstraße 1, 4040 Linz
 
