@@ -43,9 +43,11 @@ Ob mit oder ohne Vorerfahrung – hier bist du richtig!
 **[Di Contact Improvisation Jam ](/jams)**(kein Kurs, keine Anmeldung erforderlich)\
 **Di 24.2.- 23.6.2026, 18.00 – 20.30**\
 **Turnsaal VS Einsiedlergasse 7, 1050 Wien**\
-Open Level Jams (Neueinsteigende sind zur Teilnahme an der Jams eingeladen): **22.3., 26.4., 31.5.2026,** Intro für Beginner*innen 17.30 - 18.30.
+Open Level Jams (Neueinsteigende sind zur Teilnahme an der Jams eingeladen): **22.3., 26.4., 31.5.2026,** Intro für Beginner*innen 17.30 - 18.30.\
+**Underscore Jam: Di 3.3. 17.15-20.45**
 
 **[Mi Thinking Body - Dancing Mind: Contact Improvisation ](/contactadv) intermediate/advanced**\
+***Aktuell: Es gibt noch frei Plätze. Komm gerne zum Kurs hinzu oder melde dich für eine Schnupperstunde an.***\
 **mit Christian Apschner**\
 **Mi 25.2.- 24.6.2026, 18.00 - 20.30 (ca.16x)**\
 **Turnsaal VS Einsiedlergasse 7, 1050 Wien**
@@ -59,11 +61,12 @@ Open Level Jams (Neueinsteigende sind zur Teilnahme an der Jams eingeladen): **2
 [Bright Bird Moves](/Vormittagskurs) mit maRia / open level
 Frühling Mi 25.02. – 27.05.2026 , 9.20-11.10h Werkstatt Krähe Westbahnstrasse 7, 1070 Wien, Sommer 03.06 - 24.06.2026, 9.20-11.10h Ort wird bekannt gegeben**
 
-**[CONTACT IMPROVISATION  JAM](https://rollingpoint.at/jams)**\
-**an Schultagen jeden Dienstag wieder ab 24.2.2026 18.00-20.30**\
-**Underscore Jam: Di 3.3. 17.15-20.45**\
-**Turnsaal VS Einsiedlergasse 7, 1050 Wien**\
-**UNDERSCORE 3.3.2026, 17.30-20.45**
+**[CONTACT FLYING SMOOTHIE](https://corstellation.com/contact-improvisation-events)**\
+**WORKSHOP in Linz am 28.3.2026**\
+organisiert von corstellation MOVEMENT HEALS (Iza Soldaty)\
+AUBERGiNE, Güntherstraße 1, 4040 Linz
+
+
 
 ![Mehr CI auf der Stiege](/assets/uploads/dsc_1941a.jpg "Mehr CI auf der Stiege")
 
