@@ -43,7 +43,7 @@ Ob mit oder ohne Vorerfahrung – hier bist du richtig!
 **[Di Contact Improvisation Jam ](/jams)**(kein Kurs, keine Anmeldung erforderlich)\
 **Di 24.2.- 23.6.2026, 18.00 – 20.30**\
 **Turnsaal VS Einsiedlergasse 7, 1050 Wien**\
-Open Level Jams (Neueinsteigende sind zur Teilnahme an der Jams eingeladen): **22.3., 26.4., 31.5.2026,** Intro für Beginner*innen 17.30 - 18.30.\
+Open Level Jams (Neueinsteigende sind zur Teilnahme an der Jams eingeladen): 10.3., 14.4. und 12.5. und 16.6.2026, Intro für Beginner*innen 17.30 - 18.30.\
 **Underscore Jam: Di 3.3. 17.15-20.45**
 
 **[Mi Thinking Body - Dancing Mind: Contact Improvisation ](/contactadv) intermediate/advanced**\
