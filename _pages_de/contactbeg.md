@@ -19,11 +19,11 @@ Foto: Laurent Ziegler
 **Do 26.2. - 25.6.2026, 18.15 – 20.30 (ca.15x)**\
 Turnsaal VS Gilgegasse 12, 1090 Wien
 
-***Aktuell: Es gibt noch frei Plätze. Komm gerne zum Kurs hinzu oder melde dich für eine Schnupperstunde an.***
+#### ***Aktuell: Offener Kursabend am 9.4.2026 (20€). Kurseinstieg möglich!***
+
+</p>
 
 
-
-**Trainingsgruppe für Beginner*innen**
 
 Du bist im sicheren Rahmen der Trainingsgruppe eingeladen, immer tiefer in die Welt der CI einzutauchen. Mit ausreichend Zeit und Kontinuität lernst du Basics der CI kennen und erweiterst dein Bewegungsvokabular und sensorische Fähigkeiten Schritt für Schritt. Gemeinsam üben wir, leicht und körperschonend Gewicht abzugeben und zu übernehmen, mit dem rollenden Kontaktpunkt zu spielen und im Bewegungsfluss zu bleiben. Wir erforschen die Technik für einfache Jumps und Lifts, lernen uns fallen zu lassen und sicher zu landen. Verschiedene Variationen von Roll- und Spiralbewegungen erweitern dein Bewegungsvokabular und unterstützen dich im Tanz geschmeidig und durchlässig zu sein.
 
