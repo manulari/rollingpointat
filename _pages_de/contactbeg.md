@@ -15,7 +15,7 @@ Foto: Laurent Ziegler
 
 #### "Falling in Love with CI"- Contact Improvisation beginner/open level
 
-**Christian Apschner**\
+**mit Christian Apschner**\
 **Do 26.2. - 25.6.2026, 18.15 – 20.30 (ca.15x)**\
 Turnsaal VS Gilgegasse 12, 1090 Wien
 
