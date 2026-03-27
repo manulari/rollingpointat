@@ -33,7 +33,7 @@ Ob mit oder ohne Vorerfahrung – hier bist du richtig!
 
 ### **SEMESTERKURSE**
 
-**Die neuen Kurse des Sommersemesters starten vom 23.- 26.2.2026** 
+
 
 **[Mo RELEASZ Tanztraining: ](/releasze)**[Zeitgenössischer Tanz / CI-light / Somatisches Lernen](/releasze) **open level (ausgebucht, Anmeldung nur mehr für Warteliste möglich)**\
 **mit maRia Probst**\
@@ -53,7 +53,7 @@ Open Level Jams (Neueinsteigende sind zur Teilnahme an der Jams eingeladen): 10.
 
 **[Do Falling in Love with CI: Contact Improvisation ](/contactbeg)beginner**\
 **mit Christian Apschner**\
-***Aktuell: Es gibt noch frei Plätze. Komm gerne zum Kurs hinzu oder melde dich für eine Schnupperstunde an.***\
+***Aktuell: Offene Kurseinheit am 9.4.2026, Kurseinstieg möglich!***\
 **Do 26.2. - 25.6.2026, 18.15 – 20.30 (ca.15x)**\
 **Turnsaal VS Gilgegasse 12, 1090 Wien**
 
