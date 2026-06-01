@@ -17,7 +17,7 @@ language: de
 **Frühling: Mi 25.02.2026 – 27.05.2026, 9.20-11.10h** (13 Termine exkl. 1.04.26)
 Werkstatt Krähe Westbahnstrasse 7, 1070 Wien
 
-**Sommer: Mi 10.06.2026 - 01.07.2026, 9.20-11.10h** (4 Termine), die ersten drei Termine finden in der WErkstatt Krähe statt, der vierte Termin voraussichtlich im Josef Strauß Park <!--StartFragment-->
+**Sommer: Mi 10.06.2026 - 01.07.2026, 9.20-11.10h** (4 Termine) Die ersten drei Termine finden in der Werkstatt Krähe Westbahnstrasse 7, 1070 Wien statt. Der vierte Termin voraussichtlich im Josef Strauß Park <!--StartFragment-->
 
  [https://www.wien.gv.at/​freizeit/josef-strauss-park](https://www.wien.gv.at/freizeit/josef-strauss-park)
 
@@ -30,12 +30,7 @@ maRia greift darin auf ihre vielfältigen Praxen wie beispielsweise Contact Impr
 Innerhalb der gemeinsamen 110 Minuten wirst du einige Zeit auf der Trainingsmatte mit kräftigenden, deine Beweglichkeit unterstützenden oder koordinativen Praxen verbringen. Die einzelnen Themenschwerpunkte sind an die Jahreszeiten im Sinne der TCM und ihr Bewegungspotential angepasst. Du wirst frei und zu Musik durch den Raum tanzen und verschiedenste Bewegungsqualitäten zum Ausdruck bringen. Wir werden einander angemessen berühren um noch bunter in unserer Bewegungspalette zu werden.
 
 ***ANMELDUNG:***\
-Schreibe uns bitte ein kurzes mail an ci.rollingpoint@gmail.com\
-oder verwende folgendes Anmeldeformular\
-c[oming soon](https://forms.gle/D5bwoQwoeueLpRCw7)
-
-***KOSTEN***\
-Offene Schnupperstunde in der ersten Kurswoche um €10*
+Schreibe uns bitte ein kurzes mail an ci.rollingpoint@gmail.com
 
 **Frühling 25.02. – 27.05.2026:** Normalpreis  €295.- / ermäßigt €255.- / 5er Block: €140.-
 
