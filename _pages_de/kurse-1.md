@@ -12,8 +12,12 @@ language: de
 | **Mi** | **18.00-20.30** | **Christian**            | **[“Thinking Body - Dancing Mind” Contact Improvisation intermediate/advanced](/contactadv)** | **Einsiedlerg. 7, 1050 Wien** |
 | **Do** | **18.15-20.30** | **Christian**            | **["Falling in Love with CI" Contact Improvisation beginner](/contactbeg)**                   | **Gilgegasse 12, 1090 Wien**  |
 
-**Die neuen Kurse des Sommersemesters 2026 starten vom 23.- 26.2.2026**\
-**Stundenplan und Kurstage wie im Wintersemester**
+\
+**VORSCHAU KURSE WINTERSEMESTER 2026/27**
+
+**RELEASZ Tanztraining miit maRia Probst: Kursstart Mo 27.9.2026**\
+**Contact Improvisation int/adv mt Christian Apschner: Kursstart Mi 22.9.2026**\
+**Contact Improvvisation beginner mit Christian Apschner: Kursstart Do 23.9.2026**
 
 ### Vormittagskurs SoSe 2026
 
