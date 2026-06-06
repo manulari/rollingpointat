@@ -17,7 +17,7 @@ language: de
 
 **RELEASZ Tanztraining miit maRia Probst: Kursstart Mo 27.9.2026**\
 **Contact Improvisation int/adv mt Christian Apschner: Kursstart Mi 22.9.2026**\
-**Contact Improvvisation beginner mit Christian Apschner: Kursstart Do 23.9.2026**
+**Contact Improvisation beginner mit Christian Apschner: Kursstart Do 23.9.2026**
 
 ### Vormittagskurs SoSe 2026
 
