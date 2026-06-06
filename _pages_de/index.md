@@ -31,6 +31,12 @@ Ob mit oder ohne Vorerfahrung – hier bist du richtig!
 
 <div class="imglink"><a target="_blank" href="https://www.youtube.com/embed/kp3DqzN1Ldo"><img src="/assets/uploads/video_vorschau_rollingpoint.png" alt="" /><div>rollingpoint-Video</div></a></div>
 
+### **VORSCHAU KURSE WINTERSEMESTER 2026/27**
+
+**RELEASZ Tanztraining miit maRia Probst: Kursstart Mo 27.9.2026**\
+**Contact Improvvisation beginner mit Christian Apschner: Kursstart Do 23.9.2026**\
+**Contact  Improvovisation int/adv mt Christian Apschner: Kursstart Mi 22.9.2026**
+
 ### **SEMESTERKURSE**
 
 **[Mo RELEASZ Tanztraining: ](/releasze)**[Zeitgenössischer Tanz / CI-light / Somatisches Lernen](/releasze) **open level (ausgebucht, Anmeldung nur mehr für Warteliste möglich)**\
