@@ -8,9 +8,9 @@ other_lang: /en/contact-improvisation
 ![](/assets/uploads/home_1940-2.jpg)
 
 **VIDEOS:**\
-**[What is Contact Improvisation](<https://www.youtube.com/watch?v=JSBVwCVWfGg>)?**\
+**[What is Contact Improvisation](https://www.youtube.com/watch?v=JSBVwCVWfGg)?**\
 \
-**[maRia and Christian dancing Contact Improvisation](<https://www.youtube.com/watch?v=vuvbU-S_8XM>)** 
+**[maRia and Christian dancing Contact Improvisation](https://www.youtube.com/watch?v=vuvbU-S_8XM)** 
 
 **["REAL EASE" Contact Improvisation Dance](https://www.youtube.com/watch?v=Hm2UlFli3fQ&list=RDHm2UlFli3fQ&start_radio=1)**
 
@@ -24,7 +24,7 @@ Zunächst wurde die Contact Improvisation von **Steve Paxton, Nancy Stark Smi
 
 Inzwischen gibt es, seit dem ersten Contact-Experiment im Jahr 1972, einen großen Erfahrungsschatz um die körperlich-tänzerischen, sozialen, künstlerischen und gemeinschaftlichen Möglichkeiten und Einschränkungen der CI. Er wird im Rahmen von Kursen, Festivals, Symposien, im Rahmen von Contact Quarterly und anderen Medien weitergegeben und ausgetauscht. Die Contact Improvisation gehört nunmehr zum festen Bestandteil vieler Tanzausbildungen und wird immer mehr in bewegungspädagogische und therapeutische Freizeit- und Arbeitsbereiche integriert.
 
-An der **Schnittstelle von Tanz, Kunst, Sport, Therapie und Spiel** angesiedelt, eröffnet die CI einen weiten Erfahrungsraum. Das Erlernte lässt sich in verschiedenste Lebensbereiche integrieren und bereichernd einsetzen. Die Heimat der Contact Improvisation bleibt jedoch der zeitgenössische Tanz mit dem Fokus willentliches Bewegen in den Hintergrund treten zu lassen, Körperwahrnehmung  und -reflexe zu trainieren, unnötige Spannung zu lösen und Kraft im richtigen Ausmaß einzusetzen, um einen uneingeschränkten Bewegungsfluss zu erleben.
+An der **Schnittstelle von Tanz, Kunst, Sport, Körpertherapie und Spiel** angesiedelt, eröffnet die CI einen weiten Erfahrungsraum. Das Erlernte lässt sich in verschiedenste Lebensbereiche integrieren und bereichernd einsetzen. Die Heimat der Contact Improvisation bleibt jedoch der zeitgenössische Tanz mit dem Fokus willentliches Bewegen in den Hintergrund treten zu lassen, Körperwahrnehmung  und -reflexe zu trainieren, unnötige Spannung zu lösen und Kraft im richtigen Ausmaß einzusetzen, um einen uneingeschränkten Bewegungsfluss zu erleben.
 
 **maRia Probst und Christian Apschner** konnten Contact Improvisation von den wichtigsten PionierInnen der Contact Improvisation wie Nancy Stark Smith, Steve Paxton, Danny Lepkoff, Lisa Nelson, Nita Little, Kirstie Simson, Martin Keogh u.a. lernen.
 
