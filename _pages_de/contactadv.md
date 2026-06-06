@@ -7,6 +7,9 @@ language: de
 
 Foto: Laurent Ziegler
 
+> **Contact  Improvisation int/adv mit Christian Apschner:**\
+> **Kursstart Wintersemester Mi 23.9.2026**
+
 #### **“Thinking Body - Dancing Mind” Contact Improvisation - intermediate/advanced**
 
 mit **Christian Apschner**\
