@@ -14,7 +14,7 @@ Foto: Laurent Ziegler
 **["REAL EASE" Contact Improvisation Dance](https://www.youtube.com/watch?v=Hm2UlFli3fQ&list=RDHm2UlFli3fQ&start_radio=1)**
 
 > **Contact  Improvisation beginner mt Christian Apschner:**\
-> **Kursstart Wintersemester Do 23.9.2026**
+> **Kursstart Wintersemester Do 24.9.2026**
 
 #### "Falling in Love with CI"- Contact Improvisation beginner/open level
 
