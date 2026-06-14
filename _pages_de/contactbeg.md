@@ -19,14 +19,12 @@ Foto: Laurent Ziegler
 #### "Falling in Love with CI"- Contact Improvisation beginner/open level
 
 **mit Christian Apschner**\
-**Do 26.2. - 25.6.2026, 18.15 – 20.30 (ca.15x)**\
+**Do 24.9.2026 - 27.1.2027, 18.15 – 20.30 (ca.15x)**\
 Turnsaal VS Gilgegasse 12, 1090 Wien
 
 Du bist im sicheren Rahmen der Trainingsgruppe eingeladen, immer tiefer in die Welt der CI einzutauchen. Mit ausreichend Zeit und Kontinuität lernst du Basics der CI kennen und erweiterst dein Bewegungsvokabular und sensorische Fähigkeiten Schritt für Schritt. Gemeinsam üben wir, leicht und körperschonend Gewicht abzugeben und zu übernehmen, mit dem rollenden Kontaktpunkt zu spielen und im Bewegungsfluss zu bleiben. Wir erforschen die Technik für einfache Jumps und Lifts, lernen uns fallen zu lassen und sicher zu landen. Verschiedene Variationen von Roll- und Spiralbewegungen erweitern dein Bewegungsvokabular und unterstützen dich im Tanz geschmeidig und durchlässig zu sein.
 
 Nicht zuletzt verstehen wir die Contact Improvisation auch als eine Form von nonverbaler Kommunikation und Begegnung, in der wir lernen auf unsere eigenen körperlich-mentalen Bedürfnisse und Grenzen und die unserer TanzpartnerInnen gleichermaßen zu achten. In kurzen verbalen Feedback-Runden möchten wir diesen Erfahrungen zusätzlich Raum geben.
-
-Du bist eingeladen, mit fortschreitendem Lernprozess an den rollingpoint-Jams teilzunehmen (kostenlose Teilnahme an den Intro zu den Open Level Jams am 10.3., 14.4. 12.5. und 16.6.2026).
 
 Teilnahmeempfehlungen: Da wir in der Contact Improvisation gegenseitig Körpergewicht abgeben und übernehmen, sind ein Grundausmaß an Sensitivität für den eigenen Körper und die Grenzen anderer wichtig für die Teilnahme an diesem Kurs. Bewegungsvorerfahrung aller Art sowie Freude an Körperkontakt und am Sich-Fallen-Lassen sind von Vorteil. Eine regelmäßige Teilnahme wird empfohlen.
 
@@ -39,11 +37,11 @@ Für weitere Rückfragen kontaktiere bitte Christian (0650 8931081)
 
 ***KOSTEN:***\
 Offene Schnupperstunden in den ersten zwei Kurswochen um €10 pro Einheit (max. 1x pro Kurs)\
-**Kostenbeitrag Semesterkurs Normalpreis € 270**\
-**Ermäßigungen: € 180 für Studierende <=28a, € 225 Sonstige**\
+**Kostenbeitrag Semesterkurs Normalpreis € 280**\
+**Ermäßigungen: € 190 für Studierende <=28a, € 235 Sonstige**\
 \
 Bei Buchung von mehr als einem Kurs minus € 30 ab dem 2.Kurs\
 \
-Auf Anfrage 5﻿er-Block € 95 - 125 bzw. Einzelstunden € 20–28 möglich (nur mit CI-Vorerfahrung)\
+Auf Anfrage 5﻿er-Block € 100-130 bzw. Einzelstunden € 24–30 möglich (nur mit CI-Vorerfahrung)\
 \
 Die Kostenbeiträge bitte auf unser Konto IBAN: AT54 3200 0000 1701 2717, BIC: RLNWATWW, Verein rollingpoint, überweisen und dein Platz ist gesichert.
