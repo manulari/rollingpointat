@@ -16,17 +16,19 @@ language: de
 
 [Kursanmeldung](https://rollingpoint.at/Kursanmeldung)
 
+**Offene Schnupperstunden zu Kursbeginn (10€/EInheit)**
+
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\__
 
 ### Vormittagskurs Wintersemester 2026/27
 
 **[Bright Bird Moves](/Vormittagskurs)**\
 open  level - mit maRia Probst\
-30.10.26 - 27.01.27 9.30-11.15h (14x)\
-Ort wird noch bekanntgegeben\
-\
-**Offene Schnupperstunden zu Kursbeginn (10€/EInheit)**
+30.9.2026 - 27.01.2027 9.30-11.15h (14x)\
+Ort wird noch bekanntgegeben
 
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\__\
+\
 Unsere Semesterkurse laden ein, in einen kontinuierlichen Lernprozess mit Gleichgesinnten einzutauchen. Die Angebote sind sowohl als Ausgleich zum Berufsalltag oder Studium gedacht als auch als fundierte künstlerische Fortbildung, falls du dich tiefer einlassen willst. Die offene rollingpoint Contact Improvisation Jam am Dienstag ist darüber hinaus ein beliebter Treffpunkt, um frei miteinander zu tanzen und Contact Improvisation als eine ganzheitlich orientierte  Kunstform zu praktizieren und leben.
 
 Hast du Fragen oder bist du dir nicht sicher, welcher Kurs das richtige für dich ist?
