@@ -5,29 +5,31 @@ language: de
 ---
 ### **Stundenplan Abendkurse Wintersemester 2026/27**
 
-| Tag    | Zeit            | Leiter*in      | Titel                                                                                            | Ort/Turnsaal                  |
-| ------ | --------------- | -------------- | ------------------------------------------------------------------------------------------------ | ----------------------------- |
-| **Mo** | **18.30-20.20** | **maRia**      | **[RELEASZ Tanztraining: CI-light/Somatisches Lernen ](/releasze)**                              | **Gilgegasse 12, 1090 Wien**  |
-| **Di** | **18.00-20.30** | **Christian**  | **[Contact Improvisation Jam](/jams)** (kein Kurs)                                               | **Einsiedlerg. 7, 1050 Wien** |
-| **Mi** | **18.00-20.30** | **Christian**  | **[“When Movement feels like Flying" Contact Improvisation intermediate/advanced](/contactadv)** | **Einsiedlerg. 7, 1050 Wien** |
-| **Do** | **18.15-20.30** | **Christian**  | **["Falling in Love with CI" Contact Improvisation beginner](/contactbeg)**                      | **Gilgegasse 12, 1090 Wien**  |
+| Tag    | Zeit            | Leiter*in     | Titel                                                                                            | Ort/Turnsaal                  |
+| ------ | --------------- | ------------- | ------------------------------------------------------------------------------------------------ | ----------------------------- |
+| **Mo** | **18.30-20.20** | **maRia**     | **[RELEASZ Tanztraining: CI-light/Somatisches Lernen ](/releasze)**                              | **Gilgegasse 12, 1090 Wien**  |
+| **Di** | **18.00-20.30** | **Christian** | **[Contact Improvisation Jam](/jams)** (kein Kurs)                                               | **Einsiedlerg. 7, 1050 Wien** |
+| **Mi** | **18.00-20.30** | **Christian** | **[“When Movement feels like Flying" Contact Improvisation intermediate/advanced](/contactadv)** | **Einsiedlerg. 7, 1050 Wien** |
+| **Do** | **18.15-20.30** | **Christian** | **["Falling in Love with CI" Contact Improvisation beginner](/contactbeg)**                      | **Gilgegasse 12, 1090 Wien**  |
 
-## \
-**KURSSTART: 21.- 23.8.2026**
+### **KURSSTART: 21.- 23.9.2026**
 
-### Vormittagskurs Wintersemester 2026/27
+[Kursanmeldung](https://rollingpoint.at/Kursanmeldung)
 
-**Mi 9.20-11.10 maRia, [Bright Bird Moves](/Vormittagskurs)**
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\__
 
-**Frühling: Mi 25.02.2026 – 27.05.2026, 9.20-11.10h** (13 Termine exkl. 1.04.26) Werkstatt Krähe Westbahnstrasse 7, 1070 Wien
+### Vormittagskurs Wintersemester 2026/27\
+Bright Bird Moves\
+open  level - mit maRia Probst\
+30.10.26 - 27.01.27 9.30-11.15h (14x)\
+Ort wird noch bekanntgegeben\
+**[Bright Bird Moves](/Vormittagskurs)**
 
-**Sommer: Mi 3.06.2026 - 24.06.2026, 9.20-11.10h** (4 Termine), Ort wird demnächst bekannt gegeben
-
-[Kursanmeldung](https://rollingpoint.at/Kursanmeldung)\
+\
 \
 Offene Schnupperstunden zu Kursbeginn (10€/EInheit)
 
-Unsere fortlaufenden Semesterkurse am Montag, Mittwoch und Donnerstag laden ein, in einen kontinuierlichen Lernprozess mit Gleichgesinnten einzutauchen. Die Angebote sind sowohl als Ausgleich zum Berufsalltag oder Studium gedacht als auch als fundierte künstlerische Fortbildung, falls du dich tiefer einlassen willst. Die offene rollingpoint Contact Improvisation Jam am Dienstag ist darüber hinaus ein beliebter Treffpunkt, um frei miteinander zu tanzen und Contact Improvisation als eine ganzheitlich orientierte  Kunstform zu praktizieren und leben.
+Unsere Semesterkurse laden ein, in einen kontinuierlichen Lernprozess mit Gleichgesinnten einzutauchen. Die Angebote sind sowohl als Ausgleich zum Berufsalltag oder Studium gedacht als auch als fundierte künstlerische Fortbildung, falls du dich tiefer einlassen willst. Die offene rollingpoint Contact Improvisation Jam am Dienstag ist darüber hinaus ein beliebter Treffpunkt, um frei miteinander zu tanzen und Contact Improvisation als eine ganzheitlich orientierte  Kunstform zu praktizieren und leben.
 
 Hast du Fragen oder bist du dir nicht sicher, welcher Kurs das richtige für dich ist?
 
