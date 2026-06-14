@@ -3,23 +3,19 @@ permalink: /kurse
 title: Semesterkurse SoSe 2026
 language: de
 ---
-### **Stundenplan Abendkurse Sommersemester 2026**
+### **Stundenplan Abendkurse Wintersemester 2026/27**
 
-| Tag    | Zeit            | Leiter*in                | Titel                                                                                         | Ort/Turnsaal                  |
-| ------ | --------------- | ------------------------ | --------------------------------------------------------------------------------------------- | ----------------------------- |
-| **Mo** | **18.30-20.20** | **maRia**                | **AUSGEBUCHT:** **[RELEASZ Tanztraining: CI-light/Somatisches Lernen ](/releasze)**           | **Gilgegasse 12, 1090 Wien**  |
-| **Di** | **18.00-20.30** | **Christian maRia u.A.** | **[Contact Improvisation Jam](/jams)** (kein Kurs)                                            | **Einsiedlerg. 7, 1050 Wien** |
-| **Mi** | **18.00-20.30** | **Christian**            | **[“Thinking Body - Dancing Mind” Contact Improvisation intermediate/advanced](/contactadv)** | **Einsiedlerg. 7, 1050 Wien** |
-| **Do** | **18.15-20.30** | **Christian**            | **["Falling in Love with CI" Contact Improvisation beginner](/contactbeg)**                   | **Gilgegasse 12, 1090 Wien**  |
+| Tag    | Zeit            | Leiter*in      | Titel                                                                                            | Ort/Turnsaal                  |
+| ------ | --------------- | -------------- | ------------------------------------------------------------------------------------------------ | ----------------------------- |
+| **Mo** | **18.30-20.20** | **maRia**      | **[RELEASZ Tanztraining: CI-light/Somatisches Lernen ](/releasze)**                              | **Gilgegasse 12, 1090 Wien**  |
+| **Di** | **18.00-20.30** | **Christian**  | **[Contact Improvisation Jam](/jams)** (kein Kurs)                                               | **Einsiedlerg. 7, 1050 Wien** |
+| **Mi** | **18.00-20.30** | **Christian**  | **[“When Movement feels like Flying" Contact Improvisation intermediate/advanced](/contactadv)** | **Einsiedlerg. 7, 1050 Wien** |
+| **Do** | **18.15-20.30** | **Christian**  | **["Falling in Love with CI" Contact Improvisation beginner](/contactbeg)**                      | **Gilgegasse 12, 1090 Wien**  |
 
-\
-**VORSCHAU KURSE WINTERSEMESTER 2026/27**
+## \
+**KURSSTART: 21.- 23.8.2026**
 
-**RELEASZ Tanztraining miit maRia Probst: Kursstart Mo 21.9.2026**\
-**Contact Improvisation int/adv mt Christian Apschner: Kursstart Mi 22.9.2026**\
-**Contact Improvisation beginner mit Christian Apschner: Kursstart Do 23.9.2026**
-
-### Vormittagskurs SoSe 2026
+### Vormittagskurs Wintersemester 2026/27
 
 **Mi 9.20-11.10 maRia, [Bright Bird Moves](/Vormittagskurs)**
 
