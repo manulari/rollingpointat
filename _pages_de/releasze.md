@@ -7,12 +7,11 @@ language: de
 
 Foto: Ines Ingerle
 
-#### AUSGEBUCHT: RELEASZ Tanztraining: Zeitgenössischer Tanz / CI-light / Somatisches Lernen
+#### RELEASZ Tanztraining: Zeitgenössischer Tanz / CI-light / Somatisches Lernen
 
 ***open level*** mit **maRia Probst**\
-**Mo 23.2.- 22.6.2026, 18.30 - 20.15 (ca.15x)**\
-Turnsaal VS Gilgegasse 12, 1090 Wien\
-Der Kurs ist ausgebucht. Du kannst dich auf die Warteliste setzen lassen.
+**Mo 21.9.2026 -  25.1.2027, 18.30 - 20.15 (ca.14x)**\
+Turnsaal VS Gilgegasse 12, 1090 Wien
 
 RELEASZ verweist auf die Wurzeln dieser Praxis, der Release Technique. Es steht darüber hinaus für **RE**generierendes, **L**ebendiges, **E**nergetisierendes, **A**ffirmatives, **S**omatisches und **Z**eitgenössisches Tanzen.
 
@@ -22,16 +21,16 @@ Statement einer Teilnehmerin: „Das Kurserlebnis ist vielfältig, befreit gelac
 
 Teilnahmeempfehlung: Tanzfreudige mit Lust an Bewegungsausdruck und -forschung. An Kontaktimprovisations-Elementen mit geringer Gewichtsübertragung und an Berührung für Bewegungsentwicklung Interessierte. Menschen, die sich selbst und ihren Körper besser kennen lernen wollen. Eine kontinuierliche Teilnahme ist von Vorteil und daher sehr erwünscht.
 
-***ANMELDUNG (für Warteliste)***\
+***ANMELDUNG***\
 Schreibe uns bitte ein kurzes mail an ci.rollingpoint@gmail.com\
 oder verwende folgendes Anmeldeformular
 
 ***KOSTEN***\
 Offene Schnupperstunden in den ersten zwei Kurswochen um €10 pro Einheit (max. 1x pro Kurs)\
-**Kostenbeitrag Semesterkurs Normalpreis € 260**\
-**Ermäßigungen: € 180 für Studierende <=28a, € 220 Sonstige**\
+**Kostenbeitrag Semesterkurs Normalpreis € 270**\
+**Ermäßigungen: € 180 für Studierende <=28a, € 225 Sonstige**\
 Bei Buchung von mehr als einem Kurs minus € 30 ab dem 2.Kurs
 
-Auf Anfrage 5﻿er-Block € 95 - 125 bzw. Einzelstunden € 20–28 möglich
+Auf Anfrage 5﻿er-Block € 100 - 130 bzw. Einzelstunden € 24–30 möglich
 
 Die Kostenbeiträge bitte auf unser Konto IBAN: AT54 3200 0000 1701 2717, BIC: RLNWATWW, Verein rollingpoint, überweisen und dein Kursplatz ist gesichert.
