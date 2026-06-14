@@ -18,9 +18,7 @@ other_lang: /en/
 
 ### Willkommen bei rollingpoint!
 
-Seit über zwei Jahrzehnten verbinden wir Contact Improvisation, zeitgenössischen Tanz und somatische Praxis zu einem lebendigen Feld des Lernens, Forschens und künstlerischen Schaffens.
-
-Unsere Kurse, Workshops und Projekte sind Einladungen zum Spüren, Bewegen, Trainieren, Begegnen und Gestalten auf Augenhöhe. 
+Seit über zwei Jahrzehnten verbinden wir Contact Improvisation, zeitgenössischen Tanz und somatische Praxis zu einem lebendigen Feld des Lernens, Forschens und künstlerischen Schaffens.  Unsere Kurse, Workshops und Projekte sind Einladungen zum Spüren, Bewegen, Trainieren, Begegnen und Gestalten auf Augenhöhe. 
 Ob mit oder ohne Vorerfahrung – hier bist du richtig!
 
 - - -
@@ -31,44 +29,38 @@ Ob mit oder ohne Vorerfahrung – hier bist du richtig!
 
 <div class="imglink"><a target="_blank" href="https://www.youtube.com/embed/kp3DqzN1Ldo"><img src="/assets/uploads/video_vorschau_rollingpoint.png" alt="" /><div>rollingpoint-Video</div></a></div>
 
-### **VORSCHAU KURSE WINTERSEMESTER 2026/27**
+### **KURSE WINTERSEMESTER 2026/27**
 
-**RELEASZ Tanztraining miit maRia Probst: Kursstart Mo 21.9.2026**\
-**Contact  Improvisation int/adv mt Christian Apschner: Kursstart Mi 22.9.2026**\
-**Contact Improvisation beginner mit Christian Apschner: Kursstart Do 23.9.2026**
+**KURSSTART 21.- 23.9.2026**
 
-### **SEMESTERKURSE**
-
-**[Mo RELEASZ Tanztraining: ](/releasze)**[Zeitgenössischer Tanz / CI-light / Somatisches Lernen](/releasze) **open level (ausgebucht, Anmeldung nur mehr für Warteliste möglich)**\
+**[Mo RELEASZ Tanztraining: ](/releasze)**[Zeitgenössischer Tanz / CI-light / Somatisches Lernen](/releasze) \
+**open level**\
 **mit maRia Probst**\
-**Mo 23.2.- 22.6.2026, 18.30 - 20.15 (ca.15x)**\
+**Mo 21.9.2026- 25.1.2027, 18.30 - 20.15 (ca.14x)**\
 **Turnsaal VS Gilgegasse 12, 1090 Wien**
 
 **[Di Contact Improvisation Jam ](/jams)**(kein Kurs, keine Anmeldung erforderlich)\
-**Di 24.2.- 23.6.2026, 18.00 – 20.30**\
+**Di 15.9.2026 - 26.1.2027, 18.00 – 20.30**\
 **Turnsaal VS Einsiedlergasse 7, 1050 Wien**\
-Open Level Jams (Neueinsteigende sind zur Teilnahme an der Jams eingeladen): 10.3., 14.4. und 12.5. und 16.6.2026, Intro für Beginner*innen 17.30 - 18.30.\
-**Underscore Jam: Di 3.3. 17.15-20.45**
+Open Level Jams (newbies sind zur Teilnahme an der Jams eingeladen): **20.10., 24.11.2026 und 19.1.2027** Intro für Beginner*innen 17.30 - 18.30.\
+**Underscore und Musik Speceal Jams: tba**
 
-**[Mi Thinking Body - Dancing Mind: Contact Improvisation ](/contactadv) intermediate/advanced**\
+**[Mi When  Movement feels like Flying: Contact Improvisation ](/contactadv) intermediate/advanced**\
 **mit Christian Apschner**\
-**Mi 25.2.- 24.6.2026, 18.00 - 20.30 (ca.16x)**\
+**Mi 23.9.2026 - 27.1.2027, 18.00 - 20.30 (ca.15x)**\
 **Turnsaal VS Einsiedlergasse 7, 1050 Wien**
 
 **[Do Falling in Love with CI: Contact Improvisation ](/contactbeg)beginner**\
 **mit Christian Apschner**\
-***Aktuell: Offener Kursabend am 9.4.2026, Kurseinstieg möglich!***\
-**Do 26.2. - 25.6.2026, 18.15 – 20.30 (ca.15x)**\
+**Do 24.9.2026 - 28.1.2027, 18.15 – 20.30 (ca.15x)**\
 **Turnsaal VS Gilgegasse 12, 1090 Wien**
 
 **Mi vormittags Körper- und Tanztraining
-[Bright Bird Moves](/Vormittagskurs) mit maRia / open level
-Frühling Mi 25.02. – 27.05.2026 , 9.20-11.10h Werkstatt Krähe Westbahnstrasse 7, 1070 Wien, Sommer 03.06 - 24.06.2026, 9.20-11.10h Ort wird bekannt gegeben**
+[Bright Bird Moves](/Vormittagskurs) mit maRia / open level**\
+**30.9.2026 - 27.01.2027 9.30-11.15 (14x)
+Ort wird noch bekannt gegeben**
 
-**[CONTACT FLYING SMOOTHIE](https://corstellation.com/contact-improvisation-events)**\
-**WORKSHOP in Linz am 28.3.2026, 10.00-17.00**\
-organisiert von corstellation MOVEMENT HEALS (Iza Soldaty)\
-AUBERGiNE, Güntherstraße 1, 4040 Linz
+
 
 ![Mehr CI auf der Stiege](/assets/uploads/dsc_1941a.jpg "Mehr CI auf der Stiege")
 
