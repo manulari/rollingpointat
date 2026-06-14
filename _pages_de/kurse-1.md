@@ -18,7 +18,8 @@ language: de
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\__
 
-### Vormittagskurs Wintersemester 2026/27\
+### Vormittagskurs Wintersemester 2026/27
+
 **[Bright Bird Moves](/Vormittagskurs)**\
 open  level - mit maRia Probst\
 30.10.26 - 27.01.27 9.30-11.15h (14x)\
