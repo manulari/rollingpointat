@@ -19,7 +19,7 @@ Foto: Laurent Ziegler
 #### "Falling in Love with CI"- Contact Improvisation beginner/open level
 
 **mit Christian Apschner**\
-**Do 24.9.2026 - 27.1.2027, 18.15 – 20.30 (ca.15x)**\
+**Do 24.9.2026 - 28.1.2027, 18.15 – 20.30 (ca.15x)**\
 Turnsaal VS Gilgegasse 12, 1090 Wien
 
 Du bist im sicheren Rahmen der Trainingsgruppe eingeladen, immer tiefer in die Welt der CI einzutauchen. Mit ausreichend Zeit und Kontinuität lernst du Basics der CI kennen und erweiterst dein Bewegungsvokabular und sensorische Fähigkeiten Schritt für Schritt. Gemeinsam üben wir, leicht und körperschonend Gewicht abzugeben und zu übernehmen, mit dem rollenden Kontaktpunkt zu spielen und im Bewegungsfluss zu bleiben. Wir erforschen die Technik für einfache Jumps und Lifts, lernen uns fallen zu lassen und sicher zu landen. Verschiedene Variationen von Roll- und Spiralbewegungen erweitern dein Bewegungsvokabular und unterstützen dich im Tanz geschmeidig und durchlässig zu sein.
