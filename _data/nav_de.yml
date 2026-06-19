@@ -15,7 +15,7 @@ entries:
       - title: Anmeldung
         path: /Kursanmeldung
   - title: WORKSHOPS
-    path: /ws2025-26
+    path: /ws2026-27
     subentries: []
   - title: WINTERINTENSIVE
     path: /winterintensive
