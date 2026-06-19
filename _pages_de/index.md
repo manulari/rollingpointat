@@ -8,8 +8,6 @@ other_lang: /en/
 
 ![Christian, maRia und Maria tanzen und lesen auf einer Stiege](/assets/uploads/img_2918_large.jpg "Contact Improvisation")
 
-###### Fotocredit: Carolina Frank
-
 <!--StartFragment-->
 
 „Inmitten von Raum, Zeit und Begegnung entsteht ein Tanz – poetisch, forschend, lebendig."
