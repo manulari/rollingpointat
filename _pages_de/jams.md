@@ -12,13 +12,23 @@ Foto: Ines Ingerle
 Unsere Jams sind Orte für fokussiertes Contact Improvisation-Tanzen. Wir achten darauf, einen gemeinsamen Raum zu halten, in dem sich alle sicher fühlen und erwarten von den Teilnehmenden erste CI-Kurserfahrungen im Sinne eines Grundverständnisses für die CI (Hinweise zur Sicherheit in den rollingpoint-Jams siehe unten).
 
 **Immer am Dienstag, wenn Schultag 18.00 - 20.30** \
-Turnsaal VS Einsiedlergasse 7, 1050 Wien. Der schöne geräumige Turnsaal befindet sich im 1.Stock des Schulgebäudes. Keine Anmeldung erforderlich.
+**Turnsaal VS Einsiedlergasse 7, 1050 Wien**. Der schöne geräumige Turnsaal befindet sich im **1.Stock** des Schulgebäudes. Keine Anmeldung erforderlich.
 
 Ankommen ab 18.00, **Eröffnungskreis um 18.30**\
 Teilweise angeleitete warm ups.\
 Ausgewählte Musik und Sound-Scapes in der 2.Hälfte der Jams.
 
 **Kostenbeitrag auf Spendenbasis: Jam einzeln € 8 - 12, Semesterbeitrag: € 100 - 150**
+
+
+
+#### **Semesterabschluss Musik-Fokus Jam (open level) 1.7.2026:**
+
+**18.00-20.30, Turnsaal Einsiedlergasse 7, 1050 Wien**\
+**Live Ambient Musik mit Christian**\
+**free donation**
+
+
 
 ### **JAM-SPECIALS - LETS CREATE ART TOGETHER**
 
