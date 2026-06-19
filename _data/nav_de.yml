@@ -14,7 +14,7 @@ entries:
         path: /Vormittagskurs
       - title: Anmeldung
         path: /Kursanmeldung
-  - title: Workhops/Intensives
+  - title: WORKSHOPS
     path: /ws2025-26
     subentries: []
   - title: WINTERINTENSIVE
