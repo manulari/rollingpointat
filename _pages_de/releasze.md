@@ -3,7 +3,7 @@ permalink: /releasze
 title: RELEASZ Tanztraining
 language: de
 ---
-![](/assets/uploads/image00008.jpeg)
+![]()
 
 Foto: Ines Ingerle
 
