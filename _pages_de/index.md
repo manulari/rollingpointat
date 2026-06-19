@@ -6,7 +6,7 @@ other_lang: /en/
 ---
 # Contact Improvisation - Zeitgenössicher Tanz - Somatisches Lernen
 
-![Christian, maRia und Maria tanzen und lesen auf einer Stiege](/assets/uploads/rollingpoint2-c-carolina-frank_web-3616-kopie.jpeg "Contact Improvisation")
+![Christian, maRia und Maria tanzen und lesen auf einer Stiege](/assets/uploads/img_2918_large.jpg "Contact Improvisation")
 
 ###### Fotocredit: Carolina Frank
 
@@ -31,7 +31,7 @@ Ob mit oder ohne Vorerfahrung – hier bist du richtig!
 
 ### **KURSE WINTERSEMESTER 2026/27**
 
-**KURSSTART 21.- 23.9.2026**
+**KURSSTART 21.- 24.9.2026**
 
 **[Mo RELEASZ Tanztraining: ](/releasze)**[Zeitgenössischer Tanz / CI-light / Somatisches Lernen](/releasze) \
 **open level - mit maRia Probst**\
@@ -59,6 +59,6 @@ Open Level Jams (newbies sind zur Teilnahme an der Jams eingeladen): **20.10., 2
 **30.9.2026 - 27.01.2027 9.30-11.15 (14x)
 Ort wird noch bekannt gegeben**
 
-![Mehr CI auf der Stiege](/assets/uploads/dsc_1941a.jpg "Mehr CI auf der Stiege")
+![Mehr CI auf der Stiege](/assets/uploads/img_0198.jpg "Mehr CI auf der Stiege")
 
 ###### Fotocredit: Johannes Stolba
