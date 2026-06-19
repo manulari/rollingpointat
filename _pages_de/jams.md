@@ -9,9 +9,9 @@ Foto: Ines Ingerle
 
 **What happens in a Contact Jam?** <https://www.youtube.com/watch?v=u9AhpFxfEfs>
 
-Unsere Jams sind Orte für fokussiertes Contact Improvisation-Tanzen. Wir achten darauf, einen gemeinsamen Raum zu halten, in dem sich alle sicher fühlen und erwarten von den Teilnehmenden erste CI-Kurserfahrungen im Sinne eines Grundverständnisses für die CI (Hinweise zur Sicherheit in den rollingpoint-Jams siehe unten).
+Unsere Jams sind Orte für fokussiertes Contact Improvisation-Tanzen. Wir achten darauf, einen gemeinsamen Raum zu halten, in dem sich alle sicher fühlen und erwarten von den Teilnehmenden erste CI-Kurserfahrungen im Sinne eines Grundverständnisses für die CI. Hinweise zur Sicherheit in den rollingpoint-Jams siehe weiter unten im Text.
 
-**Immer am Dienstag, wenn Schultag 18.00 - 20.30** \
+**Jeden Dienstag, wenn Schultag 18.00 - 20.30** \
 **Turnsaal VS Einsiedlergasse 7, 1050 Wien**. Der schöne geräumige Turnsaal befindet sich im **1.Stock** des Schulgebäudes. Keine Anmeldung erforderlich.
 
 Ankommen ab 18.00, **Eröffnungskreis um 18.30**\
@@ -28,16 +28,16 @@ Ausgewählte Musik und Sound-Scapes in der 2.Hälfte der Jams.
 **Live Ambient Musik mit Christian**\
 **free donation**
 
+#### **Open Level Jams und  Beginner Intros**
 
-
-#### **Open Level Jam und  Beginner Intros**\
 Beginner welcome!\
 **20.10.und 24.11.2026, 26.1.2027**\
 Für alle Beginner*innen bieten wir eine einstündige Einführung in die Welt der Contact Improvisations-Jams im Zeitraum 17.30 - 18.30 an.\
-Kostenbeitrag CI-Intro plus Jam 15 -25€\
---------------------------------------------
+Kostenbeitrag CI-Intro plus Jam 15 -25€
 
-\
+- - -
+
+kommt wieder, dates tba\
 **Music-Focus-Jam 24.2.2026**\
 C#Db-LiveAmbient Music Improvisation  using a Arturia Microfreak Synth, Soma Cosmos Drifting Memory Station and a JBL-Box
 
@@ -50,16 +50,17 @@ Underscore Jam 18.30-20.30\
 Der von Nancy Stark Smith über mehrere Jahrzehnte hinweg entwickelte Underscore ist eine Art zeitlicher und räumlicher Landkarte und eine Orientierungshilfe, die die vielfältige Dynamik einer Contact Improvisation Jam beschreibt. Underscore Jams werden von den Teilnehmenden meist als sehr fokussiert und offener als normale Jams wahrgenommen. Christian hat den Underscore von Nancy erstmals im Jahr 1999 kennengelernt und wird uns die Struktur auch in graphischen Symbolen vorstellen.\
 Bitte um Anmeldung: [https://forms.gle/D5bwoQwoeueLpRCw7 ](https://forms.gle/D5bwoQwoeueLpRCw7)oder mail an ci.rollingpoint@gmail.com
 
-**Weitere Specials tba**
+
 
 <div class="named-anchor" id="special"></div>
 
 ### **Hinweise zur Sicherheit auf den Jams**
 
+In einer Jam gibt es **keine Anleitung** wie in einem Kurs. \
 Wichtigster Grundkonsens einer CI-Jam ist, dass alle Teilnehmenden gut auf sich selbst und die TanzpartnerInnen achten: *„Achte, dass du niemand verletzt und achte darauf, dass dich niemand verletzt!"*
 
-Es ist Teil des Lernprozesses der Contact Improvisation immer besser herauszufinden, wo die eigenen Grenzen und die Grenzen der TanzpartnerInnen liegen z.B. im Umgang mit Körpergewichten. Dieser Lernprozess erlaubt auch „gedachte Grenzen“ zu erweitern und neue Freiheiten im Tanzen zu eröffnen. Für die physische Sicherheit ist es wichtig, Grundtechniken zu erlernen, welche gezielt in Kursen vermittelt werden wie Falltechniken, Körpergewicht dosiert abzugeben und gemeinsam zu rollen oder zu gleiten u.v.a.m. In einer Jam gibt es **keine Anleitung** wie in einem Kurs.\
-**Basiskenntnisse** **und ein** **Grundverständnis der Contact Improvisation werden** **vorausgesetzt**; ausgenommen open level Jams, wo auch Beginner*innen eingeladen sind mitzutanzen.
+Es ist Teil des Lernprozesses der Contact Improvisation immer besser herauszufinden, wo die eigenen Grenzen und die Grenzen der TanzpartnerInnen liegen z.B. im Umgang mit Körpergewichten. Dieser Lernprozess erlaubt auch „gedachte Grenzen“ zu erweitern und neue Freiheiten im Tanzen zu eröffnen. Für die physische Sicherheit ist es wichtig, Grundtechniken zu erlernen, welche gezielt in Kursen vermittelt werden wie Falltechniken, Körpergewicht dosiert abzugeben und gemeinsam zu rollen oder zu gleiten u.v.a.m. \
+**Basiskenntnisse** **und ein** **Grundverständnis der Contact Improvisation werden** **vorausgesetzt**, ausgenommen open level Jams, wo auch Beginner*innen eingeladen sind mitzutanzen. 
 
 **Einige wichtige Regeln für die Sicherheit** sind u.a.:
 
