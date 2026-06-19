@@ -3,9 +3,9 @@ permalink: /releasze
 title: RELEASZ Tanztraining
 language: de
 ---
-![]()
+![](/assets/uploads/img_1709-photo-by-daniela-ponieman_klein.jpg)
 
-Foto: Ines Ingerle
+Foto: Daniela Ponieman
 
 #### RELEASZ Tanztraining: Zeitgenössischer Tanz / CI-light / Somatisches Lernen
 
