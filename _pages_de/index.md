@@ -27,8 +27,9 @@ Ob mit oder ohne Vorerfahrung – hier bist du richtig!
 
 <div class="imglink"><a target="_blank" href="https://www.youtube.com/embed/kp3DqzN1Ldo"><img src="/assets/uploads/video_vorschau_rollingpoint.png" alt="" /><div>rollingpoint-Video</div></a></div>
 
-### **Semesterabschluss Musik-Fokus Jam (open level) 1.7.2026:**\
- **18.00-20.30,  Turnsaal Einsiedlergasse 7, 1050 Wien**
+#### **Semesterabschluss Musik-Fokus Jam (open level) 1.7.2026:**
+
+**18.00-20.30,  Turnsaal Einsiedlergasse 7, 1050 Wien**
 
 ### **KURSE WINTERSEMESTER 2026/27**
 
