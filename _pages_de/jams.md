@@ -20,9 +20,9 @@ Ausgewählte Musik und Sound-Scapes in der 2.Hälfte der Jams.
 
 **Kostenbeitrag auf Spendenbasis: Jam einzeln € 8 - 12, Semesterbeitrag: € 100 - 150**
 
+### **JAM-SPECIALS - LETS CREATE ART TOGETHER:**
 
-
-#### **Semesterabschluss Musik-Fokus Jam (open level) 1.7.2026:**
+#### **Semesterabschluss Musik-Fokus Jam (open level) 1.7.2026**
 
 **18.00-20.30, Turnsaal Einsiedlergasse 7, 1050 Wien**\
 **Live Ambient Musik mit Christian**\
@@ -30,13 +30,13 @@ Ausgewählte Musik und Sound-Scapes in der 2.Hälfte der Jams.
 
 
 
-### **JAM-SPECIALS - LETS CREATE ART TOGETHER**
-
-**Open Level Jam und  Beginner Intros**\
+#### **Open Level Jam und  Beginner Intros**\
 Beginner welcome!\
-**10.3., 14.4. und 12.5. und 16.6.2026**\
+**20.10.und 24.11.2026, 26.1.2027**\
 Für alle Beginner*innen bieten wir eine einstündige Einführung in die Welt der Contact Improvisations-Jams im Zeitraum 17.30 - 18.30 an.\
 Kostenbeitrag CI-Intro plus Jam 15 -25€\
+--------------------------------------------
+
 \
 **Music-Focus-Jam 24.2.2026**\
 C#Db-LiveAmbient Music Improvisation  using a Arturia Microfreak Synth, Soma Cosmos Drifting Memory Station and a JBL-Box
