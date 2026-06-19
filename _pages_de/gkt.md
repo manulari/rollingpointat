@@ -14,14 +14,16 @@ language: de
 
 **Körper&Tanztrainig am Vormittag mit maRia / open level**
 
-**Frühling: Mi 25.02.2026 – 27.05.2026, 9.20-11.10h** (13 Termine exkl. 1.04.26)
-Werkstatt Krähe Westbahnstrasse 7, 1070 Wien
-
-**Sommer: Mi 10.06.2026 - 01.07.2026, 9.20-11.10h** (4 Termine) Die ersten drei Termine finden in der Werkstatt Krähe Westbahnstrasse 7, 1070 Wien statt. Der vierte Termin voraussichtlich im Josef Strauß Park <!--StartFragment-->
+**Sommer 26: Mi 10.06.2026 - 01.07.2026, 9.20-11.10h** (4 Termine) Die ersten drei Termine finden in der Werkstatt Krähe Westbahnstrasse 7, 1070 Wien statt. Der vierte Termin voraussichtlich im Josef Strauß Park <!--StartFragment-->
 
  [https://www.wien.gv.at/​freizeit/josef-strauss-park](https://www.wien.gv.at/freizeit/josef-strauss-park)
 
 <!--EndFragment-->
+
+**Wintersemester 26/27**
+
+**Mi 30.09.2026 – 27.01.2027, 9.30-11.15h** (14 Termine)
+Ort wird noch bekannt gegeben
 
 Du möchtest dich kräftig und gut mit dem Boden verbunden fühlen? Gehst gerne geschmeidig und im Kontakt mit deiner Körpermitte an die Aufgaben des Tages? Dein befreiter Atem soll dich mit Leichtigkeit durch Herausforderungen tragen? Du möchtest dein Leben tanzend leben und dich in einer Gruppe daran erinnern? Dann ist das mittwochs vormittags Körper&Tanztraining das richtige für dich! 
 
@@ -32,8 +34,6 @@ Innerhalb der gemeinsamen 110 Minuten wirst du einige Zeit auf der Trainingsmatt
 ***ANMELDUNG:***\
 Schreibe uns bitte ein kurzes mail an ci.rollingpoint@gmail.com
 
-**Frühling 25.02. – 27.05.2026:** Normalpreis  €295.- / ermäßigt €255.- / 5er Block: €140.-
-
-**Sommer 10.06 - 01.07.2026:** Normalpreis €90.- / ermäßigt €79.- 
+**Sommer 10.06 - 01.07.2026:** Normalpreis €90.- / ermäßigt €79.- / Einzeltermin: €25.-
 
 Die Kostenbeiträge mit Verwendungszweck Bright Birds Sommer 26 bitte auf unser Vereinskonto: IBAN: AT54 3200 0000 1701 2717, BIC: RLNWATWW, Verein rollingpoint, überweisen und dein Kursplatz ist gesichert!
