@@ -12,7 +12,7 @@ language: de
 | **Mi** | **18.00-20.30** | **Christian** | **[“When Movement feels like Flying" Contact Improvisation intermediate/advanced](/contactadv)** | **Einsiedlerg. 7, 1050 Wien** |
 | **Do** | **18.15-20.30** | **Christian** | **["Falling in Love with CI" Contact Improvisation beginner](/contactbeg)**                      | **Gilgegasse 12, 1090 Wien**  |
 
-### **KURSSTART: 21.- 23.9.2026**
+### **KURSSTART: 21.- 24.9.2026**
 
 [Kursanmeldung](https://rollingpoint.at/Kursanmeldung)
 
