@@ -43,8 +43,9 @@ Ob mit oder ohne Vorerfahrung – hier bist du richtig!
 **[Di Contact Improvisation Jam ](/jams)**(kein Kurs, keine Anmeldung erforderlich)\
 **Di 15.9.2026 - 26.1.2027, 18.00 – 20.30**\
 **Turnsaal VS Einsiedlergasse 7, 1050 Wien**\
-Open Level Jams (newbies sind zur Teilnahme an der Jams eingeladen): **20.10., 24.11.2026 und 19.1.2027** Intro für Beginner*innen 17.30 - 18.30.\
-**Underscore und Musik Speceal Jams: tba**
+**Open Level Jams** (Beginner*innen ohne Vorerfahrung sind zur Teilnahme an der Jams eingeladen):\
+**20.10., 24.11.2026 und 19.1.2027,** Intro für Beginner*innen 17.30 - 18.30.\
+**Underscore und Musik Special Jams: tba**
 
 **[Mi When  Movement feels like Flying: Contact Improvisation ](/contactadv) intermediate/advanced**\
 **mit Christian Apschner**\
