@@ -14,14 +14,6 @@ language: de
 
 **Körper&Tanztrainig am Vormittag mit maRia / open level**
 
-**Sommer 26: Mi 10.06.2026 - 01.07.2026, 9.20-11.10h** (4 Termine) Die ersten drei Termine finden in der Werkstatt Krähe Westbahnstrasse 7, 1070 Wien statt. Der vierte Termin voraussichtlich im Josef Strauß Park <!--StartFragment-->
-
- [https://www.wien.gv.at/​freizeit/josef-strauss-park](https://www.wien.gv.at/freizeit/josef-strauss-park)
-
-<!--EndFragment-->
-
-**Wintersemester 26/27**
-
 **Mi 30.09.2026 – 27.01.2027, 9.30-11.15h** (14 Termine)
 Ort wird noch bekannt gegeben
 
@@ -29,11 +21,11 @@ Du möchtest dich kräftig und gut mit dem Boden verbunden fühlen? Gehst gerne 
 
 maRia greift darin auf ihre vielfältigen Praxen wie beispielsweise Contact Improvisation, Qi Gong, Yoga, Skinner Releasing, Continuum Movement, Body Mind Centering zu und komponiert daraus eine einzigarte Trainings- und Tanzmixtur. Ihr Angebot wird durch ihr Wissen aus der TCM und der somatischen Faszientherapie fundiert.
 
-Innerhalb der gemeinsamen 110 Minuten wirst du einige Zeit auf der Trainingsmatte mit kräftigenden, deine Beweglichkeit unterstützenden oder koordinativen Praxen verbringen. Die einzelnen Themenschwerpunkte sind an die Jahreszeiten im Sinne der TCM und ihr Bewegungspotential angepasst. Du wirst frei und zu Musik durch den Raum tanzen und verschiedenste Bewegungsqualitäten zum Ausdruck bringen. Wir werden einander angemessen berühren um noch bunter in unserer Bewegungspalette zu werden.
+Innerhalb der gemeinsamen 105 Minuten wirst du einige Zeit auf der Trainingsmatte mit kräftigenden, deine Beweglichkeit unterstützenden oder koordinativen Praxen verbringen. Die einzelnen Themenschwerpunkte sind an die Jahreszeiten im Sinne der TCM und ihr Bewegungspotential angepasst. Du wirst frei und zu Musik durch den Raum tanzen und verschiedenste Bewegungsqualitäten zum Ausdruck bringen. Wir werden einander angemessen berühren um noch bunter in unserer Bewegungspalette zu werden.
 
 ***ANMELDUNG:***\
 Schreibe uns bitte ein kurzes mail an ci.rollingpoint@gmail.com
 
-**Sommer 10.06 - 01.07.2026:** Normalpreis €90.- / ermäßigt €79.- / Einzeltermin: €25.-
+**Semestergebühr:** Normalpreis €.- / ermäßigt €.- / Einzeltermin: €.-
 
-Die Kostenbeiträge mit Verwendungszweck Bright Birds Sommer 26 bitte auf unser Vereinskonto: IBAN: AT54 3200 0000 1701 2717, BIC: RLNWATWW, Verein rollingpoint, überweisen und dein Kursplatz ist gesichert!
+Die Kostenbeiträge mit Verwendungszweck Bright Birds WS2627 bitte auf unser Vereinskonto: IBAN: AT54 3200 0000 1701 2717, BIC: RLNWATWW, Verein rollingpoint, überweisen und dein Kursplatz ist gesichert!
