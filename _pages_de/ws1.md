@@ -5,7 +5,8 @@ language: de
 ---
 <!--StartFragment-->
 
-#### **RELEASZ Tanztraining & Body Discoveries / Atem und Fluss**\
+#### **RELEASZ Tanztraining & Body Discoveries - Atem und Fluss**
+
 **12.+13.9.2026, 10.00-17.00** \
 **open level - mit maRia Probst**
 
@@ -33,7 +34,7 @@ Wenn wir uns von diesem inneren Meer bewegen lassen, gewinnt unser Tanz an Gesch
 
 <!--StartFragment-->
 
-### **Kostenbeiträge Wochenend-Workshops:**
+### **Kostenbeitrag:**
 
 **€ 220/190/160,-** (normal/ermäßigt/Studierende <28a) bei Einzahlung bis 21 Tage vor Workshopbeginn\
 **€ 240/210/180,-**(normal/ermäßigt/Studierende <28a) 
