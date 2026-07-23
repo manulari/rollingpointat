@@ -7,15 +7,45 @@ language: de
 
 Begeistert es dich, mit allen Sinnen das Zusammenspiel der Strukturen und Funktionen deines Körpers bewusster zu erleben? Hast du Freude daran, dein Tanzen aus der Fülle deiner Empfindungen bunter und lebendiger werden zu lassen? Bist du gerne über achtsame Berührung und Bewegung mit anderen in Kontakt und möchtest dadurch deinen tänzerischen Ausdruck erweitern und dein Tanzen körpergerechter gestalten?
 
-
 An diesem Wochenende erwartet dich ein bewährter Mix aus zeitgenössischem Tanz, Contact Light und somatischem Lernen, mit der Möglichkeit, tiefer in das Potenzial unseres Atem- und Flüssigkeitssystems einzutauchen. In einem sicheren und forschenden Rahmen können wir gewohnte Bewegungs-, Denk- und Wahrnehmungsmuster lockern und unser Repertoire an Ausdruck, Empfinden und Bewegung erweitern.
-
 
 **Atem**
 Etwa 20.000-mal am Tag erhalten wir genau das, was wir zum Leben brauchen. Unsere Lungen, zarte und zugleich beständige Meisterinnen der Anpassung, weiten sich mit jedem Atemzug genau so weit, wie es der Moment erfordert. Wir können unseren Atem bewusst beeinflussen oder ihn seinen eigenen Rhythmus finden lassen.In den feinsten Verästelungen der Lunge, an ihren empfindlichsten Stellen, findet der lebensnotwendige Gasaustausch statt. 
 Im Laufe des Wochenendes verbinden wir uns mit diesen von unseren Lungen verkörperten Qualitäten der Kraft und Ausdauer die aus Weichheit und Anpassungsfähigkeit entstehen. Wir lassen uns von den Wellen des Ein- und Ausatmens bewegen, spielen mit sanfter Einflussnahme auf diesen Rhythmus und geben ihn anschließend wieder frei, damit er uns in die Fülle unserer Bewegungsmöglichkeiten trägt.
 
-
 **Körperflüssigkeiten**
 Unsere Körperflüssigkeiten bilden das System der Kommunikation und des Wandels, im physiologischen ebenso wie im übertragenen Sinn. Sie transportieren Sauerstoff, Hormone, Antikörper und vieles mehr durch unseren Körper. Sie fließen in Gefäßen, mäandern durch Gewebe oder ruhen in den Zellen. Mal fließt unser innerer Fluss zäh, mal leicht, diffundiert, tropft oder strömt erscheint als Blut, Speichel, Lymphe oder Gelenksflüssigkeit. Wir geben Flüssigkeit ab, nehmen sie wieder auf und stehen über sie in ständigem Austausch mit der Welt.
 Wenn wir uns von diesem inneren Meer bewegen lassen, gewinnt unser Tanz an Geschmeidigkeit und Lebendigkeit. Impulse aus der Umgebung können wir mühelos aufnehmen und frei in den Raum weitergeben – als ein fortwährendes, sich überlagerndes Geben und Nehmen.
+
+<!--StartFragment-->
+
+### **Kostenbeiträge Wochenend-Workshops:**
+
+**€ 220/190/160,-** (normal/ermäßigt/Studierende <28a) bei Einzahlung bis 21 Tage vor Workshopbeginn\
+**€ 240/210/180,-**(normal/ermäßigt/Studierende <28a) 
+
+### Anmeldung:
+
+**Zur Anmeldung für einen der Workshops schreibe uns bitte ein mail an ci.rollingpoint@gmail.com**
+
+**oder fülle folgendes Anmeldeformular aus:** 
+
+Die Kursbeiträge bitte auf unser Konto IBAN: AT54 3200 0000 1701 2717, BIC: RLNWATWW, Verein rollingpoint, überweisen und dein Kursplatz ist gesichert.
+
+\
+**Hast du Fragen zu unseren Angeboten nimm gerne auch direkt Kontakt per SMS/Tel. mit**\
+**maRia (0650 9510814)**
+
+Aus verschiedensten Gründen verfügen wir über kein automatisches Bezahlsystem.
+
+Die Kursbeiträge bitte auf unser Konto IBAN: AT54 3200 0000 1701 2717, BIC: RLNWATWW, Verein rollingpoint, überweisen und dein Kursplatz ist gesichert. Sollten die Kurse ausgebucht sein, informieren wir dich rechtzeitig.
+
+Unsere Preise sind sozial gestaffelt. Die jeweiligen Preise sind bei den Beschreibungen der Kurse/Workshops zu finden. Du kannst dich selbst einschätzen, welcher Preiskategorie du zugehörst. Wir möchten allen Interessierten unabhängig von der Einkommenssituation eine Teilnahme an unseren Angeboten ermöglichen. Natürlich darfst du unsere Arbeit auch mit Spenden unterstützen.
+
+Stornobedingungen:\
+kein Storno bis 21 Tage vor Workshopbeginn\
+20% Storno bei Abmeldung 20 bis 7 Tage vor Workshopbeginn\
+50% Storno 6 bis 3 Tage vor Workshopbeginn\
+Ab 2 Tage vor Workshopbeginn 100% Stornogebühr. Es kann eine Ersatzperson nominiert werden.
+
+<!--EndFragment-->
