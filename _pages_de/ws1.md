@@ -3,6 +3,20 @@ permalink: /WS1
 title: RELEASZ Atem&Fluss
 language: de
 ---
+<!--StartFragment-->
+
+#### **RELEASZ Tanztraining & Body Discoveries / Atem und Fluss**\
+**12.+13.9.2026, 10.00-17.00** \
+**open level - mit maRia Probst**
+
+<!--StartFragment-->
+
+Prana Yoga Studio 1, Mariahilferstraße 82, 1070 Wien
+
+<!--EndFragment-->
+
+<!--EndFragment-->
+
 **Möchtest du über die Fähigkeiten deines Körpers ins Staunen kommen und als Ganzes ins Fließen?**
 
 Begeistert es dich, mit allen Sinnen das Zusammenspiel der Strukturen und Funktionen deines Körpers bewusster zu erleben? Hast du Freude daran, dein Tanzen aus der Fülle deiner Empfindungen bunter und lebendiger werden zu lassen? Bist du gerne über achtsame Berührung und Bewegung mit anderen in Kontakt und möchtest dadurch deinen tänzerischen Ausdruck erweitern und dein Tanzen körpergerechter gestalten?
