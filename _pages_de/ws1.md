@@ -1,6 +1,6 @@
 ---
 permalink: /WS1
-title: "RELEASZ Tanztraining&Bodydiscoveries "
+title: RELEASZ Atem&Fluss
 language: de
 ---
 **Möchtest du über die Fähigkeiten deines Körpers ins Staunen kommen und als Ganzes ins Fließen?**
