@@ -16,7 +16,9 @@ entries:
         path: /Kursanmeldung
   - title: WORKSHOPS
     path: /ws2026-27
-    subentries: []
+    subentries:
+      - title: RELEASZ&Bodydiscoveries
+        path: /WS1
   - title: WINTERINTENSIVE
     path: /winterintensive
   - title: JAMS+PERFORMANCES
