@@ -66,7 +66,8 @@ Group improvisation and Instant Composition\
 Anatomical Release Technique, 3-D coordination for Contact Improvisation\
 Verbal feedback rounds
 
-### **Registration and Costs:**\
+### **Registration and Costs:**
+
 **Registration form:** \
 <https://forms.gle/D5bwoQwoeueLpRCw7>\
 **or us an email to ci.rollingpoint@gmail.com**\
