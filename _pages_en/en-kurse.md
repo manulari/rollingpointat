@@ -6,19 +6,19 @@ other_lang: /kurse
 ---
 Semester courses 
 
-| day     | time            | teacher             | course                                                                   | place                         |
-| ------- | --------------- | ------------------- | ------------------------------------------------------------------------ | ----------------------------- |
-| **mo**  | **18.30-20.30** | **maRia**           | **[1 RELEASZ - Contempory Dance and Somatics / open level](#mo)**        | **Gilgegasse 12, 1090 Wien**  |
-| **tue** | **18.00-20.30** | **maRia/Christian** | [](#mie)**[2 Contact Improvisation Jam](#di)**                           | **Einsiedlerg. 7, 1050 Wien** |
-| **wed** | **18.00-20.30** | **Christian**       | **[3 Thinking Body - Dancing Mind Contact Improvisation  int/adv](#mi)** | **Einsiedlerg. 7, 1050 Wien** |
-| **thu** | **18.15-20.30** | **Christian**       | **[4 Contact Improvisation beginner](#do)**                              | **Gilgegasse 12, 1090 Wien**  |
+| day     | time            | teacher             | course                                                                                     | place                         |
+| ------- | --------------- | ------------------- | ------------------------------------------------------------------------------------------ | ----------------------------- |
+| **mo**  | **18.30-20.30** | **maRia**           | **[1 RELEASZ - Contempory Dance and Somatics / open level](#mo)**                          | **Gilgegasse 12, 1090 Wien**  |
+| **tue** | **18.00-20.30** | **maRia/Christian** | [](#mie)**[2 Contact Improvisation Jam](#di)**                                             | **Einsiedlerg. 7, 1050 Wien** |
+| **wed** | **18.00-20.30** | **Christian**       | **[3 When Movement feels like Flying - Dancing Mind Contact Improvisation  int/adv](#mi)** | **Einsiedlerg. 7, 1050 Wien** |
+| **thu** | **18.15-20.30** | **Christian**       | **[4 Contact Improvisation beginner](#do)**                                                | **Gilgegasse 12, 1090 Wien**  |
 
 &nbsp;
 
 **Non-German speakers very welcome.**\
 **We will be teaching bilingual German and English.**
 
-### New courses (Summersemester 2026) will be starting from 23.- 26.6.2026
+### New courses will be starting from 21.- 24.9.2026
 
 #### 1 RELEASZ - Contempory Dance and Somatics
 
@@ -42,7 +42,7 @@ Opening circle 18.30
 
 <div class="named-anchor" id="mi"></div>
 
-#### 3 "Thinking Body - Dancing Mind" - **Contact Improvisation  intermediate/advanced**
+#### 3 "When Movement feels like Flying" - **Contact Improvisation  intermediate/advanced**
 
 with **Christian Apschner**\
 **wed 18.00 - 20.30**\
@@ -71,8 +71,8 @@ Verbal feedback rounds
 **Registration: Please send us an email to ci.rollingpoint@gmail.com**\
 phone Christian +43 650 8931081, maRia +43 650 9510814
 
-**Costs Course 1 ,3 and 4: € 270 (regular), € 225 (reduced), € 180 (students <28a)**\
-**single class**: **€ 28 (regular), € 20 (reduced)**
+**Costs Course 1 ,3 and 4: € 280 (regular), € 235 (reduced), € 190 (students <28a)**\
+**single class**: **€ 30 (regular), € 24 (reduced)**
 
 **Jam € 8 - 12**\
 **Semester Contact Improvisation Jam: € 100 - 150**\
