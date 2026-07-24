@@ -27,32 +27,29 @@ registration form**:** <https://forms.gle/D5bwoQwoeueLpRCw7>
 
 ### Evening courses / study groups
 
-**Start Winter semester: 22.-25.9.2025**
+**Start Winter semester: 21.-24.9.2026**
 
 **[1 mo RELEASZ Contemporary Dance and Somatics](/en/kurse#mo)** - **open level**\
 **maRia Probst**  \
-**start mo 22.9.2025, 18.30 - 20.30**\
+**start mo 21.9.2026, 18.30 - 20.30**\
 **Turnsaal VS Gilgegasse 12, 1090 Wien**
 
 **[2 tue Contact Improvisation Jam](/en/kurse#di)**\
 **Christian Apschner and rollingpoint team**\
-**start tue 16.9.2025, 18.00 - 20.30**\
+**start tue 15.9.2025, 18.00 - 20.30**\
 **Turnsaal VS Einsiedlergasse 7, 1050 Wien**
 
 **[3 wed Thinking Body - Dancing Mind:  Contact Improvisation](/en/kurse#mi) intermediate/advanced**\
 **Christian Apschner**\
-**start wed  24.9.2025, 18.00 - 20.30**\
+**start wed  23.9.2026, 18.00 - 20.30**\
 **Turnsaal VS Einsiedlergasse 7, 1050 Wien**
 
 **[4 thu Falling in Love with CI -Contact Improvisation](/en/kurse#do)**  **beginner**\
 **Christian Apschner**\
-**start thu 25.9.2025, 18.15 – 20.30**\
+**start thu 24.9.2026, 18.15 – 20.30**\
 **Turnsaal VS Gilgegasse 12, 1090 Wien**
 
 ### Weekend-Workshops:
-
-**31.1./1.2.2026 Liquid Motion - Contact Flying Skills**\
- with Christian Apschner and support from advanced rollingpoint dancers team
 
 ### **rollingpoint-Jam**
 
