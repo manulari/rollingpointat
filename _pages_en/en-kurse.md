@@ -66,9 +66,10 @@ Group improvisation and Instant Composition\
 Anatomical Release Technique, 3-D coordination for Contact Improvisation\
 Verbal feedback rounds
 
-### **Registration and Costs:**
-
-**Registration: Please send us an email to ci.rollingpoint@gmail.com**\
+### **Registration and Costs:**\
+**Registration form:** \
+<https://forms.gle/D5bwoQwoeueLpRCw7>\
+**or us an email to ci.rollingpoint@gmail.com**\
 phone Christian +43 650 8931081, maRia +43 650 9510814
 
 **Costs Course 1 ,3 and 4: € 280 (regular), € 235 (reduced), € 190 (students <28a)**\
