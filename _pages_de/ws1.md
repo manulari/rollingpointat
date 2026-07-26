@@ -1,6 +1,6 @@
 ---
 permalink: /WS1
-title: RELEASZ Atem&Fluss
+title: Bodydiscoveries Atem&Fluss
 language: de
 ---
 <!--StartFragment-->
