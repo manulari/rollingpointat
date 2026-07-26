@@ -3,6 +3,8 @@ permalink: /WS1
 title: Bodydiscoveries Atem&Fluss
 language: de
 ---
+<div class="named-anchor" id="#WS1"></div>
+
 <!--StartFragment-->
 
 #### **RELEASZ Tanztraining & Body Discoveries - Atem und Fluss**
