@@ -3,6 +3,8 @@ permalink: /WS1
 title: Bodydiscoveries Atem&Fluss
 language: de
 ---
+![](/assets/uploads/denfran-flow-4539988_kleiner.jpg)
+
 <div class="named-anchor" id="#WS1"></div>
 
 <!--StartFragment-->
