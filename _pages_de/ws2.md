@@ -3,18 +3,18 @@ permalink: /WS2
 title: Bodydiscoveries Fülle&Form
 language: de
 ---
+![](/assets/uploads/leetravathan-pomegranate-185456klein.jpg)
+
 #### RELEASZ Tanztraining & Body Discoveries / Fülle und Form
+
 12.+13.12.2026, 10.00-17.00 
 open level - mit maRia Probst
 
 Prana Yoga Studio 1, Mariahilferstraße 82, 1070 Wien
 
-
-**Möchtest du über die Fähigkeiten deines Körpers staunen und das kennenlernen, was dir Form gibt?**
-
+**Möchtest du über die Fähigkeiten deines Körpers ins Staunen kommen und das kennenlernen, was dir Form gibt?**
 
 Entdecke mit allen Sinnen das faszinierende Zusammenspiel der Strukturen und Funktionen in deinem Körper. Vertiefe deine Körperwahrnehmung und lass dein Tanzen aus der Fülle des Empfindens lebendiger, vielfältiger und ausdrucksstärker werden.
-
 
 Wenn du Freude daran hast, über achtsame Berührung und Bewegung mit anderen in Kontakt zu sein, deinen tänzerischen Ausdruck zu erweitern und körpergerechte Bewegungsweisen zu erforschen, dann bist du an diesem Wochenende genau richtig.
 Dich erwartet ein bewährter Mix aus zeitgenössischem Tanz, Contact Light und somatischem Lernen.
@@ -25,7 +25,6 @@ Gemeinsam tauchen wir tiefer in das Potenzial unseres Organ- und Faszien Systems
 
 Unsere Organe tragen, nähren und beleben uns. Sie arbeiten meist im Verborgenen und sind doch eng mit unserem Fühlen verbunden. Je nach Lage und Funktion unterstützt jedes Organ bestimmte Bewegungsqualitäten.
 Wenn wir uns unseren Organen zuwenden, begegnen wir einer tiefen, geerdeten Lebendigkeit. Ihr Gewicht schenkt uns Halt und wird, in Bewegung gebracht, zur Quelle von Leichtigkeit.
-
 
 **Form**
 
