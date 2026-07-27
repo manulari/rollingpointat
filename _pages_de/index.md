@@ -6,7 +6,7 @@ other_lang: /en/
 ---
 # Contact Improvisation - Zeitgenössicher Tanz - Somatisches Lernen
 
-![Christian, maRia und Maria tanzen und lesen auf einer Stiege](/assets/uploads/img_2918_large.jpg "Contact Improvisation")
+![Christian, maRia und Maria tanzen und lesen auf einer Stiege](/assets/uploads/img_0763.jpg "Contact Improvisation")
 
 <!--StartFragment-->
 
