@@ -15,7 +15,7 @@ language: de
 **Körper&Tanztrainig am Vormittag mit maRia / open level**
 
 **Mi 30.09.2026 – 27.01.2027, 9.30-11.15h** (14 Termine)
-Ort wird noch bekannt gegeben
+Werkstatt Krähe, Westbahnstraße 7, 1070 Wien
 
 Du möchtest dich kräftig und gut mit dem Boden verbunden fühlen? Gehst gerne geschmeidig und im Kontakt mit deiner Körpermitte an die Aufgaben des Tages? Dein befreiter Atem soll dich mit Leichtigkeit durch Herausforderungen tragen? Du möchtest dein Leben tanzend leben und dich in einer Gruppe daran erinnern? Dann ist das mittwochs vormittags Körper&Tanztraining das richtige für dich! 
 
@@ -26,6 +26,6 @@ Innerhalb der gemeinsamen 105 Minuten wirst du einige Zeit auf der Trainingsmatt
 ***ANMELDUNG:***\
 Schreibe uns bitte ein kurzes mail an ci.rollingpoint@gmail.com
 
-**Semestergebühr:** Normalpreis €.- / ermäßigt €.- / Einzeltermin: €.-
+**Semestergebühr:** Normalpreis €330.- / ermäßigt €295.- / 5er Block: €150.-
 
 Die Kostenbeiträge mit Verwendungszweck Bright Birds WS2627 bitte auf unser Vereinskonto: IBAN: AT54 3200 0000 1701 2717, BIC: RLNWATWW, Verein rollingpoint, überweisen und dein Kursplatz ist gesichert!
