@@ -27,7 +27,8 @@ Ob mit oder ohne Vorerfahrung – hier bist du richtig!
 
 <div class="imglink"><a target="_blank" href="https://www.youtube.com/embed/kp3DqzN1Ldo"><img src="/assets/uploads/video_vorschau_rollingpoint.png" alt="" /><div>rollingpoint-Video</div></a></div>
 
-#### **Aktuell:**\
+#### **Aktuell:**
+
 **Public Moves** Tanzsession im Rahmen von **ImPulsTanz mit maRia: 5.8.2026, 18:45** auf der **Papstwiese**\
 [PublicMovesBright Bird Moves](https://us.list-manage.com/UTulksZhfAs?e=4de8c5a696&c2id=c177fe362e7d53d9d732a77051379f8c)\
 \
