@@ -60,7 +60,9 @@ Ob mit oder ohne Vorerfahrung – hier bist du richtig!
 **Mi vormittags Körper- und Tanztraining
 [Bright Bird Moves](/Vormittagskurs) mit maRia / open level**\
 **30.9.2026 - 27.01.2027 9.30-11.15 (14x)
-Ort wird noch bekannt gegeben**
+Werkstatt Krähe, Westbahnstraße 7, 1070 Wien**
+
+**ße**
 
 ![Mehr CI auf der Stiege](/assets/uploads/img_0198.jpg "Mehr CI auf der Stiege")
 
