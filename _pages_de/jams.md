@@ -20,13 +20,11 @@ Ausgewählte Musik und Sound-Scapes in der 2.Hälfte der Jams.
 
 **Kostenbeitrag auf Spendenbasis: Jam einzeln € 8 - 12, Semesterbeitrag: € 100 - 150**
 
+#### **Erste Jam nach Sommerpause am 15.9.2026**
+
+
+
 ### **JAM-SPECIALS - LETS CREATE ART TOGETHER:**
-
-#### **Semesterabschluss Musik-Fokus Jam (open level) 1.7.2026**
-
-**18.00-20.30, Turnsaal Einsiedlergasse 7, 1050 Wien**\
-**Live Ambient Musik mit Christian**\
-**free donation**
 
 #### **Open Level Jams und  Beginner Intros**
 
@@ -49,8 +47,6 @@ Underscore Intro kostenlos, Jam 8-12€\
 Underscore Jam 18.30-20.30\
 Der von Nancy Stark Smith über mehrere Jahrzehnte hinweg entwickelte Underscore ist eine Art zeitlicher und räumlicher Landkarte und eine Orientierungshilfe, die die vielfältige Dynamik einer Contact Improvisation Jam beschreibt. Underscore Jams werden von den Teilnehmenden meist als sehr fokussiert und offener als normale Jams wahrgenommen. Christian hat den Underscore von Nancy erstmals im Jahr 1999 kennengelernt und wird uns die Struktur auch in graphischen Symbolen vorstellen.\
 Bitte um Anmeldung: [https://forms.gle/D5bwoQwoeueLpRCw7 ](https://forms.gle/D5bwoQwoeueLpRCw7)oder mail an ci.rollingpoint@gmail.com
-
-
 
 <div class="named-anchor" id="special"></div>
 
