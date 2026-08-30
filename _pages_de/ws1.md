@@ -40,14 +40,13 @@ Wenn wir uns von diesem inneren Meer bewegen lassen, gewinnt unser Tanz an Gesch
 
 ### **Kostenbeitrag:**
 
-**€ 220/190/160,-** (normal/ermäßigt/Studierende <28a) bei Einzahlung bis 21 Tage vor Workshopbeginn\
+**€ 220/190/160,-** (normal/ermäßigt/Studierende <28a) anmeldung per mail bis 2.09.26 Einzahlung zeitnah nach Anmeldung
+
 **€ 240/210/180,-**(normal/ermäßigt/Studierende <28a) 
 
 ### Anmeldung:
 
 **Zur Anmeldung für einen der Workshops schreibe uns bitte ein mail an ci.rollingpoint@gmail.com**
-
-**oder fülle folgendes Anmeldeformular aus:** 
 
 Die Kursbeiträge bitte auf unser Konto IBAN: AT54 3200 0000 1701 2717, BIC: RLNWATWW, Verein rollingpoint, überweisen und dein Kursplatz ist gesichert.
 
