@@ -31,16 +31,15 @@ Ob mit oder ohne Vorerfahrung – hier bist du richtig!
 
 ### **WORKSHOP START Herbst 2026**
 
-Late Summer Goodie:  Wir haben unsere Frühbucher-Bonus-Frist bis diesen Mittwoch 2.09.2026 24h verlängert. 
+## Late Summer Goodie:  Wir haben unsere Frühbucher-Bonus-Frist bis diesen Mittwoch 2.09.2026 24h verlängert. 
 
 #### RELEASZ Tanztraining & Body Discoveries - Atem und Fluss
+
 12.+13.9.2026, 10.00-17.00 
 open level - mit maRia Probst
 Prana Yoga Studio 1, Mariahilferstraße 82, 1070 Wien
 
-Möchtest du über die Fähigkeiten deines Körpers ins Staunen und als Ganzes ins Fließen kommen? 
-
-
+Möchtest du über die Fähigkeiten deines Körpers ins Staunen und als Ganzes ins Fließen kommen? ....[Workshopbeschreibung](/WS1)
 
 ### **KURSE WINTERSEMESTER 2026/27**
 
