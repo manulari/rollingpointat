@@ -7,6 +7,8 @@ language: de
 
 <div class="named-anchor" id="#WS1"></div>
 
+ACHTUNG: FRÜHBUCHER-BONUS-FRIST verlängert auf 2.09.2026!
+
 <!--StartFragment-->
 
 #### **RELEASZ Tanztraining & Body Discoveries - Atem und Fluss**
@@ -40,7 +42,7 @@ Wenn wir uns von diesem inneren Meer bewegen lassen, gewinnt unser Tanz an Gesch
 
 ### **Kostenbeitrag:**
 
-**€ 220/190/160,-** (normal/ermäßigt/Studierende <28a) anmeldung per mail bis 2.09.26 Einzahlung zeitnah nach Anmeldung
+**€ 220/190/160,-** (normal/ermäßigt/Studierende <28a) Anmeldung per mail bis 2.09.26 24h, Einzahlung zeitnah nach Anmeldung
 
 **€ 240/210/180,-**(normal/ermäßigt/Studierende <28a) 
 
