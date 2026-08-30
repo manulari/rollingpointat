@@ -6,7 +6,9 @@ other_lang: /en/
 ---
 # Contact Improvisation - Zeitgenössicher Tanz - Somatisches Lernen
 
-![Christian, maRia und Maria tanzen und lesen auf einer Stiege](/assets/uploads/img_0763.jpg "Contact Improvisation")
+![Christian, maRia und Maria tanzen und lesen auf einer Stiege](/assets/uploads/rollingpoint2-c-carolina-frank_web-3388_klein.jpg "Contact Improvisation")
+
+###### Fotocredit: Carolina Frank
 
 <!--StartFragment-->
 
@@ -26,6 +28,19 @@ Ob mit oder ohne Vorerfahrung – hier bist du richtig!
 ## Videos
 
 <div class="imglink"><a target="_blank" href="https://www.youtube.com/embed/kp3DqzN1Ldo"><img src="/assets/uploads/video_vorschau_rollingpoint.png" alt="" /><div>rollingpoint-Video</div></a></div>
+
+### **WORKSHOP START Herbst 2026**
+
+Late Summer Goodie:  Wir haben unsere Frühbucher-Bonus-Frist bis diesen Mittwoch 2.09.2026 24h verlängert. 
+
+#### RELEASZ Tanztraining & Body Discoveries - Atem und Fluss
+12.+13.9.2026, 10.00-17.00 
+open level - mit maRia Probst
+Prana Yoga Studio 1, Mariahilferstraße 82, 1070 Wien
+
+Möchtest du über die Fähigkeiten deines Körpers ins Staunen und als Ganzes ins Fließen kommen? 
+
+
 
 ### **KURSE WINTERSEMESTER 2026/27**
 
