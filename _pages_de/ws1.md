@@ -3,11 +3,11 @@ permalink: /WS1
 title: Bodydiscoveries Atem&Fluss
 language: de
 ---
-![](/assets/uploads/denfran-flow-4539988_kleiner.jpg)
+![](/assets/uploads/stocksnap-trees-2560394_klein.jpg)
 
 <div class="named-anchor" id="#WS1"></div>
 
-ACHTUNG: FRÜHBUCHER-BONUS-FRIST verlängert auf 2.09.2026!
+ACHTUNG: FRÜHBUCHER-BONUS-FRIST verlängert auf 4.09.2026, 12h Mittag ;-)
 
 <!--StartFragment-->
 
