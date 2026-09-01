@@ -42,7 +42,7 @@ Wenn wir uns von diesem inneren Meer bewegen lassen, gewinnt unser Tanz an Gesch
 
 ### **Kostenbeitrag:**
 
-**€ 220/190/160,-** (normal/ermäßigt/Studierende <28a) Anmeldung per mail bis 2.09.26 24h, Einzahlung zeitnah nach Anmeldung
+**€ 220/190/160,-** (normal/ermäßigt/Studierende <28a) Anmeldung per mail bis 4.09.2026, 12h mittags ;-), Einzahlung zeitnah nach Anmeldung
 
 **€ 240/210/180,-**(normal/ermäßigt/Studierende <28a) 
 
