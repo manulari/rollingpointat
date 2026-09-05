@@ -7,7 +7,7 @@ language: de
 
 <div class="named-anchor" id="#WS1"></div>
 
-ACHTUNG: FRÜHBUCHER-BONUS-FRIST verlängert auf 4.09.2026, 12h mittags ;-)
+Es gibt noch freie Plätze :-) Wir freuen uns auf dich!
 
 <!--StartFragment-->
 
