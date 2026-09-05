@@ -31,7 +31,7 @@ Ob mit oder ohne Vorerfahrung – hier bist du richtig!
 
 ### **WORKSHOP START Herbst 2026**
 
-## Late Summer Goodie:  Wir haben unsere Frühbucher-Bonus-Frist bis diesen Freitag 4.09.2026, 12h mittags ;-) verlängert.
+## Es gibt noch freie Plätze :-) Wir freuen uns auf Dich\*\**
 
 #### RELEASZ Tanztraining & Body Discoveries - Atem und Fluss
 
