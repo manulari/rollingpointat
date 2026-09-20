@@ -19,7 +19,7 @@ Turnsaal VS Einsiedlergasse 7, 1050 Wien
 Fortlaufende Trainingsgruppe\
 Für Tänzer*innen mit guten Vorerfahrungen ist die Teilnahme auch an einzelnen Terminen und 5er-Blocks möglich.
 
-Du bringst gute Basiskenntnisse der Contact Improvisation oder artverwandter Bewegungsformen mit und möchtest dein Bewegungsspektrum erweitern und verfeinern sowie gezielt Kraft, Koordination, Beweglichkeit und Körperreflexe trainieren? Dann werde Teil unserer motivierten Trainingsgruppe! 
+Du bist schon gut vertraut mit Contact Basics und möchtest dein Bewegungsspektrum erweitern und verfeinern sowie gezielt Kraft, Koordination, Beweglichkeit und Körperreflexe trainieren? Dann werde Teil unserer motivierten Trainingsgruppe! 
 
 Eines der highlights im CI-Tanzen ist das kinästhetische Empfinden und Erleben, wenn wir uns im gemeinsamen Flow durch alle Raumebenen bewegen. Es fühlt sich an wie zu fliegen, wenn uns high level lifts mit Leichtigkeit gelingen. Aber auch kleinste Bewegungsimpulse wahrzunehmen, kann ein unglaublich schönes Bewegungsgefühl vermitteln, wenn wir uns dafür sensibisieren und öffnen.
 
