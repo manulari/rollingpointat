@@ -22,14 +22,12 @@ Ausgewählte Musik und Sound-Scapes in der 2.Hälfte der Jams.
 
 #### **Erste Jam nach Sommerpause am 15.9.2026**
 
-
-
 ### **JAM-SPECIALS - LETS CREATE ART TOGETHER:**
 
 #### **Open Level Jams und  Beginner Intros**
 
 Beginner welcome!\
-**20.10.und 24.11.2026, 26.1.2027**\
+**13.10.und 24.11.2026, 26.1.2027**\
 Für alle Beginner*innen bieten wir eine einstündige Einführung in die Welt der Contact Improvisations-Jams im Zeitraum 17.30 - 18.30 an.\
 Kostenbeitrag CI-Intro plus Jam 15 -25€
 
