@@ -29,17 +29,7 @@ Ob mit oder ohne Vorerfahrung – hier bist du richtig!
 
 <div class="imglink"><a target="_blank" href="https://www.youtube.com/embed/kp3DqzN1Ldo"><img src="/assets/uploads/video_vorschau_rollingpoint.png" alt="" /><div>rollingpoint-Video</div></a></div>
 
-### **WORKSHOP START Herbst 2026**
-
-## Es gibt noch freie Plätze :-) Wir freuen uns auf Dich\*\**
-
-#### RELEASZ Tanztraining & Body Discoveries - Atem und Fluss
-
-12.+13.9.2026, 10.00-17.00 
-open level - mit maRia Probst
-Prana Yoga Studio 1, Mariahilferstraße 82, 1070 Wien
-
-Möchtest du über die Fähigkeiten deines Körpers ins Staunen und als Ganzes ins Fließen kommen? ....[Workshopbeschreibung](/WS1)
+### **Bei einzelnen Kursen ist der Einstieg noch möglich, bitte gerne anfragen :-)**
 
 ### **KURSE WINTERSEMESTER 2026/27**
 
@@ -71,7 +61,7 @@ Möchtest du über die Fähigkeiten deines Körpers ins Staunen und als Ganzes i
 **30.9.2026 - 27.01.2027 9.30-11.15 (14x)
 Werkstatt Krähe, Westbahnstraße 7, 1070 Wien**
 
-**ße**
+
 
 ![Mehr CI auf der Stiege](/assets/uploads/img_0198.jpg "Mehr CI auf der Stiege")
 
