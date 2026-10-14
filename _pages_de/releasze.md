@@ -29,8 +29,6 @@ oder verwende folgendes Anmeldeformular
 Offene Schnupperstunden in den ersten zwei Kurswochen um €10 pro Einheit (max. 1x pro Kurs)\
 **Kostenbeitrag Semesterkurs Normalpreis € 280**\
 **Ermäßigungen: € 190 für Studierende <=28a, € 235 Sonstige**\
-Bei Buchung von mehr als einem Kurs minus € 30 ab dem 2.Kurs
-
-Auf Anfrage 5﻿er-Block € 100 - 130 bzw. Einzelstunden € 24–30 möglich
+Bei Buchung von mehr als einem Kurs minus € 30 ab dem 2. Kurs
 
 Die Kostenbeiträge bitte auf unser Konto IBAN: AT54 3200 0000 1701 2717, BIC: RLNWATWW, Verein rollingpoint, überweisen und dein Kursplatz ist gesichert.
