@@ -14,7 +14,7 @@ language: de
 
 **Körper&Tanztrainig am Vormittag mit maRia / open level**
 
-**Mi 30.09.2026 – 27.01.2027, 9.30-11.15h** (14 Termine)
+**Mi 30.09.2026 – 27.01.2027, 9.30-11.15h** (14 Termine, 30.09, 7.10, 14.10, 21.10, 4.11, 11.11, 18.11, 25.11, 2.12, 9.12, 16.12.2026, 13.01, 20.01, 27.01.2027)
 Werkstatt Krähe, Westbahnstraße 7, 1070 Wien
 
 Du möchtest dich kräftig und gut mit dem Boden verbunden fühlen? Gehst gerne geschmeidig und im Kontakt mit deiner Körpermitte an die Aufgaben des Tages? Dein befreiter Atem soll dich mit Leichtigkeit durch Herausforderungen tragen? Du möchtest dein Leben tanzend leben und dich in einer Gruppe daran erinnern? Dann ist das mittwochs vormittags Körper&Tanztraining das richtige für dich! 
