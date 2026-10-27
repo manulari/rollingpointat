@@ -36,9 +36,13 @@ Ob mit oder ohne Vorerfahrung – hier bist du richtig!
 **KURSSTART 21.- 24.9.2026**
 
 **[Mo RELEASZ Tanztraining: ](/releasze)**[Zeitgenössischer Tanz / CI-light / Somatisches Lernen](/releasze) \
+**ausgebucht**
+
 **open level - mit maRia Probst**\
 **Mo 21.9.2026- 25.1.2027, 18.30 - 20.20 (ca.15x)**\
 **Turnsaal VS Gilgegasse 12, 1090 Wien**
+
+
 
 **[Di Contact Improvisation Jam ](/jams)**(kein Kurs, keine Anmeldung erforderlich)\
 **Di 15.9.2026 - 26.1.2027, 18.00 – 20.30**\
@@ -60,8 +64,6 @@ Ob mit oder ohne Vorerfahrung – hier bist du richtig!
 [Bright Bird Moves](/Vormittagskurs) mit maRia / open level**\
 **30.9.2026 - 27.01.2027 9.30-11.15 (14x)
 Werkstatt Krähe, Westbahnstraße 7, 1070 Wien**
-
-
 
 ![Mehr CI auf der Stiege](/assets/uploads/img_0198.jpg "Mehr CI auf der Stiege")
 
