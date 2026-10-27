@@ -9,6 +9,8 @@ Foto: Daniela Ponieman
 
 #### RELEASZ Tanztraining: Zeitgenössischer Tanz / CI-light / Somatisches Lernen
 
+***ausgebucht***
+
 ***open level*** mit **maRia Probst**\
 **Mo 21.9.2026 -  25.1.2027, 18.30 - 20.20 (ca.15x)**\
 Turnsaal VS Gilgegasse 12, 1090 Wien
