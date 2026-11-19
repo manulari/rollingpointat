@@ -34,20 +34,16 @@ An diesem Wochenende lauschen wir unserem Körper von innen. Zwischen Tanzimprov
 
 ### **Kostenbeitrag:**
 
-**€ 220/190/160,-** (normal/ermäßigt/Studierende <28a) bei Einzahlung bis 21 Tage vor Workshopbeginn\
-**€ 240/210/180,-**(normal/ermäßigt/Studierende <28a) 
+**€ 220/190/160,-** (normal/ermäßigt/Studierende <28a) bei Anmeldung und Einzahlung bis inkl. 23.11.2026 **€ 240/210/180,-**(normal/ermäßigt/Studierende <28a) 
 
 ### Anmeldung:
 
 **Zur Anmeldung für einen der Workshops schreibe uns bitte ein mail an ci.rollingpoint@gmail.com**
 
-**oder fülle folgendes Anmeldeformular aus:**
-
 Die Kursbeiträge bitte auf unser Konto IBAN: AT54 3200 0000 1701 2717, BIC: RLNWATWW, Verein rollingpoint, überweisen und dein Kursplatz ist gesichert.
 
 \
-**Hast du Fragen zu unseren Angeboten nimm gerne auch direkt Kontakt per SMS/Tel. mit**\
-**maRia (0650 9510814)**
+**Hast du Fragen zu unseren Angeboten nimm gerne auch direkt Kontakt per SMS/Tel. mit maRia 0650 9510814 auf\*\****
 
 Aus verschiedensten Gründen verfügen wir über kein automatisches Bezahlsystem.
 
